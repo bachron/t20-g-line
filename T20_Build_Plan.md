@@ -263,6 +263,18 @@ Must be flat/MTB bar to suit the XT M8100 flat-bar shifter.
 | MKS UB-Lite Ezy | — | ~US$85-100 (~S$111-130) | QR platform, low-profile stub when removed |
 | Ti Parts Workshop Alloy Mini QD / Double X QD | Ti holder alone 38.3g | from ~US$55 (~S$71) | 7075 alloy + Ti on the MKS QR system; removable not folding. Cheapest |
 | Xpedo M-Force 8 Ti | 220g/pair | ~US$270 (~S$351) | Lightest, Ti body + spindle — but clipless, likely wrong for city + child |
+| Thx4Ride Titanium Pedals V2 | Not published | from ~US$367 (~S$477) | ⏳ Weight needed before ranking — full detail in T20_Build_Options.md |
+
+### Easy Wheels / Rollers — new, not previously tracked
+The small roller wheels used to wheel the bike while folded. ⏳ Confirm the T20 shares G Line's rear-roller fold mechanism at all before ordering any of these — same open question as the rack, hinge and headset.
+
+| Option | Weight | Price | Notes |
+|---|---|---|---|
+| MiniMODs X-Roller Easy Wheel Extender | ~75g (G Line-specific weight not published) | Not published | Confirmed G Line SKU exists — extends the stock EZ wheels outward for stability |
+| Thx4Ride Titanium Polish Ezy Wheel | Not published | ~US$237 (~S$308)/pair | Universal fit; direct roller-wheel replacement |
+| Thx4Ride 3K/Forge Carbon Ezy Wheel | Not published | ~US$202 (~S$263) | Cheaper than Ti; carbon in a load-bearing roller carries more wear risk |
+
+**MiniMODs and Thx4Ride, briefly:** both are largely Brompton-specific brands whose core catalogs don't apply here — MiniMODs is mostly hub-drivetrain upgrades (irrelevant, you already run a 12-speed derailleur) and Thx4Ride's calipers/levers are built for Brompton's own rim-pull brakes (wrong architecture for your flat/post-mount disc setup). The Easy Wheels above are the one genuinely new, relevant find from either brand. Full brand-by-brand breakdown in T20_Build_Options.md.
 
 ### Rear Rack
 | Option | Platform | Weight | Price |
@@ -311,6 +323,8 @@ Must be flat/MTB bar to suit the XT M8100 flat-bar shifter.
 - [ ] Chase down Extralite Superlight/Hyper BB (21g) — confirm BSA shell/thread fit against the Praxis Doon; likely the lightest BB option found so far
 - [ ] Confirm Lightworks spider bolt count (4 vs 5) before ordering Extralite ExtraBolt 1.2 chainring bolts (4.8g)
 - [ ] If the wheelset hub turns out 135mm QR, order Extralite Aliens 4 skewers (39g) instead of a heavier generic pair
+- [ ] Confirm with Chris Yeo whether the T20 has G Line's rear-roller fold mechanism at all, then weigh MiniMODs/Thx4Ride Easy Wheel options against stock
+- [ ] Get the Thx4Ride Titanium Pedals V2 weight before ranking against MKS/Ti Parts Workshop/Xpedo
 
 ---
 

@@ -167,7 +167,7 @@ Minimum of 3 options tracked per part. ✅ = current pick.
 | **Seatpost** | 540/600/telescopic; diameter disputed (31.6 vs 31.8mm) | ⏳ Your build spec says **31.8mm**. Confirm before ordering any Ti post |
 | **Rear rack mount** | G Line-specific | ⏳ **Confirm your rear triangle's mounts.** Neither the H&H (A/C/P/T) nor the TPW (G Line) racks are guaranteed — it depends on what Chris Yeo built |
 
-**Brands worth knowing:** Ti Parts Workshop, H&H, **Silverock** (your fork brand — also does forks, rear triangles and kickstands), **WOOdman** (your seatpost brand — also headsets and bars), Ridea, MiniMODs, SUNCORD.
+**Brands worth knowing:** Ti Parts Workshop, H&H, **Silverock** (your fork brand — also does forks, rear triangles and kickstands), **WOOdman** (your seatpost brand — also headsets and bars), Ridea, MiniMODs, SUNCORD, Thx4Ride.
 
 *Everything previously struck through as "wrong platform" has been restored as a candidate pending Chris Yeo's confirmation. The only genuinely dead options are ones that fail on function, not platform — Cane Creek eeBrake (rim brake on a disc bike), Ridea 130 BCD chainrings (your spider is 110), Ridea BSA24 BB (the Doon needs M30), and Ridea road-only OSPW cages.*
 
@@ -221,6 +221,40 @@ Ridea is a major Taiwanese folding-bike component brand with **Singapore distrib
 | **OSPW EVO pulley cages (C26/C60)** | Road: Dura-Ace/Ultegra/105 | — | ~US$350-400 (~S$455-520) | ❌ Road derailleurs only — not XT M8100. Also terrible value on a city bike |
 
 **Bottom line on Ridea:** worth it for a **31.8mm carbon or titanium handlebar** and nothing else. Every other Ridea part conflicts with your Praxis M30 / 110 BCD / disc-brake / MTB-drivetrain decisions.
+
+---
+
+# MiniMODs
+
+MiniMODs (UK/Taiwan) is a Brompton-specific upgrade brand. Most of their catalog targets the stock **hub-geared drivetrain**, which this build has already replaced with a 12-speed derailleur — irrelevant almost across the board:
+
+| MiniMODs part | Platform | Weight | Price | Verdict for this build |
+|---|---|---|---|---|
+| 7 Speed Upgrade Kit (derailleur + tensioner + shifter) | A/C/E/P/T Line | — | — | ❌ Converts Brompton's stock 2/3/6-speed hub to a 7-speed derailleur — **irrelevant, you already run a 12-speed XT M8100 derailleur drivetrain**. No G Line SKU found regardless |
+| X3/X4/X5 Unibody Cog Sets | Hub-gear Line bikes | — | — | ❌ Same reason — hub-drivetrain part, not applicable |
+| ⭐ **X-Roller Easy Wheel Extender** | **G Line** (confirmed SKU exists) | ~75g (standard version; G Line-specific weight not published) | Not published | ✅ **New category — Easy Wheels/rollers weren't previously tracked in this doc.** Extends the stock G Line EZ wheels outward for stability when wheeling the folded bike. ⏳ Confirm the T20 actually has G Line's rear-roller fold mechanism before ordering — same fitment risk as the rack/hinge/headset questions |
+| Single Spoke Knob Hinge Clamp + Plate Set (2025) | Not confirmed | — | — | ⏳ Same category as the Ti Parts Workshop "Titanium Hinge Clamp Levers" already tracked below; G Line fitment not confirmed in the listings found |
+
+**Bottom line on MiniMODs:** almost entirely a hub-drivetrain upgrade brand that doesn't apply to your derailleur build. The one genuinely new find is the **X-Roller Easy Wheel Extender** — a real G Line-specific part, but (like the rack and headset) it needs Chris Yeo to confirm the T20 shares G Line's rear-rolling fold mechanism at all.
+
+---
+
+# Thx4Ride
+
+Thx4Ride (Macau) makes titanium/carbon Brompton upgrade parts. Mixed relevance: some are simply the wrong brake architecture, others are genuine weight-relevant finds:
+
+| Thx4Ride part | Platform | Weight | Price | Verdict for this build |
+|---|---|---|---|---|
+| Titanium/Aluminium Brake Caliper | C/P/T Line | — | — | ❌ **Wrong brake architecture** — Brompton's own rim/pull-cable caliper, not a flat/post-mount disc caliper. Same class of exclusion as Cane Creek eeBrake |
+| Titanium Brake Lever | Listed C/P/T Line (G Line appears only in one retailer's URL slug — unconfirmed) | **122g/pair** | ~US$362 (~S$471) | Heavier than your Extralite UltraLevers 3 pick (46g/pair) by **76g**. Logged for completeness — not weight-competitive |
+| Ultralight Aluminium Brake Lever | C/P/T/G Line | Not published | Not published | Cheaper than the Ti lever; still needs weighing before it's worth chasing against Extralite |
+| Titanium E-Hook | Separate SKUs for **C/P Line** and **T Line**; no G Line SKU found | 8g | ~US$95 (~S$124) | ❌ No G Line version found — likely the wrong hinge-lock geometry for the T20. Logged so it isn't re-researched |
+| Titanium Pedals V1/V2 | Universal folding-bike QR pedal (not Line-specific) | Not published | V2 from ~US$367 (~S$477) | ⏳ Weight not found — get this before ranking against MKS Compact Ezy (302g) or Ti Parts Workshop QD (38.3g holder) in the Pedals section |
+| ⭐ Titanium Polish Ezy Wheel | Universal fit (Brompton/Pikes/3-sixty) | Not published | ~US$237 (~S$308)/pair | Same new **Easy Wheels** category as the MiniMODs extender above — confirm the T20 has this roller mechanism before ordering |
+| 3K Carbon / Forge Carbon Ezy Wheel | Universal fit | Not published | ~US$202 (~S$263) | Cheaper than the Ti version; carbon in a load-bearing roller wheel carries more wear risk than titanium — weigh both before deciding |
+| Titanium Quick Release Hinge Clamp | **C Line only** | — | ~US$262 (~S$341) starting | ❌ C Line-specific hinge geometry — not a G Line/T20 candidate |
+
+**Bottom line on Thx4Ride:** most of their range assumes either Brompton's own rim brakes or A/C/P/T-only hinge geometry, neither of which applies here. The two live candidates are the **Ezy Wheels** (new category, pending fold-mechanism confirmation) and the **titanium pedals** (pending weight) — everything else is either the wrong brake type or an unconfirmed/wrong-Line fitment.
 
 ---
 
@@ -343,6 +377,7 @@ Ridea is a major Taiwanese folding-bike component brand with **Singapore distrib
 | **MKS UB-Lite Ezy** | — | ~US$85-100 (~S$111-130) | QR platform, low-profile stub when removed |
 | **Ti Parts Workshop Alloy Mini QD** | Ti holder alone 38.3g | from ~US$55 (~S$71) | Removable, not folding. Cheapest |
 | **Xpedo M-Force 8 Ti** | 220g/pair | ~US$270 (~S$351) | Lightest, but clipless — likely wrong for city + child |
+| **Thx4Ride Titanium Pedals V2** | Not published | from ~US$367 (~S$477) | ⏳ Weight needed before this can be ranked — see Thx4Ride section above |
 
 ---
 
