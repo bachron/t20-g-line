@@ -64,6 +64,8 @@
 | Praxis | 110 | 46T (max available — doesn't offer 54T) |
 | Stone Chainrings | 110 | 54T available |
 
+**Chainring bolts — new, not previously tracked:** ⭐ Extralite ExtraBolt 1.2, **4.8g** for a set of 4, ~€16 (~S$24). ⚠️ Sold as a 4-bolt set — confirm the Lightworks spider's bolt count (it's described as "5-arm" in the options tracker) before ordering.
+
 ### Bottom Bracket — ⏳ Not yet ranked
 | Option | Bearing | Weight | Price |
 |---|---|---|---|
@@ -74,8 +76,10 @@
 | Chris King ThreadFit 30 (Fit Kit #3) | Steel | ~94g | S$385 |
 | Chris King ThreadFit 30 (Fit Kit #3) | Ceramic | Slightly < steel | S$550 |
 | Praxis M30 BSA (OEM) | Stainless Steel | 103g | S$127.50 |
+| ⭐ Extralite Superlight/Hyper BSA (6806 bearings, 30mm bore) | Sealed cartridge | **21g** | Not published (EU: BikeOnline, R2-Bike, Starbike) |
 
 *No ceramic option exists from Praxis directly.*
+*Extralite's 21g cup set is far lighter than everything else here — its 6806 bearing spec is sized for a 30mm spindle, matching the Praxis M30-THRU directly. Confirm BSA shell/thread fit before ordering; it's built for Extralite's own crank.*
 
 ### Shifter / Rear Derailleur — ✅ Genuine Shimano Deore XT M8100 (12-speed mullet) — **RD-M8100-SGS 283g, SL-M8100 shifter 120-132g**
 - Sourcing: Carousell (~S$190 new matched pair) or Japan retail (~S$186-188 new, ~S$168 tax-free)
@@ -99,6 +103,9 @@
 | Brompton G Line 1-1/8" (OEM) | Stock | — | — |
 
 | ⭐ H&H (HH Innovation) Alloy | Sealed cartridge, 1-1/8" threaded | **96.3g** | ~US$69 (~S$90) |
+| ❌ Extralite UltraTop/UltraBottom | Sealed angular-contact | ~26-29g/cup | — |
+
+*Extralite ruled out: their headsets are built for threadless steerers, not the T20/G Line's threaded 1-1/8"x34mm pattern. No threaded Extralite headset found — logged so it isn't re-researched.*
 
 ⏳ **All candidates pending the T20's headset pattern — ask Chris Yeo.** The upper rows are A/C/P/T pattern, the WOOdman and OEM rows are G Line pattern; since you're building a T20, either family could be right. **If A/C/P/T: H&H at 96.3g / ~S$90 is the value pick.** **If G Line: WOOdman Axis BPT at 105g / ~S$155**, same brand as your seatpost.
 
@@ -277,6 +284,8 @@ Must be flat/MTB bar to suit the XT M8100 flat-bar shifter.
 
 ⏳ Confirm whether your wheelset hub is 135mm QR or 142x12mm thru-axle before ordering — the two variants aren't interchangeable. Full detail in T20_Build_Options.md.
 
+**Skewers — new, not previously tracked (only relevant if the hub is QR, not thru-axle):** ⭐ Extralite Aliens 4, 100/130-135mm compatible, **39g/pair**, ~US$138 (~S$179) — matches the 135mm spacing assumed above. Extralite Streeters (29g/pair) is lighter but sized for 100/130mm road spacing only — won't clamp a 135mm hub.
+
 ---
 
 ## 7. Open Decisions / Next Steps
@@ -299,6 +308,9 @@ Must be flat/MTB bar to suit the XT M8100 flat-bar shifter.
 - [ ] Price the Shimano XTR road flat-mount caliper (103g, full hydraulic, no adapter) against the mechanical plan
 - [ ] Consider 48T vs 54T chainring — the 8.3kg build runs Lightworks 48T, and your stated priority is easier low gears
 - [ ] Weigh remaining parts: WOOdman GT2 seatpost, Lightworks 54T chainring, Nuton cassette, SMC Plume DW2 wheelset, Continental tyres, Silverock fork, Ti stem, frame, chain
+- [ ] Chase down Extralite Superlight/Hyper BB (21g) — confirm BSA shell/thread fit against the Praxis Doon; likely the lightest BB option found so far
+- [ ] Confirm Lightworks spider bolt count (4 vs 5) before ordering Extralite ExtraBolt 1.2 chainring bolts (4.8g)
+- [ ] If the wheelset hub turns out 135mm QR, order Extralite Aliens 4 skewers (39g) instead of a heavier generic pair
 
 ---
 

@@ -2,7 +2,7 @@
 
 Minimum of 3 options tracked per part. ✅ = current pick.
 
-**Brands surveyed for lightweight alternatives:** HH Innovation (H&H), Ti Parts Workshop, Brooks, Berk Composites, Selle Italia, Tioga, Darimo, Schmolke, Juin Tech, Yokozuna, TRP, MKS, Xpedo.
+**Brands surveyed for lightweight alternatives:** HH Innovation (H&H), Ti Parts Workshop, Brooks, Berk Composites, Selle Italia, Tioga, Darimo, Schmolke, Juin Tech, Yokozuna, TRP, MKS, Xpedo, Extralite.
 
 ⚠️ **Standing caveat:** the T20 is built to **G Line** spec, which is a different platform from A/C/P/T Line Bromptons. Most "Brompton" aftermarket parts are A/C/P/T and **will not fit**. See the *G Line Compatibility* section below before buying anything.
 
@@ -32,9 +32,10 @@ Minimum of 3 options tracked per part. ✅ = current pick.
 | **Chris King ThreadFit 30** (Fit Kit #3, 30mm cranks) | Steel angular-contact | ~94g (base unit; fit kit adds a little) | S$385 | Non-ceramic; Elite Custom SG, lifetime warranty |
 | **Chris King ThreadFit 30** (Fit Kit #3, 30mm cranks) | Ceramic angular-contact | Slightly lighter than steel version (exact figure not published) | S$550 | Ceramic upgrade (+S$165); lifetime warranty |
 | **Praxis M30 BSA (OEM)** | Stainless Steel | 103g (confirmed) | S$127.50 | Praxis's own-brand BB; lightest confirmed weight of the group |
+| ⭐ **Extralite Superlight/Hyper BSA** | Sealed cartridge, 6806 (30×42×7mm) | **21g** | Not published — sold via BikeOnline, R2-Bike, Starbike (EU) | **Lightest in this table by a wide margin.** Extralite spec's the cup bore for 6806 bearings on a 30mm spindle — matches the Praxis M30-THRU spindle directly, unlike the 24mm-bore BBs elsewhere in cycling. Built for Extralite's own QRC3 crank; confirm BSA 68/73mm shell width and thread engagement against the Doon before ordering |
 | **Titanium BB** `[8.3kg ref]` | — | — | — | The 8.3kg build ran a titanium BB (model not stated). ⚠️ Note it was paired with eeWings, not a Praxis M30 spindle — verify M30 fit |
 
-**Not yet ranked.** BBInfinite pricing is estimated (USD site didn't show a clean per-variant breakdown — worth confirming directly before buying). CEMA prices are EU list prices, excluding shipping/duty to Singapore; CEMA doesn't publish exact weights for its BBs. Chris King and Praxis M30 (OEM) prices are confirmed SGD from Elite Custom SG.
+**Not yet ranked.** Extralite's 21g cup set undercuts every other option here by ~59g if the M30 fit is confirmed — highest-priority row to chase down with Chris Yeo or Extralite directly. BBInfinite pricing is estimated (USD site didn't show a clean per-variant breakdown — worth confirming directly before buying). CEMA prices are EU list prices, excluding shipping/duty to Singapore; CEMA doesn't publish exact weights for its BBs. Chris King and Praxis M30 (OEM) prices are confirmed SGD from Elite Custom SG.
 
 ---
 
@@ -57,6 +58,7 @@ Minimum of 3 options tracked per part. ✅ = current pick.
 | ⭐ **WOOdman Axis BPT Headset** | Sealed cartridge, CNC 6061-T6 alloy | **105g/set (published)** | ~US$119 (~S$155) | Sold explicitly for Brompton **T Line and G Line**. Same brand as your seatpost |
 | **Brompton G Line 1-1/8" Headset (OEM)** | Stock | — | — | G Line-pattern OEM part; the safe fallback if the T20 matches G Line |
 | ⭐ **H&H (HH Innovation) Alloy Headset** | Sealed cartridge | **96.3g (published)** | ~US$69 (~S$90) | 1-1/8" **threaded**, A/C/P/T Line pattern. **Lightest and cheapest credible option** — 16g under Chris King at under half the price |
+| ❌ **Extralite UltraTop/UltraBottom** | Sealed angular-contact | ~26-29g/cup (standard road/MTB headset) | — | **Ruled out.** Extralite's headsets are built for threadless steerers (ZS/IS standards) — the T20/G Line needs a **threaded** 1-1/8"×34mm design (locknut, not a star-fangled/expander top cap). No threaded Extralite headset found. Logged so it isn't re-researched |
 
 ⏳ **All of these are candidates pending the T20's actual headset spec — ask Chris Yeo.** The upper four are A/C/P/T Line pattern; the WOOdman and OEM rows are G Line pattern. Since you're building a T20, not a G Line, either family could be correct.
 
@@ -72,6 +74,14 @@ Minimum of 3 options tracked per part. ✅ = current pick.
 | **Praxis** | 110 | **46T** (settled at its max, since 54T isn't offered) | Alternative |
 | **Stone Chainrings** | 110 | 54T | Alternative |
 | **Lightworks 48T** `[8.3kg ref]` | 110 | 48T | Same brand as your pick — the 8.3kg build geared shorter. Given your "easier low gears" priority, **48T is worth considering against your 54T** |
+
+### Chainring Bolts — new, not previously tracked
+
+| Option | Weight | Price | Notes |
+|---|---|---|---|
+| ⭐ **Extralite ExtraBolt 1.2** | **4.8g** (set of 4) | ~€16 (~S$24) | Lightest tracked. ⚠️ Sold as a **4-piece** set — confirm the Lightworks spider is a 4-bolt (not 5-bolt) pattern before ordering, since the spider table above describes it as "5-arm" |
+| **Extralite ExtraBolt 1-1s** | 6.5g (set) | — | Slightly heavier alternate line, same brand |
+| Stock/generic steel bolts | ~15-20g (set, est.) | — | Baseline — cheap grams if the Extralite bolt count matches |
 
 ## Cassette
 
@@ -365,6 +375,17 @@ Unlike the rack/headset/brake questions above, this one isn't a T20-fitment gues
 *Ti Parts Workshop is the only confirmed-titanium option; Suncord is an alloy-likely alternative at a similar or slightly lower price with no weight advantage confirmed.*
 
 **Recommendation:** GRP-21B (48g) if your wheelset hub is 135mm QR. ⏳ Confirm QR vs thru-axle hub spec before ordering — the two variants are not interchangeable.
+
+---
+
+# Skewers — QR (only relevant if the wheelset hub is 135mm QR, not thru-axle)
+
+| Option | Compatibility | Weight | Price | Notes |
+|---|---|---|---|---|
+| ⭐ **Extralite Aliens 4** | 100/130-135mm | **39g/pair** | ~US$138 (~S$179) | Ti Grade 5 rods + 7075 hardware. Matches the 135mm spacing the dropout hanger section assumes |
+| **Extralite Streeters** | 100/130mm only | **29g/pair** | — | ❌ Lighter, but road-spaced — **won't clamp a 135mm MTB-spaced hub**. Only viable if the hub turns out 130mm |
+
+⏳ Same open question as the dropout hanger above: confirm the hub is QR (not thru-axle) and its exact spacing before ordering.
 
 ---
 
