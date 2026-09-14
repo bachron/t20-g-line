@@ -2,7 +2,7 @@
 
 Minimum of 3 options tracked per part. ✅ = current pick.
 
-**Brands surveyed for lightweight alternatives:** HH Innovation (H&H), Ti Parts Workshop, Brooks, Berk Composites, Selle Italia, Tioga, Darimo, Schmolke, Juin Tech, Yokozuna, TRP, MKS, Xpedo, Extralite.
+**Brands surveyed for lightweight alternatives:** HH Innovation (H&H), Ti Parts Workshop, Brooks, Berk Composites, Selle Italia, Tioga, Darimo, Schmolke, Juin Tech, Yokozuna, TRP, MKS, Xpedo, Extralite, Magicshine, Knog, Lezyne.
 
 ⚠️ **Standing caveat:** the T20 is built to **G Line** spec, which is a different platform from A/C/P/T Line Bromptons. Most "Brompton" aftermarket parts are A/C/P/T and **will not fit**. See the *G Line Compatibility* section below before buying anything.
 
@@ -421,6 +421,40 @@ Unlike the rack/headset/brake questions above, this one isn't a T20-fitment gues
 | **Extralite Streeters** | 100/130mm only | **29g/pair** | — | ❌ Lighter, but road-spaced — **won't clamp a 135mm MTB-spaced hub**. Only viable if the hub turns out 130mm |
 
 ⏳ Same open question as the dropout hanger above: confirm the hub is QR (not thru-axle) and its exact spacing before ordering.
+
+---
+
+# Lights — new, not previously tracked
+
+City riding at night with a child aboard makes lights a safety item, not just a weight line — but weight and mount footprint still matter on a folder with an already-crowded cockpit (Ergon grips, XT shifter, brake lever, Yepp Mini stem clamp).
+
+### Front
+
+| Option | Lumens | Weight | Runtime | Price | Notes |
+|---|---|---|---|---|---|
+| ⭐ **Magicshine HORI 1300 PRO** | 1300 | **151g** | Not published (base HORI 1300 runtime differs) | ~US$80-100 (PRO price not confirmed; base HORI 1300 from $79.99) | Best lumens-per-gram of the Magicshine road/commuter range. Anti-glare beam cutoff — courteous on shared paths. ANT+/Di2/FTR LightSync |
+| **Magicshine EVO 1700 PRO** | 1700 | 165g | 14h max | ~US$89.99 | +14g and +400 lumens over the HORI — worth it if you want more throw for unlit stretches. MagicLock magnetic quick-mount is handy on a folder (light comes off in one motion when parking) |
+| **Magicshine ALLTY 1500S** | 1500 | 153g | Not published | ~US$109.99 | Older/pricier for less lumens than the EVO 1700 PRO at similar weight — dominated by the two above |
+| **Knog Blinder 1000** | 1000 | 148g (+19g bar mount / +12g GoPro mount) | Not published | Not confirmed | Non-Magicshine comparison. Lightest light-only weight tracked, but adds mount weight and gives up 300-700 lumens vs the Magicshine picks |
+| **Lezyne Micro Drive Pro 1000+** | 1000 | 168g | Not published | Not confirmed | Non-Magicshine comparison; heaviest of the group for the least lumens |
+
+**Recommendation:** HORI 1300 PRO for the best weight-to-lumens ratio; step up to the EVO 1700 PRO if the MagicLock quick-mount or extra throw matters more than 14g.
+
+⚠️ **Mount footprint not yet checked against the cockpit.** Confirm bar space once the handlebar (§ Handlebar) is picked — the Yepp Mini clamps the stem, not the bar, but a MagicLock or GoPro-style mount still needs clear bar real estate alongside the grips and shifter.
+
+### Rear
+
+| Option | Lumens | Weight | Runtime | Price | Notes |
+|---|---|---|---|---|---|
+| **Magicshine SEEMEE 20 V2.0** | 20 | **18g** | Not published | Not confirmed | Lightest tracked — a minimalist "be-seen" blinker, no brake sensor |
+| **Magicshine SEEMEE 50 PRO** | 50 | 28g | Not published | Not confirmed | Mid-weight step up from the SEEMEE 20 |
+| ⭐ **Magicshine SEEMEE 400** | 400 | **48g** | 107h (1600mAh) | ~US$64.99 | **Recommended for this build.** Smart brake-sensor flash (full 400lm alert under braking) is a real safety upgrade riding at night with a child aboard; ANT+ lets it link to a Garmin/Wahoo head unit if you add one later |
+| **Bontrager Flare RT** | — | 40g | — | Not confirmed | Non-Magicshine comparison; well-regarded daytime-running rear light, no brake sensor |
+| **Garmin Varia RTL515** | — | 71g | — | Not confirmed | Radar + taillight combo — heaviest and priciest here, but adds rear-approach alerts, arguably the most relevant safety feature of the group for city riding with a child. Worth a look despite the weight penalty |
+
+**Recommendation:** SEEMEE 400 for the brake-sensor safety case at low weight (48g); SEEMEE 20 V2.0 (18g) if you'd rather run it as a pure backup/secondary blinker. Varia RTL515 is worth a second look purely for the radar function, independent of the weight tracker logic used elsewhere in this doc.
+
+⏳ Confirm seatpost-mount clamp diameter against the WOOdman GT2 (31.8mm) — most quarter-turn taillight mounts are fine across 25-32mm, but worth checking once the seatpost question in § Seatpost is settled.
 
 ---
 

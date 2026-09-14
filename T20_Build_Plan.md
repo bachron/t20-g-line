@@ -300,6 +300,34 @@ The small roller wheels used to wheel the bike while folded. ⏳ Confirm the T20
 
 ---
 
+## 6c. Lights — new, not previously tracked
+
+Night riding with a child aboard makes this a safety item as much as a weight one, but weight and mount space still matter on an already-crowded cockpit (Ergon grips, XT shifter, brake lever, Yepp Mini stem clamp).
+
+### Front
+| Option | Lumens | Weight | Price | Notes |
+|---|---|---|---|---|
+| ⭐ Magicshine HORI 1300 PRO | 1300 | **151g** | ~US$80-100 (PRO price unconfirmed) | Best lumens-per-gram of the Magicshine range; anti-glare beam cutoff |
+| Magicshine EVO 1700 PRO | 1700 | 165g | ~US$89.99 | +14g for +400 lumens; MagicLock magnetic quick-mount — handy on a folder |
+| Magicshine ALLTY 1500S | 1500 | 153g | ~US$109.99 | Dominated by the two above — pricier for less lumens than the EVO |
+| Knog Blinder 1000 (comparison) | 1000 | 148g (+ mount) | Not confirmed | Lightest light-only weight, but fewer lumens and mount adds grams |
+| Lezyne Micro Drive Pro 1000+ (comparison) | 1000 | 168g | Not confirmed | Heaviest here for the least lumens |
+
+**Recommendation:** HORI 1300 PRO for weight-to-lumens; step up to EVO 1700 PRO for the quick-mount and extra throw.
+
+### Rear
+| Option | Lumens | Weight | Price | Notes |
+|---|---|---|---|---|
+| Magicshine SEEMEE 20 V2.0 | 20 | **18g** | Not confirmed | Lightest — minimalist blinker, no brake sensor |
+| Magicshine SEEMEE 50 PRO | 50 | 28g | Not confirmed | Mid-weight step up |
+| ⭐ Magicshine SEEMEE 400 | 400 | **48g** | ~US$64.99 | **Recommended.** Smart brake-sensor flash is a real safety upgrade with a child aboard; 107h runtime |
+| Bontrager Flare RT (comparison) | — | 40g | Not confirmed | Well-regarded daytime running light, no brake sensor |
+| Garmin Varia RTL515 (comparison) | — | 71g | Not confirmed | Radar + taillight — heaviest/priciest, but adds rear-approach alerts |
+
+**Recommendation:** SEEMEE 400 for the brake-sensor safety case at 48g. Full comparison and mount-fitment notes in T20_Build_Options.md.
+
+---
+
 ## 7. Open Decisions / Next Steps
 
 - [ ] Confirm the fork credit from Chris Yeo for omitting it, then order the SilverRock
@@ -325,6 +353,8 @@ The small roller wheels used to wheel the bike while folded. ⏳ Confirm the T20
 - [ ] If the wheelset hub turns out 135mm QR, order Extralite Aliens 4 skewers (39g) instead of a heavier generic pair
 - [ ] Confirm with Chris Yeo whether the T20 has G Line's rear-roller fold mechanism at all, then weigh MiniMODs/Thx4Ride Easy Wheel options against stock
 - [ ] Get the Thx4Ride Titanium Pedals V2 weight before ranking against MKS/Ti Parts Workshop/Xpedo
+- [ ] Choose front light — Magicshine HORI 1300 PRO (151g) vs EVO 1700 PRO (165g, quick-mount); confirm bar space against the final handlebar/grip/shifter stack
+- [ ] Choose rear light — Magicshine SEEMEE 400 (48g, brake sensor) is the current pick; confirm seatpost mount clamp diameter against the WOOdman GT2
 
 ---
 
