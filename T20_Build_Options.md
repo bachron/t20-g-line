@@ -92,12 +92,31 @@ Minimum of 3 options tracked per part. ✅ = current pick.
 
 ## Wheelset
 
-| Option | Weight | Notes |
-|---|---|---|
-| **SMC Plume DW2 carbon (406)** | ⏳ not recorded | Current candidate; RHET vs Hubsmith R027 hub comparison in progress |
-| **Wheel Angel carbon** `[8.3kg ref]` | **1,090g/set** | The 8.3kg build's wheelset. **This is where his biggest saving came from** — wheels + tyres + derailleur swap was over 2kg |
+### ⚠️ CRITICAL, unresolved: is the T20's wheel size actually 406mm (20"), or 349mm (16", standard Brompton)?
 
-⚠️ **Wheels and tyres are your largest remaining headroom.** Weigh the SMC Plume against 1,090g before finalising the hub choice.
+Everything below assumes **406mm**, because: (1) the bike is named **T20**, and HEXATI's own lineup uses the wheel size in the model name — **T16 = 349mm, T18 = 18", T20 = 406mm** — so the naming itself is evidence, not just a label; (2) the tyre already locked in (§ Tyres, Continental Urban Contact) and the base-bike description at the top of this doc both say 20". **But this needs physically confirming** — measure the actual rim/tyre (or get the spec sheet from Chris Yeo) before ordering any wheelset, because the two sizes are not remotely interchangeable and almost the entire aftermarket carbon-wheel market for small-wheel folders is built for **349mm** (standard Brompton A/C/P/T Line), not 406mm (G Line/T20). Getting this wrong means an unusable wheelset.
+
+### Decision criteria — four routes, evaluated against the 406mm assumption
+
+| Route | Option | Weight | Price | Size | Verdict |
+|---|---|---|---|---|---|
+| Lightest verified | **DairsCyclin 16" 349** | **680g/pair** | Not confirmed | ❌ **349mm** | Lightest number found anywhere in this search, but it's a 349mm Brompton-standard wheel — **not directly comparable to a 406mm target.** A 406mm wheel is physically bigger and will not hit 680g; no 406mm DairsCyclin SKU found |
+| Best-documented spec sheet | **SMC Lunate RHET (349-CW3)** | 880±25g/pair | **Two prices found, unreconciled: ~US$1,198 (Speed Mini Cycle/Cyclopes) vs ~S$1,650 (Happy Owl Cycle)** — confirm which is current before buying | ❌ **349mm** | Most fully speced option (titanium front axle, ceramic sealed bearings, 1420 spokes, Swissstop pads all itemized) — but it's built around the **RHET ratchet system**, a Brompton **hub-gear** (2/3/6-speed internal) conversion hub, not a derailleur hub. **Double incompatible**: wrong wheel size AND wrong drivetrain architecture for your Shimano XT M8100 derailleur build |
+| Premium/authenticity play | **Wheel Angel × Extralite** | **675g/pair (±2%)** | Not confirmed | ⚠️ **Likely 349mm** — their Extralite-hub flagship is listed under "Brompton . P Line . T Line," all 349mm lines. They separately advertise 406mm "mini-velo disc" wheels, but no confirmed SKU pairs that 406 rim with an Extralite hub | Singapore-based (matches your seller preference) and genuinely Extralite-hubbed — but the 675g figure is for the 349mm build. **Worth asking them directly whether they'll custom-build a 406mm disc wheelset on Extralite hubs** — as a handbuilder, this is plausible even without a listed SKU |
+| Custom build route | **"Oleg Ko" style** (Twisted Wheels) | Est. **~950-1,100g/pair** (350g rim ×2 + ~210g Extralite CyberHub SPD-3+ disc hubset + ~100-150g spokes/nipples/tape — not a quoted number, built up from parts) | Rim from ~US$155 (Light Bicycle Moto G-series) + hubset + build labour | ✅ **406mm confirmed available** — Light Bicycle sells 406mm carbon rims (their "20-inch BMX" range, e.g. Moto G3, 32mm wide/32mm deep, 350g) that are the correct physical size, unlike every packaged Brompton wheelset above | The only route in this table confirmed buildable at 406mm today. Oleg Ko's actual reference build used Lightbicycle **RF621** rims (349mm) + Extralite Cyberhubs — so even the "style" reference is a 349mm build; replicating it at 406mm means substituting a 406mm Light Bicycle rim (Moto series) for the RF621 and re-costing the build. Won't hit 680-880g at this size, but is the most flexible if 406mm is confirmed |
+
+**Reconciling this with the pick already in this doc:** the previous "SMC Plume DW2 carbon (406)" entry doesn't match anything found in this search — SMC's "Plume" line (e.g. **PLUME-349-CW2**) is 349mm, same family as Lunate. What **does** exist at 406mm from SMC is **SMC-406-DW1**, a "Custom Carbon Wheelset for Brompton G-line / Birdy" — this is very likely what "DW2" was meant to reference (SMC's DW-series 406mm G-Line line, not the CW-series 349mm Plume/Lunate line). **Re-confirm the exact SKU with the seller** — "DW1" vs "DW2" vs "CW2" are different products at different wheel sizes.
+
+**Other confirmed-406mm G Line options surfaced in this search** (none previously tracked, all worth weighing against the four routes above):
+
+| Option | Hub | Weight | Notes |
+|---|---|---|---|
+| **SUNCORD 20" 406 Carbon (G Line)** | Low-resistance hub, ceramic leaf-spring | ~1,000g | Centre-lock disc; 100mm/12mm thru-axle front, 135mm rear — note this is **thru-axle**, relevant to the dropout hanger/skewer decisions elsewhere in this doc |
+| **BZ Carbon Brompton G Line (20" 406)** | Chris King R45 | 1,100g±50g | BZ REVOpro rim; premium hub brand, heavier than the DIY route |
+| **H&H "Gu Torq" 20" 406** | Straight-pull disc hub | Not published | Same brand as your seatpost/headset candidates |
+| **SMC-406-DW1** | Not published | Not published | Likely the correct SMC SKU for this build — chase this down instead of re-ordering "DW2" |
+
+⚠️ **Wheels and tyres remain your largest weight headroom.** Unlike the four routes above, the 8.3kg reference build's **1,090g Wheel Angel wheelset stays a valid comparison target** — Brompton's G Line is officially 406mm (confirmed: 100mm front hub spacing, disc-only rim, no rim-brake track), so if the T20 matches it, 1,090g is the number to weigh the SMC-406-DW1 / SUNCORD / BZ / custom-build options against.
 
 ## Tyres
 
@@ -471,6 +490,14 @@ City riding at night with a child aboard makes lights a safety item, not just a 
 | Seatpost Clamp — G Line | H&H | ~US$99 (~S$128) | One of H&H's few genuine G Line parts |
 | Carbon Fork + Rear Triangle Set — G Line | **Silverock** | from ~US$435 (~S$566) | Reference price for your fork decision |
 | Axis BPT Headset — T & G Line | **WOOdman** | ~US$119 (~S$155) | See headset section |
+
+---
+
+# Open Questions to Track (wheelset)
+
+- [ ] **Confirmed weight figures for the two Extralite Carousell listings.** Not resolved by this session's web research — live marketplace listings aren't reliably searchable. General-market Extralite Brompton wheelset weight found was **675-700g/pair** (Wheel Angel's Extralite-hub flagship, and a related Brombacher × Extralite rear wheel at 434g single), but that's not a substitute for the actual listing weights — pull those from the listings/seller directly.
+- [ ] **Confirmed price for SMC Lunate RHET.** Two conflicting prices found: **~US$1,198** (Speed Mini Cycle / Cyclopes Co) vs **~S$1,650** (Happy Owl Cycle) — different retailers, not clearly the same currency baseline. Note this option is likely moot regardless of price — see the wheel-size and RHET-is-a-hub-gear-hub issues in § Wheelset above.
+- [ ] **Verify the T20's actual wheel size (406mm vs 349mm).** Naming convention (HEXATI's T16/T18/T20 lineup) and the tyre/base-bike spec already in this doc point to **406mm**, matching Brompton G Line's official spec — but this needs physical confirmation (measure the rim/tyre, or get it from Chris Yeo) before ordering any wheelset. Full reasoning in § Wheelset above.
 
 ---
 

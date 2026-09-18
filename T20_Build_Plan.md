@@ -166,14 +166,27 @@
 
 ## 4. Wheels & Tyres
 
+### ⚠️ CRITICAL, unresolved: wheel size — 406mm (20") assumed, needs physical confirmation
+This build's naming (T20) and HEXATI's own T16/T18/T20 lineup convention both point to **406mm**, matching Brompton G Line's official spec (100mm front hub spacing, disc-only rim — confirmed 406mm). But nearly the entire small-wheel carbon aftermarket is built for **349mm** (standard Brompton A/C/P/T Line) instead, so this is worth physically confirming (measure the rim, or get the spec sheet from Chris Yeo) before ordering any wheelset — the two sizes aren't interchangeable. Full reasoning and a size-by-size options breakdown in T20_Build_Options.md.
+
 | Part | Decision | Status |
 |---|---|---|
-| Wheelset | SMC Plume DW2 carbon wheelset (406mm) | ⏳ Comparing RHET vs Hubsmith R027 hub options — **weight not recorded** |
+| Wheelset | "SMC Plume DW2 carbon wheelset (406mm)" | ⏳ **This SKU doesn't match anything found in research** — SMC's Plume/Lunate lines (CW-series) are 349mm; the 406mm G-Line SMC product found is **SMC-406-DW1**. Re-confirm the exact SKU with the seller before ordering |
 | Tyre | Continental Urban Contact (20") | ✅ Locked in — **weight not recorded** |
-| `[8.3kg ref]` Wheelset | Wheel Angel carbon, **1,090g/set** | Reference target |
+| `[8.3kg ref]` Wheelset | Wheel Angel carbon, **1,090g/set** | Reference target — this is a valid 406mm comparison, since the 8.3kg build is a genuine (406mm) Brompton G Line |
 | `[8.3kg ref]` Tyre | Schwalbe One 1.10" slick | Far lighter, but a race slick — thinner casing, less puncture protection. Probably the wrong trade for city + child |
 
-⚠️ **Wheels and tyres are your largest remaining headroom.** The 8.3kg build's single biggest saving (>2kg) came from swapping the hub-gear drivetrain, stock wheels and tyres. You've already made the derailleur half of that call — weigh the SMC Plume against 1,090g before finalising the hub.
+⚠️ **Wheels and tyres are your largest remaining headroom.** The 8.3kg build's single biggest saving (>2kg) came from swapping the hub-gear drivetrain, stock wheels and tyres. You've already made the derailleur half of that call — weigh the eventual wheelset against 1,090g once the size question is settled.
+
+**Decision criteria — four routes researched (full detail in T20_Build_Options.md):**
+| Route | Option | Weight | Size | Verdict |
+|---|---|---|---|---|
+| Lightest verified | DairsCyclin 16" 349 | **680g/pair** | ❌ 349mm | Lightest number found, but not comparable to a 406mm target — no 406mm SKU exists |
+| Best-documented spec | SMC Lunate RHET | 880±25g/pair | ❌ 349mm | Fully speced, but **RHET is a Brompton hub-gear ratchet hub** — wrong drivetrain architecture for your XT M8100 derailleur, on top of the wrong wheel size |
+| Premium/authenticity | Wheel Angel × Extralite | 675g/pair | ⚠️ Likely 349mm | Singapore-based, genuinely Extralite-hubbed — worth asking if they'll custom-build a 406mm version |
+| Custom build (Oleg Ko/Twisted Wheels style) | Light Bicycle 406mm rim + Extralite CyberHub SPD-3+ | Est. ~950-1,100g/pair | ✅ 406mm confirmed available | Only route confirmed buildable at the right size today, though it won't hit 680-880g at 406mm |
+
+**Correcting the RHET vs Hubsmith R027 framing below:** Hubsmith R027 (HS-R027R) is a genuine Shimano HG-freehub derailleur hub — correct for this build. **RHET is not a valid alternative to it** — it's a Brompton hub-gear ratchet system bundled with the 349mm SMC Lunate, incompatible with both the wheel size and the derailleur drivetrain. Drop it from consideration rather than comparing it to the R027.
 
 ---
 
@@ -330,10 +343,15 @@ Night riding with a child aboard makes this a safety item as much as a weight on
 
 ## 7. Open Decisions / Next Steps
 
+### Open questions to track (wheelset)
+- [ ] **Confirmed weight figures for the two Extralite Carousell listings** — not resolved by web research (live marketplace listings aren't reliably searchable); general Extralite Brompton wheelset weight found was 675-700g/pair, but that's not a substitute for the specific listings — pull the weight from the actual listing pages/seller
+- [ ] **Confirmed price for SMC Lunate RHET** — two conflicting prices found: ~US$1,198 (Speed Mini Cycle/Cyclopes) vs ~S$1,650 (Happy Owl Cycle). Note this option is likely moot regardless — see wheel-size and RHET/hub-gear issues above
+- [ ] **Verify actual wheel size (406mm vs 349mm)** — naming/spec evidence points to 406mm (see § 4 above), but confirm by measurement or with Chris Yeo before ordering any wheelset
+
 - [ ] Confirm the fork credit from Chris Yeo for omitting it, then order the SilverRock
 - [ ] Rank and choose headset; confirm 1-1/8" x 34mm threaded pattern with Chris Yeo
 - [ ] Rank and choose Bottom Bracket
-- [ ] Finalize wheelset hub (RHET vs Hubsmith R027)
+- [ ] Finalize wheelset hub — Hubsmith R027 (RHET dropped: it's a Brompton hub-gear ratchet hub, not a derailleur hub)
 - [ ] Finalize brake caliper/lever exact models
 - [ ] Confirm chain compatibility with 12-speed XT setup
 - [ ] Choose saddle — decide comfort (Brooks C13) vs weight (Berk / Selle Italia), ~200g at stake
