@@ -4,7 +4,9 @@
 **Rider priorities:** general city use with a front child seat, easier low gears over top speed, weight-conscious throughout, prefers Singapore-based sellers where possible.
 **Target weight:** ~9.4-9.6kg (based on comparable full-spec quotes)
 
-> ⚠️ **You are building a T20, not a G Line.** The G Line is the *design reference* for geometry and layout — it is not a parts constraint. Your frame, stem, fork and rear triangle are HEXATI/Silverock parts, so the interfaces that matter are **the T20's own**. Confirm these with Chris Yeo before ordering: **brake mount (leaning flat), handlebar clamp diameter, headset pattern, seatpost diameter, rear rack mounts.** Both A/C/P/T-pattern and G Line-pattern aftermarket parts are live candidates until he confirms.
+> ⚠️ **You are building a T20, not a G Line.** The G Line is the *design reference* for geometry and layout — it is not a parts constraint. Your frame, stem, fork and rear triangle are HEXATI/Silverock parts, so the interfaces that matter are **the T20's own**. Confirm these with Chris Yeo before ordering: **handlebar clamp diameter, headset pattern, seatpost diameter, rear rack mounts.** Both A/C/P/T-pattern and G Line-pattern aftermarket parts are live candidates until he confirms.
+>
+> 📸 **New (Sep 2026): a HEXATI reseller listing (comeplay.titanium) states "T20 — G Line geometry" directly**, and confirms frames now ship pre-assembled with headset, seatpost clamp, seatpost liner, rear frame locking block, easy wheels and E-hook already installed — you add brakes, drivetrain and wheels. It also lists the frame's dropout as a build-time choice: **rim brake, flat mount, or thru-axle disc** (74/112, 74/142, or 100/142 front/rear spacing). This is a general listing, not proof of your specific frame, but it resolves several previously-open questions below — see § 3 and § 4 and the Dropout Hanger section.
 >
 > 📌 **Benchmark:** a documented Brompton G Line build reaches **8.3kg**. Its parts are folded into every table below tagged `[8.3kg ref]` for direct comparison. Note it has **no child seat, no rack and no mudguards** — treat 8.3kg as a stripped-bike floor, not a like-for-like target.
 
@@ -90,8 +92,9 @@
 
 ### Chain — KMC 11-speed (from earlier reference spec; may need revisiting for 12-speed XT compatibility)
 
-### Headset — ⏳ Not yet decided
+### Headset — ⏳ Not yet decided (⚠️ now likely pre-installed by HEXATI, see intro)
 *Proprietary Brompton/G Line pattern — 1-1/8" threaded, 28.6mm x 34mm. Not a standard threadless road/MTB headset.*
+*HEXATI frames now reportedly ship with a headset pre-installed — everything below is an upgrade-over-stock comparison, not necessarily a from-scratch purchase. Confirm what pattern the stock unit is.*
 
 | Option | Bearing | Weight | Price |
 |---|---|---|---|
@@ -114,7 +117,7 @@
 ## 3. Brakes
 
 **Direction: leaning FLAT MOUNT, open to post.** Mount is labelled on every caliper below.
-⏳ **Confirm the T20's actual brake mount with Chris Yeo.**
+✅ **Flat mount confirmed available** as a factory dropout option (see intro). ⚠️ **But new open question:** if you take the G-Line-correct **thru-axle disc, 100/142** dropout (see § 4 / Dropout Hanger) instead of the plain "flat mount" (74mm-front, classic-Brompton) option, it's not confirmed whether that thru-axle dropout uses flat-mount or post-mount caliper tabs — thru-axle frames commonly default to post mount. Confirm with Chris Yeo before finalizing a caliper.
 
 *If you do go post mount:* flat→post adapters are **+20mm**, so a flat mount position sized for 140mm needs a **160mm** rotor. Adapters ~10-37g each (typically ~16g). Total cost of the post route ≈ **70-80g**, plus fold/rear-triangle clearance to check.
 
@@ -166,8 +169,8 @@
 
 ## 4. Wheels & Tyres
 
-### ⚠️ CRITICAL, unresolved: wheel size — 406mm (20") assumed, needs physical confirmation
-This build's naming (T20) and HEXATI's own T16/T18/T20 lineup convention both point to **406mm**, matching Brompton G Line's official spec (100mm front hub spacing, disc-only rim — confirmed 406mm). But nearly the entire small-wheel carbon aftermarket is built for **349mm** (standard Brompton A/C/P/T Line) instead, so this is worth physically confirming (measure the rim, or get the spec sheet from Chris Yeo) before ordering any wheelset — the two sizes aren't interchangeable. Full reasoning and a size-by-size options breakdown in T20_Build_Options.md.
+### ⚠️ Wheel size — 406mm, now well-supported (was CRITICAL/unresolved)
+This build's naming (T20) and HEXATI's own T16/T18/T20 lineup convention both point to **406mm**, matching Brompton G Line's official spec (100mm front hub spacing, disc-only rim — confirmed 406mm). A HEXATI reseller listing now also states "T20 — G Line geometry" directly (see intro) — three independent signals agree. Still worth a final physical check (measure the rim, or get the spec sheet from Chris Yeo) before ordering any wheelset, since nearly the entire small-wheel carbon aftermarket is built for **349mm** (standard Brompton A/C/P/T Line) instead and the two sizes aren't interchangeable — but this is no longer a coin-flip. Full reasoning and a size-by-size options breakdown in T20_Build_Options.md.
 
 | Part | Decision | Status |
 |---|---|---|
@@ -279,7 +282,7 @@ Must be flat/MTB bar to suit the XT M8100 flat-bar shifter.
 | Thx4Ride Titanium Pedals V2 | Not published | from ~US$367 (~S$477) | ⏳ Weight needed before ranking — full detail in T20_Build_Options.md |
 
 ### Easy Wheels / Rollers — new, not previously tracked
-The small roller wheels used to wheel the bike while folded. ⏳ Confirm the T20 shares G Line's rear-roller fold mechanism at all before ordering any of these — same open question as the rack, hinge and headset.
+The small roller wheels used to wheel the bike while folded. ✅ **Fold mechanism confirmed present** — the HEXATI frame ships with easy wheels pre-installed (see intro), so these are live upgrade candidates, not speculative.
 
 | Option | Weight | Price | Notes |
 |---|---|---|---|
@@ -299,17 +302,28 @@ The small roller wheels used to wheel the bike while folded. ⏳ Confirm the T20
 
 ⏳ Your rear triangle is a HEXATI part, so neither platform's rack is guaranteed. Spread is 170-328g — **worth ~160g to ask Chris Yeo which pattern it matches.**
 
-### Dropout Hanger — ✅ G Line pattern confirmed to fit the T20 1:1 (Ti Parts Workshop only titanium option)
+### Dropout — frame-order choice, new decision (answers "what dropout for a G Line clone?")
+
+HEXATI's own dropout menu (see intro) offers **rim brake**, **flat mount**, or **thru-axle disc** (in 74/112, 74/142, or 100/142 front/rear spacing). Only one of these actually matches G Line's own geometry:
+
+| Option | Spacing | Verdict |
+|---|---|---|
+| Rim brake | — | ❌ Wrong brake architecture — you're disc, and G Line itself is disc-only |
+| Flat mount | 74mm front (classic Brompton pattern) | ⚠️ Right caliper mount type, but **74mm front is classic-Brompton geometry, not G Line** |
+| Thru-axle disc, 74/112 or 74/142 | 74mm front | ❌ Same issue — 74mm front isn't G Line's spacing regardless of the rear |
+| ⭐ **Thru-axle disc, 100/142** | **100mm front / 142mm rear** | ✅ **G Line-correct.** 100mm front matches G Line's confirmed spec; this is the recommendation |
+
+⚠️ **Confirm caliper mount type before ordering:** it's not stated whether the 100/142 thru-axle dropout is flat-mount or post-mount — thru-axle frames commonly default to post mount. If so, the post-mount brake route (§ 3) becomes the real plan, not the fallback.
+
+### Dropout Hanger — the small replaceable part that matches whichever dropout above you order
 | Option | Material | Weight | Price |
 |---|---|---|---|
-| ⭐ Ti Parts Workshop GRP-21B (135mm QR) | Titanium | **48g** | ~US$53.50-63 (~S$70-82) |
-| Ti Parts Workshop GRP-22B (142x12mm thru-axle) | Titanium | 54g | ~US$53.50-63 (~S$70-82), often sold out |
+| Ti Parts Workshop GRP-21B (135mm QR) | Titanium | **48g** | ~US$53.50-63 (~S$70-82) — only relevant if you go "flat mount" (QR) instead of the recommended thru-axle |
+| ⭐ Ti Parts Workshop GRP-22B (142x12mm thru-axle) | Titanium | 54g | ~US$53.50-63 (~S$70-82), often sold out — **matches the recommended 100/142 dropout** |
 | Suncord Dropout Hanger — G Line | likely alloy (unconfirmed) | not published | ~US$43.90-57 (~S$59-77), 142x12mm thru-axle only |
 | Stock Brompton G Line (OEM, steel) | Steel | not published | ~US$14 (~S$18) — baseline/spare |
 
-⏳ Confirm whether your wheelset hub is 135mm QR or 142x12mm thru-axle before ordering — the two variants aren't interchangeable. Full detail in T20_Build_Options.md.
-
-**Skewers — new, not previously tracked (only relevant if the hub is QR, not thru-axle):** ⭐ Extralite Aliens 4, 100/130-135mm compatible, **39g/pair**, ~US$138 (~S$179) — matches the 135mm spacing assumed above. Extralite Streeters (29g/pair) is lighter but sized for 100/130mm road spacing only — won't clamp a 135mm hub.
+Full reasoning, plus a matching thru-axle vs skewer table, in T20_Build_Options.md.
 
 ---
 
@@ -346,13 +360,18 @@ Night riding with a child aboard makes this a safety item as much as a weight on
 ### Open questions to track (wheelset)
 - [ ] **Confirmed weight figures for the two Extralite Carousell listings** — not resolved by web research (live marketplace listings aren't reliably searchable); general Extralite Brompton wheelset weight found was 675-700g/pair, but that's not a substitute for the specific listings — pull the weight from the actual listing pages/seller
 - [ ] **Confirmed price for SMC Lunate RHET** — two conflicting prices found: ~US$1,198 (Speed Mini Cycle/Cyclopes) vs ~S$1,650 (Happy Owl Cycle). Note this option is likely moot regardless — see wheel-size and RHET/hub-gear issues above
-- [ ] **Verify actual wheel size (406mm vs 349mm)** — naming/spec evidence points to 406mm (see § 4 above), but confirm by measurement or with Chris Yeo before ordering any wheelset
+- [x] **Verify actual wheel size (406mm vs 349mm)** — now well-supported as **406mm**: HEXATI's own T16/T18/T20 naming, the tyre already locked in, and a HEXATI reseller listing stating "T20 — G Line geometry" all agree. Still worth a final physical check before ordering, but no longer treated as unresolved
+
+### Open questions to track (frame/dropout — new, Sep 2026)
+- [ ] **Choose frame dropout at order time:** rim brake / flat mount / thru-axle disc (74/112, 74/142, 100/142). Recommendation: **thru-axle disc, 100/142** — the only option matching G Line's confirmed 100mm front spacing (see § 4 / Dropout Hanger)
+- [ ] **Confirm caliper mount type on the 100/142 thru-axle dropout** (flat or post) before finalizing brakes — not stated in the reseller listing, and thru-axle frames commonly default to post mount
+- [ ] **Confirm your specific frame (via Chris Yeo) matches the general HEXATI reseller listing** — pre-installed headset/seatpost clamp/liner/rear locking block/easy wheels/E-hook, and the dropout menu above
 
 - [ ] Confirm the fork credit from Chris Yeo for omitting it, then order the SilverRock
-- [ ] Rank and choose headset; confirm 1-1/8" x 34mm threaded pattern with Chris Yeo
+- [ ] Rank and choose headset; confirm 1-1/8" x 34mm threaded pattern with Chris Yeo — note it may now ship pre-installed
 - [ ] Rank and choose Bottom Bracket
 - [ ] Finalize wheelset hub — Hubsmith R027 (RHET dropped: it's a Brompton hub-gear ratchet hub, not a derailleur hub)
-- [ ] Finalize brake caliper/lever exact models
+- [ ] Finalize brake caliper/lever exact models (pending the caliper-mount-type question above)
 - [ ] Confirm chain compatibility with 12-speed XT setup
 - [ ] Choose saddle — decide comfort (Brooks C13) vs weight (Berk / Selle Italia), ~200g at stake
 - [ ] Choose handlebar — 31.8mm confirmed; Ridea Ti (child-seat safe) vs Darimo/Schmolke/Ridea/WOOdman carbon (weight limits)
