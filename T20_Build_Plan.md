@@ -119,7 +119,7 @@ Spider is **110 BCD, 5-arm** — rings must be 110 BCD **5-bolt**.
 
 📌 **Still worth revisiting: 54T vs 48T.** Your priority is easier low gears, and the 8.3kg build runs Lightworks 48T. With an 11-50T cassette: 54T = 1.08:1 low, 48T = 0.96:1 — meaningfully easier on hills with a child aboard, same weight, same cost.
 
-### Bottom Bracket — ⏳ Not yet ranked
+### Bottom Bracket — ⭐ Ranked: BBInfinite Ceramitech (80g)
 | Option | Bearing | Weight | Price |
 |---|---|---|---|
 | BBInfinite BSA (Praxis M30) | ABEC-7 Steel | 83g | ~US$140 (est.) |
@@ -132,6 +132,8 @@ Spider is **110 BCD, 5-arm** — rings must be 110 BCD **5-bolt**.
 | Praxis M30 BSA (OEM) | Stainless Steel | 103g | S$127.50 |
 
 ⚠️ Extralite checked 24 Sep: it saves only ~10-15g over BBInfinite, and M30 spindle spacing and preload are unconfirmed.
+
+**Ranking (24 Sep):** 1. BBInfinite Ceramitech 80g (**pick**) · 2. BBInfinite ABEC-7 83g (value) · 3. Extralite cups + bearings ~66-72g (only if M30 fit is confirmed) · 4. CEMA ~90-96g · 5. Chris King ~94g · 6. Praxis OEM 103g.
 
 *No ceramic option exists from Praxis directly.*
 
@@ -432,7 +434,7 @@ Headline candidates, biggest saving first:
 
 - [ ] Confirm the fork credit from Chris Yeo for omitting it, then order the SilverRock
 - [ ] Rank and choose headset; confirm 1-1/8" x 34mm threaded pattern with Chris Yeo
-- [ ] Rank and choose Bottom Bracket
+- [x] Rank Bottom Bracket (24 Sep): BBInfinite Ceramitech 80g. Extralite only if Chris Yeo/Extralite confirm the M30 fit
 - [ ] **Confirm axle standard with Chris Yeo (142×12 thru-axle vs 135mm QR) — this blocks the wheelset hub decision**, and also decides whether MiniMODs Ti skewers/axles are usable at all
 - [ ] Ask Chris Yeo whether the T20 uses a Brompton-pattern rear suspension block (MiniMODs rear shock options exist if so)
 - [ ] Finalize wheelset hub (RHET vs Hubsmith R027)
