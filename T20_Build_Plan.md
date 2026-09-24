@@ -6,7 +6,7 @@
 
 > ✅ **DECISION (24 Sep 2026): frame bought UNASSEMBLED.** HEXATI also offers frames pre-assembled (headset, seatpost clamp + liner, rear locking block, easy wheels, E-hook fitted). Considered, not taken — so those parts remain live purchase decisions.
 >
-> ✅ **DECISION (24 Sep 2026): order the dropout as thru-axle disc, 100/142.** It's a frame-order choice (rim / flat mount / thru-axle 74-112, 74-142, 100-142). Only **100/142** matches G Line's 100mm front spacing. ⚠️ **Confirm whether it's flat- or post-mount for calipers** — if post-mount only, §3 inverts and Shimano XT BR-M8100 becomes the default.
+> ✅ **DECISION (24 Sep 2026): order the dropout as thru-axle disc, 100/142.** It's a frame-order choice (rim / flat mount / thru-axle 74-112, 74-142, 100-142). Only **100/142** matches G Line's 100mm front spacing. ⚠️ **Flat- vs post-mount for calipers: deferred — you'll find out at purchase.** If post-mount only, §3 inverts and Shimano XT BR-M8100 becomes the default.
 >
 > ⚠️ **You are building a T20, not a G Line.** The G Line is the *design reference* for geometry and layout — it is not a parts constraint. Your frame, stem, fork and rear triangle are HEXATI/Silverock parts, so the interfaces that matter are **the T20's own**. Confirm these with Chris Yeo before ordering: **brake mount (leaning flat), handlebar clamp diameter, headset pattern, seatpost diameter, rear rack mounts.** Both A/C/P/T-pattern and G Line-pattern aftermarket parts are live candidates until he confirms.
 >
@@ -182,7 +182,7 @@ Spider is **110 BCD, 5-arm** — rings must be 110 BCD **5-bolt**.
 ## 3. Brakes
 
 **Direction: leaning FLAT MOUNT, open to post.** Mount is labelled on every caliper below.
-⏳ **Confirm the T20's actual brake mount with Chris Yeo.**
+⏳ **Brake mount deferred — confirmed at purchase.** Both caliper lists stay live.
 
 *If you do go post mount:* flat→post adapters are **+20mm**, so a flat mount position sized for 140mm needs a **160mm** rotor. Adapters ~10-37g each (typically ~16g). Total cost of the post route ≈ **70-80g**, plus fold/rear-triangle clearance to check.
 

@@ -143,7 +143,7 @@ Your stated priority is **easier low gears over top speed**, and the 8.3kg refer
 | **Wheel Angel × Extralite** | **675g/pair (±2%)** | ⚠️ **Likely 349mm, not 406mm** — verify size before getting excited |
 | **Wheel Angel carbon** `[8.3kg ref]` | **1,090g/set** | The 8.3kg build's wheelset. **This is where his biggest saving came from** — wheels + tyres + derailleur swap was over 2kg |
 
-⚠️ **Wheels and tyres are your largest remaining headroom.** Weigh the SMC Plume against 1,090g before finalising the hub choice.
+⚠️ **Wheels and tyres are your largest remaining headroom.** Compare the SMC Plume's published weight against 1,090g before finalising the hub choice.
 
 ## Tyres
 
@@ -325,9 +325,9 @@ Steven Heng's G Line reaches **8.3kg** — over a kilo under your 9.4-9.6kg targ
 | Chainring | Lightworks carbon **48T** | Lightworks **54T** | ✅ Same brand, you're geared taller |
 | Crank | Cane Creek eeWings (~400g) | Praxis Doon (~340g) | ✅ **Yours is lighter** |
 | BB | Titanium | Undecided (80-103g) | — |
-| Cassette | 230g | Nuton null¹ 11-50T | ⏳ Weigh yours |
+| Cassette | 230g | Nuton null¹ 11-50T | ⏳ Published weight TBC |
 | Drivetrain | SRAM Red AXS | Shimano XT M8100 | Yours is cheaper, his is lighter |
-| Wheels | Wheel Angel carbon **1,090g** | SMC Plume DW2 | ⏳ Weigh yours |
+| Wheels | Wheel Angel carbon **1,090g** | SMC Plume DW2 | ⏳ Published weight TBC |
 | Tyres | Schwalbe One 1.10" slick | Continental Urban Contact | His are far lighter; yours are tougher for city |
 | Bar | Schmolke carbon | Undecided | Schmolke now tracked |
 | Seatpost | Schmolke **carbon** | WOOdman GT2 alloy | ⚠️ Carbon — you excluded it for the child-seat clamp |
@@ -701,7 +701,7 @@ Unlike the rack/headset/brake questions above, this one isn't a T20-fitment gues
 | Bolts set | TPW Ti G Line | 52-70g |
 | Dropout hanger | TPW Ti G Line GRP-21B (135mm QR) | 48g |
 
-**Still unweighed:** WOOdman GT2 seatpost, Nuton null¹ cassette, SMC Plume DW2 wheelset, Continental Urban Contact tyres, Silverock carbon fork, HEXATI Ti stem, chain.
+**Weights come from published/manufacturer specs — the user will not weigh parts (decided 24 Sep).** Still missing a published weight: WOOdman GT2 seatpost, Nuton null¹ cassette, SMC Plume DW2 wheelset, Continental Urban Contact tyres, Silverock carbon fork, HEXATI Ti stem, chain.
 **Newly estimated:** main frame ~1,351g, rear triangle 633-800g — confirm both with Chris Yeo.
 
 ---
@@ -727,7 +727,7 @@ Unlike the rack/headset/brake questions above, this one isn't a T20-fitment gues
 
 **Recommendation: thru-axle disc, 100/142.** It's the only one of the four that actually matches G Line's own hub spacing rather than reusing classic Brompton's narrower 74mm front.
 
-⚠️ **One thing to confirm before locking this in: caliper mount type.** The listing names "flat mount" and "thru-axle disc" as separate options without saying whether the thru-axle disc dropout uses flat-mount or post-mount caliper tabs — thru-axle frames commonly ship post-mount. If 100/142 turns out to be post-mount-only, that reframes § Brakes: the post-mount route (Shimano XT BR-M8100, ~70-80g in adapters/rotors) stops being a fallback and becomes the default, not the flat-mount calipers currently ranked first. **Ask the seller/Chris Yeo this directly before ordering the dropout.**
+⚠️ **One thing to confirm before locking this in: caliper mount type.** The listing names "flat mount" and "thru-axle disc" as separate options without saying whether the thru-axle disc dropout uses flat-mount or post-mount caliper tabs — thru-axle frames commonly ship post-mount. If 100/142 turns out to be post-mount-only, that reframes § Brakes: the post-mount route (Shimano XT BR-M8100, ~70-80g in adapters/rotors) stops being a fallback and becomes the default, not the flat-mount calipers currently ranked first. **Deferred (24 Sep): the user will find out the mount type at purchase.** Keep both the flat- and post-mount caliper lists live until then.
 
 ⚠️ **This also reframes the wheelset side of things.** A 100mm front / 142mm rear thru-axle spec doesn't match the SUNCORD G Line wheelset tracked in § Wheelset (which lists 100mm/12mm thru-axle front but **135mm** rear, not 142mm) — worth re-checking that wheelset's exact rear spacing once your dropout choice is locked in, since 135mm and 142mm thru-axle are not interchangeable either.
 
