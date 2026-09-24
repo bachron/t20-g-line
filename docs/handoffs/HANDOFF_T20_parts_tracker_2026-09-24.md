@@ -49,17 +49,19 @@ Click **New**, set the working directory to that path, then:
 **Extralite Superlight/Hyper BSA bottom bracket — 21g.** Every other BB tracked is 80-103g.
 If the M30 fit confirms, that is **~59g from one part** — bigger than the saddle, grips or
 pedal decisions combined. The BB table has been unranked for weeks; this would settle it.
-**Confirm M30 compatibility first.**
+**Confirm M30 compatibility first.** ⚠️ Unverified caveat to check: the tracker lists the Praxis M30
+spindle as 30/28mm (steps down on the non-drive side), while the Extralite uses 6806 (30mm) bearings
+on both sides — it may need a 28mm non-drive bearing/shim, or not fit at all.
 
 ## Not yet done (priority order)
 
-1. **Confirm the 100/142 dropout's caliper mount — flat or post.** Not stated in the listing,
-   and thru-axle frames commonly default to post. **If post, the brakes section inverts**:
-   Shimano XT BR-M8100 becomes the default instead of the flat-mount calipers ranked first.
-2. **Confirm Extralite BB fits M30** (see above).
-3. **Weigh what you already own** — wheelset, tyres, seatpost, rear triangle, fork, stem,
-   cassette. Free, and four rows of the upgrade shortlist can't be ranked without it.
-   **There is still no running build-total weight.**
+1. **Confirm Extralite BB fits M30** (see above).
+2. **Find published weights** for the parts without one — WOOdman GT2 seatpost, Nuton null¹
+   cassette, SMC Plume DW2 wheelset, Continental Urban Contact tyres, Silverock fork, HEXATI Ti
+   stem, chain — then build the running total. **The user will not weigh parts themselves**
+   (decided 24 Sep, later the same day). **There is still no running build-total weight.**
+3. ~~Dropout caliper mount, flat or post~~ — **deferred: the user will find out at purchase.**
+   Don't ask again; keep both caliper lists live. If post, Shimano XT BR-M8100 becomes default.
 4. **Decide 54T vs 48T chainring.** 11-50T cassette: 54T = 1.08:1 low, 48T = 0.96:1. Free
    before purchase, and directly serves the "easier low gears" priority.
 5. **Fork credit** from Chris Yeo for deleting the fork from the bundle (amount TBC).
@@ -93,15 +95,18 @@ unanswered.**
 ## Reference
 
 - Global `~/.claude/CLAUDE.md` — **web tool rule: state whether the task is extraction- or
-  action-focused, recommend a tool, get confirmation before web work.** Crawl4AI and Browser
-  Use are named there but **not connected**; WebSearch + WebFetch are the confirmed stand-in.
+  action-focused, recommend a tool, get confirmation before web work.**
+- **Crawl4AI is now connected (24 Sep)** as user-scope MCP server `crawl4ai`: Docker container
+  `crawl4ai` on 127.0.0.1:11235, `--restart unless-stopped`, Bearer token in `~/.crawl4ai.env`.
+  **Docker Desktop must be running** or its tools show disconnected. Browser Use is still not
+  connected. WebSearch + WebFetch remain the fallback.
 - Karpathy principles in the same file.
 
 ## Resume instructions
 
 1. Read `T20_Build_Options.md`.
-2. **First action: chase the Extralite BB M30 fit** — biggest single saving available.
-3. Then the dropout caliper-mount question, since it may invert the brakes ranking.
-4. If the user wants to move without external answers: rank the bottom bracket, and push to
-   get owned parts weighed so a running build total can finally exist.
-5. **Before any web research, follow the CLAUDE.md rule.**
+2. **First action: chase the Extralite BB M30 fit** (incl. the 30/28mm caveat) — biggest single
+   saving available. Use Crawl4AI (extraction task).
+3. Then look up published weights for the unweighed parts and build the running total.
+4. Then rank the bottom bracket.
+5. **Before any web research, follow the CLAUDE.md rule** (extraction → Crawl4AI recommended).
