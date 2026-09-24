@@ -262,13 +262,13 @@ Spider is **110 BCD, 5-arm** — rings must be 110 BCD **5-bolt**.
 | ⭐ H&H (HH Innovation) Ti Seatpost v3 | 31.8mm | 311g (540mm DC) - 368g (600mm SC) | ~€175 (~S$257) |
 | ⭐ Ti Parts Workshop Ti Seatpost | 31.8mm | 284g | ~US$292 (~S$380) |
 
-⚠️ **Two open questions on this pick:** (1) ~~WOOdman weight never recorded~~. **Resolved: 277-307g**, which already matches or beats the Ti posts; (2) the carbon exclusion below contradicts the child-seat note in this same section (frame-mount vs seatpost-clamp — see below). **Titanium is safe either way**, which is why the two Ti posts are worth ranking against the WOOdman.
+⚠️ **Two open questions on this pick:** (1) ~~WOOdman weight never recorded~~. **Resolved: 277-307g**, which already matches or beats the Ti posts; (2) ~~frame-mount vs seatpost-clamp contradiction~~. **Resolved 24 Sep: the Yepp Nexxt 2 Maxi mounts on the seatpost; nothing mounts on the frame.** The carbon exclusion stands. Alloy (WOOdman) or titanium only.
 
 *Note: carbon excluded for the seatpost specifically, since the Thule Yepp Nexxt 2 Maxi child seat mount clamps onto the seatpost itself, not the frame tube. 31.8mm is a folding-bike-specific diameter — mainstream brands (Thomson, Ritchey, FSA, Deda) cap out at 31.6mm and don't make this size.*
 
 ### Child Seats
 - **Front:** Thule Yepp Mini — confirmed to fit G Line stem geometry, clamps onto the stem (not the fork steerer), so the carbon SilverRock fork is not an issue
-- **Rear:** Thule Yepp Nexxt 2 Maxi — frame-mount compliant with the T20's titanium seat tube (28-40mm spec), plenty of clear straight seat tube length for the mount bracket
+- **Rear:** Thule Yepp Nexxt 2 Maxi — ✅ **seatpost-mounted** (confirmed 24 Sep 2026). **No mounting on the frame.** Buy the seatpost-mount version and check its clamp range covers a 31.8mm post
 
 ### Saddle — ⏳ New section, not previously tracked
 | Option | Weight | Price | Notes |
@@ -447,7 +447,7 @@ Headline candidates, biggest saving first:
 - [ ] Choose pedals — **H&H Ti (215g) is the recommendation**; MKS Ezy / TPW QD as alternatives. Aerolite cylinder family logged as 🔮 future upgrade only
 - [ ] Choose rear rack — TPW Ti G Line (328g) is the only correct option found; look for lighter G Line alternatives
 - [ ] Confirm wheelset hub spec (135mm QR vs 142x12mm thru-axle), then order the matching TPW Ti dropout hanger (GRP-21B 48g / GRP-22B 54g)
-- [ ] Resolve the Yepp Nexxt 2 Maxi contradiction: frame-mount or seatpost-clamp? Determines whether carbon seatposts are allowed
+- [x] Yepp Nexxt 2 Maxi mounting resolved (24 Sep): **seatpost** (rear) and **stem** (front, Yepp Mini). Nothing on the frame. Carbon seatposts stay excluded
 - [ ] Get the WOOdman GT2's actual weight, then re-rank seatpost against the 284-311g Ti options
 - [ ] Confirm the T20's own interfaces with Chris Yeo: brake mount, handlebar clamp diameter, headset pattern (A/C/P/T vs G Line), seatpost diameter, rear rack mounts
 - [ ] Price the Shimano XTR road flat-mount caliper (103g, full hydraulic, no adapter) against the mechanical plan

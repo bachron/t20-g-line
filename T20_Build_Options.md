@@ -176,7 +176,7 @@ Your stated priority is **easier low gears over top speed**, and the 8.3kg refer
 
 **Two more things to settle:**
 1. ~~WOOdman weight never recorded~~. **Resolved 24 Sep: 277-307g by length.** It already matches or beats the Ti posts (284-311g), so switching to Ti gains nothing on weight.
-2. **The carbon exclusion may be over-broad.** §5 of the build plan says the Thule Yepp Nexxt 2 Maxi is *frame*-mounted to the seat tube, while the seatpost note says it clamps the *seatpost*. Those can't both be true. If it's frame-mounted, carbon posts come back into play; either way titanium is safe, which is why the two Ti options above are worth ranking.
+2. ✅ **Resolved 24 Sep 2026: the Thule Yepp Nexxt 2 Maxi mounts on the seatpost; nothing mounts on the frame.** The front Yepp Mini mounts on the stem. **The carbon seatpost exclusion stands.** The WOOdman alloy post (277-307g) already matches or beats the Ti posts, so there's no weight reason to change.
 
 *Note: 31.8mm is a folding-bike-specific diameter — mainstream road/MTB brands (Thomson, Ritchey, FSA, Deda) all cap out at 31.6mm and don't make a 31.8mm post, so alternatives had to come from the same folding-bike aftermarket space as WOOdman itself.*
 
@@ -928,7 +928,7 @@ Everything here is **tracked, not being purchased now**. "?" means the part you 
 - **The cylinder pedals conflict with how you use this bike** — no quick-release on any of them, proprietary cleats, and clipless with a front child seat. Genuinely brilliant engineering (Twisted Wheels runs Aerolites on a 5.99kg BWC bike), but that's a criterium bike with no child seat, rack or mudguards.
 - **Rider weight limits** apply to Ultralite Cirrus Ti (90kg) and Time XPro 12 SL (90kg). A child seat adds 10-15kg of load.
 - **Carbon bars** (Schmolke, Darimo) publish low rider limits and generally exclude child seats from warranty.
-- **Carbon seatposts** are excluded under your Thule Yepp clamp rule — *unless* the frame-mount vs seatpost-clamp contradiction in §5 of the build plan resolves the other way. Titanium is safe either way.
+- **Carbon seatposts** are excluded: the Thule Yepp Nexxt 2 Maxi clamps the seatpost (confirmed 24 Sep 2026).
 
 ## ❌ Not upgrades — logged so they aren't re-researched
 
