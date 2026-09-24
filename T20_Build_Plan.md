@@ -279,6 +279,13 @@ Spider is **110 BCD, 5-arm** — rings must be 110 BCD **5-bolt**.
 | Selle Italia SLR Boost (CarboKeramic) | 122-129g | Not confirmed | Padded, far comfier, still light — worth pricing |
 | ⭐ Tioga Spyder Stratum | 124g (carbon rails) | ~US$164-195 (~S$213-254) | Suspended shell, good comfort-per-gram. Best value |
 | Brooks Cambium C13 (carbon rails) | 259-301g | ~US$220 (~S$286); sale ~S$130 | Lightest Brooks, ~150g heavier than everything above |
+| 3D-printed: Prologo Nago R4 3DMSS | ~146-149g | — | Lightest 3D saddle; long nose |
+| 3D-printed: Selle Italia SLR Boost 3D Carbonio | ~167-171g | ~US$480 | |
+| 3D-printed: Fizik Vento Argo Adaptive 00 | 186g | ~£400 | Short nose |
+| 3D-printed: ⭐ S-Works Power with Mirror | 190-194g | ~US$600 | 7×9 carbon rails fit the WOOdman GT2 ✅ |
+| 3D-printed: Power Pro with Mirror (Ti rails) | 245g | ~US$450 | Same padding, +55g |
+
+*3D-printed saddles are a comfort upgrade, not a weight one. All are 45-120g heavier than the Tioga.*
 
 **On Brooks:** it's a comfort and character choice, not a lightweight one — the C13 is Brooks' lightest and still 2-3x a Berk. Worth it if you want it; just know it costs ~200g, one of the largest single-part savings still available in this build.
 
@@ -335,6 +342,7 @@ Must be flat/MTB bar to suit the XT M8100 flat-bar shifter.
 | Option | Weight (pair) | Price | Notes |
 |---|---|---|---|
 | ⭐ **H&H Titanium Pedals** | **215g** | — | 200g under Brompton stock (413g), **87g under the MKS**. Platform, no cleats |
+| 🆕 **WOOdman Ultralight Carbon** (QR) | **~186g** (unverified) | — | Carbon body, Ti axle, quick release. Lightest QR option if the weight holds |
 | MKS Compact Ezy | 302g | ~US$88-104 (~S$114-135) | Default folding-bike answer |
 | MKS UB-Lite Ezy | — | ~US$85-100 (~S$111-130) | QR platform, low-profile stub |
 | Ti Parts Workshop Alloy Mini QD | Ti holder 38.3g | from ~US$55 (~S$71) | Removable, cheapest |

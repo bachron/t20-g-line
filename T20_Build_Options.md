@@ -496,6 +496,20 @@ Taiwanese Brompton upgrade specialist (minimods.com.tw). ⚠️ **Most of their 
 | ⭐ **Tioga Spyder Stratum** | 124g (carbon rails) | ~US$164-195 (~S$213-254) | Suspended shell, good comfort-per-gram. **Best value** |
 | **Brooks Cambium C13** | 259-301g | ~US$220 (~S$286); sale ~S$130 | Lightest Brooks, still ~150g heavier than everything above. Comfort pick, not a weight pick |
 
+### 3D-printed saddles (researched 24 Sep 2026)
+
+| Option | Weight | Price | Notes |
+|---|---|---|---|
+| **Prologo Nago R4 PAS 3DMSS** (Nack carbon rails, 137mm) | **~146-149g** | — | Lightest 3D-printed saddle found. Long nose, cut-out, 3 pressure zones |
+| **Selle Italia SLR Boost 3D Kit Carbonio Superflow** | **~167-171g** (±8%) | ~US$480 | Short nose, wide Superflow cut-out. Firmer base layer + softer top layer |
+| **Elves Magic Osse Pro** | ~175g (135mm) | ~half the Italian/US price | Carbon base + rails. Best value in the 3D group |
+| **Fizik Vento Argo Adaptive 00** (150mm) | **186g** | ~£400 | Short nose, carbon base + rails |
+| ⭐ **Specialized S-Works Power with Mirror** | **190g (143mm) / 194g (155mm)** | ~US$600 | The famous one. Short nose, cut-out. ⚠️ Oversized **7×9mm carbon rails**; your WOOdman GT2 clamp **does fit 7×9** ✅. Specialized's fine print recommends replacing carbon-rail saddles every 3 years |
+| **Specialized Power Pro with Mirror** (hollow Ti rails) | **245g (143mm)** | ~US$450 (~US$150 less) | Same Mirror padding. Round 7×7mm rails, no 3-year carbon-rail caveat. +55g |
+| **Fizik Argo Adaptive R1 / R3** | 190-196g / 224-230g | lower | Carbon / alloy rails |
+
+⚖️ **Honest read:** 3D-printed saddles are a **comfort** upgrade, not a weight one. Every one is heavier than the Tioga Spyder Stratum (124g) and the padded Berk Lupina (95-104g). The S-Works Power Mirror costs ~70g over the Tioga. For upright city riding the short-nose **Power shape** (Specialized, Fizik Vento Argo) suits better than long-nose race shapes like the Nago R4. Sit on one before buying: saddle fit is individual.
+
 ---
 
 # Handlebar — ✅ **CARBON** (decided 24 Sep 2026), flat/MTB bar, 31.8mm clamp
@@ -546,6 +560,9 @@ On a folder, **removability usually beats slimness** — taking a pedal off does
 | **Aceoffix Lightweight Pedal Set** | — | — | Brompton-specific, newly tracked |
 | **Brompton T Line QR pedal** | — | — | Brompton's own QR design, ~15% under their standard set |
 | **Brombacher Lightweight** | — | — | Brompton-specific, newly tracked |
+| 🆕 **WOOdman Ultralight Carbon Pedals** (Brompton) | **~186g** ⚠️ unverified: from a search summary of a Joncycle listing, not seen on a retailer page | — | **Carbon body + titanium axle**, 3 sealed bearings, 12 stainless pins. Listed as **quick release** for folding bikes (Joncycle). Clever Cycles, Fantastic4Toys. Same brand as your seatpost and headset. **Would be the lightest QR option tracked, ~29g under H&H Ti.** Confirm weight and QR side before buying |
+| **Litepro carbon pedal (Ti axle, 3 bearings)** | 178g | — | Carbon body. ⚠️ **Quick release not stated** on the listing |
+| **Brompton Superlight QR** | 258g + 54g fitting parts ≈ 312g | — | Brompton's own QR, alloy |
 | **HT Components** `[8.3kg ref]` | — | — | The 8.3kg build's pedals |
 
 ## 🛒 Open-cage / multi-sided clipless — the Eggbeater family *(stated direction)*
