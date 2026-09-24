@@ -102,7 +102,7 @@ Everything else is **heavier**: e*thirteen (~360g and can't do 54T at all), eeWi
 **If the T20 takes the A/C/P/T threaded pattern:** H&H alloy (96.3g, ~S$90) is the value pick — 16g under Chris King at under half the price, and a real brand unlike the J&L generic.
 **If it takes the G Line pattern:** WOOdman Axis BPT (105g, ~S$155), same brand as your seatpost.
 
-## Chainring — ✅ FINALIZED: Lightworks 54T (**79g**, ~US$150 / ~S$195)
+## Chainring — ✅ DECIDED 24 Sep: Lightworks V2 **48T** (~56-60g). *The table below compares options at 54T, the earlier choice*
 
 Your spider is **110 BCD, 5-arm**, so rings must be 110 BCD **5-bolt**.
 
@@ -125,9 +125,21 @@ Your spider is **110 BCD, 5-arm**, so rings must be 110 BCD **5-bolt**.
 
 **One correction to your doc:** Carbon-Ti was listed as a 110 BCD 54T alternative. Its EVO 54T is **110 × 4-arm**. Cross it off unless you change spiders.
 
-### 📌 Still worth revisiting: 54T vs 48T
+### ✅ DECIDED (24 Sep 2026): **48T, not 54T**
 
-Your stated priority is **easier low gears over top speed**, and the 8.3kg reference build runs **Lightworks 48T**. With an 11-50T cassette, 54T gives a 1.08:1 low ratio vs 0.96:1 at 48T — meaningfully harder on hills with a child aboard. Same ring, same weight class, no cost difference. **This is the highest-value open question in the drivetrain.**
+With the 11-50T cassette on 20×2.0 tyres (~506mm wheel):
+
+| | 54T | **48T** |
+|---|---|---|
+| Lowest gear (ring ÷ 50T) | 1.08:1 | **0.96:1**, 11% easier |
+| Speed in lowest gear at 60 rpm | 6.2 km/h | 5.5 km/h |
+| Top speed at 90 rpm (11T) | 42.1 km/h | 37.4 km/h |
+| With a Shimano 11sp 11-46T (if you go 11-speed) | 1.17:1, harder than today | **1.04:1**, about the same as 54T on 11-50T |
+| Weight (Lightworks V2, SpinWarriors chart) | 72g (tracker had 79g from another source) | **56g** (another listing says 60g) |
+
+**Why:** the stated priority is easier low gears over top speed. 48T makes every gear 11% easier, including the one used on ramps with a child aboard. The only loss is top speed above ~37 km/h, which you won't reach riding with a child in the city. It also keeps 11-speed viable and saves ~15-20g. Same ring family, same 110 BCD 5-arm fit on the Lightworks spider, and the 8.3kg reference build runs the same ring.
+
+⚠️ **Availability:** Elite Custom SG lists the 110 BCD 48T as **sold out** (SGD 245, same price as the 54T). Check KaiCycle / Carousell or SpinWarriors (ID).
 
 ### Chainring Bolts — ported from the extralite session
 
@@ -260,7 +272,7 @@ Spec: Ti main frame w/ 3D-printed hinge; Ti rear fork w/ 3D-printed dropout, **1
 | Option | Speeds | RD weight | Shifter weight | Price | Notes |
 |---|---|---|---|---|---|
 | ✅ **Shimano XT M8100** | **12** | **283g** (SGS) | 120-132g | ~S$190 matched pair | Current pick. Pairs with the Nuton 11-50T |
-| **Shimano XT M8000** | **11** | **275g** | 117g | ~US$130 (~S$169) RD | ⚠️ Shimano 11sp MTB tops out at **11-46T** — with a 54T ring that's a **1.17:1** low vs 1.08:1 on 11-50T. **Worse for your "easier low gears" priority** unless you also drop to a 48T ring |
+| **Shimano XT M8000** | **11** | **275g** | 117g | ~US$130 (~S$169) RD | ⚠️ Shimano 11sp MTB tops out at **11-46T** — with a 54T ring that's a **1.17:1** low vs 1.08:1 on 11-50T. **With the 48T ring now chosen, 11-46T gives 1.04:1**, so 11-speed no longer costs you low-gear range |
 | **Shimano SLX M7000** | 11 | — | — | cheaper | Same 11-46T ceiling |
 | **microSHIFT Advent X / MX** | 10-11 | — | — | **RD ~US$71, shifter ~US$31** | Clutch RD, 11-48T steel cassette 417g (~US$45). **By far the cheapest wide-range route.** Works with both SRAM and Shimano 12sp derailleurs per user reports |
 | **SRAM GX Eagle** | 12 | — | — | — | Mainstream 12sp alternative |
@@ -331,7 +343,7 @@ Steven Heng's G Line reaches **8.3kg** — over a kilo under your 9.4-9.6kg targ
 | Fork | Silverock carbon (Mini Bro) | Silverock carbon | ✅ **Same brand** |
 | Rear triangle | Titanium | Titanium | ✅ Same |
 | Stem | Titanium (+ H&H faceplate) | Titanium | ✅ Same |
-| Chainring | Lightworks carbon **48T** | Lightworks **54T** | ✅ Same brand, you're geared taller |
+| Chainring | Lightworks carbon **48T** | Lightworks **48T** (decided 24 Sep) | ✅ **Same ring** |
 | Crank | Cane Creek eeWings (~400g) | Praxis Doon (~340g) | ✅ **Yours is lighter** |
 | BB | Titanium | Undecided (80-103g) | — |
 | Cassette | 230g | Nuton null¹ 11-50T | ⏳ Published weight TBC |
@@ -711,7 +723,7 @@ Unlike the rack/headset/brake questions above, this one isn't a T20-fitment gues
 | Chain | KMC X12, 126 links | 234 | 234 | Upper bound. Cutting it to length for 20" wheels will make it lighter |
 | Crankset | Praxis Doon 170mm | 335 | 342 | |
 | Spider | Lightworks 1X carbon | 36 | 36 | |
-| Chainring | Lightworks V2 54T | 79 | 79 | |
+| Chainring | Lightworks V2 **48T** | 56 | 60 | SpinWarriors chart 56g; another listing 60g |
 | Chainring bolts | Extralite ExtraBolt 1.2 | 5 | 5 | |
 | Bottom bracket | Extralite cups + bearings → Praxis OEM | 66 | 103 | Extralite ~66-72g is an estimate with M30 fit unconfirmed. BBInfinite 80g is the safe pick |
 | Pedals | H&H Ti platform → Eggbeater 2/3 | 215 | 280 | |
@@ -721,7 +733,7 @@ Unlike the rack/headset/brake questions above, this one isn't a T20-fitment gues
 | Saddle | undecided (Lupina padded → SLR Boost) | 95 | 129 | Tioga Spyder Stratum 124g sits in this range |
 | Rack | TPW Ti G Line | 328 | 328 | |
 | Dropout hanger | TPW **GRP-22B (142×12 thru-axle)** | 54 | 54 | Corrected from GRP-21B (135mm QR): the 100/142 thru-axle dropout decision needs the 22B |
-| **Running total (tracked parts)** | | **7,926g** | **8,421g** | |
+| **Running total (tracked parts)** | | **7,903g** | **8,402g** | |
 
 **Not yet in the total (no weight tracked):** inner tubes ×2, rear 142×12 thru-axle (SMC doesn't include one; TPW recommends M12×1.5 160mm), brake/shift cables and housing, seatpost clamp, hinge clamps/levers, rear locking block, easy wheels, E-hook, kickstand, lights, mudguards, the Yepp Mini stem adapter, bar tape/bolts. Realistically these add **several hundred grams**, so expect a bike in the **mid-8kg to ~9kg range**. That is under HEXATI's own 9.4kg complete T20, even with the rack, grips and city tyres.
 
@@ -875,7 +887,7 @@ Everything here is **tracked, not being purchased now**. "?" means the part you 
 
 **Free**
 - **Weigh what you already own** (wheelset, tyres, seatpost, rear triangle). Costs nothing, and four of the "?" rows below can't be judged until you do. Highest-value action left on the whole list.
-- **54T → 48T chainring** — same part, same price, same weight. Pure gearing gain toward your "easier low gears" priority. Only free if you haven't bought the 54T yet.
+- ~~**54T → 48T chainring**~~ ✅ **Done 24 Sep: 48T chosen.**
 
 **Cheap per gram (do these first if you upgrade at all)**
 - **ESI silicone foam grips** — ~175g saved for budget money. Probably the best grams-per-dollar in the entire build. Trade-off is comfort and losing the Ergon bar ends, not cash.

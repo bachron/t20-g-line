@@ -3,7 +3,7 @@
 **Base bike:** HEXATI T20 — titanium tri-fold 20" gravel-style folding bike, positioned as a Brompton G Line alternative.
 **Rider priorities:** general city use with a front child seat, easier low gears over top speed, weight-conscious throughout, prefers Singapore-based sellers where possible.
 **Target weight:** ~9.4-9.6kg (based on comparable full-spec quotes)
-**Running total (24 Sep 2026, published weights):** **7.93-8.42kg for tracked parts.** Still missing: tubes, rear thru-axle, cables, clamps and hinge hardware, lights, mudguards and the child-seat adapter, likely several hundred grams more. Realistic finished bike: **mid-8kg to ~9kg**, under the 9.4kg target. Full breakdown in `T20_Build_Options.md` → *Component weights — running build total*.
+**Running total (24 Sep 2026, published weights):** **7.90-8.40kg for tracked parts.** Still missing: tubes, rear thru-axle, cables, clamps and hinge hardware, lights, mudguards and the child-seat adapter, likely several hundred grams more. Realistic finished bike: **mid-8kg to ~9kg**, under the 9.4kg target. Full breakdown in `T20_Build_Options.md` → *Component weights — running build total*.
 
 > ✅ **DECISION (24 Sep 2026): frame bought UNASSEMBLED.** HEXATI also offers frames pre-assembled (headset, seatpost clamp + liner, rear locking block, easy wheels, E-hook fitted). Considered, not taken — so those parts remain live purchase decisions.
 >
@@ -98,7 +98,7 @@ Weights are arms + spindle, 170mm where published.
 | EliLee Carbon Crank Spider ⚠️ proprietary — not compatible with Praxis Doon | Not published | ~US$699-1,299 |
 | THM Carbones Clavicula M3 Carbon Spider ⚠️ proprietary — not compatible with Praxis Doon | ~40g | ~€109 (~S$161) |
 
-### Chainring — ✅ Lightworks 54T (**79g**, ~US$150 / ~S$195)
+### Chainring — ✅ Lightworks V2 **48T** (~56-60g), decided 24 Sep 2026. *Table compares options at 54T, the earlier choice*
 
 Spider is **110 BCD, 5-arm** — rings must be 110 BCD **5-bolt**.
 
@@ -117,7 +117,7 @@ Spider is **110 BCD, 5-arm** — rings must be 110 BCD **5-bolt**.
 
 ⚠️ **Verdict: don't change the chainring.** Lightworks at 79g is the lightest 54T researched. **Correction:** Carbon-Ti's 54T is 4-arm, not 5 — cross it off as an alternative.
 
-📌 **Still worth revisiting: 54T vs 48T.** Your priority is easier low gears, and the 8.3kg build runs Lightworks 48T. With an 11-50T cassette: 54T = 1.08:1 low, 48T = 0.96:1 — meaningfully easier on hills with a child aboard, same weight, same cost.
+✅ **DECIDED (24 Sep 2026): 48T.** With the 11-50T cassette the lowest gear goes 1.08:1 → **0.96:1 (11% easier)**. Top speed at 90 rpm drops 42 → 37 km/h, which is irrelevant with a child aboard in the city. It keeps 11-speed viable (11-46T gives 1.04:1) and saves ~15-20g. ⚠️ Elite Custom SG has the 110 BCD 48T sold out. Check KaiCycle / Carousell.
 
 ### Bottom Bracket — ⭐ Ranked: BBInfinite Ceramitech (80g)
 | Option | Bearing | Weight | Price |
@@ -154,7 +154,7 @@ Spider is **110 BCD, 5-arm** — rings must be 110 BCD **5-bolt**.
 
 ⚠️ **Correction:** the note below saying L-TWOO ER9 is "drop-bar only" no longer holds for the range — **eRX offers flat-bar shifters**, and L-TWOO makes MTB and folding-bike groupsets too.
 
-⚠️ Going 11-speed Shimano costs you gearing: 11sp MTB tops out at **11-46T**, so with the 54T ring the low gear goes **1.08:1 → 1.17:1** — harder, against your stated priority.
+⚠️ Going 11-speed Shimano costs you gearing: 11sp MTB tops out at **11-46T**, so with the 54T ring the low gear would go 1.08:1 → 1.17:1. **With the chosen 48T ring it's 1.04:1**, about the same as 54T on 11-50T, so this objection to 11-speed is gone.
 
 **Chain:** KMC X12 234g / Shimano CN-M8100 252g (12sp) · KMC DLC 11 227g / CN-HG601 257g (11sp). A 12sp chain runs on 11sp, but an **11sp chain is too thick for 12sp** — your existing KMC 11sp can't be reused on the current setup.
 
@@ -426,7 +426,7 @@ Headline candidates, biggest saving first:
 
 ⚠️ **Four rows say "?" because the part you own has never been weighed** — wheelset, tyres, seatpost, rear triangle. Those four are probably where the real weight is. **Weighing them is free, and it's the highest-value thing left on the list.**
 
-💡 **The two genuinely free wins:** weigh what you own, and decide 54T vs 48T before buying the chainring.
+💡 **Free wins:** ~~decide 54T vs 48T~~, done 24 Sep (48T).
 
 ---
 
@@ -451,7 +451,7 @@ Headline candidates, biggest saving first:
 - [ ] Get the WOOdman GT2's actual weight, then re-rank seatpost against the 284-311g Ti options
 - [ ] Confirm the T20's own interfaces with Chris Yeo: brake mount, handlebar clamp diameter, headset pattern (A/C/P/T vs G Line), seatpost diameter, rear rack mounts
 - [ ] Price the Shimano XTR road flat-mount caliper (103g, full hydraulic, no adapter) against the mechanical plan
-- [ ] **Decide 54T vs 48T chainring** — 1.08:1 vs 0.96:1 low gear with the 11-50T cassette. Same weight and price; your stated priority is easier low gears. Highest-value open drivetrain question
+- [x] **Chainring: 48T** (24 Sep 2026). 0.96:1 low gear with 11-50T. Buy the Lightworks V2 110 BCD 5-arm 48T
 - [ ] Confirm frame weight (assumed **1,351g** HEXATI) and rear triangle weight with Chris Yeo
 - [ ] Weigh remaining parts: WOOdman GT2 seatpost, Nuton cassette, SMC Plume DW2 wheelset, Continental tyres, Silverock fork, Ti stem, chain
 
