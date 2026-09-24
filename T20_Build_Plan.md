@@ -3,6 +3,7 @@
 **Base bike:** HEXATI T20 — titanium tri-fold 20" gravel-style folding bike, positioned as a Brompton G Line alternative.
 **Rider priorities:** general city use with a front child seat, easier low gears over top speed, weight-conscious throughout, prefers Singapore-based sellers where possible.
 **Target weight:** ~9.4-9.6kg (based on comparable full-spec quotes)
+**Running total (24 Sep 2026, published weights):** **7.93-8.42kg for tracked parts.** Still missing: tubes, rear thru-axle, cables, clamps and hinge hardware, lights, mudguards and the child-seat adapter, likely several hundred grams more. Realistic finished bike: **mid-8kg to ~9kg**, under the 9.4kg target. Full breakdown in `T20_Build_Options.md` → *Component weights — running build total*.
 
 > ✅ **DECISION (24 Sep 2026): frame bought UNASSEMBLED.** HEXATI also offers frames pre-assembled (headset, seatpost clamp + liner, rear locking block, easy wheels, E-hook fitted). Considered, not taken — so those parts remain live purchase decisions.
 >
@@ -36,7 +37,7 @@
 | | EasyTi 2025 G Line Ti — ⚠️ claim unverified | ~430g claimed | ~US$150-850 |
 | | Titanium-DX Ti (G Line) | ~800g | US$399 as carbon-fork + Ti-triangle set |
 | | Stock Brompton G Line steel (baseline) | 1,240g | — |
-| **Stem** | ✅ HEXATI Ti (yours) — 3D-printed hinge + bar clamp | ⏳ not published | +S$500 in the bundle |
+| **Stem** | ✅ HEXATI Ti (yours) — 3D-printed hinge + bar clamp | ⏳ not published (searched 24 Sep). Budget 450-560g | +S$500 in the bundle |
 | | COMEPLAY/HEXATI Ti replacement (A/C/P) — scale reference | S 560g / M 450g / P 440g / H 505g | ~US$425 |
 | | EasyTi Ti stems | — | ~US$98-100 |
 | | Litepro Ti H stem | ~505g | — |
@@ -52,12 +53,12 @@
 ### Fork — ✅ Plan: omit from the Chris Yeo bundle, buy separately
 | Rank | Option | Material | Source | Rationale |
 |---|---|---|---|---|
-| 1 ⭐ | SilverRock | Carbon | Bought separately | Takes the fork out of the Chris Yeo quote to bring the frameset price down |
+| 1 ⭐ | SilverRock | Carbon, 388g incl. thru-axle | Bought separately | Takes the fork out of the Chris Yeo quote to bring the frameset price down |
 | 2 | Stock HEXATI | Titanium | Chris Yeo | Fallback if the SilverRock doesn't work out |
 | 3 | Stock HEXATI | Carbon | Chris Yeo | The fork bundled into the S$2,900 price |
 
 *AceOfix carbon was the other separately-sourced fork considered.*
-*Other G Line forks now tracked: **Titanium-DX carbon, 290g published** (eBay) — a useful benchmark since the SilverRock's weight is still unrecorded; and **EasyTi titanium, ~290g ±8g claimed** (unverified).*
+*Other G Line forks now tracked: **Titanium-DX carbon, 290g published** (eBay) — vs the SilverRock's **388g incl. thru-axle** (published, 24 Sep); and **EasyTi titanium, ~290g ±8g claimed** (unverified).*
 *The Thule Yepp Mini clamps to the stem, not the fork steerer — a carbon fork is not a constraint for the front child seat.*
 
 **Chris Yeo itemized frameset pricing (reference):**
@@ -159,7 +160,7 @@ Spider is **110 BCD, 5-arm** — rings must be 110 BCD **5-bolt**.
 - Sourcing: Carousell (~S$190 new matched pair) or Japan retail (~S$186-188 new, ~S$168 tax-free)
 - L-TWOO ER9 Wireless was considered but ruled out — it's drop-bar only (hydraulic levers), doesn't fit the flat-bar/mechanical-lever plan
 
-### Cassette — ✅ Nuton Cycling null¹ MTB 12S/HG 11-50T
+### Cassette — ✅ Nuton Cycling null¹ MTB 12S/HG 11-50T (**286g**, official)
 - Chose to keep HG freehub/cassette instead of Micro Spline, while retaining the XT M8100 derailleur/shifter
 
 ### Chain — KMC 11-speed (from earlier reference spec; may need revisiting for 12-speed XT compatibility)
@@ -239,12 +240,12 @@ Spider is **110 BCD, 5-arm** — rings must be 110 BCD **5-bolt**.
 
 | Part | Decision | Status |
 |---|---|---|
-| Wheelset | SMC Plume DW2 carbon wheelset (406mm) | ⏳ Comparing RHET vs Hubsmith R027 hub options — **weight not recorded** |
-| Tyre | Continental Urban Contact (20") | ✅ Locked in — **weight not recorded** |
+| Wheelset | SMC PLUME-406-DW2 carbon wheelset (406mm) | ⏳ **945-1,045g with RHET hubs**, 1,025-1,130g with Hubsmith R027 (SMC, ±20g). **RHET is ~80-85g lighter.** 100/142×12 available; thru-axles not included |
+| Tyre | Continental Contact Urban 50-406 (20×2.0) | ✅ Locked in — **430g each / 860g pair** (manufacturer) |
 | `[8.3kg ref]` Wheelset | Wheel Angel carbon, **1,090g/set** | Reference target |
 | `[8.3kg ref]` Tyre | Schwalbe One 1.10" slick | Far lighter, but a race slick — thinner casing, less puncture protection. Probably the wrong trade for city + child |
 
-⚠️ **Wheels and tyres are your largest remaining headroom.** The 8.3kg build's single biggest saving (>2kg) came from swapping the hub-gear drivetrain, stock wheels and tyres. You've already made the derailleur half of that call — weigh the SMC Plume against 1,090g before finalising the hub.
+⚠️ **Wheels and tyres are your largest remaining headroom.** The 8.3kg build's single biggest saving (>2kg) came from swapping the hub-gear drivetrain, stock wheels and tyres. You've already made the derailleur half of that call — the SMC Plume with RHET hubs (945-1,045g) already beats the 1,090g reference set.
 
 ---
 
@@ -253,13 +254,13 @@ Spider is **110 BCD, 5-arm** — rings must be 110 BCD **5-bolt**.
 ### Seatpost — ✅ WOOdman GT2 aluminium (31.8mm, S$189)
 | Option | Diameter | Weight | Price |
 |---|---|---|---|
-| ✅ WOOdman GT2 | 31.8mm | — | S$189 |
+| ✅ WOOdman Post GT2 Long | 31.8mm | **277g (540) / 283g (570) / 307g (600)** | S$189 |
 | Litepro Aluminium | 31.8mm | ~482g | Budget |
 | Bromptonic Aluminium | 31.8mm | ~400g | — |
 | ⭐ H&H (HH Innovation) Ti Seatpost v3 | 31.8mm | 311g (540mm DC) - 368g (600mm SC) | ~€175 (~S$257) |
 | ⭐ Ti Parts Workshop Ti Seatpost | 31.8mm | 284g | ~US$292 (~S$380) |
 
-⚠️ **Two open questions on this pick:** (1) the WOOdman's weight was never recorded — it's the only untracked weight here, and the Ti options are 284-311g; (2) the carbon exclusion below contradicts the child-seat note in this same section (frame-mount vs seatpost-clamp — see below). **Titanium is safe either way**, which is why the two Ti posts are worth ranking against the WOOdman.
+⚠️ **Two open questions on this pick:** (1) ~~WOOdman weight never recorded~~. **Resolved: 277-307g**, which already matches or beats the Ti posts; (2) the carbon exclusion below contradicts the child-seat note in this same section (frame-mount vs seatpost-clamp — see below). **Titanium is safe either way**, which is why the two Ti posts are worth ranking against the WOOdman.
 
 *Note: carbon excluded for the seatpost specifically, since the Thule Yepp Nexxt 2 Maxi child seat mount clamps onto the seatpost itself, not the frame tube. 31.8mm is a folding-bike-specific diameter — mainstream brands (Thomson, Ritchey, FSA, Deda) cap out at 31.6mm and don't make this size.*
 

@@ -132,31 +132,31 @@ Your stated priority is **easier low gears over top speed**, and the 8.3kg refer
 
 | Option | Weight | Notes |
 |---|---|---|
-| ✅ **Nuton Cycling null¹ MTB 12S/HG 11-50T** | ⏳ not recorded | Locked in. HG freehub retained |
+| ✅ **Nuton Cycling null¹ MTB 12S/HG 11-50T** | **286g** (official; 11-46T 275g). ¥28,600 | Locked in. HG freehub retained |
 | **Lightweight cassette** `[8.3kg ref]` | **230g** | The 8.3kg build's cassette (model not stated) — a useful target number to weigh yours against |
 
 ## Wheelset
 
 | Option | Weight | Notes |
 |---|---|---|
-| **SMC Plume DW2 carbon (406)** | ⏳ not recorded | Current candidate; RHET vs Hubsmith R027 hub comparison in progress |
+| **SMC PLUME-406-DW2 carbon** | **945-1,045g (RHET)** / 1,025-1,130g (Hubsmith R027), ±20g | Current candidate. SMC publishes both hubs: **RHET is ~80-85g lighter than Hubsmith R027** on the same rim. Offered in 100/142×12 thru-axle, which SMC recommends for G Line. Thru-axles not included. Lightest is the C22-25 clincher rim (945g); the T22-30 tubeless rim is 1,045g |
 | **Wheel Angel × Extralite** | **675g/pair (±2%)** | ⚠️ **Likely 349mm, not 406mm** — verify size before getting excited |
 | **Wheel Angel carbon** `[8.3kg ref]` | **1,090g/set** | The 8.3kg build's wheelset. **This is where his biggest saving came from** — wheels + tyres + derailleur swap was over 2kg |
 
-⚠️ **Wheels and tyres are your largest remaining headroom.** Compare the SMC Plume's published weight against 1,090g before finalising the hub choice.
+⚠️ **Wheels and tyres are your largest remaining headroom.** The SMC Plume DW2 with RHET hubs (945-1,045g) is **lighter than the 8.3kg build's 1,090g Wheel Angel set**. RHET beats Hubsmith R027 by ~80-85g.
 
 ## Tyres
 
 | Option | Weight | Notes |
 |---|---|---|
-| ✅ **Continental Urban Contact (20")** | ⏳ not recorded | Locked in. Tougher, more puncture-resistant — sensible for city riding with a child |
+| ✅ **Continental Contact Urban 50-406 (20×2.0)** | **430g each / 860g pair** (manufacturer, via BIKE24). The 42-406 (20×1.6) is 355g if you want narrower | Locked in. Tougher, more puncture-resistant — sensible for city riding with a child |
 | **Schwalbe One 1.10" slick** `[8.3kg ref]` | — | The 8.3kg build's tyre. Far lighter but a race slick — **thinner casing, less puncture protection**. Probably the wrong trade for your use case |
 
 ## Seatpost (must be aluminium — carbon excluded for Thule Yepp Nexxt 2 Maxi clamp)
 
 | Option | Diameter | Weight | Price | Notes |
 |---|---|---|---|---|
-| ✅ **WOOdman GT2** | 31.8mm | — | S$189 | Confirmed pick |
+| ✅ **WOOdman Post GT2 Long** | 31.8mm | **277g (540mm) / 283g (570mm) / 307g (600mm)**, incl. post plug (WOOdman official) | S$189 | Confirmed pick. **Lighter than both Ti alternatives at 540-570mm** |
 | **Litepro Aluminium Seatpost** | 31.8mm (30.9-32.0mm range) | ~482g | Budget | Folding-bike specific, 620mm length |
 | **Bromptonic Aluminium Alloy Seatpost** | 31.8mm | ~400g | — | Folding-bike specific aftermarket, 580/600mm |
 | ⭐ **H&H (HH Innovation) Titanium Seatpost v3** | 31.8mm | **311g** (540mm DC) / 345g (600mm DC) / 334g (540mm SC) / 368g (600mm SC), incl. bung + clamp | ~€175 (~S$257) for 600mm DC | Double-butted Ti (1.05mm ends / 0.9mm centre), 95kg max load. **Titanium, not carbon — passes the child-seat clamp rule.** Lighter than every alloy option tracked |
@@ -166,7 +166,7 @@ Your stated priority is **easier low gears over top speed**, and the 8.3kg refer
 ⏳ **Fitment:** the H&H and Ti Parts Workshop posts are A/C/P/T Line parts, and sources conflict on Brompton seatpost diameter (31.6mm vs 31.8mm). Your build spec says 31.8mm — **confirm the T20's diameter with Chris Yeo before ordering either.**
 
 **Two more things to settle:**
-1. **The WOOdman's weight was never recorded.** It's the current pick but the only untracked weight in the table — the Ti alternatives are 284-311g.
+1. ~~WOOdman weight never recorded~~. **Resolved 24 Sep: 277-307g by length.** It already matches or beats the Ti posts (284-311g), so switching to Ti gains nothing on weight.
 2. **The carbon exclusion may be over-broad.** §5 of the build plan says the Thule Yepp Nexxt 2 Maxi is *frame*-mounted to the seat tube, while the seatpost note says it clamps the *seatpost*. Those can't both be true. If it's frame-mounted, carbon posts come back into play; either way titanium is safe, which is why the two Ti options above are worth ranking.
 
 *Note: 31.8mm is a folding-bike-specific diameter — mainstream road/MTB brands (Thomson, Ritchey, FSA, Deda) all cap out at 31.6mm and don't make a 31.8mm post, so alternatives had to come from the same folding-bike aftermarket space as WOOdman itself.*
@@ -223,13 +223,13 @@ Spec: Ti main frame w/ 3D-printed hinge; Ti rear fork w/ 3D-printed dropout, **1
 
 | Rank | Option | Material | Source | Notes |
 |---|---|---|---|---|
-| 1 ✅ | **SilverRock** `[8.3kg ref]` | Carbon | Bought separately | Chosen — omitted from the Chris Yeo bundle to bring the frameset price down. **The 8.3kg build uses the same brand** (Mini Bro carbon), a good independent endorsement |
+| 1 ✅ | **SilverRock** `[8.3kg ref]` | Carbon, **388g incl. 100×12 thru-axle** (fork alone ~365g) | Bought separately | Chosen — omitted from the Chris Yeo bundle to bring the frameset price down. **The 8.3kg build uses the same brand** (Mini Bro carbon), a good independent endorsement |
 | 2 | **Stock HEXATI** | Titanium | Chris Yeo | Fallback if the SilverRock doesn't work out |
 | 3 | **Stock HEXATI** | Carbon | Chris Yeo | The fork included in the S$2,900 bundle |
 | — | **AceOfix** | Carbon | Bought separately | The other separately-sourced fork considered |
-| — | **Titanium-DX carbon fork (G Line)** | Carbon, **290g** | eBay | Newly tracked. Published weight — useful benchmark for the SilverRock, whose weight is still unrecorded |
+| — | **Titanium-DX carbon fork (G Line)** | Carbon, **290g** | eBay | Newly tracked. Published weight — the SilverRock is ~75-100g heavier (365g fork / 388g with axle) |
 | — | **EasyTi Ti fork (G Line)** | Titanium, ~290g ±8g claimed | eBay | ⚠️ Claim unverified |
-| — | **HEXATI T20 Elite front fork** | Full Ti, 3D-printed ex steerer, 100×12mm thru-axle | Chris Yeo | The fork in the complete-bike spec |
+| — | **HEXATI T20 Elite front fork** | Full Ti, 3D-printed ex steerer, 100×12mm thru-axle, **439g** (HEXATI press release) | Chris Yeo | The fork in the complete-bike spec |
 
 *Fork credit from Chris Yeo for deleting it from the bundle is still TBC — worth confirming it beats the delivered SilverRock price before ordering.*
 
@@ -680,29 +680,43 @@ Unlike the rack/headset/brake questions above, this one isn't a T20-fitment gues
 
 ---
 
-# Component weights — reference for the build total
+# Component weights — running build total (published figures, 24 Sep 2026)
 
-| Part | Model | Weight |
-|---|---|---|
-| Rear derailleur | Shimano XT RD-M8100-SGS | **283g** |
-| Shifter | Shimano SL-M8100 | **120-132g** |
-| Crankset | Praxis Doon 170mm | 335-342g/pair |
-| Spider | Lightworks 1X carbon | 36g |
-| Chainring | Lightworks V2 54T (110 BCD) | **79g** |
-| **Drive side subtotal** | Doon + spider + ring | **~455g** |
-| Bottom bracket | (undecided) | 80-103g |
-| Headset | WOOdman Axis BPT | 105g |
-| Seatpost | WOOdman GT2 | **not recorded** |
-| Rack | TPW Ti G Line | 328g |
-| Main frame | COMEPLAY/HEXATI Ti G Line | **~1,351g** (assumed) |
-| Rear triangle | Ti (supplier TBC) | **633-800g** depending on source |
-| Stem | HEXATI Ti folding quill | ⏳ (comparable stems 440-560g) |
-| Wheelset | (benchmark: Wheel Angel carbon) | 1,090g |
-| Bolts set | TPW Ti G Line | 52-70g |
-| Dropout hanger | TPW Ti G Line GRP-21B (135mm QR) | 48g |
+**Weights come from published/manufacturer specs. The user will not weigh parts (decided 24 Sep).** Where a part is still undecided, the range runs from the lightest to the heaviest candidate still in contention.
 
-**Weights come from published/manufacturer specs — the user will not weigh parts (decided 24 Sep).** Still missing a published weight: WOOdman GT2 seatpost, Nuton null¹ cassette, SMC Plume DW2 wheelset, Continental Urban Contact tyres, Silverock carbon fork, HEXATI Ti stem, chain.
-**Newly estimated:** main frame ~1,351g, rear triangle 633-800g — confirm both with Chris Yeo.
+| Part | Model (current pick / leading option) | Low | High | Source / note |
+|---|---|---|---|---|
+| Main frame | COMEPLAY/HEXATI Ti G Line | 1,351 | 1,351 | tibicycles / HEXATI press release |
+| Rear triangle | HEXATI Ti, 3D-printed dropout | 633 | 633 | HEXATI press release (633g) |
+| Fork | Silverock carbon, **incl. 100×12 thru-axle** | 388 | 388 | 🆕 Fantastic4Toys: 388g with axle; eBay: 365g fork / 393g with axle (±10g) |
+| Stem | HEXATI Ti folding (S/M) | 450 | 560 | ⚠️ **Estimate.** No published weight found; range is COMEPLAY Ti A/C/P stems (M 450g, S 560g). Ask Chris Yeo |
+| Headset | WOOdman Axis BPT | 105 | 105 | Published |
+| Handlebar | undecided (Darimo carbon → Ti) | 80 | 180 | Ridea Ti weight unpublished; H&H Ti 179g used as the Ti ceiling |
+| Grips | Ergon GP2 Evo (S) | 230 | 230 | Deliberate comfort choice |
+| Brake levers | Extralite UltraLevers 3 | 46 | 46 | Pair |
+| Calipers | Juin Tech GT-F ×2 | 270 | 270 | Flat mount. XT M8100 post route: ~+70-80g |
+| Rotors | Ti-Parts carbon 140mm ×2 | 155 | 155 | |
+| Shifter | Shimano SL-M8100 | 120 | 132 | |
+| Rear derailleur | Shimano XT RD-M8100-SGS | 283 | 283 | |
+| Cassette | Nuton null¹ MTB 12S/HG 11-50T | 286 | 286 | 🆕 Official Nuton page (11-46T is 275g) |
+| Chain | KMC X12, 126 links | 234 | 234 | Upper bound. Cutting it to length for 20" wheels will make it lighter |
+| Crankset | Praxis Doon 170mm | 335 | 342 | |
+| Spider | Lightworks 1X carbon | 36 | 36 | |
+| Chainring | Lightworks V2 54T | 79 | 79 | |
+| Chainring bolts | Extralite ExtraBolt 1.2 | 5 | 5 | |
+| Bottom bracket | Extralite cups + bearings → Praxis OEM | 66 | 103 | Extralite ~66-72g is an estimate with M30 fit unconfirmed. BBInfinite 80g is the safe pick |
+| Pedals | H&H Ti platform → Eggbeater 2/3 | 215 | 280 | |
+| Wheelset | SMC PLUME-406-DW2, **RHET** hubs | 945 | 1,045 | 🆕 SMC: 945±20g (C22-25 rim) to 1,045±20g (T22-30 tubeless rim). **Thru-axles not included** |
+| Tyres | Continental Contact Urban 50-406 (20×2.0) ×2 | 860 | 860 | 🆕 430g each, manufacturer figure via BIKE24. Stock G Line size |
+| Seatpost | WOOdman Post GT2 Long 31.8 | 277 | 307 | 🆕 WOOdman: 277g (540mm), 283g (570mm), 307g (600mm), incl. plug |
+| Saddle | undecided (Lupina padded → SLR Boost) | 95 | 129 | Tioga Spyder Stratum 124g sits in this range |
+| Rack | TPW Ti G Line | 328 | 328 | |
+| Dropout hanger | TPW **GRP-22B (142×12 thru-axle)** | 54 | 54 | Corrected from GRP-21B (135mm QR): the 100/142 thru-axle dropout decision needs the 22B |
+| **Running total (tracked parts)** | | **7,926g** | **8,421g** | |
+
+**Not yet in the total (no weight tracked):** inner tubes ×2, rear 142×12 thru-axle (SMC doesn't include one; TPW recommends M12×1.5 160mm), brake/shift cables and housing, seatpost clamp, hinge clamps/levers, rear locking block, easy wheels, E-hook, kickstand, lights, mudguards, the Yepp Mini stem adapter, bar tape/bolts. Realistically these add **several hundred grams**, so expect a bike in the **mid-8kg to ~9kg range**. That is under HEXATI's own 9.4kg complete T20, even with the rack, grips and city tyres.
+
+**Biggest levers left:** the stem (110g spread, not even published), pedals (65g), handlebar (100g), the wheelset rim choice (100g), and tyres. A lighter 20" tyre could save 100g+ per wheel but gives up puncture protection, which the plan chose on purpose.
 
 ---
 
