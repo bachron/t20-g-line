@@ -126,8 +126,11 @@ Spider is **110 BCD, 5-arm** — rings must be 110 BCD **5-bolt**.
 | CEMA BSA (Praxis M30) | Stainless Steel | ~94-96g | ~€91.90 (~S$136) |
 | CEMA BSA (Praxis M30) | Ceramic (SRC hybrid) | ~90-92g | ~€124.90 (~S$184) |
 | Chris King ThreadFit 30 (Fit Kit #3) | Steel | ~94g | S$385 |
+| Extralite Superlight/Hyper cups + Enduro Praxis M30 bearings | 6806 + 6806/28 | ~66-72g (cups are 21g **without** bearings) | ~US$40 + £14-23.50 |
 | Chris King ThreadFit 30 (Fit Kit #3) | Ceramic | Slightly < steel | S$550 |
 | Praxis M30 BSA (OEM) | Stainless Steel | 103g | S$127.50 |
+
+⚠️ Extralite checked 24 Sep: it saves only ~10-15g over BBInfinite, and M30 spindle spacing and preload are unconfirmed.
 
 *No ceramic option exists from Praxis directly.*
 
