@@ -42,10 +42,11 @@ See **Future Upgrade Shortlist** at the end for everything marked 🔮 in one pl
 | **CEMA BSA (Praxis M30)** | Ceramic (SRC hybrid) | ~90-92g (confirmed, Praxis M30-specific) | ~€124.90 (~S$184) | Ceramic — only 2-4g lighter than steel; the weight difference is negligible |
 | **Chris King ThreadFit 30** (Fit Kit #3, 30mm cranks) | Steel angular-contact | ~94g (base unit; fit kit adds a little) | S$385 | Non-ceramic; Elite Custom SG, lifetime warranty |
 | **Chris King ThreadFit 30** (Fit Kit #3, 30mm cranks) | Ceramic angular-contact | Slightly lighter than steel version (exact figure not published) | S$550 | Ceramic upgrade (+S$165); lifetime warranty |
-| **Praxis M30 BSA (OEM)** | Stainless Steel | 103g (confirmed) | S$127.50 | Praxis's own-brand BB; lightest confirmed weight of the group |
+| **Praxis M30 BSA (OEM)** | Stainless Steel | 103g (confirmed) | S$127.50 | Praxis's own-brand BB |
+| ⭐ **Extralite Superlight/Hyper BSA** | Sealed cartridge, 6806 (30×42×7mm) | **21g** | Not published — BikeOnline, R2-Bike, Starbike (EU) | 🔥 **Undercuts every other option by ~59g** if the M30 fit is confirmed. **Highest-priority row to chase down in this whole table** |
 | **Titanium BB** `[8.3kg ref]` | — | — | — | The 8.3kg build ran a titanium BB (model not stated). ⚠️ Note it was paired with eeWings, not a Praxis M30 spindle — verify M30 fit |
 
-**Not yet ranked.** BBInfinite pricing is estimated (USD site didn't show a clean per-variant breakdown — worth confirming directly before buying). CEMA prices are EU list prices, excluding shipping/duty to Singapore; CEMA doesn't publish exact weights for its BBs. Chris King and Praxis M30 (OEM) prices are confirmed SGD from Elite Custom SG.
+**Not yet ranked — but the Extralite 21g cup set changes the picture entirely if it fits M30. Confirm that first; everything else is a 80-103g decision, this is a 21g one.** BBInfinite pricing is estimated (USD site didn't show a clean per-variant breakdown — worth confirming directly before buying). CEMA prices are EU list prices, excluding shipping/duty to Singapore; CEMA doesn't publish exact weights for its BBs. Chris King and Praxis M30 (OEM) prices are confirmed SGD from Elite Custom SG.
 
 ---
 
@@ -83,6 +84,7 @@ Everything else is **heavier**: e*thirteen (~360g and can't do 54T at all), eeWi
 | **J&L Ceramic Hybrid Threaded Headset** (28.6×34mm) | Ceramic hybrid | 90g | ~£20 (~S$34) | Very light/cheap but generic aftermarket brand, unproven durability |
 | **Chris King (Brompton-fit)** | Premium sealed cartridge | ~112g | ~US$150 (~S$195) | Gold standard for smoothness/longevity; also available in titanium |
 | ⭐ **WOOdman Axis BPT Headset** | Sealed cartridge, CNC 6061-T6 alloy | **105g/set (published)** | ~US$119 (~S$155) | Sold explicitly for Brompton **T Line and G Line**. Same brand as your seatpost |
+| ❌ **Extralite UltraTop/UltraBottom** | Sealed angular-contact | ~26-29g/cup | — | **Ruled out** — standard road/MTB threadless headset, not the Brompton/G Line pattern |
 | **Brompton G Line 1-1/8" Headset (OEM)** | Stock | — | — | G Line-pattern OEM part; the safe fallback if the T20 matches G Line |
 | ⭐ **H&H (HH Innovation) Alloy Headset** | Sealed cartridge | **96.3g (published)** | ~US$69 (~S$90) | 1-1/8" **threaded**, A/C/P/T Line pattern. **Lightest and cheapest credible option** — 16g under Chris King at under half the price |
 
@@ -118,6 +120,14 @@ Your spider is **110 BCD, 5-arm**, so rings must be 110 BCD **5-bolt**.
 
 Your stated priority is **easier low gears over top speed**, and the 8.3kg reference build runs **Lightworks 48T**. With an 11-50T cassette, 54T gives a 1.08:1 low ratio vs 0.96:1 at 48T — meaningfully harder on hills with a child aboard. Same ring, same weight class, no cost difference. **This is the highest-value open question in the drivetrain.**
 
+### Chainring Bolts — ported from the extralite session
+
+| Option | Weight | Price | Notes |
+|---|---|---|---|
+| ⭐ **Extralite ExtraBolt 1.2** | **4.8g** (set of 4) | ~€16 (~S$24) | Lightest tracked. ⚠️ Sold as a **4-piece** set — confirm the Lightworks spider's bolt count |
+| **Extralite ExtraBolt 1-1s** | 6.5g (set) | — | Slightly heavier alternate line |
+| Stock/generic steel bolts | ~15-20g (est.) | — | Baseline — cheap grams if the bolt count matches |
+
 ## Cassette
 
 | Option | Weight | Notes |
@@ -130,6 +140,7 @@ Your stated priority is **easier low gears over top speed**, and the 8.3kg refer
 | Option | Weight | Notes |
 |---|---|---|
 | **SMC Plume DW2 carbon (406)** | ⏳ not recorded | Current candidate; RHET vs Hubsmith R027 hub comparison in progress |
+| **Wheel Angel × Extralite** | **675g/pair (±2%)** | ⚠️ **Likely 349mm, not 406mm** — verify size before getting excited |
 | **Wheel Angel carbon** `[8.3kg ref]` | **1,090g/set** | The 8.3kg build's wheelset. **This is where his biggest saving came from** — wheels + tyres + derailleur swap was over 2kg |
 
 ⚠️ **Wheels and tyres are your largest remaining headroom.** Weigh the SMC Plume against 1,090g before finalising the hub choice.
@@ -231,12 +242,49 @@ Spec: Ti main frame w/ 3D-printed hinge; Ti rear fork w/ 3D-printed dropout, **1
 
 *Frameset pricing: Ti stem takes the Chris Yeo bundle from S$2,400 to S$2,900.*
 
-## Shifter/Rear Derailleur
+## Shifter / Rear Derailleur — **11 and 12 speed both open**
 
-| Option | Weight | Notes |
-|---|---|---|
-| ✅ **Shimano XT M8100** (12-speed mullet) | **RD-M8100-SGS 283g** + **SL-M8100 shifter 120-132g** | Locked in. ~S$190 for a new matched pair |
-| **SRAM Red AXS** `[8.3kg ref]` | — | The 8.3kg build's drivetrain. Lighter and wireless, but **vastly more expensive** — poor value for a city bike with a child seat |
+**DECISION (24 Sep 2026): keep both 11- and 12-speed on the table.** The chain error that started this (KMC 11sp listed against a 12sp drivetrain) can be fixed either way.
+
+### Mechanical
+
+| Option | Speeds | RD weight | Shifter weight | Price | Notes |
+|---|---|---|---|---|---|
+| ✅ **Shimano XT M8100** | **12** | **283g** (SGS) | 120-132g | ~S$190 matched pair | Current pick. Pairs with the Nuton 11-50T |
+| **Shimano XT M8000** | **11** | **275g** | 117g | ~US$130 (~S$169) RD | ⚠️ Shimano 11sp MTB tops out at **11-46T** — with a 54T ring that's a **1.17:1** low vs 1.08:1 on 11-50T. **Worse for your "easier low gears" priority** unless you also drop to a 48T ring |
+| **Shimano SLX M7000** | 11 | — | — | cheaper | Same 11-46T ceiling |
+| **microSHIFT Advent X / MX** | 10-11 | — | — | **RD ~US$71, shifter ~US$31** | Clutch RD, 11-48T steel cassette 417g (~US$45). **By far the cheapest wide-range route.** Works with both SRAM and Shimano 12sp derailleurs per user reports |
+| **SRAM GX Eagle** | 12 | — | — | — | Mainstream 12sp alternative |
+
+### Electronic / wireless
+
+| Option | Speeds | RD weight | Shifter weight | Price | Notes |
+|---|---|---|---|---|---|
+| ⭐ **Wheeltop EDS OX2.0** | **3-14 (!)** | **411g** | **69g** | ~£350 (~S$610) shifter + RD | 🔥 **Speed-agnostic — works with 11 OR 12 speed.** MTB platform, **flat-bar shifter available** (2-button, mounts over or under the bar). The one option that doesn't force the 11-vs-12 decision at all |
+| **L-TWOO eRX** | **10 / 11 / 12** | — | — | ~US$650 (~S$845) groupset, ~1,300g | ⚠️ **Corrects an earlier note in the build plan.** ER9 was ruled out as "drop-bar only" — but **eRX does offer flat-bar shifters**, and L-TWOO makes road, gravel, MTB, TT and *folding-bike* groupsets. Also multi-speed like the Wheeltop |
+| **L-TWOO eR9** | 11 | — | — | ~US$500 (~S$650) | The cheaper electronic tier; stock spec on the HEXATI T20 Lite/Elite |
+| **SRAM GX AXS** | 12 | 463g | 63g | ~£530 (~S$925) | Heavier RD and pricier than the Wheeltop |
+| **Archer Components D1x** | **any** | uses your existing mech RD | — | — | Wireless *shifter* that pulls a cable to any mechanical derailleur. Another speed-agnostic route — keeps the XT M8100 and just changes how it's actuated |
+| **SRAM Red AXS** `[8.3kg ref]` | 12 | — | — | — | The 8.3kg build's choice. Lightest, vastly most expensive |
+
+### 💡 The insight that resolves this
+
+**You don't have to choose.** Both **Wheeltop EDS OX2.0** (3-14 speed) and **Archer D1x** (any speed) are speed-agnostic — you could run 12sp now and drop to 11sp later, or vice versa, without replacing the shifter or derailleur.
+
+If you stay mechanical, **fix the chain and keep the XT M8100.** A 12-speed chain (KMC X12 234g, or Shimano CN-M8100 252g) costs ~S$40-80; switching to 11-speed costs a shifter, derailleur *and* cassette, and with Shimano's 11-46T ceiling it makes your low gear **harder**.
+
+⚠️ **Chain compatibility:** a 12-speed chain runs fine on an 11-speed system, but an **11-speed chain is too thick for 12-speed**. Your existing KMC 11sp can't be reused on the current setup.
+
+### Chain
+
+| Option | Speeds | Weight | Notes |
+|---|---|---|---|
+| ⭐ **KMC X12** | 12 | **234g** (126 links) | Lightest 12sp tracked |
+| **Shimano CN-M8100** | 12 | 252g (138 links) | HYPERGLIDE+, SIL-TEC, matched to the XT M8100 |
+| **KMC DLC 11** | 11 | **227g** (118 links) | Lightest overall — 11sp only |
+| **Shimano CN-HG601** | 11 | ~257g (114 links) | Solid pins, durable, heaviest |
+
+*Widths: 11sp ≈ 5.5mm, 12sp ≈ 5.3mm.*
 
 ---
 
@@ -244,14 +292,20 @@ Spec: Ti main frame w/ 3D-printed hinge; Ti rear fork w/ 3D-printed dropout, **1
 
 **You are building a T20, not a G Line.** The G Line is the *design reference* for geometry and layout; it is not a parts constraint. Your frame, stem and fork are HEXATI/Silverock parts from Chris Yeo, so the interfaces that actually matter are **the T20's own** — which means they need confirming with him, not assumed from either Brompton platform.
 
-| Interface | G Line reference spec | What it means for the T20 |
+**DECISION (24 Sep 2026): buying the frame UNASSEMBLED.** HEXATI now offers frames pre-assembled (headset, seatpost clamp + liner, rear locking block, easy wheels, E-hook already fitted). Noted as an option, but the build proceeds on the **unassembled** route — so the headset, seatpost clamp, easy wheels and E-hook rows in this tracker all remain live purchase decisions.
+
+**DECISION (24 Sep 2026): the T20 is treated as an exact G Line clone.** Fitment now resolves to G Line spec unless something proves otherwise.
+
+| Interface | Resolved spec | Consequence |
 |---|---|---|
-| **Brake mount** | Flat mount | ⏳ **Confirm the T20's mount.** Both flat and post are workable for you — post mount via a ~16g adapter |
-| **Rotor** | 140mm centre-lock | ⏳ Not binding on you. **But note:** flat→post adapters are **+20mm**, so a flat mount position sized for 140mm needs a **160mm** rotor with a post-mount caliper |
-| **Handlebar clamp** | 31.8mm | ⏳ **Confirm with Chris Yeo** — set by your HEXATI Ti stem. 31.8mm is likely but unverified. This gates the whole handlebar table |
-| **Headset** | G Line-specific 1-1/8" | ⏳ **Confirm the T20's headset spec.** Both the A/C/P/T-pattern parts (H&H, J&L, Chris King) and the G Line-pattern WOOdman are candidates until he tells you |
-| **Seatpost** | 540/600/telescopic; diameter disputed (31.6 vs 31.8mm) | ⏳ Your build spec says **31.8mm**. Confirm before ordering any Ti post |
-| **Rear rack mount** | G Line-specific | ⏳ **Confirm your rear triangle's mounts.** Neither the H&H (A/C/P/T) nor the TPW (G Line) racks are guaranteed — it depends on what Chris Yeo built |
+| **Brake mount** | ✅ **FLAT mount** (TRP FF-5 adapter on caliper) | Flat-mount calipers only — Juin Tech **GT-F**, Growtac Equal, TRP Spyre SLC, Shimano XTR road. Post mount still possible via ~16g adapter + 160mm rotors |
+| **Rotor** | ✅ **140mm centre-lock** | Ti-Parts carbon 77.3g or Carbon-Ti 86g |
+| **Handlebar clamp** | ✅ **31.8mm** | Darimo, Schmolke, Ridea carbon/Ti, WOOdman SL all fit. ❌ H&H 25.4mm bars are out |
+| **Headset** | ✅ **G Line pattern, 1-1/8"** | **WOOdman Axis BPT** (105g, ~US$119, sold for T & G Line) or G Line OEM. ❌ The A/C/P/T parts (H&H 96.3g, J&L, Chris King, Joseph Kuosac) are out |
+| **Seatpost** | ✅ **G Line lengths** (540 / 600 / 550-700mm telescopic) | ⚠️ Diameter still disputed in sources (31.6 vs 31.8mm). Your spec says **31.8mm** — measure before ordering a Ti post |
+| **Rear rack** | ✅ **G Line pattern** | **Ti Parts Workshop Ti G Line rack, 328g.** ❌ H&H A/C (215g) and P/T (250g) racks are out — the 170-328g spread resolves to 328g |
+| **Dropout / hub spacing** | ✅ **Order thru-axle disc, 100/142** | A **frame-order choice**: rim brake, flat mount, or thru-axle disc (74/112, 74/142, **100/142**). Only 100/142 matches G Line's 100mm front — the 74mm options are classic Brompton geometry. ⚠️ **Confirm whether that dropout is flat- or post-mount for calipers** — if post-mount only, the brakes section inverts and Shimano XT BR-M8100 becomes the default |
+| ~~**Axle**~~ | ✅ **Resolved by the dropout choice above** | Stock G Line appears to be **135mm QR** (the tibicycles Ti triangle is sold as "converts from 135mm QR to 142mm thru-axle"), but the **HEXATI T20 Elite spec states 142×12mm rear / 100×12mm front thru-axle**. The clone assumption doesn't settle this because HEXATI's own bike differs from stock. **Still blocks the wheelset hub choice — measure or ask.** |
 
 **Brands worth knowing:** Ti Parts Workshop, H&H, **Silverock** (your fork brand — also does forks, rear triangles and kickstands), **WOOdman** (your seatpost brand — also headsets and bars), Ridea, MiniMODs, SUNCORD.
 
@@ -649,6 +703,128 @@ Unlike the rack/headset/brake questions above, this one isn't a T20-fitment gues
 
 **Still unweighed:** WOOdman GT2 seatpost, Nuton null¹ cassette, SMC Plume DW2 wheelset, Continental Urban Contact tyres, Silverock carbon fork, HEXATI Ti stem, chain.
 **Newly estimated:** main frame ~1,351g, rear triangle 633-800g — confirm both with Chris Yeo.
+
+---
+
+---
+
+# ⬇️ Ported from the `extralite-parts-build` session (19 Sep 2026)
+
+*These sections were researched in a parallel session and merged in on 24 Sep. That session's branch has been deleted; this is now the single source of truth.*
+
+# Dropout — frame-order choice (new decision, not previously tracked)
+
+**This is chosen when the frame is built, before any aftermarket hanger or skewer matters.** HEXATI's own reseller listing (see § G Line Reference & Fitment) gives three dropout options: **rim brake**, **flat mount**, or **thru-axle disc** (in 74/112, 74/142, or 100/142 front/rear spacing).
+
+### Which one for a G Line clone?
+
+| Option | Front/rear spacing | Verdict for a G Line clone |
+|---|---|---|
+| Rim brake | — | ❌ Wrong brake architecture — you're already committed to disc (§ Brakes). G Line itself is disc-only with no rim brake track |
+| Flat mount | Not specified — almost certainly the legacy **74mm-front** QR pattern shared with classic Brompton A/C/P/T Line | ⚠️ Gets you the caliper mount type you've been leaning toward (§ Brakes), but **74mm front is classic Brompton geometry, not G Line** — G Line's own front spacing is a wider, more stable 100mm (confirmed: see § G Line Reference & Fitment) |
+| Thru-axle disc, 74/112 or 74/142 | 74mm front | ❌ Same issue — 74mm front is the classic-Brompton pattern, not G Line, regardless of thru-axle rear |
+| ⭐ **Thru-axle disc, 100/142** | **100mm front / 142mm rear** | ✅ **The G Line-correct choice.** 100mm front matches G Line's confirmed spec exactly; 142x12mm rear is the standard modern pairing |
+
+**Recommendation: thru-axle disc, 100/142.** It's the only one of the four that actually matches G Line's own hub spacing rather than reusing classic Brompton's narrower 74mm front.
+
+⚠️ **One thing to confirm before locking this in: caliper mount type.** The listing names "flat mount" and "thru-axle disc" as separate options without saying whether the thru-axle disc dropout uses flat-mount or post-mount caliper tabs — thru-axle frames commonly ship post-mount. If 100/142 turns out to be post-mount-only, that reframes § Brakes: the post-mount route (Shimano XT BR-M8100, ~70-80g in adapters/rotors) stops being a fallback and becomes the default, not the flat-mount calipers currently ranked first. **Ask the seller/Chris Yeo this directly before ordering the dropout.**
+
+⚠️ **This also reframes the wheelset side of things.** A 100mm front / 142mm rear thru-axle spec doesn't match the SUNCORD G Line wheelset tracked in § Wheelset (which lists 100mm/12mm thru-axle front but **135mm** rear, not 142mm) — worth re-checking that wheelset's exact rear spacing once your dropout choice is locked in, since 135mm and 142mm thru-axle are not interchangeable either.
+
+---
+
+# Dropout Hanger — the small replaceable part, matched to whichever dropout you order above
+
+This is a separate, cheaper part from the frame-order dropout decision above: the small bolt-on tab the rear derailleur mounts to. It must match your dropout's axle type — QR or thru-axle — which is why this section was previously written assuming 135mm QR, now superseded by the 100/142 thru-axle recommendation above.
+
+| Option | Material | Weight | Price | Notes |
+|---|---|---|---|---|
+| Ti Parts Workshop GRP-21B (135mm QR) | Titanium | **48g** | ~US$53.50-63 (~S$70-82) | Lightest option found — but **QR, not thru-axle**. Only relevant if you go with the "flat mount" (QR) dropout instead of 100/142 thru-axle |
+| ⭐ Ti Parts Workshop GRP-22B (142x12mm thru-axle) | Titanium | 54g | ~US$53.50-63 (~S$70-82) | **Matches the recommended 100/142 thru-axle dropout.** Pairs with a recommended M12x1.5 160mm thru-axle; often sold out |
+| Suncord Dropout Hanger — G Line | Not published — Suncord's catalog is all alloy/carbon, no Ti items found, so likely alloy | not published | ~US$43.90-57 (~S$59-77) | 142x12mm thru-axle only; no QR variant found; sold via Fantastic4Toys |
+| Stock Brompton G Line (OEM) | Steel (unconfirmed) | not published | ~US$14 (~S$18) | Baseline/spare reference — no weight savings |
+
+*Ti Parts Workshop is the only confirmed-titanium option; Suncord is an alloy-likely alternative at a similar or slightly lower price with no weight advantage confirmed.*
+
+**Recommendation:** GRP-22B (54g), matching the thru-axle disc 100/142 dropout recommended above. GRP-21B (48g) only applies if you order the "flat mount" (QR) dropout instead.
+
+---
+
+# Skewers (QR) / Thru-Axle — depends on which dropout you order
+
+**Now secondary to the § Dropout recommendation above (thru-axle disc, 100/142).** If you go with that, you need a **thru-axle**, not a QR skewer — the table below splits both paths.
+
+### If thru-axle disc, 100/142 (recommended)
+
+| Option | Length/thread | Weight | Price | Notes |
+|---|---|---|---|---|
+| Carbon-Ti X-Lock (rear, 142x12) | M12x1.5, 142x12 | Not published for the 160mm length this build needs | — | Established lightweight-thru-axle brand; confirm exact length against the GRP-22B hanger's recommended M12x1.5 160mm |
+| HEPPE Titanium Thru Axle (12x142) | M12x1.5 | Not published | — | Titanium-specific option; same caveat on confirming length |
+| Generic Ti thru-axle sets (e.g. Sparts) | M12x1.5, various lengths | ~45.7g quoted for a front+rear **pair** in one listing, but not this exact 142x12/160mm spec | Not confirmed | Illustrative weight only — don't treat as this build's number until a 160mm-length listing is found |
+
+⏳ None of these are confirmed at the exact 160mm length the GRP-22B hanger recommends — chase this down once the dropout/hanger order is placed, since axle length varies by frame and can't be guessed.
+
+### If flat mount (QR) dropout instead
+
+| Option | Compatibility | Weight | Price | Notes |
+|---|---|---|---|---|
+| ⭐ **Extralite Aliens 4** | 100/130-135mm | **39g/pair** | ~US$138 (~S$179) | Ti Grade 5 rods + 7075 hardware |
+| **Extralite Streeters** | 100/130mm only | **29g/pair** | — | ❌ Lighter, but road-spaced — **won't clamp a 135mm MTB-spaced hub**. Only viable if the hub turns out 130mm |
+
+---
+
+# Lights — new, not previously tracked
+
+City riding at night with a child aboard makes lights a safety item, not just a weight line — but weight and mount footprint still matter on a folder with an already-crowded cockpit (Ergon grips, XT shifter, brake lever, Yepp Mini stem clamp).
+
+### Front
+
+| Option | Lumens | Weight | Runtime | Price | Notes |
+|---|---|---|---|---|---|
+| ⭐ **Magicshine HORI 1300 PRO** | 1300 | **151g** | Not published (base HORI 1300 runtime differs) | ~US$80-100 (PRO price not confirmed; base HORI 1300 from $79.99) | Best lumens-per-gram of the Magicshine road/commuter range. Anti-glare beam cutoff — courteous on shared paths. ANT+/Di2/FTR LightSync |
+| **Magicshine EVO 1700 PRO** | 1700 | 165g | 14h max | ~US$89.99 | +14g and +400 lumens over the HORI — worth it if you want more throw for unlit stretches. MagicLock magnetic quick-mount is handy on a folder (light comes off in one motion when parking) |
+| **Magicshine ALLTY 1500S** | 1500 | 153g | Not published | ~US$109.99 | Older/pricier for less lumens than the EVO 1700 PRO at similar weight — dominated by the two above |
+| **Knog Blinder 1000** | 1000 | 148g (+19g bar mount / +12g GoPro mount) | Not published | Not confirmed | Non-Magicshine comparison. Lightest light-only weight tracked, but adds mount weight and gives up 300-700 lumens vs the Magicshine picks |
+| **Lezyne Micro Drive Pro 1000+** | 1000 | 168g | Not published | Not confirmed | Non-Magicshine comparison; heaviest of the group for the least lumens |
+
+**Recommendation:** HORI 1300 PRO for the best weight-to-lumens ratio; step up to the EVO 1700 PRO if the MagicLock quick-mount or extra throw matters more than 14g.
+
+⚠️ **Mount footprint not yet checked against the cockpit.** Confirm bar space once the handlebar (§ Handlebar) is picked — the Yepp Mini clamps the stem, not the bar, but a MagicLock or GoPro-style mount still needs clear bar real estate alongside the grips and shifter.
+
+### Rear
+
+| Option | Lumens | Weight | Runtime | Price | Notes |
+|---|---|---|---|---|---|
+| **Magicshine SEEMEE 20 V2.0** | 20 | **18g** | Not published | Not confirmed | Lightest tracked — a minimalist "be-seen" blinker, no brake sensor |
+| **Magicshine SEEMEE 50 PRO** | 50 | 28g | Not published | Not confirmed | Mid-weight step up from the SEEMEE 20 |
+| ⭐ **Magicshine SEEMEE 400** | 400 | **48g** | 107h (1600mAh) | ~US$64.99 | **Recommended for this build.** Smart brake-sensor flash (full 400lm alert under braking) is a real safety upgrade riding at night with a child aboard; ANT+ lets it link to a Garmin/Wahoo head unit if you add one later |
+| **Bontrager Flare RT** | — | 40g | — | Not confirmed | Non-Magicshine comparison; well-regarded daytime-running rear light, no brake sensor |
+| **Garmin Varia RTL515** | — | 71g | — | Not confirmed | Radar + taillight combo — heaviest and priciest here, but adds rear-approach alerts, arguably the most relevant safety feature of the group for city riding with a child. Worth a look despite the weight penalty |
+
+**Recommendation:** SEEMEE 400 for the brake-sensor safety case at low weight (48g); SEEMEE 20 V2.0 (18g) if you'd rather run it as a pure backup/secondary blinker. Varia RTL515 is worth a second look purely for the radar function, independent of the weight tracker logic used elsewhere in this doc.
+
+⏳ Confirm seatpost-mount clamp diameter against the WOOdman GT2 (31.8mm) — most quarter-turn taillight mounts are fine across 25-32mm, but worth checking once the seatpost question in § Seatpost is settled.
+
+---
+
+# Thx4Ride
+
+Thx4Ride (Macau) makes titanium/carbon Brompton upgrade parts. Mixed relevance: some are simply the wrong brake architecture, others are genuine weight-relevant finds:
+
+| Thx4Ride part | Platform | Weight | Price | Verdict for this build |
+|---|---|---|---|---|
+| Titanium/Aluminium Brake Caliper | C/P/T Line | — | — | ❌ **Wrong brake architecture** — Brompton's own rim/pull-cable caliper, not a flat/post-mount disc caliper. Same class of exclusion as Cane Creek eeBrake |
+| Titanium Brake Lever | Listed C/P/T Line (G Line appears only in one retailer's URL slug — unconfirmed) | **122g/pair** | ~US$362 (~S$471) | Heavier than your Extralite UltraLevers 3 pick (46g/pair) by **76g**. Logged for completeness — not weight-competitive |
+| Ultralight Aluminium Brake Lever | C/P/T/G Line | Not published | Not published | Cheaper than the Ti lever; still needs weighing before it's worth chasing against Extralite |
+| Titanium E-Hook | Separate SKUs for **C/P Line** and **T Line**; no G Line SKU found | 8g | ~US$95 (~S$124) | ❌ No G Line version found — likely the wrong hinge-lock geometry for the T20. Logged so it isn't re-researched |
+| Titanium Pedals V1/V2 | Universal folding-bike QR pedal (not Line-specific) | Not published | V2 from ~US$367 (~S$477) | ⏳ Weight not found — get this before ranking against MKS Compact Ezy (302g) or Ti Parts Workshop QD (38.3g holder) in the Pedals section |
+| ⭐ Titanium Polish Ezy Wheel | Universal fit (Brompton/Pikes/3-sixty) | Not published | ~US$237 (~S$308)/pair | Same new **Easy Wheels** category as the MiniMODs extender above — the T20's roller mechanism is now confirmed present (see § G Line Reference & Fitment), so this is a live candidate |
+| 3K Carbon / Forge Carbon Ezy Wheel | Universal fit | Not published | ~US$202 (~S$263) | Cheaper than the Ti version; carbon in a load-bearing roller wheel carries more wear risk than titanium — weigh both before deciding |
+| Titanium Quick Release Hinge Clamp | **C Line only** | — | ~US$262 (~S$341) starting | ❌ C Line-specific hinge geometry — not a G Line/T20 candidate |
+
+**Bottom line on Thx4Ride:** most of their range assumes either Brompton's own rim brakes or A/C/P/T-only hinge geometry, neither of which applies here. The two live candidates are the **Ezy Wheels** (fold mechanism now confirmed present) and the **titanium pedals** (pending weight) — everything else is either the wrong brake type or an unconfirmed/wrong-Line fitment.
+
+---
 
 ---
 

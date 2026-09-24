@@ -4,6 +4,10 @@
 **Rider priorities:** general city use with a front child seat, easier low gears over top speed, weight-conscious throughout, prefers Singapore-based sellers where possible.
 **Target weight:** ~9.4-9.6kg (based on comparable full-spec quotes)
 
+> ✅ **DECISION (24 Sep 2026): frame bought UNASSEMBLED.** HEXATI also offers frames pre-assembled (headset, seatpost clamp + liner, rear locking block, easy wheels, E-hook fitted). Considered, not taken — so those parts remain live purchase decisions.
+>
+> ✅ **DECISION (24 Sep 2026): order the dropout as thru-axle disc, 100/142.** It's a frame-order choice (rim / flat mount / thru-axle 74-112, 74-142, 100-142). Only **100/142** matches G Line's 100mm front spacing. ⚠️ **Confirm whether it's flat- or post-mount for calipers** — if post-mount only, §3 inverts and Shimano XT BR-M8100 becomes the default.
+>
 > ⚠️ **You are building a T20, not a G Line.** The G Line is the *design reference* for geometry and layout — it is not a parts constraint. Your frame, stem, fork and rear triangle are HEXATI/Silverock parts, so the interfaces that matter are **the T20's own**. Confirm these with Chris Yeo before ordering: **brake mount (leaning flat), handlebar clamp diameter, headset pattern, seatpost diameter, rear rack mounts.** Both A/C/P/T-pattern and G Line-pattern aftermarket parts are live candidates until he confirms.
 >
 > 📌 **Benchmark:** a documented Brompton G Line build reaches **8.3kg**. Its parts are folded into every table below tagged `[8.3kg ref]` for direct comparison. Note it has **no child seat, no rack and no mudguards** — treat 8.3kg as a stripped-bike floor, not a like-for-like target.
@@ -127,7 +131,28 @@ Spider is **110 BCD, 5-arm** — rings must be 110 BCD **5-bolt**.
 
 *No ceramic option exists from Praxis directly.*
 
-### Shifter / Rear Derailleur — ✅ Genuine Shimano Deore XT M8100 (12-speed mullet) — **RD-M8100-SGS 283g, SL-M8100 shifter 120-132g**
+### Shifter / Rear Derailleur — **11 and 12 speed both open** (24 Sep 2026)
+
+| Option | Speeds | RD | Shifter | Price |
+|---|---|---|---|---|
+| ✅ Shimano XT M8100 | **12** | 283g | 120-132g | ~S$190 pair |
+| Shimano XT M8000 | **11** | 275g | 117g | ~US$130 RD |
+| microSHIFT Advent X / MX | 10-11 | — | — | RD ~US$71 + shifter ~US$31 |
+| ⭐ **Wheeltop EDS OX2.0** | **3-14** | 411g | 69g | ~£350 |
+| L-TWOO eRX | 10/11/12 | — | — | ~US$650 groupset |
+| L-TWOO eR9 | 11 | — | — | ~US$500 |
+| SRAM GX AXS | 12 | 463g | 63g | ~£530 |
+| Archer D1x | **any** | your existing RD | — | — |
+
+💡 **You don't have to choose.** Wheeltop EDS OX2.0 (3-14sp) and Archer D1x (any speed) are **speed-agnostic** — run 12sp now, drop to 11sp later, same shifter and derailleur.
+
+⚠️ **Correction:** the note below saying L-TWOO ER9 is "drop-bar only" no longer holds for the range — **eRX offers flat-bar shifters**, and L-TWOO makes MTB and folding-bike groupsets too.
+
+⚠️ Going 11-speed Shimano costs you gearing: 11sp MTB tops out at **11-46T**, so with the 54T ring the low gear goes **1.08:1 → 1.17:1** — harder, against your stated priority.
+
+**Chain:** KMC X12 234g / Shimano CN-M8100 252g (12sp) · KMC DLC 11 227g / CN-HG601 257g (11sp). A 12sp chain runs on 11sp, but an **11sp chain is too thick for 12sp** — your existing KMC 11sp can't be reused on the current setup.
+
+### Original 12-speed note
 - Sourcing: Carousell (~S$190 new matched pair) or Japan retail (~S$186-188 new, ~S$168 tax-free)
 - L-TWOO ER9 Wireless was considered but ruled out — it's drop-bar only (hydraulic levers), doesn't fit the flat-bar/mechanical-lever plan
 
@@ -408,7 +433,8 @@ Headline candidates, biggest saving first:
 - [ ] Ask Chris Yeo whether the T20 uses a Brompton-pattern rear suspension block (MiniMODs rear shock options exist if so)
 - [ ] Finalize wheelset hub (RHET vs Hubsmith R027)
 - [ ] Finalize brake caliper/lever exact models
-- [ ] Confirm chain compatibility with 12-speed XT setup
+- [x] Chain compatibility resolved — 12sp options (KMC X12 234g / CN-M8100 252g) and 11sp options (KMC DLC 11 227g / CN-HG601 257g) both tracked; existing KMC 11sp unusable on 12sp
+- [ ] **Confirm the 100/142 dropout's caliper mount (flat vs post)** — inverts the brake ranking if post
 - [ ] Choose saddle — decide comfort (Brooks C13) vs weight (Berk / Selle Italia), ~200g at stake
 - [ ] Choose handlebar — 31.8mm confirmed; Ridea Ti (child-seat safe) vs Darimo/Schmolke/Ridea/WOOdman carbon (weight limits)
 - [x] Grips — Ergon GP2 Evo (230g) selected as comfort pick
