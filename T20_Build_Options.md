@@ -828,6 +828,20 @@ Thx4Ride (Macau) makes titanium/carbon Brompton upgrade parts. Mixed relevance: 
 
 ---
 
+# Open Questions to Track — ported from the extralite session
+
+### Frame / dropout
+- [ ] **Choose the frame dropout at order time.** HEXATI's menu: rim brake / flat mount / thru-axle disc (74/112, 74/142, **100/142**). **Recommendation: thru-axle disc 100/142** — the only option matching G Line's 100mm front spacing.
+- [ ] **Confirm caliper mount type on the 100/142 dropout** (flat or post) before finalising § Brakes — not stated in the reseller listing, and thru-axle frames commonly default to post mount.
+- [ ] **Confirm your specific frame matches the general reseller listing.** The pre-installed parts and dropout menu come from a general HEXATI/comeplay.titanium listing, not confirmation of your order. *(Less critical now the unassembled route is chosen.)*
+
+### Wheelset
+- [ ] **Confirmed weights for the two Extralite Carousell listings** — marketplace listings aren't reliably searchable; pull from the seller directly. General-market figure found was 675-700g/pair.
+- [ ] **Confirmed price for SMC Lunate RHET** — conflicting figures: ~US$1,198 (Speed Mini Cycle / Cyclopes Co) vs ~S$1,650 (Happy Owl Cycle). Likely moot anyway given the wheel-size and hub-gear issues.
+- [x] **T20 wheel size = 406mm**, well-supported (HEXATI T16/T18/T20 naming, tyre spec, and the reseller's "T20 — G Line geometry"). Worth a final physical check before ordering.
+
+---
+
 # 🔮 Future Upgrade Shortlist
 
 Everything here is **tracked, not being purchased now**. "?" means the part you already have hasn't been weighed yet.
