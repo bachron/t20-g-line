@@ -20,6 +20,31 @@
 
 *All frameset parts are genuine HEXATI, supplied through Chris Yeo (Bromprr).*
 
+### Titanium frame / rear triangle / stem suppliers (reference — frame & triangle already bought)
+
+| Part | Option | Weight | Price |
+|---|---|---|---|
+| **Main frame** | ⭐ COMEPLAY/HEXATI Ultimate Ti G Line — 3D-printed hinge + BB shell | **1,351g** | US$1,200 polished / US$1,350 coloured |
+| | Stock Brompton G Line steel (baseline) | 2,290g | — |
+| | Titanium-DX 3D-printed frameset | — | eBay |
+| | EasyTi frame sets | — | ~US$150-850 (eBay only) |
+| **Rear triangle** | ⭐ tibicycles Ultra-Light Ti (G Line), **142mm thru-axle** | **633.5g** | US$830-1,360 |
+| | EasyTi 2025 G Line Ti — ⚠️ claim unverified | ~430g claimed | ~US$150-850 |
+| | Titanium-DX Ti (G Line) | ~800g | US$399 as carbon-fork + Ti-triangle set |
+| | Stock Brompton G Line steel (baseline) | 1,240g | — |
+| **Stem** | ✅ HEXATI Ti (yours) — 3D-printed hinge + bar clamp | ⏳ not published | +S$500 in the bundle |
+| | COMEPLAY/HEXATI Ti replacement (A/C/P) — scale reference | S 560g / M 450g / P 440g / H 505g | ~US$425 |
+| | EasyTi Ti stems | — | ~US$98-100 |
+| | Litepro Ti H stem | ~505g | — |
+
+📌 **Your frame is almost certainly the 1,351g HEXATI** — Chris Yeo supplies HEXATI, and COMEPLAY/Aerotibike (already in your vendor comparison) is the same operation. Budget **1,351g** until confirmed.
+
+📌 **Complete-bike reference:** HEXATI T20 Lite/Elite ships at **9.4kg** for US$4,266-4,616 — Ti frame w/ 3D-printed hinge, Ti rear fork w/ 3D-printed dropout **142×12mm thru-axle**, full-Ti 3D-printed front fork **100×12mm thru-axle**, Ti stem, L-TWOO ER9 11sp wireless, L-TWOO EGR hydraulic disc, carbon-spoke wheels, IRC Siren Comp 20×1.95".
+
+⚠️ **Axle standard now blocks the wheelset decision.** The HEXATI T20 runs **142×12mm rear / 100×12mm front thru-axle**, and the tibicycles triangle converts 135mm QR → 142mm thru-axle. The RHET vs Hubsmith R027 hub choice can't be settled until you know which standard your frame and triangle use. **Ask Chris Yeo.**
+
+⚠️ **Don't over-generalise the 3D-print rejection.** The plan rejected a 3D-printed Ti *fork* on print quality, but HEXATI — your own frame — uses 3D printing for the **hinge clamp, BB shell and dropouts**: lugs and junctions, not load-bearing blades. Different proposition.
+
 ### Fork — ✅ Plan: omit from the Chris Yeo bundle, buy separately
 | Rank | Option | Material | Source | Rationale |
 |---|---|---|---|---|
@@ -28,6 +53,7 @@
 | 3 | Stock HEXATI | Carbon | Chris Yeo | The fork bundled into the S$2,900 price |
 
 *AceOfix carbon was the other separately-sourced fork considered.*
+*Other G Line forks now tracked: **Titanium-DX carbon, 290g published** (eBay) — a useful benchmark since the SilverRock's weight is still unrecorded; and **EasyTi titanium, ~290g ±8g claimed** (unverified).*
 *The Thule Yepp Mini clamps to the stem, not the fork steerer — a carbon fork is not a constraint for the front child seat.*
 
 **Chris Yeo itemized frameset pricing (reference):**
@@ -41,11 +67,22 @@
 ## 2. Drivetrain
 
 ### Crankset / Crank Arm — ✅ Praxis Doon 170mm (carbon arms / alloy M30-THRU spindle, ~335-342g/pair)
-| Option | Length | Material | Weight |
-|---|---|---|---|
-| ✅ Praxis Doon | 170mm | Carbon / alloy M30-THRU spindle | ~335-342g/pair |
-| Praxis Zayante Carbon | 170mm | Carbon / alloy M30 spindle | ~385g/pair |
-| Crane Creek eeWings | 170mm | Titanium only (no carbon/alloy version exists) | ~400g/pair |
+
+Weights are arms + spindle, 170mm where published.
+
+| Option | Weight | Chainring interface | Price | Notes |
+|---|---|---|---|---|
+| THM Clavicula M3 | **293-302g** | Proprietary THM spider | ~€641+ (2017 list) | Only crank lighter than the Doon, by ~40g. ⚠️ Proprietary spider; 54T availability unverified |
+| ✅ **Praxis Doon** | **~335-342g/pair** | 110 BCD via Lightworks spider | — | **Chosen. 2nd lightest tracked, best value by far** |
+| e*thirteen XCX Race Carbon | <360g (no ring) | ⚠️ Direct mount only | — | ❌ e13 UL rings are MTB sizes (~30-38T) — **no 54T** |
+| Cane Creek eeWings All-Road `[8.3kg ref]` | 395-400g | DM (8-bolt) / spider | **US$1,099.99 (~S$1,430)** | Titanium, 10-yr warranty. 60g heavier than the Doon for ~S$1,430 |
+| Praxis Zayante Carbon / Carbon-S | 408g (172.5mm) | 110 BCD spider | — | Same family, heavier arms |
+| Praxis Lyft (MTB) | 420g (170mm) | Direct mount | — | Heaviest Praxis carbon |
+| Rotor Aldhu 3D+ | 348g arms + 96g axle = **~444g** | DM spidering or 110 spider | — | Modular, 150-175mm arms. ✅ Its 1x DM spidering does reach **54T** |
+
+⚠️ **Verdict: don't change the crank.** The Doon is second-lightest of everything researched. Only THM beats it — ~40g, at several times the price, with a proprietary spider that would force abandoning the 36g Lightworks spider for a THM 54T ring that may not exist. Everything else is heavier.
+
+*Naming correction: the brand is **Cane Creek**, not "Crane Creek".*
 
 ### Spider — ✅ Lightworks 1X Carbon Spider (36g confirmed, S$250 sale/Elite Custom SG)
 | Option | Weight | Price (SGD) |
@@ -56,13 +93,26 @@
 | EliLee Carbon Crank Spider ⚠️ proprietary — not compatible with Praxis Doon | Not published | ~US$699-1,299 |
 | THM Carbones Clavicula M3 Carbon Spider ⚠️ proprietary — not compatible with Praxis Doon | ~40g | ~€109 (~S$161) |
 
-### Chainring — ✅ Lightworks 54T
-| Option | BCD | Teeth |
-|---|---|---|
-| ✅ Lightworks | 110 | 54T |
-| Carbon-Ti | 110 | 54T available |
-| Praxis | 110 | 46T (max available — doesn't offer 54T) |
-| Stone Chainrings | 110 | 54T available |
+### Chainring — ✅ Lightworks 54T (**79g**, ~US$150 / ~S$195)
+
+Spider is **110 BCD, 5-arm** — rings must be 110 BCD **5-bolt**.
+
+| Option | BCD / bolts | 54T? | Weight @54T | Notes |
+|---|---|---|---|---|
+| ✅ **Lightworks V2 Ultralight Carbon** | 110, **5-arm** | ✅ | **79g** | **Lightest 54T found anywhere, by 36g.** ~US$150. Available in SG |
+| Garbaruk | 110, 5-bolt | ✅ | **131g** | Lightest alloy 54T. +52g |
+| Carbon-Ti X-CarboRing EVO | 110 × **4-arm** | ✅ | 115g | ⚠️ **4-arm — will NOT fit your 5-arm spider.** Correction to the previous entry |
+| Stone Chainrings | 110, 5-bolt | ✅ | — | Huge range 36-60T, heaviest credible option |
+| AbsoluteBlack | 110, 5-bolt | ❌ >52T | 52T = 133g | Range stops short of 54T |
+| Wolf Tooth | 110, 5-bolt | ❌ | 52T = 143g | No 54T in 5-bolt |
+| Praxis | 110 | ❌ 46T max | — | Doesn't offer 54T |
+| Ridea LF | **130** | wrong BCD | 120g | ❌ Won't fit a 110 spider |
+| e*thirteen UL | Direct mount | ❌ | — | MTB sizes only |
+| Rotor 1x DM Spidering | DM (Aldhu) | ✅ 38-54T | — | Only viable with a Rotor Aldhu crank |
+
+⚠️ **Verdict: don't change the chainring.** Lightworks at 79g is the lightest 54T researched. **Correction:** Carbon-Ti's 54T is 4-arm, not 5 — cross it off as an alternative.
+
+📌 **Still worth revisiting: 54T vs 48T.** Your priority is easier low gears, and the 8.3kg build runs Lightworks 48T. With an 11-50T cassette: 54T = 1.08:1 low, 48T = 0.96:1 — meaningfully easier on hills with a child aboard, same weight, same cost.
 
 ### Bottom Bracket — ⏳ Not yet ranked
 | Option | Bearing | Weight | Price |
@@ -248,14 +298,60 @@ Must be flat/MTB bar to suit the XT M8100 flat-bar shifter.
 
 ## 6b. Pedals & Rear Rack (sourced independently)
 
-### Pedals — quick-release/removable strongly preferred on a folder
-| Option | Weight | Price | Notes |
+### Pedals — removability beats slimness on a folder
+
+**Platform / quick-release (recommended)**
+| Option | Weight (pair) | Price | Notes |
 |---|---|---|---|
+| ⭐ **H&H Titanium Pedals** | **215g** | — | 200g under Brompton stock (413g), **87g under the MKS**. Platform, no cleats |
+| MKS Compact Ezy | 302g | ~US$88-104 (~S$114-135) | Default folding-bike answer |
+| MKS UB-Lite Ezy | — | ~US$85-100 (~S$111-130) | QR platform, low-profile stub |
+| Ti Parts Workshop Alloy Mini QD | Ti holder 38.3g | from ~US$55 (~S$71) | Removable, cheapest |
+| Aceoffix / Brombacher / Brompton T Line QR | — | — | Brompton-specific, newly tracked |
 | HT Components `[8.3kg ref]` | — | — | The 8.3kg build's pedals |
-| ⭐ MKS Compact Ezy | 302g/pair | ~US$88-104 (~S$114-135) | MKS's lightest Ezy QR pedal; the default folding-bike answer |
-| MKS UB-Lite Ezy | — | ~US$85-100 (~S$111-130) | QR platform, low-profile stub when removed |
-| Ti Parts Workshop Alloy Mini QD / Double X QD | Ti holder alone 38.3g | from ~US$55 (~S$71) | 7075 alloy + Ti on the MKS QR system; removable not folding. Cheapest |
-| Xpedo M-Force 8 Ti | 220g/pair | ~US$270 (~S$351) | Lightest, Ti body + spindle — but clipless, likely wrong for city + child |
+
+**🛒 Open-cage / multi-sided clipless — the Eggbeater family** *(stated direction)*
+| Option | Weight (pair) | Price | Design |
+|---|---|---|---|
+| Crankbrothers Eggbeater 1 | 290g | ~US$60 | Stamped steel, **bushings** |
+| 🛒 Crankbrothers Eggbeater 2 | ~280g | ~US$95 / €99.99 | Cast steel, **bushings** — *the one you're looking at* |
+| ⭐ Crankbrothers Eggbeater 3 | 280g | ~US$135 | Cast steel, **needle bearings** |
+| Crankbrothers Eggbeater 11 | **178g** | ~US$450 | 6Al/4V Ti spindle/body/wings |
+| ⭐ Time ATAC XC 12 | **234g** | ~US$295 | Carbon body + Ti axle, **adjustable release tension** |
+| Time ATAC XC 8 / XC 10 / XC 6 | ~280g / — / ~300g | — / US$150 / US$90 | Composite bodies |
+| Xpedo M-Force 8 Ti | 220g | ~US$270 | Ti body + spindle |
+| Xpedo CXR Pro | 240g | — | SPD-compatible, Ti spindle |
+| Xpedo Spry | 270g | — | Magnesium |
+| HT Components T1 Ti `[8.3kg ref]` | 325g | — | Small platform, Ti spindle |
+
+⚖️ **The Eggbeater 2 is only ~22g lighter than your MKS (302g)** — it's a choice about clipping in, not about weight. If weight is the point, Eggbeater 11 saves 124g for ~US$450 (~S$4.7/g), and the **H&H Ti platform at 215g is lighter than everything here except the Eggbeater 11**.
+⚠️ Still clipless: unclipping at every junction with a child aboard, no QR for the fold, no riding in street shoes. **Crankbrothers Candy** (same mechanism + small platform) is the middle ground.
+💡 **Bearings matter more than grams here.** Eggbeater 1 and 2 use **bushings**; 3 and 11 use **needle bearings**. For daily riding in Singapore rain, stepping 2 → **3 (~US$135)** buys durability at the same weight.
+
+**🔮 Cylinder / bar-body clipless — the Aerolite family** *(future upgrade / spare, not this purchase)*
+| Option | Weight (pair) | Price | Design |
+|---|---|---|---|
+| Aerolite Alpha TT-Ceramic | **~60g** (30g each) | — | Cylinder + 304° cleat wrap. Claimed lightest ever |
+| Aerolite Titanium TT | 66g | — | Cylinder |
+| ⭐ Aerolite Titanium Road | **73g** | — | 6Al-4V Ti, Turcite bushings, **gold = TiN coating (stock finish)**. >1,300 lb to disengage. Made in USA. **What Twisted Wheels runs on his 5.99kg BWC Brompton** |
+| Ultralite Sports Cirrus Ti | 72g pedals / 112g w/ cleats | ~US$395-450 (~S$515-585) | **Double-barrel**. ⚠️ 90kg rider limit |
+| Ultralite Sports Nimbus Steel | heavier | cheaper | Double-barrel, steel |
+| Pitbull | ~255g (127.5g each) | — | Stainless steel bar, Aerolite-inspired |
+
+**🔮 Minimal but not cylindrical** *(future upgrade)*
+| Option | Weight (pair) | Design |
+|---|---|---|
+| Crank Brothers Eggbeater Ti 11 | 179g | Four-sided wire cage |
+| Time XPro 12 SL | 174-183g | Carbon blade. ⚠️ 90kg rider limit |
+| Wahoo Speedplay (Nano/Zero/Comp/Aero) | — | Round "lollipop" disc, double-sided, ~8.5mm stack, 0-15° float |
+| Xpedo M-Force 8 Ti | 220g | Clipless MTB |
+| Look Keo 2 Max | ~260g | Conventional road |
+
+⚠️ **Why the cylinders probably aren't right here.** Aerolite would save ~230g over the MKS — the largest single saving left in the build — but: (1) **no quick-release exists** for any cylinder pedal, and removal beats slimness for fold width; (2) proprietary cleats that walk badly; (3) **front child seat** means unclipping at every stop; (4) no platform at all, so normal shoes are impossible. Also watch the **90kg rider limits** on the Cirrus Ti and XPro 12 SL — a child seat adds 10-15kg of load.
+
+**Recommendation: H&H titanium, 215g.** Banks 87g against the MKS, keeps a platform, no cleats, no fold compromise.
+
+📌 **Context:** Twisted Wheels (Oleg Ko) runs Aerolites on a **5.99kg** custom T Line that took 15th at BWC — every part replaced except frame/fork/stem. That's a 15-minute criterium bike with no child seat, rack or mudguards. Yours targets 9.4-9.6kg *with* both.
 
 ### Rear Rack
 | Option | Platform | Weight | Price |
@@ -279,29 +375,56 @@ Must be flat/MTB bar to suit the XT M8100 flat-bar shifter.
 
 ---
 
+## 6c. 🔮 Future Upgrades / Spares
+
+Parts tracked for a later upgrade rather than this purchase. **Full prioritised list with weights saved is in `T20_Build_Options.md` → Future Upgrade Shortlist.**
+
+Headline candidates, biggest saving first:
+
+| Part | Upgrade | Saves |
+|---|---|---|
+| Wheelset | Wheel Angel carbon 1,090g | ? — likely the largest |
+| Pedals | Aerolite Ti Road 73g | ~230g |
+| Grips | ESI foam ~50-60g | ~175g vs Ergon GP2 Evo |
+| Saddle | Berk Lupina 75-79g | ~180g vs Brooks C13 |
+| Seatpost | TPW Ti 284g | ? |
+| Rear triangle | tibicycles Ti 633.5g | ? |
+| Crank | THM Clavicula M3 293-302g | ~40g |
+
+⚠️ **This list is ranked by grams saved, which pushes expensive exotica to the top. That ordering is not a recommendation.** Cost-per-gram varies enormously — ESI foam grips save ~175g for budget money, while THM Clavicula saves ~40g for ~S$943+ (**~S$23/g**, on a crank where your Doon is already second-lightest in the world). See the **Value tiers** section in `T20_Build_Options.md`.
+
+⚠️ **Four rows say "?" because the part you own has never been weighed** — wheelset, tyres, seatpost, rear triangle. Those four are probably where the real weight is. **Weighing them is free, and it's the highest-value thing left on the list.**
+
+💡 **The two genuinely free wins:** weigh what you own, and decide 54T vs 48T before buying the chainring.
+
+---
+
 ## 7. Open Decisions / Next Steps
 
 - [ ] Confirm the fork credit from Chris Yeo for omitting it, then order the SilverRock
 - [ ] Rank and choose headset; confirm 1-1/8" x 34mm threaded pattern with Chris Yeo
 - [ ] Rank and choose Bottom Bracket
+- [ ] **Confirm axle standard with Chris Yeo (142×12 thru-axle vs 135mm QR) — this blocks the wheelset hub decision**, and also decides whether MiniMODs Ti skewers/axles are usable at all
+- [ ] Ask Chris Yeo whether the T20 uses a Brompton-pattern rear suspension block (MiniMODs rear shock options exist if so)
 - [ ] Finalize wheelset hub (RHET vs Hubsmith R027)
 - [ ] Finalize brake caliper/lever exact models
 - [ ] Confirm chain compatibility with 12-speed XT setup
 - [ ] Choose saddle — decide comfort (Brooks C13) vs weight (Berk / Selle Italia), ~200g at stake
 - [ ] Choose handlebar — 31.8mm confirmed; Ridea Ti (child-seat safe) vs Darimo/Schmolke/Ridea/WOOdman carbon (weight limits)
 - [x] Grips — Ergon GP2 Evo (230g) selected as comfort pick
-- [ ] Choose pedals (MKS Ezy family vs Ti Parts Workshop QD)
+- [ ] Choose pedals — **H&H Ti (215g) is the recommendation**; MKS Ezy / TPW QD as alternatives. Aerolite cylinder family logged as 🔮 future upgrade only
 - [ ] Choose rear rack — TPW Ti G Line (328g) is the only correct option found; look for lighter G Line alternatives
 - [ ] Confirm wheelset hub spec (135mm QR vs 142x12mm thru-axle), then order the matching TPW Ti dropout hanger (GRP-21B 48g / GRP-22B 54g)
 - [ ] Resolve the Yepp Nexxt 2 Maxi contradiction: frame-mount or seatpost-clamp? Determines whether carbon seatposts are allowed
 - [ ] Get the WOOdman GT2's actual weight, then re-rank seatpost against the 284-311g Ti options
 - [ ] Confirm the T20's own interfaces with Chris Yeo: brake mount, handlebar clamp diameter, headset pattern (A/C/P/T vs G Line), seatpost diameter, rear rack mounts
 - [ ] Price the Shimano XTR road flat-mount caliper (103g, full hydraulic, no adapter) against the mechanical plan
-- [ ] Consider 48T vs 54T chainring — the 8.3kg build runs Lightworks 48T, and your stated priority is easier low gears
-- [ ] Weigh remaining parts: WOOdman GT2 seatpost, Lightworks 54T chainring, Nuton cassette, SMC Plume DW2 wheelset, Continental tyres, Silverock fork, Ti stem, frame, chain
+- [ ] **Decide 54T vs 48T chainring** — 1.08:1 vs 0.96:1 low gear with the 11-50T cassette. Same weight and price; your stated priority is easier low gears. Highest-value open drivetrain question
+- [ ] Confirm frame weight (assumed **1,351g** HEXATI) and rear triangle weight with Chris Yeo
+- [ ] Weigh remaining parts: WOOdman GT2 seatpost, Nuton cassette, SMC Plume DW2 wheelset, Continental tyres, Silverock fork, Ti stem, chain
 
 ---
 
-*Lightweight-brand survey (Sep 2026) added HH Innovation (H&H), Ti Parts Workshop, Ridea, Silverock, WOOdman, Brooks, Berk Composites, Gelu, Selle Italia, Tioga, Darimo, Schmolke, Extralite, Growtac, Paul, TRP, Juin Tech, Yokozuna, Carbon-Ti, Hassns, HT Components, Wheel Angel, MKS and Xpedo to the tracker, and corrected every part against G Line (not A/C/P/T Line) fitment. Full detail in T20_Build_Options.md.*
+*Lightweight-brand survey (Sep 2026) added HH Innovation (H&H), Ti Parts Workshop, MiniMODs, Aerolite, Ultralite Sports, THM, Rotor, e*thirteen, Garbaruk, EasyTi, Titanium-DX, COMEPLAY, Ridea, Silverock, WOOdman, Brooks, Berk Composites, Gelu, Selle Italia, Tioga, Darimo, Schmolke, Extralite, Growtac, Paul, TRP, Juin Tech, Yokozuna, Carbon-Ti, Hassns, HT Components, Wheel Angel, MKS and Xpedo to the tracker, and corrected every part against G Line (not A/C/P/T Line) fitment. Full detail in T20_Build_Options.md.*
 
 *Compiled from full build research and decisions to date. Minimum of 3 tracked options maintained per part where feasible; all crank arms standardized to 170mm and all chainrings to 54T where available.*
