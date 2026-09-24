@@ -3,7 +3,7 @@
 **Base bike:** HEXATI T20 — titanium tri-fold 20" gravel-style folding bike, positioned as a Brompton G Line alternative.
 **Rider priorities:** general city use with a front child seat, easier low gears over top speed, weight-conscious throughout, prefers Singapore-based sellers where possible.
 **Target weight:** ~9.4-9.6kg (based on comparable full-spec quotes)
-**Running total (24 Sep 2026, published weights):** **7.89-8.34kg for tracked parts.** Still missing: tubes, rear thru-axle, cables, clamps and hinge hardware, lights, mudguards and the child-seat adapter, likely several hundred grams more. Realistic finished bike: **mid-8kg to ~9kg**, under the 9.4kg target. Full breakdown in `T20_Build_Options.md` → *Component weights — running build total*.
+**Running total (24 Sep 2026, published weights):** **7.89-8.34kg for tracked parts.** Still missing: tubes, rear thru-axle, cables, clamps and hinge hardware, lights and mudguards, likely several hundred grams more. Realistic finished bike: **mid-8kg to ~9kg**, under the 9.4kg target. Full breakdown in `T20_Build_Options.md` → *Component weights — running build total*. **Child seats and their mounts are excluded from all planning weights (24 Sep): you will add them once the bike is running.**
 
 > ✅ **DECISION (24 Sep 2026): frame bought UNASSEMBLED.** HEXATI also offers frames pre-assembled (headset, seatpost clamp + liner, rear locking block, easy wheels, E-hook fitted). Considered, not taken — so those parts remain live purchase decisions.
 >

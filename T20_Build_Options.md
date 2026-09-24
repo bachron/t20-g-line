@@ -735,7 +735,9 @@ Unlike the rack/headset/brake questions above, this one isn't a T20-fitment gues
 | Dropout hanger | TPW **GRP-22B (142×12 thru-axle)** | 54 | 54 | Corrected from GRP-21B (135mm QR): the 100/142 thru-axle dropout decision needs the 22B |
 | **Running total (tracked parts)** | | **7,888g** | **8,337g** | |
 
-**Not yet in the total (no weight tracked):** inner tubes ×2, rear 142×12 thru-axle (SMC doesn't include one; TPW recommends M12×1.5 160mm), brake/shift cables and housing, seatpost clamp, hinge clamps/levers, rear locking block, easy wheels, E-hook, kickstand, lights, mudguards, the Yepp Mini stem adapter, bar tape/bolts. Realistically these add **several hundred grams**, so expect a bike in the **mid-8kg to ~9kg range**. That is under HEXATI's own 9.4kg complete T20, even with the rack, grips and city tyres.
+**Not yet in the total (no weight tracked):** inner tubes ×2, rear 142×12 thru-axle (SMC doesn't include one; TPW recommends M12×1.5 160mm), brake/shift cables and housing, seatpost clamp, hinge clamps/levers, rear locking block, easy wheels, E-hook, kickstand, lights, mudguards, bar tape/bolts.
+
+**Excluded from planning (decided 24 Sep 2026):** child seats (Yepp Mini front, Yepp Nexxt 2 Maxi rear) and their mounts/adapters. You will add them once the bike is running. **All build weights here are without the child seats.** Realistically these add **several hundred grams**, so expect a bike in the **mid-8kg to ~9kg range**. That is under HEXATI's own 9.4kg complete T20, even with the rack, grips and city tyres.
 
 **Biggest levers left:** the stem (110g spread, not even published), pedals (65g), handlebar (100g), the wheelset rim choice (100g), and tyres. A lighter 20" tyre could save 100g+ per wheel but gives up puncture protection, which the plan chose on purpose.
 
