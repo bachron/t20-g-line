@@ -3,7 +3,7 @@
 **Base bike:** HEXATI T20 — titanium tri-fold 20" gravel-style folding bike, positioned as a Brompton G Line alternative.
 **Rider priorities:** general city use with a front child seat, easier low gears over top speed, weight-conscious throughout, prefers Singapore-based sellers where possible.
 **Target weight:** ~9.4-9.6kg (based on comparable full-spec quotes)
-**Running total (24 Sep 2026, published weights):** **7.90-8.40kg for tracked parts.** Still missing: tubes, rear thru-axle, cables, clamps and hinge hardware, lights, mudguards and the child-seat adapter, likely several hundred grams more. Realistic finished bike: **mid-8kg to ~9kg**, under the 9.4kg target. Full breakdown in `T20_Build_Options.md` → *Component weights — running build total*.
+**Running total (24 Sep 2026, published weights):** **7.89-8.34kg for tracked parts.** Still missing: tubes, rear thru-axle, cables, clamps and hinge hardware, lights, mudguards and the child-seat adapter, likely several hundred grams more. Realistic finished bike: **mid-8kg to ~9kg**, under the 9.4kg target. Full breakdown in `T20_Build_Options.md` → *Component weights — running build total*.
 
 > ✅ **DECISION (24 Sep 2026): frame bought UNASSEMBLED.** HEXATI also offers frames pre-assembled (headset, seatpost clamp + liner, rear locking block, easy wheels, E-hook fitted). Considered, not taken — so those parts remain live purchase decisions.
 >
@@ -282,7 +282,7 @@ Spider is **110 BCD, 5-arm** — rings must be 110 BCD **5-bolt**.
 
 **On Brooks:** it's a comfort and character choice, not a lightweight one — the C13 is Brooks' lightest and still 2-3x a Berk. Worth it if you want it; just know it costs ~200g, one of the largest single-part savings still available in this build.
 
-### Handlebar — ⏳ confirm clamp diameter with Chris Yeo (G Line reference is 31.8mm)
+### Handlebar — ✅ CARBON (decided 24 Sep 2026, non-negotiable), 31.8mm
 Must be flat/MTB bar to suit the XT M8100 flat-bar shifter.
 
 | Option | Weight | Clamp | Price | Notes |
@@ -292,10 +292,10 @@ Must be flat/MTB bar to suit the XT M8100 flat-bar shifter.
 | Ridea Carbon HB HS3C | 90g | 31.8mm | — | SG-available |
 | Ridea Carbon PHB HS1C | 115g | 31.8mm, 580mm | — | SG-available |
 | WOOdman SL Carbon | — | 31.8mm | ~US$145 (~S$189) | **Sold as a G Line part**; same brand as your seatpost |
-| ⭐ Ridea Titanium Handlebar | — | 31.8mm | ~US$243 (~S$316) | Ti, child-seat-safe, SG-available |
+| ~~Ridea Titanium Handlebar~~ | — | 31.8mm | ~US$243 (~S$316) | ❌ Out: carbon decided 24 Sep |
 | H&H Titanium (Low Riser / S / M) | 179g | **25.4mm** | ~US$119-177 (~S$155-230) | ⏳ Only if the T20 stem is 25.4mm. Ti, child-seat-safe |
 
-⚠️ Schmolke and Darimo publish low rider-weight limits and generally exclude child seats and bar bags from warranty. The Yepp Mini clamps to the stem, not the bar — but a child rides over the cockpit and pulls on it. **Ridea titanium 31.8mm is the conservative G Line-correct pick.**
+✅ **DECISION (24 Sep 2026): carbon handlebar. Not open for renegotiation.** Titanium bars are out. The choice is now between the carbon options only (Schmolke, Darimo, Ridea HS3C/HS1C, WOOdman SL). Warranty note to act on, not to reopen the decision: Schmolke and Darimo publish low rider-weight limits and generally exclude child seats and bar bags from warranty. The Yepp Mini clamps to the stem, not the bar. **Check the rider-weight limit** of whichever carbon bar you pick against rider + child pulling on the cockpit.
 
 ### Grips
 | Option | Weight | Price | Notes |
@@ -442,7 +442,7 @@ Headline candidates, biggest saving first:
 - [x] Chain compatibility resolved — 12sp options (KMC X12 234g / CN-M8100 252g) and 11sp options (KMC DLC 11 227g / CN-HG601 257g) both tracked; existing KMC 11sp unusable on 12sp
 - [ ] **Confirm the 100/142 dropout's caliper mount (flat vs post)** — inverts the brake ranking if post
 - [ ] Choose saddle — decide comfort (Brooks C13) vs weight (Berk / Selle Italia), ~200g at stake
-- [ ] Choose handlebar — 31.8mm confirmed; Ridea Ti (child-seat safe) vs Darimo/Schmolke/Ridea/WOOdman carbon (weight limits)
+- [ ] Choose carbon handlebar model — **carbon decided 24 Sep**; Schmolke / Darimo / Ridea HS3C-HS1C / WOOdman SL. Check rider-weight limit
 - [x] Grips — Ergon GP2 Evo (230g) selected as comfort pick
 - [ ] Choose pedals — **H&H Ti (215g) is the recommendation**; MKS Ezy / TPW QD as alternatives. Aerolite cylinder family logged as 🔮 future upgrade only
 - [ ] Choose rear rack — TPW Ti G Line (328g) is the only correct option found; look for lighter G Line alternatives

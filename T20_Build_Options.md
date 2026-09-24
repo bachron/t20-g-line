@@ -498,7 +498,7 @@ Taiwanese Brompton upgrade specialist (minimods.com.tw). ⚠️ **Most of their 
 
 ---
 
-# Handlebar — flat/MTB bar; ⏳ **confirm clamp diameter with Chris Yeo** (G Line reference is 31.8mm)
+# Handlebar — ✅ **CARBON** (decided 24 Sep 2026), flat/MTB bar, 31.8mm clamp
 
 | Option | Weight | Clamp | Price | G Line fit |
 |---|---|---|---|---|
@@ -507,12 +507,12 @@ Taiwanese Brompton upgrade specialist (minimods.com.tw). ⚠️ **Most of their 
 | **Ridea Carbon HB HS3C** | 90g | 31.8mm | — | ✅ SG-available |
 | **Ridea Carbon PHB HS1C** | 115g | 31.8mm, 580mm | — | ✅ SG-available |
 | **WOOdman SL Carbon Handlebar** | — | 31.8mm | ~US$145 (~S$189) | ✅ **Sold explicitly as a G Line part**; same brand as your seatpost |
-| **Ridea Titanium Handlebar** | — | 31.8mm | ~US$243 (~S$316) | ✅ Ti, child-seat-safe |
+| ~~**Ridea Titanium Handlebar**~~ | — | 31.8mm | ~US$243 (~S$316) | ❌ Out: carbon bar decided 24 Sep |
 | **H&H Titanium** — Low Riser | 179g | **25.4mm** | ~US$135 (~S$176) | ⏳ Only if the T20 stem is 25.4mm. Titanium, child-seat-safe |
 | **H&H Titanium** — S type 550mm | — | **25.4mm** | ~US$119 (~S$155) | ⏳ Same caveat |
 | **Schmolke MTB Flatbar TLO 25.4mm** | 65-105g | **25.4mm** | €280-375 | ⏳ Schmolke's 25.4mm variant, if the stem needs it |
 
-⚠️ **Carbon bar + front child seat:** Schmolke and Darimo publish low rider-weight limits and generally exclude child seats and bar bags from warranty. The Yepp Mini clamps to the stem, not the bar — but a child rides over the cockpit and pulls on it. **Ridea titanium 31.8mm is the conservative G Line-correct choice.**
+✅ **DECISION (24 Sep 2026): carbon handlebar. Not open for renegotiation.** Titanium bars are out. The choice is now between the carbon options only (Schmolke, Darimo, Ridea HS3C/HS1C, WOOdman SL). Warranty note to act on, not to reopen the decision: Schmolke and Darimo publish low rider-weight limits and generally exclude child seats and bar bags from warranty. The Yepp Mini clamps to the stem, not the bar. **Check the rider-weight limit** of whichever carbon bar you pick against rider + child pulling on the cockpit.
 
 ---
 
@@ -712,7 +712,7 @@ Unlike the rack/headset/brake questions above, this one isn't a T20-fitment gues
 | Fork | Silverock carbon, **incl. 100×12 thru-axle** | 388 | 388 | 🆕 Fantastic4Toys: 388g with axle; eBay: 365g fork / 393g with axle (±10g) |
 | Stem | HEXATI Ti folding (S/M) | 450 | 560 | ⚠️ **Estimate.** No published weight found; range is COMEPLAY Ti A/C/P stems (M 450g, S 560g). Ask Chris Yeo |
 | Headset | WOOdman Axis BPT | 105 | 105 | Published |
-| Handlebar | undecided (Darimo carbon → Ti) | 80 | 180 | Ridea Ti weight unpublished; H&H Ti 179g used as the Ti ceiling |
+| Handlebar | **Carbon** (model undecided: Schmolke / Darimo / Ridea / WOOdman SL) | 65 | 115 | Schmolke TLO 65g to Ridea HS1C 115g |
 | Grips | Ergon GP2 Evo (S) | 230 | 230 | Deliberate comfort choice |
 | Brake levers | Extralite UltraLevers 3 | 46 | 46 | Pair |
 | Calipers | Juin Tech GT-F ×2 | 270 | 270 | Flat mount. XT M8100 post route: ~+70-80g |
@@ -733,7 +733,7 @@ Unlike the rack/headset/brake questions above, this one isn't a T20-fitment gues
 | Saddle | undecided (Lupina padded → SLR Boost) | 95 | 129 | Tioga Spyder Stratum 124g sits in this range |
 | Rack | TPW Ti G Line | 328 | 328 | |
 | Dropout hanger | TPW **GRP-22B (142×12 thru-axle)** | 54 | 54 | Corrected from GRP-21B (135mm QR): the 100/142 thru-axle dropout decision needs the 22B |
-| **Running total (tracked parts)** | | **7,903g** | **8,402g** | |
+| **Running total (tracked parts)** | | **7,888g** | **8,337g** | |
 
 **Not yet in the total (no weight tracked):** inner tubes ×2, rear 142×12 thru-axle (SMC doesn't include one; TPW recommends M12×1.5 160mm), brake/shift cables and housing, seatpost clamp, hinge clamps/levers, rear locking block, easy wheels, E-hook, kickstand, lights, mudguards, the Yepp Mini stem adapter, bar tape/bolts. Realistically these add **several hundred grams**, so expect a bike in the **mid-8kg to ~9kg range**. That is under HEXATI's own 9.4kg complete T20, even with the rack, grips and city tyres.
 
@@ -925,7 +925,7 @@ Everything here is **tracked, not being purchased now**. "?" means the part you 
 | **Saddle** | (undecided) | Berk Lupina 75-79g carbon | ~180g vs Brooks C13 | €319-395 |
 | **Seatpost** | WOOdman GT2 (**? g**) | TPW Titanium 284g / H&H Ti v3 311g | **?** — alloy rivals are 400-482g | ~S$257-380 |
 | **Rear triangle** | HEXATI Ti (**? g**) | tibicycles Ultra-Light Ti 633.5g | **?** | US$830-1,360 |
-| **Handlebar** | (undecided) | Schmolke TLO 65-105g / Darimo 79-98g | ~80-115g vs Ridea Ti | €159-375 |
+| **Handlebar** | **Carbon** (model undecided) | Schmolke TLO 65-105g / Darimo 79-98g / Ridea HS3C 90g | — | €159-375 |
 | **Rotors** | (undecided) | Ti-Parts carbon 77.3g / Carbon-Ti 86g | ~small vs steel | — |
 | **Crank** | Praxis Doon 335-342g | THM Clavicula M3 293-302g | **~40g** | ~€641+ |
 | **Frame bolts** | Stock | TPW Ti bolt set, 52g (18 bolts) | small but cheap | ~US$62 |
@@ -939,7 +939,7 @@ Everything here is **tracked, not being purchased now**. "?" means the part you 
 - **Four rows say "?"** because the part you already own has never been weighed — wheelset, tyres, seatpost, rear triangle. **Those four are probably where the real weight is**, and you can't rank any of it until they're on a scale. Weighing them costs nothing and is the single highest-value thing left on the list.
 - **The cylinder pedals conflict with how you use this bike** — no quick-release on any of them, proprietary cleats, and clipless with a front child seat. Genuinely brilliant engineering (Twisted Wheels runs Aerolites on a 5.99kg BWC bike), but that's a criterium bike with no child seat, rack or mudguards.
 - **Rider weight limits** apply to Ultralite Cirrus Ti (90kg) and Time XPro 12 SL (90kg). A child seat adds 10-15kg of load.
-- **Carbon bars** (Schmolke, Darimo) publish low rider limits and generally exclude child seats from warranty.
+- **Carbon bars** (Schmolke, Darimo) publish low rider limits and generally exclude child seats from warranty. Carbon is still the decision (24 Sep); check the limit of the chosen bar.
 - **Carbon seatposts** are excluded: the Thule Yepp Nexxt 2 Maxi clamps the seatpost (confirmed 24 Sep 2026).
 
 ## ❌ Not upgrades — logged so they aren't re-researched
