@@ -10,7 +10,7 @@
 >
 > ✅ **DECISION (24 Sep 2026): order the dropout as thru-axle disc, 100/142.** It's a frame-order choice (rim / flat mount / thru-axle 74-112, 74-142, 100-142). Only **100/142** matches G Line's 100mm front spacing. ⚠️ **Flat- vs post-mount for calipers: deferred — you'll find out at purchase.** If post-mount only, §3 inverts and Shimano XT BR-M8100 becomes the default.
 >
-> ⚠️ **You are building a T20, not a G Line.** The G Line is the *design reference* for geometry and layout — it is not a parts constraint. Your frame, stem, fork and rear triangle are HEXATI/Silverock parts, so the interfaces that matter are **the T20's own**. Confirm these with Chris Yeo before ordering: **brake mount (leaning flat), handlebar clamp diameter, headset pattern, seatpost diameter, rear rack mounts.** Both A/C/P/T-pattern and G Line-pattern aftermarket parts are live candidates until he confirms.
+> ⚠️ **You are building a T20, not a G Line.** The G Line is the *design reference* for geometry and layout — it is not a parts constraint. Your frame, stem, fork and rear triangle are HEXATI/Silverock parts, so the interfaces that matter are **the T20's own**. Confirm these with Chris Yeo before ordering: **brake mount (leaning flat), handlebar clamp diameter, headset pattern, ~~seatpost diameter~~ (✅ 31.8mm, confirmed 26 Sep), rear rack mounts.** Both A/C/P/T-pattern and G Line-pattern aftermarket parts are live candidates until he confirms.
 >
 > 📌 **Benchmark:** a documented Brompton G Line build reaches **8.3kg**. Its parts are folded into every table below tagged `[8.3kg ref]` for direct comparison. Note it has **no child seat, no rack and no mudguards** — treat 8.3kg as a stripped-bike floor, not a like-for-like target.
 
@@ -461,7 +461,7 @@ Headline candidates, biggest saving first:
 - [ ] Confirm wheelset hub spec (135mm QR vs 142x12mm thru-axle), then order the matching TPW Ti dropout hanger (GRP-21B 48g / GRP-22B 54g)
 - [x] Yepp Nexxt 2 Maxi mounting resolved (24 Sep): **seatpost** (rear) and **stem** (front, Yepp Mini). Nothing on the frame. Carbon seatposts stay excluded
 - [ ] Get the WOOdman GT2's actual weight, then re-rank seatpost against the 284-311g Ti options
-- [ ] Confirm the T20's own interfaces with Chris Yeo: brake mount, handlebar clamp diameter, headset pattern (A/C/P/T vs G Line), seatpost diameter, rear rack mounts
+- [ ] Confirm the T20's own interfaces with Chris Yeo: brake mount, handlebar clamp diameter, headset pattern (A/C/P/T vs G Line), ~~seatpost diameter~~ ✅ 31.8mm, rear rack mounts
 - [ ] Price the Shimano XTR road flat-mount caliper (103g, full hydraulic, no adapter) against the mechanical plan
 - [x] **Chainring: 48T** (24 Sep 2026). 0.96:1 low gear with 11-50T. Buy the Lightworks V2 110 BCD 5-arm 48T
 - [ ] Confirm frame weight (assumed **1,351g** HEXATI) and rear triangle weight with Chris Yeo
