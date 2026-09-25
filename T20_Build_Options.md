@@ -182,8 +182,12 @@ With the 11-50T cassette on 20×2.0 tyres (~506mm wheel):
 | **Bromptonic Aluminium Alloy Seatpost** | 31.8mm | ~400g | — | Folding-bike specific aftermarket, 580/600mm |
 | ⭐ **H&H (HH Innovation) Titanium Seatpost v3** | 31.8mm | **311g** (540mm DC) / 345g (600mm DC) / 334g (540mm SC) / 368g (600mm SC), incl. bung + clamp | ~€175 (~S$257) for 600mm DC | Double-butted Ti (1.05mm ends / 0.9mm centre), 95kg max load. **Titanium, not carbon — passes the child-seat clamp rule.** Lighter than every alloy option tracked |
 | ⭐ **Ti Parts Workshop Titanium Seatpost** | 31.8mm | **284g (published)** — ~110g under Brompton stock | ~US$292 (~S$380) | Lightest tracked. HK brand, CNC Ti-6AL-4V/Ti-3AL-2.5V |
-| ⭐ **HEXATI / COMEPLAY Titanium Seatpost** ("Brompton's standard Ti seatpost, necking down") | **31.8mm OD** | **268g without the plug** (standard 535mm; offered in 540 / 560 / 580 / 600mm or custom). Source: tibicycles.com product page, seen 26 Sep. **Plug not included** (confirmed 26 Sep): budget ~10-20g for one (estimate), so **~278-288g comparable** | **US$40 (~S$52)** direct at tibicycles.com, sale from US$68, tax incl. (shipping extra). **S$100** as a Chris Yeo bundle add-on | **GR9 Ti 3Al-2.5V.** Polished or coloured. **About level with the WOOdman on weight** once a plug is added (WOOdman's 277g at 540mm already includes its plug), **at about a quarter of the price.** Buy a 31.8mm seatpost plug separately Titanium, so it passes the child-seat clamp rule. Sold direct, so it works for **Build B** too. ⚠️ **Wall thickness is 1.2mm or 1.5mm, and the page doesn't say which one weighs 268g.** The Yepp Nexxt 2 Maxi clamps onto the post, so choose **1.5mm** and confirm its weight. ⚠️ Weight is for 535mm; longer posts weigh more |
+| ⭐ **HEXATI / COMEPLAY Titanium Seatpost** ("Brompton's standard Ti seatpost, necking down") | **31.8mm OD** | **268g without the plug** (standard 535mm; offered in 540 / 560 / 580 / 600mm or custom). Source: tibicycles.com product page, seen 26 Sep. **Plug not included** (confirmed 26 Sep): budget ~10-20g for one (estimate), so **~278-288g comparable** | **US$40 (~S$52)** direct at tibicycles.com, sale from US$68, tax incl. (shipping extra). **S$100** as a Chris Yeo bundle add-on | **GR9 Ti 3Al-2.5V.** Polished or coloured. **About level with the WOOdman on weight** once a plug is added (WOOdman's 277g at 540mm already includes its plug), **at about a quarter of the price.** Buy a 31.8mm seatpost plug separately Titanium, so it passes the child-seat clamp rule. Sold direct, so it works for **Build B** too. ⚠️ **Wall thickness is 1.2mm or 1.5mm, and the page doesn't say which one weighs 268g.** The Yepp Nexxt 2 Maxi clamps onto the post, so choose **1.5mm** and confirm its weight. ⚠️ Weight is for 535mm; longer posts weigh more. ⚠️ **"Necking down" means the top narrows for a separate saddle clamp**, like Brompton's standard post and the Brompfication Pentaclip version. If so, add a **Pentaclip (92-108g)** as well as a plug, making it **~370-400g comparable**: heavier than the WOOdman. **Ask Chris Yeo whether a saddle clamp is included and what it weighs** |
+| 🆕 **Brompfication Titanium Seatpost** (integrated saddle clamp) | 31.8mm | **310g ±10 (520mm Standard) / 330-345g ±10 (580mm Extended), all included**: post, Ti yokes, connecting rod, cradle and bolts, all Ti grade 5 | ~US$240 (~S$312), Clever Cycles | Danish brand. **Saddle clamp built in**, so no Pentaclip needed. 100kg rider limit, 5Nm rail torque. ⚠️ **Lengths are classic Brompton (520/580mm).** G Line posts are 540/600mm, so the **580mm Extended** is the one to look at; confirm it's long enough for your saddle height. Plug inclusion not stated |
+| 🆕 **Brompfication Titanium Seatpost, Pentaclip version** | 31.8mm | **~260g without Pentaclip** (535mm) | ~US$151 (Cyclopes Co) to US$240 (Clever Cycles) (~S$196-312) | Bare necked post for the **Brompton Pentaclip** saddle clamp (+92-108g: Superlight 92g, standard 106-108g). **Comparable weight ~352-368g** with a clamp. 535mm only |
 | **Schmolke carbon seatpost** `[8.3kg ref]` | — | — | — | ⚠️ **Carbon** — the 8.3kg build used it, but you excluded carbon over the Thule Yepp clamp. Only relevant if that exclusion turns out to be wrong (see below) |
+
+⚖️ **Compare like with like (26 Sep).** Posts are quoted with different parts included. **With saddle clamp + plug:** H&H ("incl. bung + clamp") and Brompfication integrated ("all included"). **Plug only:** WOOdman (clamp inclusion ⏳ confirm). **Bare tube:** HEXATI 268g and Brompfication Pentaclip 260g, which each need a plug and a ~92-108g Pentaclip. On a like-for-like basis, the bare necked posts are **not** the lightest.
 
 ✅ **Fitment (confirmed 26 Sep 2026): the T20 frame takes a 31.8mm seatpost**, and the HEXATI Ti post is 31.8mm. Every post in this table is 31.8mm, so all fit. (Sources had disagreed on 31.6 vs 31.8mm for Brompton; that no longer matters for this frame.)
 
@@ -386,6 +390,25 @@ Ridea is a major Taiwanese folding-bike component brand with **Singapore distrib
 
 ---
 
+# Brompfication
+
+Danish Brompton upgrade brand (brompfication.com). Titanium and alloy parts, **built for the classic A/C/P/T Line Brompton**. Sold via Clever Cycles, Curbside Cycle, Cyclopes Co, SJS Cycles, B-Spokes, Brompton Kitchen; used on Carousell SG. Researched 26 Sep 2026 from retailer listings (brompfication.com itself couldn't be fetched). Prices are US retailer prices, ~S$ at 1.30.
+
+| Brompfication part | Weight | Price | Verdict for this build |
+|---|---|---|---|
+| **Titanium Seatpost** (integrated clamp), 520 / 580mm | **310g / 330-345g** all included | ~US$240 (~S$312) | ✅ **Candidate.** 31.8mm fits. Take the **580mm**: G Line posts are 540/600mm. See § Seatpost |
+| **Titanium Seatpost, Pentaclip version**, 535mm | ~260g + Pentaclip 92-108g | ~US$151-240 (~S$196-312) | ✅ Fits, but ~352-368g with its clamp. The integrated version is better |
+| **QR Platform Pedals** (magnesium, Ti coupling) | **175g/pair** (155g version announced) | ~US$142; S$120 used SG | ✅ **Strong candidate.** Lightest QR platform tracked, 40g under H&H Ti. See § Pedals |
+| **Seat Clamp Quick Release** (frame seatpost clamp) | **21g** (brass version 38g), saves 34g vs Brompton | ~US$58 | ⏳ **Classic-Brompton clamp.** The G Line uses its own seatpost clamp (H&H sells a separate G Line one). Only if the T20's clamp matches the classic pattern. Ask Chris Yeo |
+| **Hinge Clamp Set** (Ti/alloy, 2 plates + 2 lever bolts) | **88g/set**, 20g under stock | ~US$80-98 | ⏳ **Listed for A/C/P Line.** TPW sells separate G Line hinge levers, which suggests the G Line hinge is different. Assume ❌ unless confirmed |
+| **Titanium 4 Bolt Set** (stem, bar catch, bar, suspension block) | 37g, saves 29g | — | ❌ Classic Brompton stem and suspension-block bolts. Your stem is HEXATI's own |
+| **Titanium S-type Handlebar** | 145g | — | ❌ 25.4mm clamp, and you've decided on carbon |
+| **Titanium Cog Sets** | — | — | ❌ Brompton hub-gear sprockets. You run a 12sp cassette |
+
+**Bottom line:** two parts are worth considering: the **Titanium Seatpost (580mm)** and the **QR Platform Pedals**. Everything else is classic-Brompton pattern or conflicts with decisions already made.
+
+---
+
 # MiniMODs
 
 Taiwanese Brompton upgrade specialist (minimods.com.tw). ⚠️ **Most of their catalogue is built around Brompton's internal/derailleur-hybrid gearing and does not apply to a 12-speed XT derailleur build.** Sorting the range:
@@ -561,6 +584,7 @@ On a folder, **removability usually beats slimness** — taking a pedal off does
 | **Aceoffix Lightweight Pedal Set** | — | — | Brompton-specific, newly tracked |
 | **Brompton T Line QR pedal** | — | — | Brompton's own QR design, ~15% under their standard set |
 | **Brombacher Lightweight** | — | — | Brompton-specific, newly tracked |
+| 🆕 **Brompfication QR Platform Pedals** | **175g/pair** (Brompfication has also announced a 155g version) | ~US$142 new (JP retail ¥16,200); **S$120 used** on Carousell SG | **Magnesium** body (75×65mm), titanium coupling, 7075 sleeve. **Quick release.** Lightest QR platform tracked with a published weight: **40g under the H&H Ti (215g)**. Standard pedal thread, so it fits the Praxis Doon. ⚠️ Magnesium bodies can corrode in wet weather; check the finish on used pairs |
 | 🆕 **WOOdman Ultralight Carbon Pedals** (Brompton) | **~186g** ⚠️ unverified: from a search summary of a Joncycle listing, not seen on a retailer page | — | **Carbon body + titanium axle**, 3 sealed bearings, 12 stainless pins. Listed as **quick release** for folding bikes (Joncycle). Clever Cycles, Fantastic4Toys. Same brand as your seatpost and headset. **Would be the lightest QR option tracked, ~29g under H&H Ti.** Confirm weight and QR side before buying |
 | **Litepro carbon pedal (Ti axle, 3 bearings)** | 178g | — | Carbon body. ⚠️ **Quick release not stated** on the listing |
 | **Brompton Superlight QR** | 258g + 54g fitting parts ≈ 312g | — | Brompton's own QR, alloy |

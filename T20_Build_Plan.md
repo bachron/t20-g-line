@@ -262,9 +262,11 @@ Spider is **110 BCD, 5-arm** — rings must be 110 BCD **5-bolt**.
 | Bromptonic Aluminium | 31.8mm | ~400g | — |
 | ⭐ H&H (HH Innovation) Ti Seatpost v3 | 31.8mm | 311g (540mm DC) - 368g (600mm SC) | ~€175 (~S$257) |
 | ⭐ Ti Parts Workshop Ti Seatpost | 31.8mm | 284g | ~US$292 (~S$380) |
+| 🆕 Brompfication Ti Seatpost (integrated clamp) | 31.8mm | **310g (520mm) / 330-345g (580mm)**, all included | ~US$240 (~S$312) |
+| 🆕 Brompfication Ti Seatpost, Pentaclip version | 31.8mm | ~260g + Pentaclip 92-108g | ~US$151-240 |
 | ⭐ HEXATI/COMEPLAY Ti Seatpost (Gr9 3Al-2.5V) | 31.8mm OD | **268g without plug** (535mm standard; 540/560/580/600mm offered). Plug sold separately, ~10-20g (est.) | **US$40 (~S$52)** direct at tibicycles.com (was US$68, tax incl.) · **S$100** via Chris Yeo bundle |
 
-💡 **HEXATI Ti post (26 Sep):** 268g **without a plug**; the WOOdman's 277g at 540mm **includes** its plug. With a plug added (~10-20g, est.) they're about level on weight, but the HEXATI is about a quarter of the price bought direct. Buy a plug separately. Titanium, so it's child-seat-clamp safe. ⚠️ Comes in **1.2mm or 1.5mm wall**. The 268g figure doesn't say which. With the Yepp Nexxt 2 Maxi clamping the post, ask for **1.5mm**, and ask what it weighs.
+💡 **HEXATI Ti post (26 Sep):** 268g **without a plug**; the WOOdman's 277g at 540mm **includes** its plug. With a plug added (~10-20g, est.) they're about level on weight, but the HEXATI is about a quarter of the price bought direct. Buy a plug separately. ⚠️ **It's a "necking down" post**, which on Brompton-style posts means a **separate saddle clamp (Pentaclip, 92-108g)**. If so it's ~370-400g comparable, heavier than the WOOdman. Ask Chris Yeo. Titanium, so it's child-seat-clamp safe. ⚠️ Comes in **1.2mm or 1.5mm wall**. The 268g figure doesn't say which. With the Yepp Nexxt 2 Maxi clamping the post, ask for **1.5mm**, and ask what it weighs.
 
 ⚠️ **Two open questions on this pick:** (1) ~~WOOdman weight never recorded~~. **Resolved: 277-307g**, which already matches or beats the Ti posts; (2) ~~frame-mount vs seatpost-clamp contradiction~~. **Resolved 24 Sep: the Yepp Nexxt 2 Maxi mounts on the seatpost; nothing mounts on the frame.** The carbon exclusion stands. Alloy (WOOdman) or titanium only.
 
@@ -346,6 +348,7 @@ Must be flat/MTB bar to suit the XT M8100 flat-bar shifter.
 | Option | Weight (pair) | Price | Notes |
 |---|---|---|---|
 | ⭐ **H&H Titanium Pedals** | **215g** | — | 200g under Brompton stock (413g), **87g under the MKS**. Platform, no cleats |
+| 🆕 **Brompfication QR Platform** | **175g** | ~US$142; S$120 used SG | Magnesium body, Ti coupling, QR. Lightest QR platform with a published weight |
 | 🆕 **WOOdman Ultralight Carbon** (QR) | **~186g** (unverified) | — | Carbon body, Ti axle, quick release. Lightest QR option if the weight holds |
 | MKS Compact Ezy | 302g | ~US$88-104 (~S$114-135) | Default folding-bike answer |
 | MKS UB-Lite Ezy | — | ~US$85-100 (~S$111-130) | QR platform, low-profile stub |
