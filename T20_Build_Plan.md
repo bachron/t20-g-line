@@ -145,13 +145,19 @@ Spider is **110 BCD, 5-arm** — rings must be 110 BCD **5-bolt**.
 | ✅ Shimano XT M8100 | **12** | 283g | 120-132g | ~S$190 pair |
 | Shimano XT M8000 | **11** | 275g | 117g | ~US$130 RD |
 | microSHIFT Advent X / MX | 10-11 | — | — | RD ~US$71 + shifter ~US$31 |
-| ⭐ **Wheeltop EDS OX2.0** | **3-14** | 411g | 69g | ~£350 |
-| L-TWOO eRX | 10/11/12 | — | — | ~US$650 groupset |
-| L-TWOO eR9 | 11 | — | — | ~US$500 |
+| ⚠️ Wheeltop EDS OX2.0 (battery charged on the bike) | **3-14** | 411g | 69g | ~£350 |
+| L-TWOO eRX 🔋❌ **non-removable battery** | 10/11/12 | — | — | ~US$650 groupset |
+| L-TWOO eR9 🔋❌ **non-removable battery** | 11 | — | — | ~US$500 |
+| ⭐ Shimano XTR Di2 M9250 🔋✅ | 12 | 389-391g + 24g battery | — | kit ~US$985 |
+| ⭐ Shimano XT Di2 M8250 🔋✅ | 12 | 447g + battery | — | kit ~US$860 |
+| Shimano Deore Di2 M6250 🔋✅ | 12 | — | — | kit ~US$675 |
+| SRAM XX1 / X01 Eagle AXS (non-T-Type) 🔋✅ | 12 | ~398g / ~415g incl. battery | — | mostly used |
 | SRAM GX AXS | 12 | 463g | 63g | ~£530 |
 | Archer D1x | **any** | your existing RD | — | — |
 
-💡 **You don't have to choose.** Wheeltop EDS OX2.0 (3-14sp) and Archer D1x (any speed) are **speed-agnostic** — run 12sp now, drop to 11sp later, same shifter and derailleur.
+🔋 **Battery rule (26 Sep 2026): electronic shifting must have a battery you can take off to charge.** L-TWOO fails (non-removable), Wheeltop charges on the bike. **Shortlist: Shimano XTR Di2 / XT Di2 (removable battery, standard hanger), or used SRAM Eagle AXS (non-T-Type).** SRAM Transmission needs a UDH frame, so it's out. Full table in `T20_Build_Options.md`.
+
+💡 *(Pre-battery-rule note)* **You don't have to choose.** Wheeltop EDS OX2.0 (3-14sp) and Archer D1x (any speed) are **speed-agnostic** — run 12sp now, drop to 11sp later, same shifter and derailleur.
 
 ⚠️ **Correction:** the note below saying L-TWOO ER9 is "drop-bar only" no longer holds for the range — **eRX offers flat-bar shifters**, and L-TWOO makes MTB and folding-bike groupsets too.
 
@@ -263,6 +269,7 @@ Spider is **110 BCD, 5-arm** — rings must be 110 BCD **5-bolt**.
 | ⭐ H&H (HH Innovation) Ti Seatpost v3 | 31.8mm | 311g (540mm DC) - 368g (600mm SC) | ~€175 (~S$257) |
 | ⭐ Ti Parts Workshop Ti Seatpost | 31.8mm | 284g | ~US$292 (~S$380) |
 | 🆕 Brompfication Ti Seatpost (integrated clamp) | 31.8mm | **310g (520mm) / 330-345g (580mm)**, all included | ~US$240 (~S$312) |
+| 🆕 COMEPLAY/HEXATI Brompfication-style Ti post (integrated clamp) | 31.8mm | ⏳ not published; 540-600mm | **US$80** direct (tibicycles.com) |
 | 🆕 Brompfication Ti Seatpost, Pentaclip version | 31.8mm | ~260g + Pentaclip 92-108g | ~US$151-240 |
 | ⭐ HEXATI/COMEPLAY Ti Seatpost (Gr9 3Al-2.5V) | 31.8mm OD | **268g without plug** (535mm standard; 540/560/580/600mm offered). Plug sold separately, ~10-20g (est.) | **US$40 (~S$52)** direct at tibicycles.com (was US$68, tax incl.) · **S$100** via Chris Yeo bundle |
 

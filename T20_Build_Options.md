@@ -184,6 +184,7 @@ With the 11-50T cassette on 20×2.0 tyres (~506mm wheel):
 | ⭐ **Ti Parts Workshop Titanium Seatpost** | 31.8mm | **284g (published)** — ~110g under Brompton stock | ~US$292 (~S$380) | Lightest tracked. HK brand, CNC Ti-6AL-4V/Ti-3AL-2.5V |
 | ⭐ **HEXATI / COMEPLAY Titanium Seatpost** ("Brompton's standard Ti seatpost, necking down") | **31.8mm OD** | **268g without the plug** (standard 535mm; offered in 540 / 560 / 580 / 600mm or custom). Source: tibicycles.com product page, seen 26 Sep. **Plug not included** (confirmed 26 Sep): budget ~10-20g for one (estimate), so **~278-288g comparable** | **US$40 (~S$52)** direct at tibicycles.com, sale from US$68, tax incl. (shipping extra). **S$100** as a Chris Yeo bundle add-on | **GR9 Ti 3Al-2.5V.** Polished or coloured. **About level with the WOOdman on weight** once a plug is added (WOOdman's 277g at 540mm already includes its plug), **at about a quarter of the price.** Buy a 31.8mm seatpost plug separately Titanium, so it passes the child-seat clamp rule. Sold direct, so it works for **Build B** too. ⚠️ **Wall thickness is 1.2mm or 1.5mm, and the page doesn't say which one weighs 268g.** The Yepp Nexxt 2 Maxi clamps onto the post, so choose **1.5mm** and confirm its weight. ⚠️ Weight is for 535mm; longer posts weigh more. ⚠️ **"Necking down" means the top narrows for a separate saddle clamp**, like Brompton's standard post and the Brompfication Pentaclip version. If so, add a **Pentaclip (92-108g)** as well as a plug, making it **~370-400g comparable**: heavier than the WOOdman. **Ask Chris Yeo whether a saddle clamp is included and what it weighs** |
 | 🆕 **Brompfication Titanium Seatpost** (integrated saddle clamp) | 31.8mm | **310g ±10 (520mm Standard) / 330-345g ±10 (580mm Extended), all included**: post, Ti yokes, connecting rod, cradle and bolts, all Ti grade 5 | ~US$240 (~S$312), Clever Cycles | Danish brand. **Saddle clamp built in**, so no Pentaclip needed. 100kg rider limit, 5Nm rail torque. ⚠️ **Lengths are classic Brompton (520/580mm).** G Line posts are 540/600mm, so the **580mm Extended** is the one to look at; confirm it's long enough for your saddle height. Plug inclusion not stated |
+| 🆕 **COMEPLAY/HEXATI "Brompfication-style" Ti Seatpost** (tibicycles.com) | 31.8mm | ⏳ **Not published** | **US$80** direct, tax incl. | **COMEPLAY's own version of the Brompfication design** (COMEPLAY watermark; **grade 9** Ti vs genuine Brompfication's grade 5), not the genuine part. Integrated Ti saddle clamp (yokes, rod, cradle). **Lengths 540/560/580/600mm or custom**: G Line lengths, unlike genuine Brompfication. A third of the genuine price. ⏳ Ask for the weight |
 | 🆕 **Brompfication Titanium Seatpost, Pentaclip version** | 31.8mm | **~260g without Pentaclip** (535mm) | ~US$151 (Cyclopes Co) to US$240 (Clever Cycles) (~S$196-312) | Bare necked post for the **Brompton Pentaclip** saddle clamp (+92-108g: Superlight 92g, standard 106-108g). **Comparable weight ~352-368g** with a clamp. 535mm only |
 | **Schmolke carbon seatpost** `[8.3kg ref]` | — | — | — | ⚠️ **Carbon** — the 8.3kg build used it, but you excluded carbon over the Thule Yepp clamp. Only relevant if that exclusion turns out to be wrong (see below) |
 
@@ -286,16 +287,42 @@ Spec: Ti main frame w/ 3D-printed hinge; Ti rear fork w/ 3D-printed dropout, **1
 
 | Option | Speeds | RD weight | Shifter weight | Price | Notes |
 |---|---|---|---|---|---|
-| ⭐ **Wheeltop EDS OX2.0** | **3-14 (!)** | **411g** | **69g** | ~£350 (~S$610) shifter + RD | 🔥 **Speed-agnostic — works with 11 OR 12 speed.** MTB platform, **flat-bar shifter available** (2-button, mounts over or under the bar). The one option that doesn't force the 11-vs-12 decision at all |
-| **L-TWOO eRX** | **10 / 11 / 12** | — | — | ~US$650 (~S$845) groupset, ~1,300g | ⚠️ **Corrects an earlier note in the build plan.** ER9 was ruled out as "drop-bar only" — but **eRX does offer flat-bar shifters**, and L-TWOO makes road, gravel, MTB, TT and *folding-bike* groupsets. Also multi-speed like the Wheeltop |
-| **L-TWOO eR9** | 11 | — | — | ~US$500 (~S$650) | The cheaper electronic tier; stock spec on the HEXATI T20 Lite/Elite |
+| ⚠️ **Wheeltop EDS OX2.0** 🔋 *battery charged on the bike* | **3-14 (!)** | **411g** | **69g** | ~£350 (~S$610) shifter + RD | 🔥 **Speed-agnostic — works with 11 OR 12 speed.** MTB platform, **flat-bar shifter available** (2-button, mounts over or under the bar). The one option that doesn't force the 11-vs-12 decision at all |
+| **L-TWOO eRX** 🔋❌ **non-removable battery** | **10 / 11 / 12** | — | — | ~US$650 (~S$845) groupset, ~1,300g | 🔋❌ **Non-removable battery (found 26 Sep): fails your removable-battery rule.** Kept for reference. ⚠️ **Corrects an earlier note in the build plan.** ER9 was ruled out as "drop-bar only" — but **eRX does offer flat-bar shifters**, and L-TWOO makes road, gravel, MTB, TT and *folding-bike* groupsets. Also multi-speed like the Wheeltop |
+| **L-TWOO eR9** 🔋❌ **non-removable battery** | 11 | — | — | ~US$500 (~S$650) | 🔋❌ **Non-removable battery: fails your removable-battery rule.** Kept for reference. The cheaper electronic tier; stock spec on the HEXATI T20 Lite/Elite |
 | **SRAM GX AXS** | 12 | 463g | 63g | ~£530 (~S$925) | Heavier RD and pricier than the Wheeltop |
 | **Archer Components D1x** | **any** | uses your existing mech RD | — | — | Wireless *shifter* that pulls a cable to any mechanical derailleur. Another speed-agnostic route — keeps the XT M8100 and just changes how it's actuated |
 | **SRAM Red AXS** `[8.3kg ref]` | 12 | — | — | — | The 8.3kg build's choice. Lightest, vastly most expensive |
 
+### 🔋 Electronic shifting: removable-battery rule (26 Sep 2026)
+
+**Your rule: the battery must come off the bike for charging.** Checked against every electronic option:
+
+| Option | Battery | Meets rule? | RD weight | Price | Fit notes |
+|---|---|---|---|---|---|
+| ⭐ **Shimano XTR Di2 M9250** | 305mAh BT-DN320 (~24g) behind a latching door; charged off the bike | ✅ | **389g (GS) / 391g (SGS)** | Upgrade kit (RD, shifter, battery, charger) ~US$985 (~S$1,280) | 12sp Hyperglide+. **Mounts on a standard hanger** ✅. SGS cage takes up to 51T, so the Nuton 11-50T should work (confirm Nuton lists Di2 compatibility). Lightest removable-battery option |
+| ⭐ **Shimano XT Di2 M8250** | Same removable BT-DN320 | ✅ | **447g (SGS)** | Kit ~US$860 (~S$1,120); RD alone ~US$570 | Standard hanger ✅. Best-value Shimano Di2 |
+| **Shimano Deore Di2 M6250** | Same removable BT-DN320 | ✅ | not published (expect heavier than XT) | Kit ~US$675 (~S$880) | Standard hanger ✅. Cheapest removable-battery groupset. Sold as an upgrade kit for 12sp Hyperglide+ bikes |
+| **SRAM XX1 Eagle AXS** (older, non-T-Type) | Clip-on AXS battery (~25g), charged off the bike. Shifter pod uses a coin cell | ✅ | **373g + 25g battery ≈ 398g** | Mostly used now | Mounts on a standard hanger ✅. Built for SRAM XD cassettes: running it on the Nuton HG 11-50T is a mixed setup, check shifting |
+| **SRAM X01 Eagle AXS** (older, non-T-Type) | Same clip-on battery | ✅ | **390g + 25g ≈ 415g** | Mostly used now | Same notes as XX1 |
+| **SRAM GX Eagle AXS** (older, non-T-Type) | Same clip-on battery | ✅ | 463g | ~£530 (~S$925) | Same notes as XX1. Heaviest AXS |
+| ❌ **SRAM Eagle Transmission (T-Type)** | Clip-on battery | ✅ | — | — | ❌ **Needs a UDH frame.** The T20/G Line hanger isn't UDH |
+| **Archer D1x Trail** | Shifter unit runs on removable 14500/10440 Li-ion cells, charged in the included charger. ⚠️ The bar remote has an internal battery (micro-USB) | ⚠️ Mostly | Uses your mechanical RD (XT M8100 283g) + ~249g system | — | Speed-agnostic. Keeps the XT M8100. The remote's internal battery needs charging occasionally |
+| ⚠️ **Wheeltop EDS OX2.0** | 800mAh, **charged on the bike** via a magnetic port. Replaceable, but only by unscrewing 4 bolts | ❌ Not for regular charging | 411g | ~£350 (~S$610) | Kept for reference |
+| ❌ **L-TWOO eRX / eR9** | **Non-removable** | ❌ | — | US$500-650 | Kept for reference |
+
+**Shortlist under the battery rule:**
+1. **Shimano XTR Di2 M9250**: lightest (~391g + battery), standard hanger, Shimano HG cassette compatibility. Priciest.
+2. **Shimano XT Di2 M8250**: ~56g heavier, ~S$160 cheaper as a kit.
+3. **SRAM XX1 / X01 Eagle AXS (non-T-Type), used**: light and cheap second-hand, but a mixed SRAM derailleur + Shimano-HG cassette setup.
+
+⚖️ **Against mechanical XT M8100** (283g RD + 120-132g shifter + ~60g cable ≈ 465-475g), XTR Di2 (~415g RD with battery, plus a wireless shifter) is roughly weight-neutral. Electronic here is about shifting feel and no cable through the fold, not grams.
+
+*Sources (26 Sep 2026): [Bikerumor XT Di2 weights](https://bikerumor.com/shimano-xt-di2-8200-wireless-actual-weights-prices/), [Singletracks XTR Di2 review](https://www.singletracks.com/mtb-gear/shimano-xtr-di2-wireless-drivetrain-review/), [Shimano RD-M9250-SGS](https://bike.shimano.com/products/components/pdp.P-RD-M9250-SGS.html), [Thunder Mountain Deore Di2 kit](https://thundermountainbikes.com/products/deore-di2-m6250-upgrade-kit), [Bikerumor SRAM AXS weights](https://bikerumor.com/unboxed-sram-eagle-axs-xx1-xo1-actual-weights-install-notes/), [Archer FAQ](https://archercomponents.com/pages/faq), [Bikerumor Archer review](https://bikerumor.com/review-archers-d1x-electronic-shifting-system-offers-moderately-improved-shifting-and-app-based-tuning/), [road.cc Wheeltop review](https://road.cc/offroad/content/review/groupsets/wheeltop-eds-ox20-wireless-electronic-shifter-and-derailleur-review-18087), [aoeagle Wheeltop](https://aoeagle.com/products/wheeltop-eds-ox2/).*
+
 ### 💡 The insight that resolves this
 
-**You don't have to choose.** Both **Wheeltop EDS OX2.0** (3-14 speed) and **Archer D1x** (any speed) are speed-agnostic — you could run 12sp now and drop to 11sp later, or vice versa, without replacing the shifter or derailleur.
+*(Written before the battery rule: the Wheeltop now fails it, see above.)* **You don't have to choose.** Both **Wheeltop EDS OX2.0** (3-14 speed) and **Archer D1x** (any speed) are speed-agnostic — you could run 12sp now and drop to 11sp later, or vice versa, without replacing the shifter or derailleur.
 
 If you stay mechanical, **fix the chain and keep the XT M8100.** A 12-speed chain (KMC X12 234g, or Shimano CN-M8100 252g) costs ~S$40-80; switching to 11-speed costs a shifter, derailleur *and* cassette, and with Shimano's 11-46T ceiling it makes your low gear **harder**.
 
