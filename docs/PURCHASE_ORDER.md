@@ -98,12 +98,12 @@ while § 5 also counted it as its own line — a double-count of S$90-155.)*
 | **Fork** | Silverock carbon, G Line, M12×100 TA | 388-393g | **~689** *(US$529.99)* |
 | **Rear rack** | TPW Titanium, G Line | 328g | **~468** *(US$360)* — ⛔ still blocked on rack mounts |
 | **Crankset** | Praxis Doon carbon M30-THRU, 170mm | 335-342g | **~429** *(US$330, arm set)* |
-| **Brake levers** | Extralite UltraLevers **3S** | **41g** | **~283** *(US$218 — that figure is for the 3; the 3S price wasn't visible)* |
+| **Brake levers** | Extralite UltraLevers **3S** | **41g** | **~294** *(€199.90, Starbike)* |
 | **Tyres ×2** | Continental Contact Urban 50-406 | 860g | **~91** *(US$34.99 each)* |
 | **Cassette** | ✅ **NUTON null¹ ROAD 12S/HG 11-32T** *(tracked pick, 25 Sep)* | **140g** | **~189** *(¥21,450)* — **+S$72-104 over the Ultegra for −152g ≈ S$0.47-0.68/g, the best value per gram in the build.** ⚠️ 12-speed, so the chain stays 12sp |
 | *Cassette — fallback* | *Ultegra CS-R8000 11-32T* | *292g* | *~85 – 117 — steel cogs, 11sp chain* |
 | **Tubes ×2** | Schwalbe SV7 | **290g** 🆕 | **~20 – 26** |
-| **Subtotal** | | | **3,726 – 3,732** |
+| **Subtotal** | | | **3,737 – 3,743** |
 
 ### Still unpriced after the pass
 
@@ -114,6 +114,38 @@ while § 5 also counted it as its own line — a double-count of S$90-155.)*
 | **Cables + housing, seatpost clamp, hinge hardware, lights, mudguards** | Small individually, real in aggregate |
 | ~~NUTON null¹ ROAD 11-32T~~ | ✅ **Confirmed 25 Sep — moved into the table above.** Only the 11-speed variant's price is still open |
 
+## 4b. Accessories & assembly parts 🆕
+
+The frame is **unassembled**, so these are purchases, not fitted parts.
+
+### Required to finish the bike
+
+| Part | Weight | Cost (SGD) |
+|---|---|---|
+| Brake cables + housing — Jagwire Road Pro *(no shift cables: eR9 is wireless)* | est. 100-150g | **~45** |
+| Seatpost clamp — H&H G Line | ⚠️ not published | **~128** |
+| Rear locking block — Brompton G Line OEM | ⚠️ not published | ⚠️ **unpriced** |
+| Easy wheels — alu + Ti bolts | **44g/pair** | ⚠️ **unpriced** *(alternatives S$44-308)* |
+| Rear thru-axle — M12×1.5 Al7075 | ⚠️ not published | ⚠️ **unpriced** — ⛔ may ship with the frame |
+| E-hook | — | ❌ no G Line version exists |
+| **Subtotal (priced items only)** | | **~173** |
+
+### Optional but likely
+
+| Part | Weight | Cost (SGD) |
+|---|---|---|
+| Mudguards — Brompton Flexi, G Line | ~75g | **~57** |
+| Front light — Magicshine HORI 1300 PRO | 151g | **~104 – 130** |
+| Rear light — Magicshine SEEMEE 400 | 48g | **~85** |
+| Kickstand — Silverock G Line | ⚠️ not published | ~76 |
+| Ti bolt set — TPW, 18 bolts | 52g | ~81 |
+| **Subtotal** | | **403 – 429** |
+
+📌 **Accessories move the finished weight to ~8.34-8.87kg without lights, ~8.54-9.07kg with** —
+which confirms the plan's "mid-8kg to ~9kg" claim. Two of the four added figures are estimates.
+
+---
+
 ## 5. Where the money is
 
 | Bucket | SGD |
@@ -122,16 +154,20 @@ while § 5 also counted it as its own line — a double-count of S$90-155.)*
 | 🛒 Decided + priced + orderable | **2,077 – 2,105** |
 | ⏳ Open decisions, priced options | **513 – 1,496** |
 | ⛔ Headset | **90 – 155** |
-| ✅ 🆕 Priced by the 25 Sep pass *(wheelset, fork, rack, crankset, levers, tyres, cassette, tubes)* | **3,726 – 3,732** |
+| ✅ 🆕 Priced by the 25 Sep pass *(wheelset, fork, rack, crankset, levers, tyres, cassette, tubes)* | **3,737 – 3,743** |
+| 🔧 Assembly parts required *(cables, seatpost clamp — 3 items still unpriced)* | **~173** |
 | 💲 Still unpriced *(rotors, thru-axle, cables, clamp, lights)* | **TBC — small** |
-| **Known total** | **S$9,306 – 10,388** |
+| **Known total — ready to ride, no accessories** | **S$9,490 – 10,572** |
+| *+ optional accessories (mudguards, lights, kickstand, Ti bolts)* | *+403 – 429* |
+| **With accessories** | **S$9,893 – 11,001** |
 
-📌 **Now the number is real: ~S$9,300 – 10,400.** A complete T20 Lite from Chris Yeo is
+📌 **Now the number is real: ~S$9,490 – 10,570 to ride, ~S$9,900 – 11,000 with lights and
+mudguards.** A complete T20 Lite from Chris Yeo is
 **S$3,200**; from JackBikeSG **S$3,350**. **This build is roughly 3× the complete bike**, and only
 a handful of small items are still unpriced, so that multiple will not come down. It buys you
 9.4kg → **8.05-8.57kg**, about **0.8-1.4kg**, plus parts chosen on merit rather than a stock
-spec. Against the S$3,200 complete bike that is **S$6,106-7,188 extra for 821-1,358g saved —
-roughly S$4.50-8.75 per gram.** That is normal for a parts-built
+spec. Against the S$3,200 complete bike that is **S$6,290-7,372 extra for 821-1,358g saved —
+roughly S$4.60-9 per gram.** That is normal for a parts-built
 lightweight and is not a reason to change course. But it should be on paper, not implied.
 
 💡 **The four big line items — wheelset S$1,557, fork S$689, rack S$468, crankset S$429 —

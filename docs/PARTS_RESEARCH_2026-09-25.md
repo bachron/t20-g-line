@@ -64,7 +64,7 @@ upgrade shortlist.
 | **Cassette** *(eR9 route)* | ✅ **NUTON null¹ ROAD 12S/HG 11-32T** *(tracked)* | **140g** | **¥21,450 (~S$189)** | Ultegra CS-R8000 11-32T (292g, ~S$85-117) is the fallback. See the ratio table below |
 | **Tyres ×2** | Continental Contact Urban 50-406 | 860g | **US$34.99 ea (~S$45)** → **~S$91 pair** | Bikeinn |
 | **Tubes ×2** | Schwalbe SV7 (20×1.5-2.5) | **~290g** 🆕 | ~S$10-13 ea *(est.)* | 🆕 **New line — was missing entirely** |
-| **Brake levers** | Extralite UltraLevers 3 → **3S** | 46g → **41g** | **~US$218 (~S$283)** for the 3 · 3S ⚠️ unpriced | See finding #1 |
+| **Brake levers** | Extralite UltraLevers **3S** | **41g** | ✅ **€199.90 (~S$294)** — Starbike | 🆕 Priced. The 3 is ~US$218; the correct 3S is ~S$11 more. See finding #1 |
 | **Rotors ×2** | Ti-Parts carbon aero 140mm | 77.3-90.1g ea ⚠️ | ⚠️ **still unpriced** | See the rotor table below |
 | **Rear thru-axle** | M12×1.5, 160mm | ⚠️ not published | ⚠️ **still unpriced** | Ti and AL7075 options exist (Carbon-Ti, HEPPE, Pioneer). ⛔ may be included with the frame — Chris Yeo question #3 |
 | **Cables + housing** | — | not tracked | ⚠️ **still unpriced** | Small, but real |
@@ -173,13 +173,66 @@ X-Large is +S$13 for a bigger platform at no weight cost.
 
 ---
 
+## Accessories & assembly parts — priced 25 Sep
+
+The frame was bought **unassembled**, so the headset, seatpost clamp, locking block, easy wheels
+and E-hook are all live purchases rather than fitted parts. Plus the things no build total ever
+counted: cables, mudguards, lights.
+
+### Required to assemble the bike
+
+| Part | Model | Weight | Price (SGD) |
+|---|---|---|---|
+| Brake cables + housing | Jagwire Road Pro kit | ⚠️ not published, est. 100-150g | **~45** *(US$34.99)* |
+| Seatpost clamp | H&H, **G Line** | ⚠️ not published | **~128** *(US$99)* — already in the tracker |
+| Headset | H&H alloy / WOOdman Axis BPT | 96.3 / 105g | 90 – 155 — ⛔ pattern unconfirmed |
+| Rear locking block | Brompton **G Line** OEM | ⚠️ not published | ⚠️ **unpriced** — stocked by Condor and Brilliant Bikes, no figure visible |
+| Easy wheels | Aftermarket alu + Ti bolts | **44g/pair** (60mm) | ⚠️ **unpriced** · tracked alternatives S$44 (MiniMODs extender) to S$308 (Ti Ezy) |
+| Rear thru-axle | M12×1.5 160-166mm, Al7075 | ⚠️ not published | ⚠️ **unpriced** — ⛔ may ship with the frame |
+| E-hook | — | — | ❌ **No G Line version exists.** Already logged; don't re-research |
+
+📌 **No shift cables needed.** eR9 is wireless — brake cables only. That's a real saving the
+mechanical plan would have carried.
+
+### Optional but likely
+
+| Part | Model | Weight | Price (SGD) |
+|---|---|---|---|
+| Mudguards | **Brompton Flexi Mudguards for G Line** | **~75g** *(figure is for the standard Flexi set)* | **~57** *(€38.64)* |
+| Front light | Magicshine HORI 1300 PRO | 151g | **~104 – 130** *(US$80-100)* |
+| Rear light | Magicshine SEEMEE 400 | 48g | **~85** *(US$64.99)* |
+| Kickstand | Silverock, G Line | ⚠️ not published | ~76 *(US$59)* — already in the tracker |
+| Ti bolt set | TPW, G Line, 18 bolts | 52g | ~81 *(US$62)* — a weight upgrade, not a requirement |
+
+### What the accessories do to the finished weight
+
+The running total covers **tracked parts only**. Adding the accessories above:
+
+| | Weight |
+|---|---|
+| Tracked parts (running total) | **8,049 – 8,574g** |
+| + mudguards 75g, easy wheels 44g, cables ~125g est., thru-axle ~50g est. | **8,343 – 8,868g** |
+| + lights 199g (front 151 + rear 48) | **8,542 – 9,067g** |
+
+⚠️ **Two of those four are estimates**, so treat the figures as indicative. But they do confirm the
+plan's standing claim: **a finished bike in the mid-8kg to ~9kg range**, under the 9.4kg target,
+without child seats.
+
+---
+
 ## What is still unpriced after this pass
 
-1. **Rotors** — no vendor price visible from here, four candidate models
-2. **UltraLevers 3S** — the 3 is ~US$218; the 3S price wasn't shown
-3. **Rear thru-axle** — may be included with the frame (Chris Yeo #3)
-4. **Cables + housing, seatpost clamp, hinge hardware, lights, mudguards**
-5. ~~**NUTON null¹ ROAD 11-32T** — price and exact weight both need confirming~~ ✅ **Done 25 Sep: 140g, ¥21,450 (~S$189).** Only the 11-speed variant's price is still open
+**Five items remain, and all five fail for the same reason: their only source is a vendor site
+this environment's network policy blocks** (tipartstitanium.com, nutoncycling.com, ltwoo.com,
+condorcycles.com). Search snippets don't carry their prices.
 
-*All five are small relative to the wheelset, fork and rack — the cost picture is now
-substantially complete.*
+| Item | What's known | What's missing |
+|---|---|---|
+| **Rotors ×2** | Ti-Parts carbon Aerotor 140mm, 77.3g ⚠️ or 90.1g | Price. Nearest comparable found: Carbon-Ti X-Rotor Aero at **C$379.99** ⚠️ *different model, CAD, unit unclear* — steep enough that the Ti-Parts **7075 alloy rotor at 74-88g** deserves pricing first |
+| **Rear thru-axle** | Carbon-Ti X-Lock EVO, Al7075, M12×1.5, 166mm | Price and weight. ⛔ Ask Chris Yeo first — it may ship with the frame |
+| **Rear locking block** | Brompton G Line OEM, at Condor / Brilliant Bikes | Price and weight |
+| **L-TWOO eTX** | 426g RD, 11-52T, flat-bar pod | Price — and this one gates a live route decision. eRX is **US$583.52** on AliExpress, *cheaper than the US$650 in the tracker* |
+| **NUTON null¹ ROAD 11S 11-32T** | 135g, single source | Price. The range starts at US$115 |
+
+✅ **Everything else in the build is now priced.** The five above are small in cost terms — except
+eTX, which isn't a cost question but a route question.

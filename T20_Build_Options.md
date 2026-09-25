@@ -412,7 +412,7 @@ The standard eR9 road groupset ships **integrated hydraulic shift/brake levers**
 | Option | Speeds | RD weight | Shifter weight | Price | Notes |
 |---|---|---|---|---|---|
 | ⭐ **Wheeltop EDS OX2.0** | **3-14 (!)** | **411g** | **69g** | ~£350 (~S$610) shifter + RD | 🔥 **Speed-agnostic — works with 11 OR 12 speed.** MTB platform, **flat-bar shifter available** (2-button, mounts over or under the bar). The one option that doesn't force the 11-vs-12 decision at all |
-| ⭐ **L-TWOO eRX** | **10 / 11 / 12** | **288-295g** published | 234g/lever ⚠️ *integrated drop lever — flat-bar pod weight not published* | ~US$650 (~S$845) / ~€595 groupset, ~1,300g complete | 🔑 **The one that matters: eRX comes in TWO rear-derailleur versions — 11-32T *and* 11-36T.** The 36T version gets the low gear back without leaving the road platform (see the gearing tables below). Carbon cage and carbon levers vs the eR9's alloy, same wireless system, same shift speed. Flat-bar shifters available. Users report 34-36T working on the 32T version with pulley/OSPW mods — **out of spec, don't plan on it** |
+| ⭐ **L-TWOO eRX** | **10 / 11 / 12** | **288-295g** published | 234g/lever ⚠️ *integrated drop lever — flat-bar pod weight not published* | 🆕 **US$583.52 on AliExpress (~S$759)** — cheaper than the ~US$650 previously tracked. Also ~€595. ~1,300g complete | 🔑 **The one that matters: eRX comes in TWO rear-derailleur versions — 11-32T *and* 11-36T.** The 36T version gets the low gear back without leaving the road platform (see the gearing tables below). Carbon cage and carbon levers vs the eR9's alloy, same wireless system, same shift speed. Flat-bar shifters available. Users report 34-36T working on the 32T version with pulley/OSPW mods — **out of spec, don't plan on it** |
 | ✅ **L-TWOO eR9** | **10 / 11 / 12** | ~295-310g ⚠️ est. | pod ~70-100g ⚠️ est. + **60g battery** | ~US$500 (~S$650) group; folding/flat-bar kits sell cheaper as shifter+RD only | ✅ **DECIDED 25 Sep 2026.** Stock spec on the HEXATI T20 Lite/Elite. Alloy cage and alloy levers vs the eRX's carbon, same shift speed. Battery 800mAh / 60g / IPX7 / USB-C. ⚠️ **Largest cog 32T** — see the ceiling section above. RD weight estimated from the eRX's published 288-295g plus the alloy cage; **no published eR9 RD figure found** |
 | ⭐ **L-TWOO eTX** | **10 / 11 / 12** | **426g** claimed | compact flat-bar pod | — (not yet priced) | 🔥 **The wide-range sibling, and the fix for the 32T ceiling.** MTB platform: long-cage RD rated **11-46/50/52T**, flat-bar electronic shifter, internal chain damping, USB-C. Keeps the Nuton 11-50T and the 0.96:1 low gear for **~+120g** over eR9. **Price it before you commit to eR9** |
 | **SRAM GX AXS** | 12 | 463g | 63g | ~£530 (~S$925) | Heavier RD and pricier than the Wheeltop |
@@ -906,7 +906,15 @@ price unknown).
 
 *eTX row uses the Nuton 286g cassette, a 12sp chain (234-252g), the 426g RD, and the same estimated pod+battery. **The wide-range electronic route costs ~60-110g over eR9 and buys back the entire low gear.***
 
-**Not yet in the total (no weight tracked):** ~~inner tubes ×2~~ *(added 25 Sep: 290g)*, rear 142×12 thru-axle (SMC doesn't include one; TPW recommends M12×1.5 160mm), brake/shift cables and housing, seatpost clamp, hinge clamps/levers, rear locking block, easy wheels, E-hook, kickstand, lights, mudguards, bar tape/bolts.
+**Not yet in the total** — figures found 25 Sep are marked:
+- ~~inner tubes ×2~~ ✅ **in the total (290g)**
+- **mudguards** ~75g (Brompton Flexi G Line, ~S$57) · **easy wheels** 44g/pair · **lights** 199g (HORI 1300 PRO 151g + SEEMEE 400 48g, ~S$189-215) · **Ti bolt set** 52g — all priced, none in the total
+- **brake cables + housing** ~S$45, weight est. 100-150g. 📌 **No shift cables — eR9 is wireless**
+- **seatpost clamp** ~S$128, weight not published · **hinge clamp levers** from ~S$73 · **kickstand** ~S$76
+- still unpriced *and* unweighed: **rear 142×12 thru-axle** (SMC doesn't include one; M12×1.5 160-166mm Al7075), **rear locking block** (G Line OEM)
+- ❌ **E-hook: no G Line version exists**
+
+**With accessories the finished bike lands at ~8.34-8.87kg (no lights) or ~8.54-9.07kg (with)** — see `docs/PARTS_RESEARCH_2026-09-25.md`. Child seats excluded throughout.
 
 **Excluded from planning (decided 24 Sep 2026):** child seats (Yepp Mini front, Yepp Nexxt 2 Maxi rear) and their mounts/adapters. You will add them once the bike is running. **All build weights here are without the child seats.** Realistically these add **several hundred grams**, so expect a bike in the **mid-8kg to ~9kg range**. That is under HEXATI's own 9.4kg complete T20, even with the rack, grips and city tyres.
 

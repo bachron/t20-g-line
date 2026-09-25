@@ -244,7 +244,7 @@ levers are not supported.** The fix is Extralite's own short-ratio model, which 
 
 | Option | Pull ratio | Weight | Verdict |
 |---|---|---|---|
-| ⭐ **Extralite UltraLevers 3S** | **Short ratio** (caliper/cantilever specific) | **20.5g each / 41g pair** | ✅ **Correct lever. −5g** |
+| ⭐ **Extralite UltraLevers 3S** | **Short ratio** (caliper/cantilever specific) | **20.5g each / 41g pair** | ✅ **Correct lever. −5g.** 🆕 **€199.90 (~S$294)**, Starbike |
 | ~~Extralite UltraLevers 3~~ `[8.3kg ref]` | **Long-pull (V-brake)** | 22.5g each / 46g pair | ❌ Wrong ratio for the Equal / flat-mount cable calipers. ⚠️ The 8.3kg build lists the 3 with TRP Spyre SLC — either it has the same mismatch, or it actually used the 3S |
 | Extralite UltraLevers 2+ | — ⏳ unverified | 50-52g pair | Check the ratio before considering |
 | Growtac Equal levers | — |
