@@ -164,7 +164,8 @@ With the 11-50T cassette on 20×2.0 tyres (~506mm wheel):
 
 | Option | Speeds | Weight | Notes |
 |---|---|---|---|
-| 🔥 **NUTON null¹ ROAD 12S/HG 11-32T** | **12** | ⚠️ **~135-150g** — the 11-30T is a published **135g** | 🆕 **~145g lighter than the Ultegra for about the same money as the MTB cassette.** Same brand, same HG freehub, and eR9 runs 12-speed so it fits. ⚠️ Confirm the 11-32T's exact weight and price — the 135g figure is for the 11-30T |
+| 🔥 **NUTON null¹ ROAD 12S/HG 11-32T** | **12** | ✅ **140g** (catalog, incl. alloy lock ring) | ✅ **CONFIRMED 25 Sep: ¥21,450 incl. tax (~S$189).** Cogs 11-12-13-14-15-16-17-19-21-24-28-32T. HG freehub, fits 11- *and* 12-speed HG bodies. **152g lighter than the Ultegra for ~S$72-104 more ≈ S$0.47-0.68 per gram** — among the best value in the entire build. Cheaper than the 11-50T MTB version (¥28,600) |
+| 🔥 **NUTON null¹ ROAD 11S/HG 11-32T** | **11** | **135g** ⚠️ single source | 🆕 The 11-speed sibling, **5g lighter still**. Cogs 11-12-13-14-15-17-19-21-24-28-32T. Price not found; the range starts at US$115. ⚠️ Less corroborated than the 12S figure above |
 | ⭐ **Shimano Ultegra CS-R8000 11-32T** | 11 | **292g** (published) | The known-good figure, and what the running total uses. HG freehub — same freehub as the Nuton pick, so the wheelset decision is unaffected. Other ratios: 11-30T **269g**, 11-28T **251g**, 11-25T 232g |
 | **Shimano 105 CS-R7000 11-32T** | 11 | ~320g (11-28T is 271g published) | Cheaper, heavier |
 | **SRAM Force/Rival 11-32T** | 11 | ⏳ not verified | Worth pricing; weights unconfirmed, don't plan on them |
@@ -869,7 +870,7 @@ Unlike the rack/headset/brake questions above, this one isn't a T20-fitment gues
 | Shifter | **L-TWOO eR9 flat-bar pod** | 70 | 100 | 🆕 ⚠️ **Estimate** — no published figure. Bracketed by the Wheeltop flat-bar pod (69g) and a generous upper bound |
 | Shift battery | **L-TWOO eR9, 800mAh IPX7** | 60 | 60 | 🆕 Published. New line item — mechanical drivetrains don't have one |
 | Rear derailleur | **L-TWOO eR9** | 295 | 310 | 🆕 ⚠️ **Estimate** — from the eRX's published 288-295g plus the alloy cage. *Mechanical fallback: XT RD-M8100-SGS 283g. eTX route: 426g* |
-| Cassette | **Shimano Ultegra CS-R8000 11-32T** | 292 | 292 | 🆕 Published. **Forced by the eR9's 32T ceiling.** *11-50T routes (eTX / XT): Nuton null¹ 286g* |
+| Cassette | **Shimano Ultegra CS-R8000 11-32T** | 292 | 292 | 🆕 Published. **Forced by the eR9's 32T ceiling.** 🔥 **Swapping to the NUTON null¹ ROAD 11-32T (140g, ~S$189) takes 152g straight off this line** — see below. *11-50T routes (eTX / XT): Nuton null¹ MTB 286g* |
 | Chain | KMC DLC 11 (118 links) → CN-HG601 | 227 | 257 | 🆕 11-speed now. Cutting to length for 20" wheels makes it lighter. *12sp routes: KMC X12 234g* |
 | Crankset | Praxis Doon 170mm | 335 | 342 | |
 | Spider | Lightworks 1X carbon | 36 | 36 | |
@@ -885,6 +886,11 @@ Unlike the rack/headset/brake questions above, this one isn't a T20-fitment gues
 | **Tubes ×2** | **Schwalbe SV7 (20×1.5-2.5)** | 290 | 290 | 🆕 **New line — was never in the total.** The light SV6A (65-70g) tops out at 40-406 and **does not fit your 50-406 tyre**; the SV7 is 145g each ⚠️ one source says 205g |
 | Dropout hanger | TPW **GRP-22B (142×12 thru-axle)** | 54 | 54 | Corrected from GRP-21B (135mm QR): the 100/142 thru-axle dropout decision needs the 22B |
 | **Running total (tracked parts)** | | **8,194g** | **8,731g** | **eR9 route, incl. tubes.** Was 7,909-8,421g before the 25 Sep research pass added tubes (+290g), corrected the levers (−5g) and widened the rotor range (+25g high) |
+
+🔥 **One confirmed swap takes the total to 8,042-8,579g.** The **NUTON null¹ ROAD 12S/HG 11-32T
+(140g, ¥21,450 ≈ S$189)** replaces the Ultegra's 292g for ~S$72-104 more — **−152g at ~S$0.50/g,
+with no change to ratio, freehub or shifting.** Not folded into the running total above because
+the cassette pick isn't formally changed; say the word and it becomes the tracked figure.
 
 📌 **The eR9 decision is near weight-neutral: +21g low, +84g high (~1%).** What it actually costs is gear range, not grams — see the 11-32T ceiling in § Shifter / Rear Derailleur. For reference the three routes, drivetrain parts only (shifter + battery + RD + cassette + chain):
 
@@ -1053,7 +1059,8 @@ Everything here is **tracked, not being purchased now**. "?" means the part you 
 - ~~**54T → 48T chainring**~~ ✅ **Done 24 Sep: 48T chosen.**
 
 **Cheap per gram (do these first if you upgrade at all)**
-- **ESI silicone foam grips** — ~175g saved for budget money. Probably the best grams-per-dollar in the entire build. Trade-off is comfort and losing the Ergon bar ends, not cash.
+- 🔥 **NUTON null¹ ROAD 11-32T instead of the Ultegra CS-R8000** — **152g for ~S$72-104 ≈ S$0.47-0.68/g.** Confirmed 25 Sep: 140g / ¥21,450 vs 292g / ~S$85-117. Only applies on the eR9 / 11-32T route, and unlike the grips it costs **nothing** in comfort or function — same ratio, same freehub, same shifting. **The best confirmed grams-per-dollar in the build.**
+- **ESI silicone foam grips** — ~175g saved for budget money. The best grams-per-dollar *that you already had tracked*, but it costs comfort and the Ergon bar ends; the Nuton above costs nothing.
 - **TPW titanium bolt set** — ~US$62 for a 52g set of 18. Small saving, small price.
 - **MiniMODs easy wheels / Ti skewers** — small savings, modest cost (⚠️ skewers only if QR, not thru-axle).
 

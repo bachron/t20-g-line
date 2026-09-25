@@ -98,6 +98,7 @@ spindle. **Ask #9 before buying this one** — the gap is no longer small.)*
 | **Brake levers** | Extralite UltraLevers **3S** | **41g** | **~283** *(US$218 — that figure is for the 3; the 3S price wasn't visible)* |
 | **Tyres ×2** | Continental Contact Urban 50-406 | 860g | **~91** *(US$34.99 each)* |
 | **Cassette** | Ultegra CS-R8000 11-32T *(eR9 route)* | 292g | **~85 – 117** |
+| **Cassette — lighter option** | 🔥 **NUTON null¹ ROAD 12S/HG 11-32T** | **140g** | **~189** *(¥21,450)* — **+S$72-104 for −152g ≈ S$0.47-0.68/g, the best value per gram in the build** |
 | **Tubes ×2** | Schwalbe SV7 | **290g** 🆕 | **~20 – 26** |
 | **Subtotal** | | | **3,622 – 3,660** |
 
@@ -108,7 +109,7 @@ spindle. **Ask #9 before buying this one** — the gap is no longer small.)*
 | **Rotors ×2** | No vendor price visible; four candidate models, and a weight conflict (77.3g vs 90.1g) |
 | **Rear thru-axle** | ⛔ May ship with the frame — Chris Yeo question #3 |
 | **Cables + housing, seatpost clamp, hinge hardware, lights, mudguards** | Small individually, real in aggregate |
-| **NUTON null¹ ROAD 11-32T** | 🔥 The best find of the pass — **~145g lighter than the Ultegra** for roughly the MTB cassette's money. Exact 11-32T weight and price both need confirming |
+| ~~NUTON null¹ ROAD 11-32T~~ | ✅ **Confirmed 25 Sep — moved into the table above.** Only the 11-speed variant's price is still open |
 
 ## 5. Where the money is
 

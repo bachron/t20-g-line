@@ -94,15 +94,24 @@ upgrade shortlist.
 | Ultegra CS-R8000 | 11 | 11-30T | **269g** | ~S$85-117 | −23g, and a *harder* low gear |
 | Ultegra CS-R8000 | 11 | 11-28T | **251g** | ~S$85-117 | −41g, harder still |
 | Ultegra CS-R8000 | 11 | 11-25T | 232g | — | Race ratio. Not for a loaded folder |
-| ⭐ **NUTON null¹ ROAD 12S/HG** | **12** | **11-32T** | ⚠️ **~135-150g** — the 11-30T is a published **135g** | ~S$250 *(est. from the MTB's ¥28,600)* | 🔥 **Same brand as your MTB cassette, HG freehub, and roughly 145g lighter than the Ultegra.** eR9 runs 12-speed, so this fits the eR9 route. ⚠️ Confirm the 11-32T's exact weight and price |
+| 🔥 **NUTON null¹ ROAD 12S/HG** | **12** | **11-32T** | ✅ **140g** (catalog, incl. alloy lock ring) | ✅ **¥21,450 incl. tax (~S$189)** | **CONFIRMED 25 Sep.** Cogs 11-12-13-14-15-16-17-19-21-24-28-32T. Fits 11- **and** 12-speed HG bodies. **−152g vs the Ultegra for ~S$72-104 more.** Cheaper than the 11-50T MTB version |
+| 🔥 **NUTON null¹ ROAD 11S/HG** | **11** | **11-32T** | **135g** ⚠️ single source | ⚠️ not found — range starts US$115 | The 11-speed sibling, 5g lighter. Cogs 11-12-13-14-15-17-19-21-24-28-32T |
 | NUTON null¹ MTB 12S/HG | 12 | 11-50T | 286g | ¥28,600 (~S$250) | The 24 Sep pick. Needs eTX or mechanical XT |
 | NUTON null¹ MTB 11S/HG | **11** | 11-46T | **310g** | ¥26,400 (~S$231) | 🆕 An 11-speed Nuton exists. Heavier than the 12S, and still needs a 46T-rated derailleur |
 
-📌 **The best thing found this pass.** If you stay on eR9, the **NUTON null¹ ROAD 11-32T at
-~135-150g** replaces the Ultegra's 292g for roughly the same money as the MTB cassette —
-**~145g saved**, which is more than the entire handlebar spread. It does not fix the 1.50:1 low
-gear, but it makes the eR9 route far less costly in grams. **Worth confirming before anything else
-on this list.**
+📌 **CONFIRMED 25 Sep — the best thing found this pass.** The **NUTON null¹ ROAD 12S/HG 11-32T is
+140g at ¥21,450 (~S$189)**, against the Ultegra's 292g at ~S$85-117. **152g for S$72-104 extra —
+about S$0.47-0.68 per gram**, on a part where nothing else about the bike changes: same 11-32T
+ratio, same HG freehub, same shifting. That is better value per gram than anything else in the
+build, including the ESI grips, and unlike the grips it costs no comfort.
+
+It does **not** fix the eR9's 1.50:1 low gear — but it removes most of the weight cost of the
+eR9 route. An 11-speed version of the same ratio exists at **135g** (5g lighter, price not found,
+single source).
+
+⚠️ **Two cautions.** 140g is the catalog figure, not a verified scale weight. And the top three
+cogs are aluminium — light, but softer than steel, so expect a shorter service life than the
+Ultegra under daily city use with a child on board.
 
 ### Rotors — four options at this vendor, none priced
 
@@ -162,7 +171,7 @@ X-Large is +S$13 for a bigger platform at no weight cost.
 2. **UltraLevers 3S** — the 3 is ~US$218; the 3S price wasn't shown
 3. **Rear thru-axle** — may be included with the frame (Chris Yeo #3)
 4. **Cables + housing, seatpost clamp, hinge hardware, lights, mudguards**
-5. **NUTON null¹ ROAD 11-32T** — price and exact weight both need confirming
+5. ~~**NUTON null¹ ROAD 11-32T** — price and exact weight both need confirming~~ ✅ **Done 25 Sep: 140g, ¥21,450 (~S$189).** Only the 11-speed variant's price is still open
 
 *All five are small relative to the wheelset, fork and rack — the cost picture is now
 substantially complete.*
