@@ -3,8 +3,8 @@
 **Base bike:** HEXATI T20 — titanium tri-fold 20" gravel-style folding bike, positioned as a Brompton G Line alternative.
 **Rider priorities:** general city use with a front child seat, easier low gears over top speed, weight-conscious throughout, prefers Singapore-based sellers where possible.
 **Target weight:** ~9.4-9.6kg (based on comparable full-spec quotes)
-**Companion docs:** `docs/CHRIS_YEO_QUESTIONS.md` (every frame question in one paste-ready message) · `docs/PURCHASE_ORDER.md` (line-item costs, running total, buy order)
-**Running total (25 Sep 2026, published weights):** **7.91-8.42kg for tracked parts** (was 7.89-8.34kg; the eR9 drivetrain decision added ~20-85g). Still missing: tubes, rear thru-axle, cables, clamps and hinge hardware, lights and mudguards, likely several hundred grams more. Realistic finished bike: **mid-8kg to ~9kg**, under the 9.4kg target. Full breakdown in `T20_Build_Options.md` → *Component weights — running build total*. **Child seats and their mounts are excluded from all planning weights (24 Sep): you will add them once the bike is running.**
+**Companion docs:** `docs/CHRIS_YEO_QUESTIONS.md` (every frame question in one paste-ready message) · `docs/PURCHASE_ORDER.md` (line-item costs, running total, buy order) · `docs/PARTS_RESEARCH_2026-09-25.md` (price + weight + configurations for every part)
+**Running total (25 Sep 2026, published weights):** **8.19-8.73kg for tracked parts** (was 7.89-8.34kg on 24 Sep; the eR9 drivetrain decision added ~20-85g, and the 25 Sep parts-research pass added **inner tubes at 290g**, which had never been counted). Still missing: tubes, rear thru-axle, cables, clamps and hinge hardware, lights and mudguards, likely several hundred grams more. Realistic finished bike: **mid-8kg to ~9kg**, under the 9.4kg target. Full breakdown in `T20_Build_Options.md` → *Component weights — running build total*. **Child seats and their mounts are excluded from all planning weights (24 Sep): you will add them once the bike is running.**
 
 > ✅ **DECISION (24 Sep 2026): frame bought UNASSEMBLED.** HEXATI also offers frames pre-assembled (headset, seatpost clamp + liner, rear locking block, easy wheels, E-hook fitted). Considered, not taken — so those parts remain live purchase decisions.
 >
@@ -232,11 +232,18 @@ KMC DLC 11 **227g** (the lightest chain tracked) or Shimano CN-HG601 257g. **You
 |---|---|---|
 | Cane Creek eeBrake G4 | **Rim** | Rim brake (78g). Cane Creek makes no disc brake |
 
-### Levers (mechanical, flat bar)
-| Option | Weight |
-|---|---|
-| ⭐ Extralite UltraLevers 3 `[8.3kg ref]` | **22.5g each / 46g pair** |
-| Extralite UltraLevers 2+ | 50-52g pair |
+### Levers (mechanical, flat bar) — 🚨 **pull ratio corrected 25 Sep 2026**
+
+**The UltraLevers 3 are V-brake / long-pull levers and will not drive these calipers properly.**
+Growtac states that Equal calipers are **short-pull only**, that a V-brake lever makes braking
+"weaker … this combination does not allow the caliper to perform as designed," and that **V-brake
+levers are not supported.** The fix is Extralite's own short-ratio model, which is also 5g lighter.
+
+| Option | Pull ratio | Weight | Verdict |
+|---|---|---|---|
+| ⭐ **Extralite UltraLevers 3S** | **Short ratio** (caliper/cantilever specific) | **20.5g each / 41g pair** | ✅ **Correct lever. −5g** |
+| ~~Extralite UltraLevers 3~~ `[8.3kg ref]` | **Long-pull (V-brake)** | 22.5g each / 46g pair | ❌ Wrong ratio for the Equal / flat-mount cable calipers. ⚠️ The 8.3kg build lists the 3 with TRP Spyre SLC — either it has the same mismatch, or it actually used the 3S |
+| Extralite UltraLevers 2+ | — ⏳ unverified | 50-52g pair | Check the ratio before considering |
 | Growtac Equal levers | — |
 | Paul Love Levers | — |
 
@@ -248,7 +255,7 @@ KMC DLC 11 **227g** (the lightest chain tracked) or Shimano CN-HG601 257g. **You
 | Hassns carbon floating `[8.3kg ref]` | — |
 | TRP/Brompton stock | — |
 
-**Recommendation (flat mount):** **Juin Tech GT-F (135g)** or **Growtac Equal (136g)** + **Extralite UltraLevers 3**. Within 1g of each other — GT-F is 4-piston semi-hydraulic and cheaper; the Equal is mechanical with the better modulation reputation. **Best value: TRP Spyre SLC**, 146g for ~US$105, which is what the 8.3kg build actually runs. **Lightest flat mount of all: Shimano XTR road caliper at 103g**, full hydraulic, no adapter — worth pricing.
+**Recommendation (flat mount):** **Juin Tech GT-F (135g)** or **Growtac Equal (136g)** + **Extralite UltraLevers 3S** (🚨 the **3S**, not the 3 — see the pull-ratio note above). Within 1g of each other — GT-F is 4-piston semi-hydraulic and cheaper; the Equal is mechanical with the better modulation reputation. **Best value: TRP Spyre SLC**, 146g for ~US$105, which is what the 8.3kg build actually runs. **Lightest flat mount of all: Shimano XTR road caliper at 103g**, full hydraulic, no adapter — worth pricing.
 
 **Only reason to break toward post mount:** Shimano XT BR-M8100 + BL-M8100 gives **I-SPEC EV** integration with the XT M8100 shifter already in your build (one bar clamp instead of two) plus full-hydraulic wet performance, for ~70-80g.
 

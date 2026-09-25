@@ -164,7 +164,8 @@ With the 11-50T cassette on 20×2.0 tyres (~506mm wheel):
 
 | Option | Speeds | Weight | Notes |
 |---|---|---|---|
-| ⭐ **Shimano Ultegra CS-R8000 11-32T** | 11 | **292g** (published) | The known-good figure. HG freehub — same freehub as the Nuton pick, so the wheelset decision is unaffected |
+| 🔥 **NUTON null¹ ROAD 12S/HG 11-32T** | **12** | ⚠️ **~135-150g** — the 11-30T is a published **135g** | 🆕 **~145g lighter than the Ultegra for about the same money as the MTB cassette.** Same brand, same HG freehub, and eR9 runs 12-speed so it fits. ⚠️ Confirm the 11-32T's exact weight and price — the 135g figure is for the 11-30T |
+| ⭐ **Shimano Ultegra CS-R8000 11-32T** | 11 | **292g** (published) | The known-good figure, and what the running total uses. HG freehub — same freehub as the Nuton pick, so the wheelset decision is unaffected. Other ratios: 11-30T **269g**, 11-28T **251g**, 11-25T 232g |
 | **Shimano 105 CS-R7000 11-32T** | 11 | ~320g (11-28T is 271g published) | Cheaper, heavier |
 | **SRAM Force/Rival 11-32T** | 11 | ⏳ not verified | Worth pricing; weights unconfirmed, don't plan on them |
 
@@ -606,7 +607,7 @@ Taiwanese Brompton upgrade specialist (minimods.com.tw). ⚠️ **Most of their 
 
 ### Recommendation — given you're leaning flat mount
 
-**Juin Tech GT-F (135g) or Growtac Equal (136g)**, paired with **Extralite UltraLevers 3 (22.5g each)**. Both keep 140mm rotors, need no adapters, and land within 1g of each other — choose on feel and price: the GT-F is a 4-piston semi-hydraulic (more power, ~S$309/set), the Equal is mechanical with the better reputation for modulation (~S$475/set).
+**Juin Tech GT-F (135g) or Growtac Equal (136g)**, paired with **Extralite UltraLevers 3S (20.5g each / 41g pair)** — 🚨 **not the UltraLevers 3**, see the pull-ratio warning below. Both keep 140mm rotors, need no adapters, and land within 1g of each other — choose on feel and price: the GT-F is a 4-piston semi-hydraulic (more power, ~S$309/set), the Equal is mechanical with the better reputation for modulation (~S$475/set).
 
 **Best value if budget matters:** TRP Spyre SLC at 146g for ~US$105 — 10g heavier than the leaders for a third of the Growtac's price, and it's what the 8.3kg build actually runs.
 
@@ -862,9 +863,9 @@ Unlike the rack/headset/brake questions above, this one isn't a T20-fitment gues
 | Headset | WOOdman Axis BPT | 105 | 105 | Published |
 | Handlebar | **Carbon** (model undecided: Schmolke / Darimo / Ridea / WOOdman SL) | 65 | 115 | Schmolke TLO 65g to Ridea HS1C 115g |
 | Grips | Ergon GP2 Evo (S) | 230 | 230 | Deliberate comfort choice |
-| Brake levers | Extralite UltraLevers 3 | 46 | 46 | Pair |
+| Brake levers | **Extralite UltraLevers 3S** | 41 | 41 | 🆕 **Changed from the UltraLevers 3 (46g).** The 3 is a V-brake/long-pull lever and is **not compatible** with the Growtac Equal or flat-mount cable calipers; the 3S is the short-ratio version. Correct *and* 5g lighter — see `docs/PARTS_RESEARCH_2026-09-25.md` |
 | Calipers | Juin Tech GT-F ×2 | 270 | 270 | Flat mount. XT M8100 post route: ~+70-80g |
-| Rotors | Ti-Parts carbon 140mm ×2 | 155 | 155 | |
+| Rotors | Ti-Parts carbon aero 140mm ×2 | 155 | 180 | ⚠️ 🆕 **Vendor conflict:** the same site gives 77.27g and 90.12g for the 140mm carbon Aerotor. Range now spans both. A 7075 alloy Ti-Parts rotor at 74-88g may undercut it |
 | Shifter | **L-TWOO eR9 flat-bar pod** | 70 | 100 | 🆕 ⚠️ **Estimate** — no published figure. Bracketed by the Wheeltop flat-bar pod (69g) and a generous upper bound |
 | Shift battery | **L-TWOO eR9, 800mAh IPX7** | 60 | 60 | 🆕 Published. New line item — mechanical drivetrains don't have one |
 | Rear derailleur | **L-TWOO eR9** | 295 | 310 | 🆕 ⚠️ **Estimate** — from the eRX's published 288-295g plus the alloy cage. *Mechanical fallback: XT RD-M8100-SGS 283g. eTX route: 426g* |
@@ -881,8 +882,9 @@ Unlike the rack/headset/brake questions above, this one isn't a T20-fitment gues
 | Seatpost | WOOdman Post GT2 Long 31.8 | 277 | 307 | 🆕 WOOdman: 277g (540mm), 283g (570mm), 307g (600mm), incl. plug |
 | Saddle | undecided (Lupina padded → SLR Boost) | 95 | 129 | Tioga Spyder Stratum 124g sits in this range |
 | Rack | TPW Ti G Line | 328 | 328 | |
+| **Tubes ×2** | **Schwalbe SV7 (20×1.5-2.5)** | 290 | 290 | 🆕 **New line — was never in the total.** The light SV6A (65-70g) tops out at 40-406 and **does not fit your 50-406 tyre**; the SV7 is 145g each ⚠️ one source says 205g |
 | Dropout hanger | TPW **GRP-22B (142×12 thru-axle)** | 54 | 54 | Corrected from GRP-21B (135mm QR): the 100/142 thru-axle dropout decision needs the 22B |
-| **Running total (tracked parts)** | | **7,909g** | **8,421g** | **eR9 route.** Was 7,888-8,337g on the 12sp mechanical plan |
+| **Running total (tracked parts)** | | **8,194g** | **8,731g** | **eR9 route, incl. tubes.** Was 7,909-8,421g before the 25 Sep research pass added tubes (+290g), corrected the levers (−5g) and widened the rotor range (+25g high) |
 
 📌 **The eR9 decision is near weight-neutral: +21g low, +84g high (~1%).** What it actually costs is gear range, not grams — see the 11-32T ceiling in § Shifter / Rear Derailleur. For reference the three routes, drivetrain parts only (shifter + battery + RD + cassette + chain):
 
@@ -894,7 +896,7 @@ Unlike the rack/headset/brake questions above, this one isn't a T20-fitment gues
 
 *eTX row uses the Nuton 286g cassette, a 12sp chain (234-252g), the 426g RD, and the same estimated pod+battery. **The wide-range electronic route costs ~60-110g over eR9 and buys back the entire low gear.***
 
-**Not yet in the total (no weight tracked):** inner tubes ×2, rear 142×12 thru-axle (SMC doesn't include one; TPW recommends M12×1.5 160mm), brake/shift cables and housing, seatpost clamp, hinge clamps/levers, rear locking block, easy wheels, E-hook, kickstand, lights, mudguards, bar tape/bolts.
+**Not yet in the total (no weight tracked):** ~~inner tubes ×2~~ *(added 25 Sep: 290g)*, rear 142×12 thru-axle (SMC doesn't include one; TPW recommends M12×1.5 160mm), brake/shift cables and housing, seatpost clamp, hinge clamps/levers, rear locking block, easy wheels, E-hook, kickstand, lights, mudguards, bar tape/bolts.
 
 **Excluded from planning (decided 24 Sep 2026):** child seats (Yepp Mini front, Yepp Nexxt 2 Maxi rear) and their mounts/adapters. You will add them once the bike is running. **All build weights here are without the child seats.** Realistically these add **several hundred grams**, so expect a bike in the **mid-8kg to ~9kg range**. That is under HEXATI's own 9.4kg complete T20, even with the rack, grips and city tyres.
 
