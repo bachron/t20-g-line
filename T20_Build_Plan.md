@@ -20,13 +20,13 @@
 
 | Part | Decision | Status |
 |---|---|---|
-| Frame + rear triangle | Titanium | ✅ Purchased |
+| Frame + rear triangle | Titanium | ✅ Chosen, **not yet bought** (25 Sep) |
 | Fork | SilverRock carbon — omitted from the Chris Yeo bundle, sourced separately (ranked options below) | ✅ Decided |
 | Stem | Titanium — required for correct G Line geometry to fit the Thule Yepp Mini front child seat mount (the carbon stem option does not conform to G Line spec) | ✅ Confirmed |
 
 *All frameset parts are genuine HEXATI, supplied through Chris Yeo (Bromprr).*
 
-### Titanium frame / rear triangle / stem suppliers (reference — frame & triangle already bought)
+### Titanium frame / rear triangle / stem suppliers (reference — frame & triangle chosen, not yet bought)
 
 | Part | Option | Weight | Price |
 |---|---|---|---|

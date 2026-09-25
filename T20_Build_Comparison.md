@@ -31,7 +31,9 @@
 - **Comfort is a tie.** Both builds use the same saddle, grips, bar, tyres and wheels, and those set the ride feel, not the frame material. The one comfort difference you'll notice every day is **lifting and carrying the folded bike**, and A wins that by ~1 kg.
 - **Where B is genuinely better:** a genuine Brompton main frame and hinge, with the fold refinement and resale value that brings. The HEXATI is a clone with 3D-printed hinges. If fold quality and resale matter more to you than 1 kg, B is a fair choice.
 
-> ⚠️ `T20_Build_Plan.md` lists the Ti frame and rear triangle as **✅ Purchased**. If you've already paid Chris Yeo, the frameset is a sunk cost and Build A is far cheaper than B from here. This comparison assumes the frameset is not yet paid for.
+> ✅ **Nothing has been bought yet (confirmed 25 Sep 2026)**, so both builds are fully open.
+>
+> **What the S$2,900 Chris Yeo bundle includes:** Ti main frame + **Ti rear triangle (rear fork)** + **Ti stem** + **carbon front fork**. The front fork is **carbon, not Ti**. The plan is to drop that carbon fork for a credit (TBC) and buy the Silverock separately. The cheaper S$2,400 bundle swaps the Ti stem for carbon, which doesn't fit the Yepp Mini. HEXATI's 3D-printed Ti front fork (439g) was set aside over print quality.
 
 ---
 
@@ -163,11 +165,10 @@ Ti vs steel for the main frame makes little difference you can feel on a small-w
 
 ## 7. Before deciding
 
-1. **Is the T20 frameset already paid for?** If yes, the decision is made: Build A.
-2. **Get the fork credit from Chris Yeo.** It lowers Build A by that amount.
-3. **For Build B:** check Carousell asking prices for stripped G Line parts (Alfine wheels, fork, triangle) to firm up the S$800-1,500 resale estimate. It decides whether B is cheaper at all.
-4. **For Build B:** confirm a G Line-pattern Ti stem you can buy.
-5. **Either way:** start collecting the shared parts (section 3) used now. They fit both builds.
+1. **Get the fork credit from Chris Yeo.** It lowers Build A by that amount.
+2. **For Build B:** check Carousell asking prices for stripped G Line parts (Alfine wheels, fork, triangle) to firm up the S$800-1,500 resale estimate. It decides whether B is cheaper at all.
+3. **For Build B:** confirm a G Line-pattern Ti stem you can buy.
+4. **Either way:** start collecting the shared parts (section 3) used now. They fit both builds.
 
 ---
 

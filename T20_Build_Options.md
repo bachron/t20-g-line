@@ -194,7 +194,7 @@ With the 11-50T cassette on 20×2.0 tyres (~506mm wheel):
 
 ## Frame / Rear Triangle / Stem — titanium suppliers
 
-⚠️ **Frame + rear triangle are already purchased**, so this is reference and comparison — except the **rear triangle**, where there's a real 170g spread if you ever revisit it.
+⚠️ **Frame + rear triangle are chosen but not yet bought (confirmed 25 Sep)**, so this is mostly reference and comparison — except the **rear triangle**, where there's a real 170g spread if you ever revisit it.
 
 ### Main frame
 
