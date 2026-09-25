@@ -71,17 +71,20 @@ spindle. **Ask #9 before buying this one** — the gap is no longer small.)*
 
 ## 3. Blocked on your decision ⏳
 
-**S$563 – 1,651** depending on how you choose. This is where the build's cost genuinely swings.
+**S$513 – 1,496** depending on how you choose. This is where the build's cost genuinely swings.
+
+*(Corrected 25 Sep: the earlier S$563-1,651 figure wrongly folded the headset into this subtotal
+while § 5 also counted it as its own line — a double-count of S$90-155.)*
 
 | Part | Options | Cost (SGD) | Note |
 |---|---|---|---|
 | Saddle | Tioga Spyder Stratum 124g · Brooks C13 259-301g · Berk Lupina 95-104g · SLR Boost 96g | **213 – 689** | ~200g and ~S$475 at stake. Tioga is the best comfort-per-gram value; Brooks is +150g |
 | Handlebar | WOOdman SL · Darimo Superlight 79-98g · Schmolke TLO 65-105g | **189 – 551** | Carbon locked 24 Sep. Darimo is the value pick; check the rider-weight limit |
 | Pedals | TPW Mini QD 38.3g holder · MKS Compact Ezy 302g · Eggbeater 3 280g · **H&H Ti 215g** | **71 – 176** | 🆕 **H&H now priced: US$125 standard / US$135 X-Large (~S$163-176), 215g/pair, left pedal detachable.** It is both the lightest and among the cheapest — recommendation confirmed. X-Large is +S$13 for a 38% bigger platform at no weight cost |
-| Chain | KMC DLC 11 227g · CN-HG601 257g · **or reuse your existing KMC 11sp** | **0 – 80** | The eR9 decision makes your existing 11sp chain usable again — check it for wear first |
+| Chain | **KMC X12 234g · CN-M8100 252g** | **40 – 80** | 🔄 **12-speed again:** the NUTON ROAD cassette is 12sp, so **your existing 11sp chain is out.** The S$0 reuse option only comes back on the Ultegra fallback |
 | **Drivetrain route** | **eR9** (S$650, 1.50:1 low) · **eRX** (~S$845, the 11-36T RD version → 1.06:1 with a 38T ring) · **eTX** (unpriced, 0.96:1 low) · **eR9 as 2×** (+FD, +left shifter, +250-350g → 1.00:1) | **650 – 845+** | ⚠️ **The one decision that changes the bike, not just the bill** — see § 6 and *🔧 Gearing configurations* in the options tracker |
 | Chainring *(only if re-geared)* | A 36-40T ring to suit a 32/36T cog means leaving the **Lightworks V2 48T — S$195, already allocated** — for a Stone ring, +30-60g | **TBC** | Applies only on the smaller-ring route |
-| **Subtotal** | | **563 – 1,651** | |
+| **Subtotal** *(saddle + handlebar + pedals + chain)* | | **513 – 1,496** | Excludes the drivetrain row — **eR9's S$650 is already counted in § 2**, so only an upgrade to eRX/eTX/2× would add to this |
 
 ---
 
@@ -97,10 +100,10 @@ spindle. **Ask #9 before buying this one** — the gap is no longer small.)*
 | **Crankset** | Praxis Doon carbon M30-THRU, 170mm | 335-342g | **~429** *(US$330, arm set)* |
 | **Brake levers** | Extralite UltraLevers **3S** | **41g** | **~283** *(US$218 — that figure is for the 3; the 3S price wasn't visible)* |
 | **Tyres ×2** | Continental Contact Urban 50-406 | 860g | **~91** *(US$34.99 each)* |
-| **Cassette** | Ultegra CS-R8000 11-32T *(eR9 route)* | 292g | **~85 – 117** |
-| **Cassette — lighter option** | 🔥 **NUTON null¹ ROAD 12S/HG 11-32T** | **140g** | **~189** *(¥21,450)* — **+S$72-104 for −152g ≈ S$0.47-0.68/g, the best value per gram in the build** |
+| **Cassette** | ✅ **NUTON null¹ ROAD 12S/HG 11-32T** *(tracked pick, 25 Sep)* | **140g** | **~189** *(¥21,450)* — **+S$72-104 over the Ultegra for −152g ≈ S$0.47-0.68/g, the best value per gram in the build.** ⚠️ 12-speed, so the chain stays 12sp |
+| *Cassette — fallback* | *Ultegra CS-R8000 11-32T* | *292g* | *~85 – 117 — steel cogs, 11sp chain* |
 | **Tubes ×2** | Schwalbe SV7 | **290g** 🆕 | **~20 – 26** |
-| **Subtotal** | | | **3,622 – 3,660** |
+| **Subtotal** | | | **3,726 – 3,732** |
 
 ### Still unpriced after the pass
 
@@ -117,18 +120,18 @@ spindle. **Ask #9 before buying this one** — the gap is no longer small.)*
 |---|---|
 | ✅ Committed (frameset bundle) | **2,900** |
 | 🛒 Decided + priced + orderable | **2,077 – 2,105** |
-| ⏳ Open decisions, priced options | **563 – 1,651** |
+| ⏳ Open decisions, priced options | **513 – 1,496** |
 | ⛔ Headset | **90 – 155** |
-| ✅ 🆕 Priced by the 25 Sep pass *(wheelset, fork, rack, crankset, levers, tyres, cassette, tubes)* | **3,622 – 3,660** |
+| ✅ 🆕 Priced by the 25 Sep pass *(wheelset, fork, rack, crankset, levers, tyres, cassette, tubes)* | **3,726 – 3,732** |
 | 💲 Still unpriced *(rotors, thru-axle, cables, clamp, lights)* | **TBC — small** |
-| **Known total** | **S$9,252 – 10,471** |
+| **Known total** | **S$9,306 – 10,388** |
 
-📌 **Now the number is real: ~S$9,250 – 10,500.** A complete T20 Lite from Chris Yeo is
+📌 **Now the number is real: ~S$9,300 – 10,400.** A complete T20 Lite from Chris Yeo is
 **S$3,200**; from JackBikeSG **S$3,350**. **This build is roughly 3× the complete bike**, and only
 a handful of small items are still unpriced, so that multiple will not come down. It buys you
-9.4kg → **8.19-8.73kg**, about **0.7-1.2kg**, plus parts chosen on merit rather than a stock
-spec. Against the S$3,200 complete bike that is **S$6,050-7,270 extra for 670-1,210g saved —
-roughly S$5-11 per gram.** That is normal for a parts-built
+9.4kg → **8.05-8.57kg**, about **0.8-1.4kg**, plus parts chosen on merit rather than a stock
+spec. Against the S$3,200 complete bike that is **S$6,106-7,188 extra for 821-1,358g saved —
+roughly S$4.50-8.75 per gram.** That is normal for a parts-built
 lightweight and is not a reason to change course. But it should be on paper, not implied.
 
 💡 **The four big line items — wheelset S$1,557, fork S$689, rack S$468, crankset S$429 —

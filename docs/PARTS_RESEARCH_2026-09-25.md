@@ -61,7 +61,7 @@ upgrade shortlist.
 | **Crankset** | Praxis Doon carbon, M30-THRU | 335-342g | **US$330 (~S$429)** arm set | Universal Cycles. Arms + M30 alloy spindle. 147mm Q-factor, 44.5mm chainline |
 | **Fork** | Silverock carbon, G Line, M12×100 TA | 365g fork / **393g w/ axle** | **US$529.99 (~S$689)** | eBay (Silverock store). ⚠️ Tracker has 388g from Fantastic4Toys vs 393g here — ±10g, immaterial |
 | **Rack** | Ti Parts Workshop Ti, **G Line** | 328g | **US$360 (~S$468)** | All-titanium. Raw / black / gold. Still the only correct G Line option found |
-| **Cassette** *(eR9 route)* | Shimano Ultegra CS-R8000 11-32T | 292g | **~US$65-90 (~S$85-117)** | See the full ratio table below |
+| **Cassette** *(eR9 route)* | ✅ **NUTON null¹ ROAD 12S/HG 11-32T** *(tracked)* | **140g** | **¥21,450 (~S$189)** | Ultegra CS-R8000 11-32T (292g, ~S$85-117) is the fallback. See the ratio table below |
 | **Tyres ×2** | Continental Contact Urban 50-406 | 860g | **US$34.99 ea (~S$45)** → **~S$91 pair** | Bikeinn |
 | **Tubes ×2** | Schwalbe SV7 (20×1.5-2.5) | **~290g** 🆕 | ~S$10-13 ea *(est.)* | 🆕 **New line — was missing entirely** |
 | **Brake levers** | Extralite UltraLevers 3 → **3S** | 46g → **41g** | **~US$218 (~S$283)** for the 3 · 3S ⚠️ unpriced | See finding #1 |
@@ -94,7 +94,7 @@ upgrade shortlist.
 | Ultegra CS-R8000 | 11 | 11-30T | **269g** | ~S$85-117 | −23g, and a *harder* low gear |
 | Ultegra CS-R8000 | 11 | 11-28T | **251g** | ~S$85-117 | −41g, harder still |
 | Ultegra CS-R8000 | 11 | 11-25T | 232g | — | Race ratio. Not for a loaded folder |
-| 🔥 **NUTON null¹ ROAD 12S/HG** | **12** | **11-32T** | ✅ **140g** (catalog, incl. alloy lock ring) | ✅ **¥21,450 incl. tax (~S$189)** | **CONFIRMED 25 Sep.** Cogs 11-12-13-14-15-16-17-19-21-24-28-32T. Fits 11- **and** 12-speed HG bodies. **−152g vs the Ultegra for ~S$72-104 more.** Cheaper than the 11-50T MTB version |
+| ✅ **NUTON null¹ ROAD 12S/HG** | **12** | **11-32T** | ✅ **140g** (catalog, incl. alloy lock ring) | ✅ **¥21,450 incl. tax (~S$189)** | **TRACKED PICK from 25 Sep.** Cogs 11-12-13-14-15-16-17-19-21-24-28-32T. Fits 11- **and** 12-speed HG bodies. **−152g vs the Ultegra for ~S$72-104 more.** Cheaper than the 11-50T MTB version |
 | 🔥 **NUTON null¹ ROAD 11S/HG** | **11** | **11-32T** | **135g** ⚠️ single source | ⚠️ not found — range starts US$115 | The 11-speed sibling, 5g lighter. Cogs 11-12-13-14-15-17-19-21-24-28-32T |
 | NUTON null¹ MTB 12S/HG | 12 | 11-50T | 286g | ¥28,600 (~S$250) | The 24 Sep pick. Needs eTX or mechanical XT |
 | NUTON null¹ MTB 11S/HG | **11** | 11-46T | **310g** | ¥26,400 (~S$231) | 🆕 An 11-speed Nuton exists. Heavier than the 12S, and still needs a 46T-rated derailleur |
@@ -104,6 +104,14 @@ upgrade shortlist.
 about S$0.47-0.68 per gram**, on a part where nothing else about the bike changes: same 11-32T
 ratio, same HG freehub, same shifting. That is better value per gram than anything else in the
 build, including the ESI grips, and unlike the grips it costs no comfort.
+
+**✅ Adopted as the tracked cassette on 25 Sep**, taking the running total from 8,194-8,731g to
+**8,049-8,574g**.
+
+⚠️ **The string attached:** it is a **12-speed** cassette, so eR9 runs in 12-speed mode and the
+chain goes back to 12sp (KMC X12 234g / CN-M8100 252g). **The existing KMC 11-speed chain is
+unusable again** — the 11-speed reprieve noted earlier the same day is reversed. Only the Ultegra
+fallback puts you back on an 11sp chain.
 
 It does **not** fix the eR9's 1.50:1 low gear — but it removes most of the weight cost of the
 eR9 route. An 11-speed version of the same ratio exists at **135g** (5g lighter, price not found,

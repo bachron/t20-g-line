@@ -4,7 +4,7 @@
 **Rider priorities:** general city use with a front child seat, easier low gears over top speed, weight-conscious throughout, prefers Singapore-based sellers where possible.
 **Target weight:** ~9.4-9.6kg (based on comparable full-spec quotes)
 **Companion docs:** `docs/CHRIS_YEO_QUESTIONS.md` (every frame question in one paste-ready message) · `docs/PURCHASE_ORDER.md` (line-item costs, running total, buy order) · `docs/PARTS_RESEARCH_2026-09-25.md` (price + weight + configurations for every part)
-**Running total (25 Sep 2026, published weights):** **8.19-8.73kg for tracked parts** (was 7.89-8.34kg on 24 Sep; the eR9 drivetrain decision added ~20-85g, and the 25 Sep parts-research pass added **inner tubes at 290g**, which had never been counted). Still missing: tubes, rear thru-axle, cables, clamps and hinge hardware, lights and mudguards, likely several hundred grams more. Realistic finished bike: **mid-8kg to ~9kg**, under the 9.4kg target. Full breakdown in `T20_Build_Options.md` → *Component weights — running build total*. **Child seats and their mounts are excluded from all planning weights (24 Sep): you will add them once the bike is running.**
+**Running total (25 Sep 2026, published weights):** **8.05-8.57kg for tracked parts** (was 7.89-8.34kg on 24 Sep; the eR9 drivetrain decision added ~20-85g, and the 25 Sep parts-research pass added **inner tubes at 290g**, which had never been counted, then the NUTON ROAD cassette took **152g** back off). Still missing: tubes, rear thru-axle, cables, clamps and hinge hardware, lights and mudguards, likely several hundred grams more. Realistic finished bike: **mid-8kg to ~9kg**, under the 9.4kg target. Full breakdown in `T20_Build_Options.md` → *Component weights — running build total*. **Child seats and their mounts are excluded from all planning weights (24 Sep): you will add them once the bike is running.**
 
 > ✅ **DECISION (24 Sep 2026): frame bought UNASSEMBLED.** HEXATI also offers frames pre-assembled (headset, seatpost clamp + liner, rear locking block, easy wheels, E-hook fitted). Considered, not taken — so those parts remain live purchase decisions.
 >
@@ -174,14 +174,17 @@ Spider is **110 BCD, 5-arm** — rings must be 110 BCD **5-bolt**.
 - Sourcing: Carousell (~S$190 new matched pair) or Japan retail (~S$186-188 new, ~S$168 tax-free)
 - ~~L-TWOO ER9 Wireless was considered but ruled out — it's drop-bar only (hydraulic levers), doesn't fit the flat-bar/mechanical-lever plan~~ — ❌ **wrong, superseded 25 Sep 2026.** L-TWOO sells eR9 for 14–20" folders and flat bars, the shifter comes as a separate pod in that kit, and eR9 is the HEXATI T20's own stock drivetrain. **eR9 is now the decision.**
 
-### Cassette — ⚠️ **reopened by the eR9 decision** (25 Sep 2026)
-- **Nuton null¹ 11-50T (286g)** stays the pick *only* on the eTX or mechanical-XT routes — it needs a derailleur rated to 50T, and eR9 is not.
-- **On eR9: Shimano Ultegra CS-R8000 11-32T, 292g** (published) is the tracked pick. Same HG freehub, so the wheelset decision is unaffected.
-- ⚠️ **The 11-32T road cassette is 6g *heavier* than the 11-50T MTB one it replaces.** You give up 56% of the low gear and gain weight.
-- HG freehub retained either way, rather than Micro Spline.
+### Cassette — ✅ **NUTON null¹ ROAD 12S/HG 11-32T, 140g** (decided 25 Sep 2026)
+- **✅ Tracked pick: NUTON null¹ ROAD 12S/HG 11-32T — 140g, ¥21,450 (~S$189).** Cogs 11-12-13-14-15-16-17-19-21-24-28-32T. HG freehub, fits 11- and 12-speed HG bodies. Confirmed against two Japanese retailers.
+- **152g lighter than the Shimano Ultegra CS-R8000 11-32T (292g, ~S$85-117) for ~S$72-104 more ≈ S$0.47-0.68/g** — the best confirmed grams-per-dollar in the build, and it costs nothing in ratio, freehub or shifting.
+- ⚠️ **It is a 12-speed cassette.** eR9 must run in 12-speed mode and the chain returns to 12sp — **your existing KMC 11sp chain is unusable again.**
+- ⚠️ 140g is a **catalog** figure, not scale-verified, and the top three cogs are **aluminium** — expect shorter service life than the Ultegra under daily city use with a child aboard.
+- **Fallbacks:** Ultegra CS-R8000 11-32T (292g, steel, 11sp chain, lets you reuse your chain) · Nuton null¹ ROAD **11S** 11-32T (135g, single source, no price found).
+- **Nuton null¹ MTB 11-50T (286g)** remains the pick *only* on the eTX or mechanical-XT routes — it needs a derailleur rated to 50T, and eR9 is not.
+- HG freehub retained throughout, rather than Micro Spline.
 
-### Chain — ✅ 11-speed (resolved by the eR9 decision, 25 Sep 2026)
-KMC DLC 11 **227g** (the lightest chain tracked) or Shimano CN-HG601 257g. **Your existing KMC 11-speed chain is compatible again** — check it for wear before reusing.
+### Chain — ✅ **12-speed** (follows the NUTON ROAD cassette, 25 Sep 2026)
+**KMC X12 234g** or Shimano CN-M8100 252g. 🔄 **This reverses the 11-speed note made earlier the same day:** the Nuton ROAD 11-32T is a 12-speed cassette, so eR9 runs 12-speed and **your existing KMC 11-speed chain cannot be reused** — an 11sp chain is too thick for 12sp. *Only the Ultegra fallback puts you back on 11-speed (KMC DLC 11, 227g).*
 
 ### Headset — ⏳ Not yet decided
 *Proprietary Brompton/G Line pattern — 1-1/8" threaded, 28.6mm x 34mm. Not a standard threadless road/MTB headset.*
@@ -467,6 +470,7 @@ Headline candidates, biggest saving first:
 - [ ] Rank and choose headset; confirm 1-1/8" x 34mm threaded pattern with Chris Yeo
 - [x] Rank Bottom Bracket (24 Sep): BBInfinite Ceramitech 80g. Extralite only if Chris Yeo/Extralite confirm the M30 fit
 - [x] **Shifter / rear derailleur: L-TWOO eR9 11sp wireless** (25 Sep). ⚠️ **Open sub-decision: eR9's 32T cog ceiling vs the 11-50T cassette** — price L-TWOO **eTX** (11-50T capable, flat-bar, +~120g) before ordering
+- [x] **Cassette: NUTON null¹ ROAD 12S/HG 11-32T** (25 Sep), 140g / ~S$189, −152g vs the Ultegra. ⚠️ 12-speed, so the chain stays 12sp and the existing 11sp chain is out
 - [ ] **Buy the eR9 folding/flat-bar kit, not the road kit** — confirm with the seller: 1× (no front derailleur), separate shifter pod (no integrated hydraulic levers), and where the battery mounts on a folding frame
 - [ ] **Confirm axle standard with Chris Yeo (142×12 thru-axle vs 135mm QR) — this blocks the wheelset hub decision**, and also decides whether MiniMODs Ti skewers/axles are usable at all
 - [ ] Ask Chris Yeo whether the T20 uses a Brompton-pattern rear suspension block (MiniMODs rear shock options exist if so)
