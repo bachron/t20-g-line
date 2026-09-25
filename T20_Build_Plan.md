@@ -262,9 +262,9 @@ Spider is **110 BCD, 5-arm** — rings must be 110 BCD **5-bolt**.
 | Bromptonic Aluminium | 31.8mm | ~400g | — |
 | ⭐ H&H (HH Innovation) Ti Seatpost v3 | 31.8mm | 311g (540mm DC) - 368g (600mm SC) | ~€175 (~S$257) |
 | ⭐ Ti Parts Workshop Ti Seatpost | 31.8mm | 284g | ~US$292 (~S$380) |
-| ⭐ HEXATI/COMEPLAY Ti Seatpost (Gr9 3Al-2.5V) | 31.8mm OD | **268g** (535mm standard; 540/560/580/600mm offered) | **US$40 (~S$52)** direct at tibicycles.com (was US$68, tax incl.) · **S$100** via Chris Yeo bundle |
+| ⭐ HEXATI/COMEPLAY Ti Seatpost (Gr9 3Al-2.5V) | 31.8mm OD | **268g without plug** (535mm standard; 540/560/580/600mm offered). Plug sold separately, ~10-20g (est.) | **US$40 (~S$52)** direct at tibicycles.com (was US$68, tax incl.) · **S$100** via Chris Yeo bundle |
 
-💡 **HEXATI Ti post (26 Sep):** 268g vs the WOOdman's 277g at 540mm, for about a quarter of the price if bought direct. Titanium, so it's child-seat-clamp safe. ⚠️ Comes in **1.2mm or 1.5mm wall**. The 268g figure doesn't say which. With the Yepp Nexxt 2 Maxi clamping the post, ask for **1.5mm**, and ask what it weighs.
+💡 **HEXATI Ti post (26 Sep):** 268g **without a plug**; the WOOdman's 277g at 540mm **includes** its plug. With a plug added (~10-20g, est.) they're about level on weight, but the HEXATI is about a quarter of the price bought direct. Buy a plug separately. Titanium, so it's child-seat-clamp safe. ⚠️ Comes in **1.2mm or 1.5mm wall**. The 268g figure doesn't say which. With the Yepp Nexxt 2 Maxi clamping the post, ask for **1.5mm**, and ask what it weighs.
 
 ⚠️ **Two open questions on this pick:** (1) ~~WOOdman weight never recorded~~. **Resolved: 277-307g**, which already matches or beats the Ti posts; (2) ~~frame-mount vs seatpost-clamp contradiction~~. **Resolved 24 Sep: the Yepp Nexxt 2 Maxi mounts on the seatpost; nothing mounts on the frame.** The carbon exclusion stands. Alloy (WOOdman) or titanium only.
 
