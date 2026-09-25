@@ -262,6 +262,7 @@ Spider is **110 BCD, 5-arm** — rings must be 110 BCD **5-bolt**.
 | Bromptonic Aluminium | 31.8mm | ~400g | — |
 | ⭐ H&H (HH Innovation) Ti Seatpost v3 | 31.8mm | 311g (540mm DC) - 368g (600mm SC) | ~€175 (~S$257) |
 | ⭐ Ti Parts Workshop Ti Seatpost | 31.8mm | 284g | ~US$292 (~S$380) |
+| 🆕 HEXATI Ti Seatpost (Chris Yeo add-on) | 31.8mm (T20 spec, confirm) | ⏳ not published | **+S$100** on the frameset bundle |
 
 ⚠️ **Two open questions on this pick:** (1) ~~WOOdman weight never recorded~~. **Resolved: 277-307g**, which already matches or beats the Ti posts; (2) ~~frame-mount vs seatpost-clamp contradiction~~. **Resolved 24 Sep: the Yepp Nexxt 2 Maxi mounts on the seatpost; nothing mounts on the frame.** The carbon exclusion stands. Alloy (WOOdman) or titanium only.
 
