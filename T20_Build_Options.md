@@ -149,12 +149,26 @@ With the 11-50T cassette on 20×2.0 tyres (~506mm wheel):
 | **Extralite ExtraBolt 1-1s** | 6.5g (set) | — | Slightly heavier alternate line |
 | Stock/generic steel bolts | ~15-20g (est.) | — | Baseline — cheap grams if the bolt count matches |
 
-## Cassette
+## Cassette — ⚠️ **reopened by the eR9 decision (25 Sep 2026)**
 
-| Option | Weight | Notes |
-|---|---|---|
-| ✅ **Nuton Cycling null¹ MTB 12S/HG 11-50T** | **286g** (official; 11-46T 275g). ¥28,600 | Locked in. HG freehub retained |
-| **Lightweight cassette** `[8.3kg ref]` | **230g** | The 8.3kg build's cassette (model not stated) — a useful target number to weigh yours against |
+**The Nuton 11-50T only works on routes 1 and 3 above (eTX, or mechanical XT).** On eR9 the derailleur caps out at 32T, so an 11-32T road cassette is forced. Both sets are tracked until the drivetrain route is settled.
+
+**If eTX or mechanical XT (11-50T route):**
+
+| Option | Speeds | Weight | Notes |
+|---|---|---|---|
+| ✅ **Nuton Cycling null¹ MTB 12S/HG 11-50T** | 12 | **286g** (official; 11-46T 275g). ¥28,600 (~S$250) | The 24 Sep pick. HG freehub retained. **Needs a derailleur rated to 50T — eR9 is not** |
+| **Lightweight cassette** `[8.3kg ref]` | — | **230g** | The 8.3kg build's cassette (model not stated) — a target figure |
+
+**If eR9 (11-32T route):**
+
+| Option | Speeds | Weight | Notes |
+|---|---|---|---|
+| ⭐ **Shimano Ultegra CS-R8000 11-32T** | 11 | **292g** (published) | The known-good figure. HG freehub — same freehub as the Nuton pick, so the wheelset decision is unaffected |
+| **Shimano 105 CS-R7000 11-32T** | 11 | ~320g (11-28T is 271g published) | Cheaper, heavier |
+| **SRAM Force/Rival 11-32T** | 11 | ⏳ not verified | Worth pricing; weights unconfirmed, don't plan on them |
+
+⚠️ **Note the weight irony:** the 11-32T road cassette (292g) is *heavier* than the 11-50T MTB cassette it replaces (286g). You lose 56% of your low gear and gain 6g.
 
 ## Wheelset
 
@@ -263,9 +277,123 @@ Spec: Ti main frame w/ 3D-printed hinge; Ti rear fork w/ 3D-printed dropout, **1
 
 *Frameset pricing: Ti stem takes the Chris Yeo bundle from S$2,400 to S$2,900.*
 
-## Shifter / Rear Derailleur — **11 and 12 speed both open**
+## Shifter / Rear Derailleur — ✅ **L-TWOO eR9 wireless electronic, 11-speed** (decided 25 Sep 2026)
 
-**DECISION (24 Sep 2026): keep both 11- and 12-speed on the table.** The chain error that started this (KMC 11sp listed against a 12sp drivetrain) can be fixed either way.
+**DECISION (25 Sep 2026): L-TWOO eR9, 11-speed wireless electronic.** This reverses the 24 Sep exclusion ("drop-bar only, doesn't fit the flat-bar plan"). The exclusion was wrong: L-TWOO sells eR9 kits **explicitly for 14–20" folding bikes and flat-bar road bikes**, and eR9 is the **stock drivetrain on the HEXATI T20 Lite/Elite — this exact frame** (see § Purchasing / Frame suppliers).
+
+*Superseded position (24 Sep): "11- and 12-speed both open," Shimano XT M8100 as the mechanical default. XT M8100 stays in the tables below as the fallback.*
+
+### ⚠️ The one real cost of eR9: an 11-32T ceiling
+
+The eR9 rear derailleur is a **road** unit. It runs 10, 11 or 12 speed, but its **largest cog is 32T**. Three independent confirmations: L-TWOO's own spec, retailer spec sheets, and **JackBikeSG's T20 Lite build sheet in § Purchasing, which ships eR9 with an "11-32t cassette."**
+
+| Setup | Chainring | Largest cog | Low gear | Gear inches (406 + 50mm tyre ≈ 19.9" Ø) |
+|---|---|---|---|---|
+| Plan as locked 24 Sep | 48T | **50T** (Nuton null¹) | **0.96:1** | ~19" |
+| Plan on eR9 | 48T | **32T** (RD ceiling) | **1.50:1** | ~30" |
+
+**That is a 56% harder low gear**, and it deletes the entire reason the 48T ring was chosen over 54T on 24 Sep — *"easier low gears."* It cannot be fixed at the crank: getting back to 0.96:1 against a 32T cog needs a **~31T chainring**, and the Lightworks 110 BCD 5-arm spider doesn't go anywhere near that.
+
+**Three ways out — pick one before ordering:**
+
+1. ⭐ **L-TWOO eTX instead of eR9.** Same brand, same wireless system, but the **MTB** platform: 10/11/12-speed, **compact flat-bar electronic shifter**, long-cage RD rated **11-46 / 11-50 / 11-52T**. Keeps the Nuton 11-50T *and* the 0.96:1 low gear. RD **426g claimed** — roughly **+120g** over eR9. **Recommended if the low gear matters more than 120g**, which is what the 48T decision said it did.
+2. **eR9 + an 11-32T cassette, accept 1.50:1.** Defensible — Singapore is flat. But it is a reversal of a locked decision, on a bike that will carry a child seat.
+3. **Stay mechanical:** XT M8100 + Nuton 11-50T, the 24 Sep plan unchanged.
+4. **Re-gear around the ceiling** — smaller chainring, a 36T-rated **eRX** derailleur, or eR9 as the 2× it was designed to be. Full menu in *🔧 Gearing configurations* below.
+
+### 🔧 Gearing configurations inside the electronic ceilings — **for consideration, nothing decided**
+
+*Added 25 Sep 2026 at your request. This section is a menu, not a decision. Nothing below changes
+the locked 48T choice or the Nuton cassette until you say so.*
+
+**The ceilings, by groupset:**
+
+| Groupset | Largest cog | Speeds | RD weight | Notes |
+|---|---|---|---|---|
+| **eR9** | **32T** | 10/11/12 | ~295-310g ⚠️ est. | One cage option |
+| **eRX** | **32T or 36T** — two RD versions | 10/11/12 | **288-295g** published | Carbon cage; the 36T version is the useful one here |
+| **eTX** | **46 / 50 / 52T** | 10/11/12 | **426g** | MTB platform, flat-bar pod, no gearing compromise at all |
+
+**Reference point to beat:** the locked plan — 48T × 11-50T — gives **0.96:1 low (19.1 gear inches,
+~8.2 km/h at 90rpm)** and **4.36:1 top (86.8", ~37 km/h)**, a **455% range**.
+
+*Gear inches assume the chosen 406 rim + 50-406 Contact Urban ≈ 19.9" rolling diameter. Speeds are at 90rpm.*
+
+#### Option A — stay 1×, change the chainring
+
+The only lever you have on a 1× setup is a smaller ring. **A 32T cog needs a ~31T ring to match
+0.96:1, which doesn't exist for this spider — but a 36T cog gets there exactly.**
+
+| Ring | **Low gear on 32T cog (eR9 / eRX-32)** | **Low gear on 36T cog (eRX-36)** | Top gear (×11T) | Range |
+|---|---|---|---|---|
+| **36T** | 1.13 · 22.4" · 9.7 km/h | ✅ **1.00 · 19.9" · 8.6 km/h** | 3.27 · 65.1" · **28 km/h** | 291 / 327% |
+| **38T** | 1.19 · 23.6" · 10.2 | ⭐ **1.06 · 21.0" · 9.1** | 3.45 · 68.7" · **30 km/h** | 291 / 327% |
+| **40T** | 1.25 · 24.9" · 10.7 | 1.11 · 22.1" · 9.5 | 3.64 · 72.4" · **31 km/h** | 291 / 327% |
+| **42T** | 1.31 · 26.1" · 11.3 | 1.17 · 23.2" · 10.0 | 3.82 · 76.0" · **33 km/h** | 291 / 327% |
+| **44T** | 1.38 · 27.4" · 11.8 | 1.22 · 24.3" · 10.5 | 4.00 · 79.6" · **34 km/h** | 291 / 327% |
+| **48T** *(locked choice)* | ⚠️ 1.50 · 29.9" · 12.9 | 1.33 · 26.5" · 11.4 | 4.36 · 86.8" · **37 km/h** | 291 / 327% |
+| **54T** *(earlier choice)* | 1.69 · 33.6" · 14.5 | 1.50 · 29.9" · 12.9 | 4.91 · 97.7" · **42 km/h** | 291 / 327% |
+
+**Read it this way:** a smaller ring moves the *whole* range down — you buy the low gear with top
+speed, because the 291-327% spread is fixed by the cassette. **eRX-36T + a 36-38T ring lands on
+0.96-1.06:1, i.e. the low gear you decided you wanted, and the ceiling drops to ~28-30 km/h.**
+
+⚠️ **Chainring supply is the catch.** The Lightworks V2 is a 48/54T part — go below that and you
+leave it. On 110 BCD 5-arm the tracked wide-range option is **Stone Chainrings (36-60T)**, logged
+in § Chainring as *"heaviest of the credible options"*, so a 36-40T ring likely costs you 30-60g
+against the Lightworks 56-60g **and** the S$195 already allocated to it.
+
+#### Option B — go 2×, which is eR9's native configuration
+
+eR9 and eRX are **2× road groupsets**. Used as designed, a subcompact double solves the low gear
+*inside* the 32T ceiling and gives back the range too:
+
+| Crank | Low gear (inner ÷ 32T) | Top gear (outer ÷ 11T) | Range |
+|---|---|---|---|
+| **48/32 subcompact** | ✅ **1.00 · 19.9" · 8.6 km/h** | 4.36 · 86.8" · 37 km/h | **436%** |
+| **50/34 compact** | 1.06 · 21.1" · 9.1 | 4.55 · 90.5" · 39 km/h | 447% |
+| **46/30 gravel** | ⭐ **0.94 · 18.7" · 8.1** — *beats the 0.96 target* | 4.18 · 83.2" · 36 km/h | 436% |
+
+**A 48/32 double on an 11-32T cassette reproduces the locked plan almost exactly — 1.00:1 low,
+4.36:1 top, 436% vs 455% — using eR9 entirely within spec.** That is the cheapest answer to the
+ceiling in gearing terms, and the most expensive in every other terms:
+
+- ➕ front derailleur, ➕ left shifter pod, ➕ a second chainring
+- ➖ the **36g Lightworks 1× carbon spider** (S$250) becomes the wrong part
+- ⚠️ **+250-350g estimated** — more than the eTX route costs (+120g) to reach the same gearing
+- ⚠️ Confirm a **110 BCD 5-arm double** exists for the Praxis Doon before taking this seriously
+- ⚠️ Front shifting on a folder means chain-line and fold-clearance checks nobody has done here
+
+#### Option C — cassette beyond spec
+
+11-34T and 11-36T road cassettes exist, and riders do run them on 32T-rated road derailleurs with
+pulley swaps, an OSPW cage, or careful B-tension. **It works for some people. It is out of spec,
+it is not a plan, and it is not tracked here as an option** — noted only so it isn't re-researched.
+
+#### Summary — what each route actually costs
+
+| Route | Low gear | Top gear | Weight vs eR9 baseline | Keeps the Lightworks 1× spider? | Keeps the Nuton 11-50T? |
+|---|---|---|---|---|---|
+| eR9, 48T × 11-32 *(as decided)* | ⚠️ 1.50 | 37 km/h | — | ✅ | ❌ |
+| eRX-36T, 48T × 11-36 | 1.33 | 37 km/h | ~−10g | ✅ | ❌ |
+| ⭐ **eRX-36T, 38T × 11-36** | ⭐ **1.06** | 30 km/h | ~+20-50g *(heavier ring)* | ✅ | ❌ |
+| eR9/eRX 2×, 48/32 × 11-32 | ✅ 1.00 | 37 km/h | **+250-350g** ⚠️ est. | ❌ | ❌ |
+| ⭐ **eTX, 48T × 11-50** | ✅ **0.96** | 37 km/h | **+120g** | ✅ | ✅ |
+| Mechanical XT M8100, 48T × 11-50 | ✅ 0.96 | 37 km/h | −20 to −85g | ✅ | ✅ |
+
+📌 **Two routes preserve both the 0.96-ish low gear and the 37 km/h top: eTX (+120g) and the 2×
+(+250-350g).** Everything else trades one for the other. **eRX-36T + 38T ring is the best
+compromise that stays on the road platform** — it costs ~7 km/h of top end, which on a 20" folder
+carrying a child seat you will almost never use.
+
+### ⚠️ Buy the flat-bar / folding kit, NOT the road kit
+
+The standard eR9 road groupset ships **integrated hydraulic shift/brake levers** — if you buy that version, the entire § Brakes plan (Juin Tech GT-F + Extralite UltraLevers 3, mechanical, 46g/pair) is void and you're on L-TWOO hydraulics. The **folding-bike / flat-bar kit sells the shifter as a separate pod**, which keeps the mechanical brake plan intact. Confirm with the seller, item by item, before paying.
+
+**Confirm with the seller before ordering (all three are configuration, not compatibility):**
+- [ ] **1x, not 2x.** eR9 is marketed as a 2× road group; you need the 1× / folding configuration with no front derailleur and no left shifter.
+- [ ] **Separate shifter pod, no integrated hydraulic levers** (see above).
+- [ ] **Battery mounting on a folding frame.** The road eR9 battery (800mAh, 60g, IPX7, USB-C) hides **inside the seat tube** — yours is occupied by the WOOdman GT2 post, and the Yepp Nexxt 2 Maxi clamps that post. Ask where the battery goes on the folding kit.
 
 ### Mechanical
 
@@ -282,15 +410,16 @@ Spec: Ti main frame w/ 3D-printed hinge; Ti rear fork w/ 3D-printed dropout, **1
 | Option | Speeds | RD weight | Shifter weight | Price | Notes |
 |---|---|---|---|---|---|
 | ⭐ **Wheeltop EDS OX2.0** | **3-14 (!)** | **411g** | **69g** | ~£350 (~S$610) shifter + RD | 🔥 **Speed-agnostic — works with 11 OR 12 speed.** MTB platform, **flat-bar shifter available** (2-button, mounts over or under the bar). The one option that doesn't force the 11-vs-12 decision at all |
-| **L-TWOO eRX** | **10 / 11 / 12** | — | — | ~US$650 (~S$845) groupset, ~1,300g | ⚠️ **Corrects an earlier note in the build plan.** ER9 was ruled out as "drop-bar only" — but **eRX does offer flat-bar shifters**, and L-TWOO makes road, gravel, MTB, TT and *folding-bike* groupsets. Also multi-speed like the Wheeltop |
-| **L-TWOO eR9** | 11 | — | — | ~US$500 (~S$650) | The cheaper electronic tier; stock spec on the HEXATI T20 Lite/Elite |
+| ⭐ **L-TWOO eRX** | **10 / 11 / 12** | **288-295g** published | 234g/lever ⚠️ *integrated drop lever — flat-bar pod weight not published* | ~US$650 (~S$845) / ~€595 groupset, ~1,300g complete | 🔑 **The one that matters: eRX comes in TWO rear-derailleur versions — 11-32T *and* 11-36T.** The 36T version gets the low gear back without leaving the road platform (see the gearing tables below). Carbon cage and carbon levers vs the eR9's alloy, same wireless system, same shift speed. Flat-bar shifters available. Users report 34-36T working on the 32T version with pulley/OSPW mods — **out of spec, don't plan on it** |
+| ✅ **L-TWOO eR9** | **10 / 11 / 12** | ~295-310g ⚠️ est. | pod ~70-100g ⚠️ est. + **60g battery** | ~US$500 (~S$650) group; folding/flat-bar kits sell cheaper as shifter+RD only | ✅ **DECIDED 25 Sep 2026.** Stock spec on the HEXATI T20 Lite/Elite. Alloy cage and alloy levers vs the eRX's carbon, same shift speed. Battery 800mAh / 60g / IPX7 / USB-C. ⚠️ **Largest cog 32T** — see the ceiling section above. RD weight estimated from the eRX's published 288-295g plus the alloy cage; **no published eR9 RD figure found** |
+| ⭐ **L-TWOO eTX** | **10 / 11 / 12** | **426g** claimed | compact flat-bar pod | — (not yet priced) | 🔥 **The wide-range sibling, and the fix for the 32T ceiling.** MTB platform: long-cage RD rated **11-46/50/52T**, flat-bar electronic shifter, internal chain damping, USB-C. Keeps the Nuton 11-50T and the 0.96:1 low gear for **~+120g** over eR9. **Price it before you commit to eR9** |
 | **SRAM GX AXS** | 12 | 463g | 63g | ~£530 (~S$925) | Heavier RD and pricier than the Wheeltop |
 | **Archer Components D1x** | **any** | uses your existing mech RD | — | — | Wireless *shifter* that pulls a cable to any mechanical derailleur. Another speed-agnostic route — keeps the XT M8100 and just changes how it's actuated |
 | **SRAM Red AXS** `[8.3kg ref]` | 12 | — | — | — | The 8.3kg build's choice. Lightest, vastly most expensive |
 
-### 💡 The insight that resolves this
+### 💡 The speed-agnostic escape hatches (still true, now a fallback)
 
-**You don't have to choose.** Both **Wheeltop EDS OX2.0** (3-14 speed) and **Archer D1x** (any speed) are speed-agnostic — you could run 12sp now and drop to 11sp later, or vice versa, without replacing the shifter or derailleur.
+**Wheeltop EDS OX2.0** (3-14 speed) and **Archer D1x** (any speed) are speed-agnostic — 12sp now, 11sp later, no new shifter or derailleur. Both remain valid if the eR9 route falls over on the 32T ceiling and you don't want the eTX's 426g.
 
 If you stay mechanical, **fix the chain and keep the XT M8100.** A 12-speed chain (KMC X12 234g, or Shimano CN-M8100 252g) costs ~S$40-80; switching to 11-speed costs a shifter, derailleur *and* cassette, and with Shimano's 11-46T ceiling it makes your low gear **harder**.
 
@@ -306,6 +435,8 @@ If you stay mechanical, **fix the chain and keep the XT M8100.** A 12-speed chai
 | **Shimano CN-HG601** | 11 | ~257g (114 links) | Solid pins, durable, heaviest |
 
 *Widths: 11sp ≈ 5.5mm, 12sp ≈ 5.3mm.*
+
+📌 **On the eR9 decision the 11-speed rows become the live options** — KMC DLC 11 (227g, lightest overall) or CN-HG601 (257g). Your existing KMC 11sp chain is 11-speed, so **if it is unworn it is now usable again**, which the 12-speed plan had ruled out. Check it for stretch first.
 
 ---
 
@@ -718,7 +849,7 @@ Unlike the rack/headset/brake questions above, this one isn't a T20-fitment gues
 
 ---
 
-# Component weights — running build total (published figures, 24 Sep 2026)
+# Component weights — running build total (published figures, updated 25 Sep 2026)
 
 **Weights come from published/manufacturer specs. The user will not weigh parts (decided 24 Sep).** Where a part is still undecided, the range runs from the lightest to the heaviest candidate still in contention.
 
@@ -734,10 +865,11 @@ Unlike the rack/headset/brake questions above, this one isn't a T20-fitment gues
 | Brake levers | Extralite UltraLevers 3 | 46 | 46 | Pair |
 | Calipers | Juin Tech GT-F ×2 | 270 | 270 | Flat mount. XT M8100 post route: ~+70-80g |
 | Rotors | Ti-Parts carbon 140mm ×2 | 155 | 155 | |
-| Shifter | Shimano SL-M8100 | 120 | 132 | |
-| Rear derailleur | Shimano XT RD-M8100-SGS | 283 | 283 | |
-| Cassette | Nuton null¹ MTB 12S/HG 11-50T | 286 | 286 | 🆕 Official Nuton page (11-46T is 275g) |
-| Chain | KMC X12, 126 links | 234 | 234 | Upper bound. Cutting it to length for 20" wheels will make it lighter |
+| Shifter | **L-TWOO eR9 flat-bar pod** | 70 | 100 | 🆕 ⚠️ **Estimate** — no published figure. Bracketed by the Wheeltop flat-bar pod (69g) and a generous upper bound |
+| Shift battery | **L-TWOO eR9, 800mAh IPX7** | 60 | 60 | 🆕 Published. New line item — mechanical drivetrains don't have one |
+| Rear derailleur | **L-TWOO eR9** | 295 | 310 | 🆕 ⚠️ **Estimate** — from the eRX's published 288-295g plus the alloy cage. *Mechanical fallback: XT RD-M8100-SGS 283g. eTX route: 426g* |
+| Cassette | **Shimano Ultegra CS-R8000 11-32T** | 292 | 292 | 🆕 Published. **Forced by the eR9's 32T ceiling.** *11-50T routes (eTX / XT): Nuton null¹ 286g* |
+| Chain | KMC DLC 11 (118 links) → CN-HG601 | 227 | 257 | 🆕 11-speed now. Cutting to length for 20" wheels makes it lighter. *12sp routes: KMC X12 234g* |
 | Crankset | Praxis Doon 170mm | 335 | 342 | |
 | Spider | Lightworks 1X carbon | 36 | 36 | |
 | Chainring | Lightworks V2 **48T** | 56 | 60 | SpinWarriors chart 56g; another listing 60g |
@@ -750,7 +882,17 @@ Unlike the rack/headset/brake questions above, this one isn't a T20-fitment gues
 | Saddle | undecided (Lupina padded → SLR Boost) | 95 | 129 | Tioga Spyder Stratum 124g sits in this range |
 | Rack | TPW Ti G Line | 328 | 328 | |
 | Dropout hanger | TPW **GRP-22B (142×12 thru-axle)** | 54 | 54 | Corrected from GRP-21B (135mm QR): the 100/142 thru-axle dropout decision needs the 22B |
-| **Running total (tracked parts)** | | **7,888g** | **8,337g** | |
+| **Running total (tracked parts)** | | **7,909g** | **8,421g** | **eR9 route.** Was 7,888-8,337g on the 12sp mechanical plan |
+
+📌 **The eR9 decision is near weight-neutral: +21g low, +84g high (~1%).** What it actually costs is gear range, not grams — see the 11-32T ceiling in § Shifter / Rear Derailleur. For reference the three routes, drivetrain parts only (shifter + battery + RD + cassette + chain):
+
+| Route | Low | High | Low gear (48T ring) |
+|---|---|---|---|
+| ✅ **eR9** (11sp, 11-32T) | 944g | 1,019g | **1.50:1** |
+| ⭐ **eTX** (11-50T, +131g RD) | 1,003g | 1,129g | **0.96:1** |
+| Mechanical XT M8100 (12sp, 11-50T) | 923g | 935g | **0.96:1** |
+
+*eTX row uses the Nuton 286g cassette, a 12sp chain (234-252g), the 426g RD, and the same estimated pod+battery. **The wide-range electronic route costs ~60-110g over eR9 and buys back the entire low gear.***
 
 **Not yet in the total (no weight tracked):** inner tubes ×2, rear 142×12 thru-axle (SMC doesn't include one; TPW recommends M12×1.5 160mm), brake/shift cables and housing, seatpost clamp, hinge clamps/levers, rear locking block, easy wheels, E-hook, kickstand, lights, mudguards, bar tape/bolts.
 

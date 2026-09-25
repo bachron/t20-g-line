@@ -3,11 +3,14 @@
 **Base bike:** HEXATI T20 — titanium tri-fold 20" gravel-style folding bike, positioned as a Brompton G Line alternative.
 **Rider priorities:** general city use with a front child seat, easier low gears over top speed, weight-conscious throughout, prefers Singapore-based sellers where possible.
 **Target weight:** ~9.4-9.6kg (based on comparable full-spec quotes)
-**Running total (24 Sep 2026, published weights):** **7.89-8.34kg for tracked parts.** Still missing: tubes, rear thru-axle, cables, clamps and hinge hardware, lights and mudguards, likely several hundred grams more. Realistic finished bike: **mid-8kg to ~9kg**, under the 9.4kg target. Full breakdown in `T20_Build_Options.md` → *Component weights — running build total*. **Child seats and their mounts are excluded from all planning weights (24 Sep): you will add them once the bike is running.**
+**Companion docs:** `docs/CHRIS_YEO_QUESTIONS.md` (every frame question in one paste-ready message) · `docs/PURCHASE_ORDER.md` (line-item costs, running total, buy order)
+**Running total (25 Sep 2026, published weights):** **7.91-8.42kg for tracked parts** (was 7.89-8.34kg; the eR9 drivetrain decision added ~20-85g). Still missing: tubes, rear thru-axle, cables, clamps and hinge hardware, lights and mudguards, likely several hundred grams more. Realistic finished bike: **mid-8kg to ~9kg**, under the 9.4kg target. Full breakdown in `T20_Build_Options.md` → *Component weights — running build total*. **Child seats and their mounts are excluded from all planning weights (24 Sep): you will add them once the bike is running.**
 
 > ✅ **DECISION (24 Sep 2026): frame bought UNASSEMBLED.** HEXATI also offers frames pre-assembled (headset, seatpost clamp + liner, rear locking block, easy wheels, E-hook fitted). Considered, not taken — so those parts remain live purchase decisions.
 >
 > ✅ **DECISION (24 Sep 2026): order the dropout as thru-axle disc, 100/142.** It's a frame-order choice (rim / flat mount / thru-axle 74-112, 74-142, 100-142). Only **100/142** matches G Line's 100mm front spacing. ⚠️ **Flat- vs post-mount for calipers: deferred — you'll find out at purchase.** If post-mount only, §3 inverts and Shimano XT BR-M8100 becomes the default.
+>
+> 📋 **All frame-specific questions are consolidated in `docs/CHRIS_YEO_QUESTIONS.md`** — copy § 1 straight to him. Nine open items in § 7 resolve from that one conversation; three of them (wheelset, dropout hanger, calipers) cannot be ordered until he answers.
 >
 > ⚠️ **You are building a T20, not a G Line.** The G Line is the *design reference* for geometry and layout — it is not a parts constraint. Your frame, stem, fork and rear triangle are HEXATI/Silverock parts, so the interfaces that matter are **the T20's own**. Confirm these with Chris Yeo before ordering: **brake mount (leaning flat), handlebar clamp diameter, headset pattern, seatpost diameter, rear rack mounts.** Both A/C/P/T-pattern and G Line-pattern aftermarket parts are live candidates until he confirms.
 >
@@ -137,35 +140,48 @@ Spider is **110 BCD, 5-arm** — rings must be 110 BCD **5-bolt**.
 
 *No ceramic option exists from Praxis directly.*
 
-### Shifter / Rear Derailleur — **11 and 12 speed both open** (24 Sep 2026)
+### Shifter / Rear Derailleur — ✅ **L-TWOO eR9, 11-speed wireless electronic** (decided 25 Sep 2026)
+
+**Decided 25 Sep 2026.** Reverses the 24 Sep exclusion below: L-TWOO sells eR9 kits **explicitly for 14–20" folding bikes and flat-bar road bikes**, and eR9 is the **stock drivetrain on the HEXATI T20 Lite/Elite — this exact frame**.
 
 | Option | Speeds | RD | Shifter | Price |
 |---|---|---|---|---|
-| ✅ Shimano XT M8100 | **12** | 283g | 120-132g | ~S$190 pair |
+| ✅ **L-TWOO eR9** | 10/11/12 | ~295-310g ⚠️ est. | pod ~70-100g ⚠️ est. + 60g battery | ~US$500 group |
+| ⭐ **L-TWOO eTX** (wide-range sibling) | 10/11/12 | **426g** | flat-bar pod | not yet priced |
+| ⭐ **L-TWOO eRX** (carbon tier, **11-32T or 11-36T RD**) | 10/11/12 | **288-295g** | 234g/lever (drop) | ~US$650 groupset |
+| Shimano XT M8100 (mechanical fallback) | **12** | 283g | 120-132g | ~S$190 pair |
 | Shimano XT M8000 | **11** | 275g | 117g | ~US$130 RD |
 | microSHIFT Advent X / MX | 10-11 | — | — | RD ~US$71 + shifter ~US$31 |
-| ⭐ **Wheeltop EDS OX2.0** | **3-14** | 411g | 69g | ~£350 |
+| ⭐ Wheeltop EDS OX2.0 | **3-14** | 411g | 69g | ~£350 |
 | L-TWOO eRX | 10/11/12 | — | — | ~US$650 groupset |
-| L-TWOO eR9 | 11 | — | — | ~US$500 |
 | SRAM GX AXS | 12 | 463g | 63g | ~£530 |
 | Archer D1x | **any** | your existing RD | — | — |
 
-💡 **You don't have to choose.** Wheeltop EDS OX2.0 (3-14sp) and Archer D1x (any speed) are **speed-agnostic** — run 12sp now, drop to 11sp later, same shifter and derailleur.
+🚨 **The eR9 rear derailleur tops out at an 11-32T cassette.** It is a road unit. With the 48T ring that's a **1.50:1 low gear (~30 gear inches)** instead of the **0.96:1 (~19")** the 11-50T Nuton gives — **56% harder**, and it removes the whole reason 48T was chosen over 54T on 24 Sep. No chainring small enough to compensate exists for the Lightworks 110 BCD 5-arm spider (you'd need ~31T).
 
-⚠️ **Correction:** the note below saying L-TWOO ER9 is "drop-bar only" no longer holds for the range — **eRX offers flat-bar shifters**, and L-TWOO makes MTB and folding-bike groupsets too.
+🔧 **You are not stuck with the 1.50:1.** Three ways to re-gear around the ceiling, all laid out as a menu in `T20_Build_Options.md` → *🔧 Gearing configurations inside the electronic ceilings* (added 25 Sep at your request — **nothing there is decided**):
+> - **Smaller chainring.** A 38T ring on an 11-36T cassette gives **1.06:1**, essentially the low gear you wanted. Costs ~7 km/h of top end and means leaving the Lightworks V2 (48/54T only) for a heavier Stone ring.
+> - **eRX instead of eR9.** eRX ships in **two derailleur versions, 11-32T and 11-36T** — the 36T one is 10g *lighter* than eR9 and buys back a third of the lost gear. Carbon cage, same wireless system, ~US$650.
+> - **eR9 as the 2× it actually is.** A **48/32 subcompact double** on 11-32T gives **1.00:1 low / 4.36:1 top / 436% range** — the locked plan reproduced almost exactly, fully in spec. Costs a front derailleur, a left shifter, the 36g Lightworks 1× spider you already bought, and **~250-350g**.
 
-⚠️ Going 11-speed Shimano costs you gearing: 11sp MTB tops out at **11-46T**, so with the 54T ring the low gear would go 1.08:1 → 1.17:1. **With the chosen 48T ring it's 1.04:1**, about the same as 54T on 11-50T, so this objection to 11-speed is gone.
+**⭐ The fix, same brand: L-TWOO eTX** — MTB platform, flat-bar electronic shifter, long-cage RD rated **11-46/50/52T**. Keeps the Nuton 11-50T and the 0.96:1 low gear for **~+120g**. Price it before committing to eR9. Full analysis, the three resolution routes and the per-route weight table are in `T20_Build_Options.md` → *Shifter / Rear Derailleur*.
 
-**Chain:** KMC X12 234g / Shimano CN-M8100 252g (12sp) · KMC DLC 11 227g / CN-HG601 257g (11sp). A 12sp chain runs on 11sp, but an **11sp chain is too thick for 12sp** — your existing KMC 11sp can't be reused on the current setup.
+⚠️ **Buy the flat-bar / folding kit, not the road kit.** The road eR9 ships integrated hydraulic shift/brake levers, which would void the entire § Brakes plan (Juin Tech GT-F + Extralite UltraLevers 3). The folding kit sells the shifter as a **separate pod**, keeping the mechanical brakes. Also confirm **1× (no front derailleur)** and **where the battery mounts** — the road battery lives inside the seat tube, which your WOOdman GT2 post and Yepp clamp occupy.
+
+**Chain:** 11-speed now — KMC DLC 11 **227g** (lightest chain in the whole build) or CN-HG601 257g. **Your existing KMC 11sp chain becomes usable again** if it isn't worn; the 12-speed plan had ruled it out. *12sp routes: KMC X12 234g / CN-M8100 252g.*
 
 ### Original 12-speed note
 - Sourcing: Carousell (~S$190 new matched pair) or Japan retail (~S$186-188 new, ~S$168 tax-free)
-- L-TWOO ER9 Wireless was considered but ruled out — it's drop-bar only (hydraulic levers), doesn't fit the flat-bar/mechanical-lever plan
+- ~~L-TWOO ER9 Wireless was considered but ruled out — it's drop-bar only (hydraulic levers), doesn't fit the flat-bar/mechanical-lever plan~~ — ❌ **wrong, superseded 25 Sep 2026.** L-TWOO sells eR9 for 14–20" folders and flat bars, the shifter comes as a separate pod in that kit, and eR9 is the HEXATI T20's own stock drivetrain. **eR9 is now the decision.**
 
-### Cassette — ✅ Nuton Cycling null¹ MTB 12S/HG 11-50T (**286g**, official)
-- Chose to keep HG freehub/cassette instead of Micro Spline, while retaining the XT M8100 derailleur/shifter
+### Cassette — ⚠️ **reopened by the eR9 decision** (25 Sep 2026)
+- **Nuton null¹ 11-50T (286g)** stays the pick *only* on the eTX or mechanical-XT routes — it needs a derailleur rated to 50T, and eR9 is not.
+- **On eR9: Shimano Ultegra CS-R8000 11-32T, 292g** (published) is the tracked pick. Same HG freehub, so the wheelset decision is unaffected.
+- ⚠️ **The 11-32T road cassette is 6g *heavier* than the 11-50T MTB one it replaces.** You give up 56% of the low gear and gain weight.
+- HG freehub retained either way, rather than Micro Spline.
 
-### Chain — KMC 11-speed (from earlier reference spec; may need revisiting for 12-speed XT compatibility)
+### Chain — ✅ 11-speed (resolved by the eR9 decision, 25 Sep 2026)
+KMC DLC 11 **227g** (the lightest chain tracked) or Shimano CN-HG601 257g. **Your existing KMC 11-speed chain is compatible again** — check it for wear before reusing.
 
 ### Headset — ⏳ Not yet decided
 *Proprietary Brompton/G Line pattern — 1-1/8" threaded, 28.6mm x 34mm. Not a standard threadless road/MTB headset.*
@@ -443,6 +459,8 @@ Headline candidates, biggest saving first:
 - [ ] Confirm the fork credit from Chris Yeo for omitting it, then order the SilverRock
 - [ ] Rank and choose headset; confirm 1-1/8" x 34mm threaded pattern with Chris Yeo
 - [x] Rank Bottom Bracket (24 Sep): BBInfinite Ceramitech 80g. Extralite only if Chris Yeo/Extralite confirm the M30 fit
+- [x] **Shifter / rear derailleur: L-TWOO eR9 11sp wireless** (25 Sep). ⚠️ **Open sub-decision: eR9's 32T cog ceiling vs the 11-50T cassette** — price L-TWOO **eTX** (11-50T capable, flat-bar, +~120g) before ordering
+- [ ] **Buy the eR9 folding/flat-bar kit, not the road kit** — confirm with the seller: 1× (no front derailleur), separate shifter pod (no integrated hydraulic levers), and where the battery mounts on a folding frame
 - [ ] **Confirm axle standard with Chris Yeo (142×12 thru-axle vs 135mm QR) — this blocks the wheelset hub decision**, and also decides whether MiniMODs Ti skewers/axles are usable at all
 - [ ] Ask Chris Yeo whether the T20 uses a Brompton-pattern rear suspension block (MiniMODs rear shock options exist if so)
 - [ ] Finalize wheelset hub (RHET vs Hubsmith R027)
