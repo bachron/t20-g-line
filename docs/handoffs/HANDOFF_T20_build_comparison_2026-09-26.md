@@ -1,4 +1,4 @@
-# Handoff: T20 build comparison, seatposts, e-shifter battery rule
+# Handoff: T20 build comparison, seatposts, shifters, brakes (updated late 26 Sep)
 
 **Project**: HEXATI T20 build (personal bike build, not software)
 **Date**: 2026-09-26
@@ -12,9 +12,9 @@ Lay out alternative builds to weigh on **weight, comfort and cost**, then refine
 ## Done this session
 
 - **New file `T20_Build_Comparison.md`**: four builds compared.
-  - **T20-A**: complete T20 from Chris Yeo with Shimano 105 (user says S$2,900), strip and resell stock parts. ~8.5-9.0 kg, ~S$5,100-6,500 net.
-  - **T20-B**: T20 frameset only, unassembled (S$2,900 incl. Ti stem + carbon fork). ~8.5-8.9 kg, ~S$6,600-7,500.
-  - **G1 / G2**: used Brompton G Line (~S$3,000 on Carousell), keep main frame only, Ti rear triangle (tibicycles / Titanium-DX). ~9.4-10.0 kg, ~S$5,500-8,900.
+  - **T20-A**: complete T20 from Chris Yeo with Shimano 105 (user says S$2,900), strip and resell stock parts. ~8.5-9.0 kg, ~S$5,100-6,600 net (~S$5,400-6,900 if the bike is S$3,200).
+  - **T20-B**: T20 frameset only, unassembled (S$2,900 incl. Ti stem + carbon fork). ~8.5-8.9 kg, ~S$6,800-7,800.
+  - **G1 / G2**: used Brompton G Line (~S$3,000 on Carousell), keep main frame only, Ti rear triangle (tibicycles / Titanium-DX). ~9.4-10.0 kg, ~S$5,500-9,100.
   - Shared parts table (22 parts fit every build, since the T20 is a G Line clone), used-price assumption 55-70% of new, verdict (a T20 build; A vs B depends on the real complete-bike price).
 - **"Purchased" labels corrected**: nothing has been bought yet (user confirmed 25 Sep).
 - **Seatposts** (`T20_Build_Options.md` § Seatpost, `T20_Build_Plan.md` §5):
@@ -29,6 +29,13 @@ Lay out alternative builds to weigh on **weight, comfort and cost**, then refine
   - Wheeltop charges on the bike, so it fails the rule.
   - Shortlist: **Shimano XTR Di2 M9250** (389-391g + 24g battery), **XT Di2 M8250** (447g), Deore Di2 kit, used **SRAM XX1/X01 Eagle AXS non-T-Type**.
   - SRAM Transmission ❌ (needs a UDH frame).
+
+- **Later on 26 Sep:**
+  - **Silverock G Line carbon fork: S$659 new** (Carousell SG, 16B_CYCLE; 388g vs stock G Line 753g). Replaced my S$325 estimate. T20-B and G1 costs updated.
+  - **TPW G Line 142mm RD hanger: S$79 new, ready stock SG** (Carousell, thesense.life). Added to **every** build, T20-A included (replaces the stock hanger).
+  - **Brakes:** frames are **flat mount** on every build. User is **also open to 160mm rotors with an adapter**. Three routes are now in the Plan and Options: flat 140 / flat 160 / post caliper via adapter 160. Post-mount calipers (Shimano XT BR-M8100 etc.) are back in via adapter.
+  - **SRAM derailleurs added** (mechanical + AXS) in `T20_Build_Options.md` § Shifter/RD. The frame takes a **standard hanger, not UDH**, so Transmission / T-Type / 13sp XPLR E1 are out. Best fits: used **XX1/X01 Eagle mechanical (265/276g RD)** or **XX1/X01 Eagle AXS non-T-Type**. Force XPLR AXS 12sp fits but needs an XDR freehub and has a 44T max cog.
+  - **Tool brands question answered in chat only** (Park Tool, Pedro's, Unior, Abbey, Wera, Feedback Sports, Silca, Topeak, Lezyne, Birzman, Hozan, IceToolz, Cyclus, VAR, Wolf Tooth, Shimano TL / SRAM tools; Snap-on is a general mechanic's brand, not bike-specific). No file written; offered a build-specific tool list.
 
 ## Pending edits not yet built
 
@@ -45,7 +52,11 @@ None.
 3. Seatpost pick: the WOOdman GT2 is still ✅. The user hasn't decided whether to switch. Stale notes remain in the Options seatpost section ("must be aluminium" heading, TPW "lightest tracked", "switching to Ti gains nothing"). Offered to fix; not yet accepted.
 4. Decide mechanical XT M8100 vs electronic (XTR/XT Di2). The comparison doc still prices mechanical.
 5. Carried over from 24 Sep: fork credit, Extralite BB M30 fit, stem weight, rack pattern.
-6. Merge `claude/laughing-cray-ootu2f` into `main` (offered a PR; the user hasn't answered).
+6. **Check the SMC Plume DW2 freehub options (HG / XD / XDR)** before any SRAM choice.
+7. **Brake route:** pick flat 140 / flat 160 / post + adapter 160. Check 160mm clearance at the rear triangle and fold.
+8. **TPW hanger (S$79):** confirm it takes a Shimano MTB RD (listing says SRAM Red/Force) and whether it's Ti or alloy.
+9. Optional: a build-specific tool list (offered, not yet accepted).
+10. Merge `claude/laughing-cray-ootu2f` into `main` (offered a PR; the user hasn't answered).
 
 ## Broken / failed approaches (don't repeat)
 
