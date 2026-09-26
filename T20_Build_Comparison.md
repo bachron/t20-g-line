@@ -174,7 +174,7 @@ The T20 is built as an **exact G Line clone**, so **every one of these parts fit
 **Pros**
 - Genuine Brompton main frame and hinge: proven fold, better resale.
 - The frame hardware comes free with the bike.
-- Flat-mount brakes, same as the T20 (confirmed 26 Sep), so the same calipers fit either frame.
+- Flat-mount brakes, same as the T20 (confirmed 26 Sep), so the same calipers (and 160mm adapters) fit either frame.
 - G2 is the cheapest route overall, **if** the stock parts resell.
 
 **Cons**

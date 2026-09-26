@@ -155,6 +155,8 @@ Spider is **110 BCD, 5-arm** — rings must be 110 BCD **5-bolt**.
 | SRAM GX AXS | 12 | 463g | 63g | ~£530 |
 | Archer D1x | **any** | your existing RD | — | — |
 
+🆕 **SRAM is now open (26 Sep), mechanical and electronic.** The frame takes a standard hanger, not UDH, so SRAM Transmission / T-Type / 13sp E1 are out. **Best fits: used XX1/X01 Eagle mechanical (265-276g RD) or XX1/X01 Eagle AXS non-T-Type.** Check the wheels' freehub options (HG / XD / XDR) first. Full SRAM table in `T20_Build_Options.md`.
+
 🔋 **Battery rule (26 Sep 2026): electronic shifting must have a battery you can take off to charge.** L-TWOO fails (non-removable), Wheeltop charges on the bike. **Shortlist: Shimano XTR Di2 / XT Di2 (removable battery, standard hanger), or used SRAM Eagle AXS (non-T-Type).** SRAM Transmission needs a UDH frame, so it's out. Full table in `T20_Build_Options.md`.
 
 💡 *(Pre-battery-rule note)* **You don't have to choose.** Wheeltop EDS OX2.0 (3-14sp) and Archer D1x (any speed) are **speed-agnostic** — run 12sp now, drop to 11sp later, same shifter and derailleur.
@@ -194,7 +196,15 @@ Spider is **110 BCD, 5-arm** — rings must be 110 BCD **5-bolt**.
 
 ## 3. Brakes
 
-✅ **DECIDED (26 Sep 2026): FLAT MOUNT calipers on every build (T20 and G Line).** Post-mount calipers are out. Rotors stay **140mm**, no adapters.
+✅ **Frames are FLAT MOUNT on every build (T20 and G Line), confirmed 26 Sep 2026.** You're also open to **160mm rotors with an adapter** (26 Sep). Three routes:
+
+| Route | Caliper | Rotor | Adapter | Weight penalty vs route 1 |
+|---|---|---|---|---|
+| 1. ⭐ Flat caliper, 140mm | Flat mount | 140mm | none | — (lightest) |
+| 2. Flat caliper, 160mm | Flat mount | 160mm | flat-to-flat +20mm (e.g. Shimano SM-MA-F160 flat/flat front; rear flat +20 adapter) | ~+50-80g ★ (2 adapters + bigger rotors) |
+| 3. Post caliper via adapter | **Post mount** | 160mm | flat-to-post (Shimano SM-MA F/R160P/D, ~25g each; Wolf Tooth, TRP) | ~+70-90g ★ |
+
+**Why go 160mm:** more braking power and heat capacity, useful with a child seat and bike loaded. **Check** that a 160mm rotor and adapter clear the rear triangle and the fold on the T20 and G Line.
 
 
 ### Calipers — ⭐ FLAT MOUNT (preferred)
@@ -209,7 +219,7 @@ Spider is **110 BCD, 5-arm** — rings must be 110 BCD **5-bolt**.
 | Paul Klamper | **FLAT** | Mechanical | 211g/caliper | ~US$281 (~S$365) |
 | TRP/Tektro (G Line stock) | **FLAT** | Full hydraulic | — | Stock |
 
-### ❌ Calipers — POST MOUNT (ruled out 26 Sep: both frames are flat mount)
+### Calipers — POST MOUNT (via flat-to-post adapter + 160mm rotors, route 3)
 | Option | **Mount** | Type | Weight | +adapter | Price |
 |---|---|---|---|---|---|
 | Shimano XT BR-M8100 | **POST** | Full hydraulic | 121g/caliper | ~137g | — |
@@ -229,7 +239,7 @@ Spider is **110 BCD, 5-arm** — rings must be 110 BCD **5-bolt**.
 | Growtac Equal levers | — |
 | Paul Love Levers | — |
 
-### Rotors — centre-lock, **140mm**
+### Rotors — centre-lock, **140mm** (or **160mm** with an adapter)
 | Option | Weight (140mm) |
 |---|---|
 | Ti-Parts carbon aero | **77.3g** |
@@ -239,7 +249,7 @@ Spider is **110 BCD, 5-arm** — rings must be 110 BCD **5-bolt**.
 
 **Recommendation (flat mount):** **Juin Tech GT-F (135g)** or **Growtac Equal (136g)** + **Extralite UltraLevers 3**. Within 1g of each other — GT-F is 4-piston semi-hydraulic and cheaper; the Equal is mechanical with the better modulation reputation. **Best value: TRP Spyre SLC**, 146g for ~US$105, which is what the 8.3kg build actually runs. **Lightest flat mount of all: Shimano XTR road caliper at 103g**, full hydraulic, no adapter — worth pricing.
 
-~~**Only reason to break toward post mount:** Shimano XT BR-M8100 + BL-M8100 I-SPEC EV integration.~~ **Moot (26 Sep): flat mount only.** If you want Shimano hydraulic, the flat-mount option is the Shimano road flat-mount caliper (103g) paired with a flat-bar lever; check lever/caliper compatibility before buying.
+**Reason to take route 3 (post + adapter + 160mm):** Shimano XT BR-M8100 + BL-M8100 gives **I-SPEC EV** (shifter clamps onto the brake lever, one bar clamp) and full-hydraulic power, for ~70-90g extra. Back on the table since you're open to 160mm (26 Sep).
 
 ---
 
@@ -460,7 +470,8 @@ Headline candidates, biggest saving first:
 - [ ] Finalize wheelset hub (RHET vs Hubsmith R027)
 - [ ] Finalize brake caliper/lever exact models
 - [x] Chain compatibility resolved — 12sp options (KMC X12 234g / CN-M8100 252g) and 11sp options (KMC DLC 11 227g / CN-HG601 257g) both tracked; existing KMC 11sp unusable on 12sp
-- [x] **Caliper mount: FLAT mount on every build** (confirmed 26 Sep 2026)
+- [x] **Frame caliper mount: FLAT on every build** (confirmed 26 Sep 2026). 160mm via adapter also acceptable
+- [ ] Choose route: flat 140mm / flat 160mm / post via adapter 160mm. Check 160mm clearance at the rear triangle and fold
 - [ ] Choose saddle — decide comfort (Brooks C13) vs weight (Berk / Selle Italia), ~200g at stake
 - [ ] Choose carbon handlebar model — **carbon decided 24 Sep**; Schmolke / Darimo / Ridea HS3C-HS1C / WOOdman SL. Check rider-weight limit
 - [x] Grips — Ergon GP2 Evo (230g) selected as comfort pick

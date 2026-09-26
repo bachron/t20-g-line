@@ -296,6 +296,30 @@ Spec: Ti main frame w/ 3D-printed hinge; Ti rear fork w/ 3D-printed dropout, **1
 | **Archer Components D1x** | **any** | uses your existing mech RD | — | — | Wireless *shifter* that pulls a cable to any mechanical derailleur. Another speed-agnostic route — keeps the XT M8100 and just changes how it's actuated |
 | **SRAM Red AXS** `[8.3kg ref]` | 12 | — | — | — | The 8.3kg build's choice. Lightest, vastly most expensive |
 
+### SRAM derailleurs, mechanical and electronic (26 Sep 2026)
+
+**You're open to SRAM.** The hard limit is the frame: **the T20/G Line takes a standard derailleur hanger (TPW GRP-22B), not SRAM's UDH.** Anything marked "Transmission", "T-Type", "Full Mount" or "E1" needs UDH and won't fit.
+
+| Option | Type | Speeds / max cog | RD weight | Shifter | Fits hanger? | Cassette / freehub | Notes |
+|---|---|---|---|---|---|---|---|
+| ⭐ **SRAM XX1 Eagle** (mechanical) | Cable, flat-bar trigger | 12sp, 50-52T | **265g** | 124g | ✅ | Built for SRAM XD Eagle cassettes. Runs on a Shimano-HG 12sp cassette in practice, but that's a mixed setup: test the shifting | **Lightest RD in the whole shifter section.** Mostly used market |
+| **SRAM X01 Eagle** (mechanical) | Cable | 12sp, 50-52T | 276g | 124g | ✅ | Same | Used market |
+| **SRAM GX Eagle** (mechanical) | Cable | 12sp, 50-52T | ~300g | — | ✅ | Same. NX Eagle cassette fits an HG freehub (heavy) | Cheapest decent SRAM. Common used |
+| ❌ **SRAM Eagle 90/70 Transmission** (mechanical) | Cable | 12sp | — | — | ❌ **UDH only** | — | Out |
+| **SRAM XX1 / X01 / GX Eagle AXS** (older, non-T-Type) | Wireless | 12sp, 50T | ~398g / ~415g / 463g incl. battery | AXS Pod (coin cell) | ✅ | Same as mechanical Eagle | 🔋✅ Removable battery. See battery table below |
+| ❌ **SRAM Eagle AXS Transmission (T-Type)** | Wireless | 12sp | — | — | ❌ **UDH only** | — | Out |
+| **SRAM Force XPLR eTap AXS** (12sp, D1/D2) | Wireless, road/gravel | 12sp, **44T max** | ~308g ★ (published figures vary) | Needs a flat-bar AXS controller (Pod). AXS pairs across road and MTB; confirm in the SRAM AXS app | ✅ | ⚠️ **SRAM road 12sp cassette on an XDR driver.** Your Nuton HG cassette won't work; the wheel needs an XDR freehub | 🔋✅ Removable. 48T ring on 10-44T = **1.09:1** low, a bit harder than the plan's 0.96:1 |
+| **SRAM Red eTap AXS** (12sp, D1) `[8.3kg ref]` | Wireless, road | 12sp, 33-36T | — | Same as Force | ✅ | Same XDR caveat | 🔋✅ Removable. Max cog too small for your low-gear goal |
+| ❌ **SRAM Red / Force / Rival XPLR AXS 13sp (E1)** | Wireless, gravel | 13sp, 46T | Red 293g | — | ❌ **UDH / Full Mount only** | XPLR 13sp cassettes only | Out. This is also the generation the TPW hanger listing's "SRAM Red or Force" does **not** cover; that note means the older 12sp models |
+
+**Read-across:**
+- **Best mechanical SRAM:** used **XX1 or X01 Eagle** (265-276g RD), lighter than the XT M8100 (283g). Main caveat is the Shimano-HG cassette mix. For a clean SRAM setup, pair it with a SRAM Eagle cassette, which needs an **XD freehub** on the wheels.
+- **Best electronic SRAM:** used **XX1 / X01 Eagle AXS (non-T-Type)**: removable battery, standard hanger, 50T cog.
+- **Road AXS (Force/Red XPLR 12sp)** fits the hanger but forces an XDR freehub and a 44T max cog. Only worth it if you find a cheap used set and your wheels come with XDR.
+- **Before buying any SRAM:** check which freehub bodies your wheels (SMC Plume DW2 RHET) are offered with: HG, XD or XDR.
+
+*Sources (26 Sep 2026): [Bikerumor XX1/X01 Eagle weights](https://bikerumor.com/sram-xx1-x01-eagle-specs-actual-weights/), [The Pro's Closet GX vs XX1](https://www.theproscloset.com/blogs/news/sram-gx-eagle-vs-xx1-eagle), [SRAM Red XPLR support](https://support.sram.com/hc/en-us/sections/27118201227291-RED-XPLR-AXS), [SRAM XPLR weights](https://support.sram.com/hc/en-us/articles/6014379628955-What-are-the-weights-of-the-XPLR-derailleurs-and-cassettes), [Force XPLR AXS D1 service page](https://www.sram.com/en/service/models/rd-frc1-e-d1), [Shimano SM-MA adapters, BIKE24](https://www.bike24.com/p2142082.html).*
+
 ### 🔋 Electronic shifting: removable-battery rule (26 Sep 2026)
 
 **Your rule: the battery must come off the bike for charging.** Checked against every electronic option:
@@ -476,7 +500,15 @@ Taiwanese Brompton upgrade specialist (minimods.com.tw). ⚠️ **Most of their 
 
 # Brakes — full option set
 
-✅ **DECIDED (26 Sep 2026): FLAT MOUNT calipers on every build (T20 and G Line).** Post-mount calipers are out. Rotors stay **140mm**, no adapters.
+✅ **Frames are FLAT MOUNT on every build (T20 and G Line), confirmed 26 Sep 2026.** You're also open to **160mm rotors with an adapter** (26 Sep). Three routes:
+
+| Route | Caliper | Rotor | Adapter | Weight penalty vs route 1 |
+|---|---|---|---|---|
+| 1. ⭐ Flat caliper, 140mm | Flat mount | 140mm | none | — (lightest) |
+| 2. Flat caliper, 160mm | Flat mount | 160mm | flat-to-flat +20mm (e.g. Shimano SM-MA-F160 flat/flat front; rear flat +20 adapter) | ~+50-80g ★ (2 adapters + bigger rotors) |
+| 3. Post caliper via adapter | **Post mount** | 160mm | flat-to-post (Shimano SM-MA F/R160P/D, ~25g each; Wolf Tooth, TRP) | ~+70-90g ★ |
+
+**Why go 160mm:** more braking power and heat capacity, useful with a child seat and bike loaded. **Check** that a 160mm rotor and adapter clear the rear triangle and the fold on the T20 and G Line.
 
 
 ### Calipers — ⭐ FLAT MOUNT (preferred direction)
@@ -492,7 +524,7 @@ Taiwanese Brompton upgrade specialist (minimods.com.tw). ⚠️ **Most of their 
 | **Paul Klamper** | **FLAT** | Mechanical | 211g/caliper | ~US$281 (~S$365) | Beautifully made, but heaviest and among the priciest |
 | **TRP/Tektro (G Line stock)** | **FLAT** | Full hydraulic | — | Stock | Reference baseline |
 
-### ❌ Calipers — POST MOUNT (ruled out 26 Sep: both frames are flat mount). Kept for reference
+### Calipers — POST MOUNT (via flat-to-post adapter + 160mm rotors, route 3)
 
 | Option | **Mount** | Type | Weight | +adapter | Price | Notes |
 |---|---|---|---|---|---|---|
@@ -515,7 +547,7 @@ Taiwanese Brompton upgrade specialist (minimods.com.tw). ⚠️ **Most of their 
 | **Growtac Equal levers** | — | Designed as a system with the Equal calipers |
 | **Paul Love Levers** | — | Premium, heavier |
 
-### Rotors — centre-lock, **140mm** (flat mount)
+### Rotors — centre-lock, **140mm** (or **160mm** with an adapter). 160mm weights not tracked yet; expect ~+15-25g per rotor ★
 
 | Option | Weight (140mm) | Notes |
 |---|---|---|
@@ -524,13 +556,13 @@ Taiwanese Brompton upgrade specialist (minimods.com.tw). ⚠️ **Most of their 
 | **Hassns carbon floating** `[8.3kg ref]` | — | Used on the 8.3kg build; centre-lock |
 | **TRP/Brompton stock 140mm CL** | — | Baseline |
 
-### Recommendation — flat mount (confirmed)
+### Recommendation — flat-mount frames (confirmed); 160mm acceptable
 
 **Juin Tech GT-F (135g) or Growtac Equal (136g)**, paired with **Extralite UltraLevers 3 (22.5g each)**. Both keep 140mm rotors, need no adapters, and land within 1g of each other — choose on feel and price: the GT-F is a 4-piston semi-hydraulic (more power, ~S$309/set), the Equal is mechanical with the better reputation for modulation (~S$475/set).
 
 **Best value if budget matters:** TRP Spyre SLC at 146g for ~US$105 — 10g heavier than the leaders for a third of the Growtac's price, and it's what the 8.3kg build actually runs.
 
-~~Post-mount Shimano XT for I-SPEC EV~~: **moot, flat mount only (26 Sep).**
+**Route 3 (post caliper + adapter + 160mm):** Shimano XT BR-M8100, for **I-SPEC EV** integration with an XT shifter (one bar clamp) and full-hydraulic power. ~70-90g over route 1. Back on the table since 160mm is acceptable (26 Sep).
 
 **Lightest possible flat mount:** Shimano XTR road flat-mount caliper at 103g, full hydraulic, no adapter — worth pricing before defaulting to mechanical.
 
@@ -833,7 +865,7 @@ Unlike the rack/headset/brake questions above, this one isn't a T20-fitment gues
 
 **Recommendation: thru-axle disc, 100/142.** It's the only one of the four that actually matches G Line's own hub spacing rather than reusing classic Brompton's narrower 74mm front.
 
-✅ **Caliper mount resolved (26 Sep 2026): flat mount**, on both the T20 and the G Line.
+✅ **Caliper mount resolved (26 Sep 2026): flat mount**, on both the T20 and the G Line. 160mm rotors via adapter are acceptable.
 
 ⚠️ **This also reframes the wheelset side of things.** A 100mm front / 142mm rear thru-axle spec doesn't match the SUNCORD G Line wheelset tracked in § Wheelset (which lists 100mm/12mm thru-axle front but **135mm** rear, not 142mm) — worth re-checking that wheelset's exact rear spacing once your dropout choice is locked in, since 135mm and 142mm thru-axle are not interchangeable either.
 

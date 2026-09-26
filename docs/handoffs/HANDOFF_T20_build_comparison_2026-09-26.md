@@ -58,7 +58,8 @@ None.
 | Decision | Rationale |
 |---|---|
 | Nothing bought yet | User confirmed 25 Sep |
-| **Flat-mount calipers on every build** (T20 and G Line) | User confirmed 26 Sep. Post-mount options ruled out; 140mm rotors |
+| **Frames are flat mount on every build** (T20 and G Line) | User confirmed 26 Sep. **160mm rotors with adapter also OK**, so post-mount calipers via adapter are back in |
+| **Open to SRAM derailleurs**, mechanical and electronic | User 26 Sep. SRAM table in `T20_Build_Options.md` § Shifter/RD |
 | T20 split into A (complete bike) and B (frame only) | User request 26 Sep |
 | Most parts used; **BB, grips, brake and shift cables/housing new** | User rule. Suggested also new: chain, tyres, tubes, carbon bar (user's call) |
 | Seat tube / seatpost 31.8mm | User confirmed 26 Sep |
