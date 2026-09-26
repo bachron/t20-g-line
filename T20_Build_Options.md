@@ -746,7 +746,7 @@ Unlike the rack/headset/brake questions above, this one isn't a T20-fitment gues
 | Option | Material | Weight | Price | Notes |
 |---|---|---|---|---|
 | ⭐ Ti Parts Workshop GRP-21B (135mm QR) | Titanium | **48g** | ~US$53.50-63 (~S$70-82) | Lightest option found; for standard 135mm QR hubs |
-| Ti Parts Workshop GRP-22B (142x12mm thru-axle) | Titanium | 54g | ~US$53.50-63 (~S$70-82) | For thru-axle hubs; pairs with a recommended M12x1.5 160mm thru-axle; often sold out |
+| Ti Parts Workshop GRP-22B (142x12mm thru-axle) | Titanium | 54g | ~US$53.50-63 (~S$70-82) · 🆕 **S$79 brand new, ready stock in SG** (Carousell, thesense.life; free pickup Telok Blangah or +S$3 SPX delivery; seen 26 Sep 2026). Listing: "G Line external-gear wheelsets only, not Alfine or A/C/P/T; compatible with SRAM Red or Force RD". ⚠️ Confirm it takes a Shimano MTB RD too, and whether the black part is titanium or alloy | For thru-axle hubs; pairs with a recommended M12x1.5 160mm thru-axle; often sold out |
 | Suncord Dropout Hanger — G Line | Not published — Suncord's catalog is all alloy/carbon, no Ti items found, so likely alloy | not published | ~US$43.90-57 (~S$59-77) | 142x12mm thru-axle only; no QR variant found; sold via Fantastic4Toys |
 | Stock Brompton G Line (OEM) | Steel (unconfirmed) | not published | ~US$14 (~S$18) | Baseline/spare reference — no weight savings |
 
@@ -848,7 +848,7 @@ This is a separate, cheaper part from the frame-order dropout decision above: th
 | Option | Material | Weight | Price | Notes |
 |---|---|---|---|---|
 | Ti Parts Workshop GRP-21B (135mm QR) | Titanium | **48g** | ~US$53.50-63 (~S$70-82) | Lightest option found — but **QR, not thru-axle**. Only relevant if you go with the "flat mount" (QR) dropout instead of 100/142 thru-axle |
-| ⭐ Ti Parts Workshop GRP-22B (142x12mm thru-axle) | Titanium | 54g | ~US$53.50-63 (~S$70-82) | **Matches the recommended 100/142 thru-axle dropout.** Pairs with a recommended M12x1.5 160mm thru-axle; often sold out |
+| ⭐ Ti Parts Workshop GRP-22B (142x12mm thru-axle) | Titanium | 54g | ~US$53.50-63 (~S$70-82) · 🆕 **S$79 brand new, ready stock in SG** (Carousell, thesense.life; free pickup Telok Blangah or +S$3 SPX delivery; seen 26 Sep 2026). Listing: "G Line external-gear wheelsets only, not Alfine or A/C/P/T; compatible with SRAM Red or Force RD". ⚠️ Confirm it takes a Shimano MTB RD too, and whether the black part is titanium or alloy | **Matches the recommended 100/142 thru-axle dropout.** Pairs with a recommended M12x1.5 160mm thru-axle; often sold out |
 | Suncord Dropout Hanger — G Line | Not published — Suncord's catalog is all alloy/carbon, no Ti items found, so likely alloy | not published | ~US$43.90-57 (~S$59-77) | 142x12mm thru-axle only; no QR variant found; sold via Fantastic4Toys |
 | Stock Brompton G Line (OEM) | Steel (unconfirmed) | not published | ~US$14 (~S$18) | Baseline/spare reference — no weight savings |
 

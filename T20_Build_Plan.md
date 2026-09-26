@@ -420,7 +420,7 @@ Must be flat/MTB bar to suit the XT M8100 flat-bar shifter.
 | Option | Material | Weight | Price |
 |---|---|---|---|
 | ⭐ Ti Parts Workshop GRP-21B (135mm QR) | Titanium | **48g** | ~US$53.50-63 (~S$70-82) |
-| Ti Parts Workshop GRP-22B (142x12mm thru-axle) | Titanium | 54g | ~US$53.50-63 (~S$70-82), often sold out |
+| Ti Parts Workshop GRP-22B (142x12mm thru-axle) | Titanium | 54g | ~US$53.50-63 (~S$70-82), often sold out. 🆕 **S$79 new, ready stock SG** (Carousell, thesense.life, 26 Sep). Needed on **every build** that runs an external derailleur |
 | Suncord Dropout Hanger — G Line | likely alloy (unconfirmed) | not published | ~US$43.90-57 (~S$59-77), 142x12mm thru-axle only |
 | Stock Brompton G Line (OEM, steel) | Steel | not published | ~US$14 (~S$18) — baseline/spare |
 

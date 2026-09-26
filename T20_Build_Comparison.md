@@ -23,8 +23,8 @@
 | | **T20-A: complete bike** | **T20-B: frame only** | **G1: G Line + tibicycles Ti triangle** | **G2: G Line + Titanium-DX set** |
 |---|---|---|---|---|
 | **Weight** (no child seats, lights or mudguards) | **~8.5-9.0 kg** (stock fork weight unknown) | **~8.5-8.9 kg** | ~9.4-9.9 kg | ~9.5-10.0 kg |
-| **Net cost, used parts where allowed** | **~S$5,100-6,500** (at S$3,200: ~S$5,400-6,800) | ~S$6,800-7,800 | ~S$6,400-9,100 | ~S$5,500-7,400 |
-| Cash out before reselling stock parts | ~S$6,600-7,300 | same as net | ~S$7,900-9,900 | ~S$7,000-8,200 |
+| **Net cost, used parts where allowed** | **~S$5,100-6,600** (at S$3,200: ~S$5,400-6,900) | ~S$6,800-7,800 | ~S$6,400-9,100 | ~S$5,500-7,400 |
+| Cash out before reselling stock parts | ~S$6,600-7,400 | same as net | ~S$7,900-9,900 | ~S$7,000-8,200 |
 | **Comfort** | Same contact points | Same | Same | Same |
 | Carrying the folded bike | **Lightest** | **Lightest** | ~1 kg heavier | ~1 kg heavier |
 | Hassle | Medium: strip a new bike, sell the 105 groupset and other stock parts | **Low**: buy parts only | High | High |
@@ -104,13 +104,14 @@ The T20 is built as an **exact G Line clone**, so **every one of these parts fit
 | Main frame + rear triangle | **Keep** | 1,351 + 633 | in bike price | |
 | Frame hardware + headset | **Keep** | ~250-350 + stock headset | in bike price | Saves ~S$300-450 hardware and the S$85-155 WOOdman headset |
 | Fork (HEXATI carbon) | **Keep** | ⏳ not published | in bike price | Saves buying the Silverock (S$659 new) |
-| Hanger + rear thru-axle | **Keep** | ~95 ★ | in bike price | |
+| Hanger | **Replace** with TPW GRP-22B | 54 | **79** | For the external-derailleur conversion (your call, 26 Sep: every build gets it). S$79 new, ready stock SG |
+| Rear thru-axle | **Keep** | ~40 ★ | in bike price | |
 | **Stem** | ⚠️ **Must change to Ti** | 450-560 | **~+500 ★** | Carbon stem doesn't fit the Yepp Mini. ~S$500 is the frameset's carbon→Ti price step. Ask if the complete bike can be ordered with the Ti stem |
 | **Seatpost** | ⚠️ **Must change** | (in shared list) | (in shared list) | Carbon post can't take the Yepp Nexxt clamp |
 | Drivetrain, brakes, bar, wheels, tyres, saddle | Replace (shared list, minus headset) | 5,224-5,466 | 3,169-3,882 used-mix | |
 | Resale: 105 groupset, 3DO crank, cassette, carbon stem/bar/seatpost, wheels, tyres | Sell | — | **−800 to −1,500 ★** | New, unused parts should sell better than used ones |
 | **Bike price** | | — | **2,900** (or 3,200) | |
-| **T20-A total** | | **~8,500-9,000** | **~5,069-6,482** (at S$3,200: ~5,369-6,782) | |
+| **T20-A total** | | **~8,500-9,000** | **~5,148-6,561** (at S$3,200: ~5,448-6,861) | |
 
 **Pros**
 - Cheapest T20 route if the stock parts sell. The frame hardware, headset, fork, hanger and thru-axle all come with it.
@@ -134,11 +135,11 @@ The T20 is built as an **exact G Line clone**, so **every one of these parts fit
 | Stem | HEXATI Ti | 450-560 | ⬇ in frameset | | Weight unpublished; budget range |
 | **Frameset** | Chris Yeo bundle | — | **2,900** | **2,900** | New only. **Less the fork credit (TBC)** |
 | Fork | Silverock carbon, 100×12 | 388 | **659** | 362-461 | New price confirmed (Carousell SG, 26 Sep) |
-| Dropout hanger | TPW GRP-22B, 142×12 | 54 | 76 | 42-53 | |
+| Dropout hanger | TPW GRP-22B, 142×12 | 54 | **79** | 79 | Ready stock SG, S$79 new (Carousell) |
 | Rear thru-axle | M12×1.5, 160mm | ~40 ★ | 50 ★ | 50 | Not included with SMC wheels |
 | Frame hardware | Seatpost clamp, hinge clamps/levers, rear block, easy wheels, E-hook | 250-350 ★ | 300-450 ★ | 200-300 | Needed because the frame comes **unassembled** |
 | **+ Shared parts** | | 5,329-5,571 | 5,468 | 3,254-3,990 | |
-| **T20-B total** | | **8,495-8,947** | **9,453-9,603** | **6,808-7,754** | |
+| **T20-B total** | | **8,495-8,947** | **9,456-9,606** | **6,845-7,780** | |
 
 **Pros**
 - Lightest build, with nothing to sell afterwards.
@@ -164,11 +165,11 @@ The T20 is built as an **exact G Line clone**, so **every one of these parts fit
 | Fork | Silverock carbon, 388g, S$362-461 used (S$659 new) | Titanium-DX carbon, **290g** |
 | Triangle + fork cost | ~S$1,260-2,000 | **~S$519** for the set (US$399) |
 | Stem | Ti G Line-pattern stem, 450-560g, ~S$300-385 used / ~S$550 new ★ | same |
-| Hanger + thru-axle | GRP-22B 54g + axle ~40g | same, ⚠️ once the Ti-DX axle spec is confirmed |
+| Hanger + thru-axle | TPW GRP-22B 54g (**S$79 new**, ready stock SG) + axle ~40g | same, ⚠️ once the Ti-DX axle spec is confirmed |
 | Frame hardware | **Comes with the bike** (~250-350g, S$0) | same |
 | Resale of stock parts | **−S$800-1,500 ★** (wheels with Alfine hub, tyres, fork, steel triangle, stem, bar, brakes, crank, seatpost, saddle, pedals, rack) | same |
 | **Total weight** | **9,434-9,886g** | **9,503-9,955g** |
-| **Net cost** | **S$6,388-9,109** | **S$5,465-7,397** |
+| **Net cost** | **S$6,425-9,135** | **S$5,502-7,423** |
 
 **Pros**
 - Genuine Brompton main frame and hinge: proven fold, better resale.
