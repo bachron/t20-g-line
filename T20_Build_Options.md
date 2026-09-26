@@ -250,7 +250,7 @@ Spec: Ti main frame w/ 3D-printed hinge; Ti rear fork w/ 3D-printed dropout, **1
 
 | Rank | Option | Material | Source | Notes |
 |---|---|---|---|---|
-| 1 ✅ | **SilverRock** `[8.3kg ref]` | Carbon, **388g incl. 100×12 thru-axle** (fork alone ~365g) | Bought separately | Chosen — omitted from the Chris Yeo bundle to bring the frameset price down. **The 8.3kg build uses the same brand** (Mini Bro carbon), a good independent endorsement |
+| 1 ✅ | **SilverRock** `[8.3kg ref]` | Carbon, **388g incl. 100×12 thru-axle** (fork alone ~365g) | Bought separately. **S$659 brand new** (Carousell SG, seller 16B_CYCLE, fixed price, seen 26 Sep 2026; listing says 388g vs stock G Line fork 753g) | Chosen — omitted from the Chris Yeo bundle to bring the frameset price down. **The 8.3kg build uses the same brand** (Mini Bro carbon), a good independent endorsement |
 | 2 | **Stock HEXATI** | Titanium | Chris Yeo | Fallback if the SilverRock doesn't work out |
 | 3 | **Stock HEXATI** | Carbon | Chris Yeo | The fork included in the S$2,900 bundle |
 | — | **AceOfix** | Carbon | Bought separately | The other separately-sourced fork considered |
@@ -258,7 +258,9 @@ Spec: Ti main frame w/ 3D-printed hinge; Ti rear fork w/ 3D-printed dropout, **1
 | — | **EasyTi Ti fork (G Line)** | Titanium, ~290g ±8g claimed | eBay | ⚠️ Claim unverified |
 | — | **HEXATI T20 Elite front fork** | Full Ti, 3D-printed ex steerer, 100×12mm thru-axle, **439g** (HEXATI press release) | Chris Yeo | The fork in the complete-bike spec |
 
-*Fork credit from Chris Yeo for deleting it from the bundle is still TBC — worth confirming it beats the delivered SilverRock price before ordering.*
+*Fork credit from Chris Yeo for deleting it from the bundle is still TBC. **The Silverock costs S$659 new**, so dropping the bundled HEXATI carbon fork only pays off if the credit is close to that, or if the HEXATI fork is much heavier than 388g. Ask Chris Yeo for the HEXATI carbon fork's weight and the credit amount.*
+
+*Stock Brompton G Line fork: **753g** (per the Silverock listing). The Silverock saves ~365g over it.*
 
 ## Stem — ✅ FINALIZED: Titanium (HEXATI, via Chris Yeo)
 

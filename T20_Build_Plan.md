@@ -54,7 +54,7 @@
 ### Fork — ✅ Plan: omit from the Chris Yeo bundle, buy separately
 | Rank | Option | Material | Source | Rationale |
 |---|---|---|---|---|
-| 1 ⭐ | SilverRock | Carbon, 388g incl. thru-axle | Bought separately | Takes the fork out of the Chris Yeo quote to bring the frameset price down |
+| 1 ⭐ | SilverRock | Carbon, 388g incl. thru-axle | Bought separately, **S$659 new** (Carousell SG, 16B_CYCLE) | Takes the fork out of the Chris Yeo quote to bring the frameset price down |
 | 2 | Stock HEXATI | Titanium | Chris Yeo | Fallback if the SilverRock doesn't work out |
 | 3 | Stock HEXATI | Carbon | Chris Yeo | The fork bundled into the S$2,900 price |
 
@@ -454,7 +454,7 @@ Headline candidates, biggest saving first:
 
 ## 7. Open Decisions / Next Steps
 
-- [ ] Confirm the fork credit from Chris Yeo for omitting it, then order the SilverRock
+- [ ] Confirm the fork credit from Chris Yeo for omitting it, then order the SilverRock (**S$659 new**, 26 Sep). Only worth it if the credit is near S$659 or the HEXATI carbon fork is much heavier
 - [ ] Rank and choose headset; confirm 1-1/8" x 34mm threaded pattern with Chris Yeo
 - [x] Rank Bottom Bracket (24 Sep): BBInfinite Ceramitech 80g. Extralite only if Chris Yeo/Extralite confirm the M30 fit
 - [ ] **Confirm axle standard with Chris Yeo (142×12 thru-axle vs 135mm QR) — this blocks the wheelset hub decision**, and also decides whether MiniMODs Ti skewers/axles are usable at all
