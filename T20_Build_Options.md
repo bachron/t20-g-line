@@ -476,10 +476,8 @@ Taiwanese Brompton upgrade specialist (minimods.com.tw). ⚠️ **Most of their 
 
 # Brakes — full option set
 
-**Direction: leaning FLAT MOUNT, open to post mount.** Mount is labelled on every row below.
-⏳ **Confirm the T20's actual brake mount with Chris Yeo** — this section assumes flat mount is available to you.
+✅ **DECIDED (26 Sep 2026): FLAT MOUNT calipers on every build (T20 and G Line).** Post-mount calipers are out. Rotors stay **140mm**, no adapters.
 
-**If you do go post mount:** flat→post adapters are **+20mm**, so a flat mount position sized for 140mm needs a **160mm** rotor. Adapters (Wolf Tooth Post-to-Flat, TRP FR2, Hapivida, SwishTi) are **~10-37g each, typically ~16g**. Total cost of the post-mount route ≈ **70-80g** (adapters + bigger rotors), plus fold/rear-triangle clearance to check.
 
 ### Calipers — ⭐ FLAT MOUNT (preferred direction)
 
@@ -494,7 +492,7 @@ Taiwanese Brompton upgrade specialist (minimods.com.tw). ⚠️ **Most of their 
 | **Paul Klamper** | **FLAT** | Mechanical | 211g/caliper | ~US$281 (~S$365) | Beautifully made, but heaviest and among the priciest |
 | **TRP/Tektro (G Line stock)** | **FLAT** | Full hydraulic | — | Stock | Reference baseline |
 
-### Calipers — POST MOUNT (open, needs ~16g adapter + 160mm rotors)
+### ❌ Calipers — POST MOUNT (ruled out 26 Sep: both frames are flat mount). Kept for reference
 
 | Option | **Mount** | Type | Weight | +adapter | Price | Notes |
 |---|---|---|---|---|---|---|
@@ -517,7 +515,7 @@ Taiwanese Brompton upgrade specialist (minimods.com.tw). ⚠️ **Most of their 
 | **Growtac Equal levers** | — | Designed as a system with the Equal calipers |
 | **Paul Love Levers** | — | Premium, heavier |
 
-### Rotors — centre-lock (140mm on flat mount; **160mm if you go post**)
+### Rotors — centre-lock, **140mm** (flat mount)
 
 | Option | Weight (140mm) | Notes |
 |---|---|---|
@@ -526,13 +524,13 @@ Taiwanese Brompton upgrade specialist (minimods.com.tw). ⚠️ **Most of their 
 | **Hassns carbon floating** `[8.3kg ref]` | — | Used on the 8.3kg build; centre-lock |
 | **TRP/Brompton stock 140mm CL** | — | Baseline |
 
-### Recommendation — given you're leaning flat mount
+### Recommendation — flat mount (confirmed)
 
 **Juin Tech GT-F (135g) or Growtac Equal (136g)**, paired with **Extralite UltraLevers 3 (22.5g each)**. Both keep 140mm rotors, need no adapters, and land within 1g of each other — choose on feel and price: the GT-F is a 4-piston semi-hydraulic (more power, ~S$309/set), the Equal is mechanical with the better reputation for modulation (~S$475/set).
 
 **Best value if budget matters:** TRP Spyre SLC at 146g for ~US$105 — 10g heavier than the leaders for a third of the Growtac's price, and it's what the 8.3kg build actually runs.
 
-**The one post-mount option worth breaking your preference for:** Shimano XT BR-M8100, purely for **I-SPEC EV** integration with the XT M8100 shifter already in your build — one bar clamp instead of two, plus full-hydraulic wet performance. Costs ~70-80g in adapters and 160mm rotors.
+~~Post-mount Shimano XT for I-SPEC EV~~: **moot, flat mount only (26 Sep).**
 
 **Lightest possible flat mount:** Shimano XTR road flat-mount caliper at 103g, full hydraulic, no adapter — worth pricing before defaulting to mechanical.
 
@@ -835,7 +833,7 @@ Unlike the rack/headset/brake questions above, this one isn't a T20-fitment gues
 
 **Recommendation: thru-axle disc, 100/142.** It's the only one of the four that actually matches G Line's own hub spacing rather than reusing classic Brompton's narrower 74mm front.
 
-⚠️ **One thing to confirm before locking this in: caliper mount type.** The listing names "flat mount" and "thru-axle disc" as separate options without saying whether the thru-axle disc dropout uses flat-mount or post-mount caliper tabs — thru-axle frames commonly ship post-mount. If 100/142 turns out to be post-mount-only, that reframes § Brakes: the post-mount route (Shimano XT BR-M8100, ~70-80g in adapters/rotors) stops being a fallback and becomes the default, not the flat-mount calipers currently ranked first. **Deferred (24 Sep): the user will find out the mount type at purchase.** Keep both the flat- and post-mount caliper lists live until then.
+✅ **Caliper mount resolved (26 Sep 2026): flat mount**, on both the T20 and the G Line.
 
 ⚠️ **This also reframes the wheelset side of things.** A 100mm front / 142mm rear thru-axle spec doesn't match the SUNCORD G Line wheelset tracked in § Wheelset (which lists 100mm/12mm thru-axle front but **135mm** rear, not 142mm) — worth re-checking that wheelset's exact rear spacing once your dropout choice is locked in, since 135mm and 142mm thru-axle are not interchangeable either.
 
@@ -940,7 +938,7 @@ Thx4Ride (Macau) makes titanium/carbon Brompton upgrade parts. Mixed relevance: 
 
 ### Frame / dropout
 - [ ] **Choose the frame dropout at order time.** HEXATI's menu: rim brake / flat mount / thru-axle disc (74/112, 74/142, **100/142**). **Recommendation: thru-axle disc 100/142** — the only option matching G Line's 100mm front spacing.
-- [ ] **Confirm caliper mount type on the 100/142 dropout** (flat or post) before finalising § Brakes — not stated in the reseller listing, and thru-axle frames commonly default to post mount.
+- [x] ✅ **Caliper mount: flat (confirmed 26 Sep 2026).** ~~Confirm caliper mount type on the 100/142 dropout (flat or post)~~ before finalising § Brakes — not stated in the reseller listing, and thru-axle frames commonly default to post mount.
 - [ ] **Confirm your specific frame matches the general reseller listing.** The pre-installed parts and dropout menu come from a general HEXATI/comeplay.titanium listing, not confirmation of your order. *(Less critical now the unassembled route is chosen.)*
 
 ### Wheelset

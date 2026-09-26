@@ -8,7 +8,7 @@
 
 > ✅ **DECISION (24 Sep 2026): frame bought UNASSEMBLED.** HEXATI also offers frames pre-assembled (headset, seatpost clamp + liner, rear locking block, easy wheels, E-hook fitted). Considered, not taken — so those parts remain live purchase decisions.
 >
-> ✅ **DECISION (24 Sep 2026): order the dropout as thru-axle disc, 100/142.** It's a frame-order choice (rim / flat mount / thru-axle 74-112, 74-142, 100-142). Only **100/142** matches G Line's 100mm front spacing. ⚠️ **Flat- vs post-mount for calipers: deferred — you'll find out at purchase.** If post-mount only, §3 inverts and Shimano XT BR-M8100 becomes the default.
+> ✅ **DECISION (24 Sep 2026): order the dropout as thru-axle disc, 100/142.** It's a frame-order choice (rim / flat mount / thru-axle 74-112, 74-142, 100-142). Only **100/142** matches G Line's 100mm front spacing. ✅ **Calipers: flat mount (confirmed 26 Sep).** ✅ **Resolved 26 Sep: flat mount** (T20 and G Line).
 >
 > ⚠️ **You are building a T20, not a G Line.** The G Line is the *design reference* for geometry and layout — it is not a parts constraint. Your frame, stem, fork and rear triangle are HEXATI/Silverock parts, so the interfaces that matter are **the T20's own**. Confirm these with Chris Yeo before ordering: **brake mount (leaning flat), handlebar clamp diameter, headset pattern, ~~seatpost diameter~~ (✅ 31.8mm, confirmed 26 Sep), rear rack mounts.** Both A/C/P/T-pattern and G Line-pattern aftermarket parts are live candidates until he confirms.
 >
@@ -194,10 +194,8 @@ Spider is **110 BCD, 5-arm** — rings must be 110 BCD **5-bolt**.
 
 ## 3. Brakes
 
-**Direction: leaning FLAT MOUNT, open to post.** Mount is labelled on every caliper below.
-⏳ **Brake mount deferred — confirmed at purchase.** Both caliper lists stay live.
+✅ **DECIDED (26 Sep 2026): FLAT MOUNT calipers on every build (T20 and G Line).** Post-mount calipers are out. Rotors stay **140mm**, no adapters.
 
-*If you do go post mount:* flat→post adapters are **+20mm**, so a flat mount position sized for 140mm needs a **160mm** rotor. Adapters ~10-37g each (typically ~16g). Total cost of the post route ≈ **70-80g**, plus fold/rear-triangle clearance to check.
 
 ### Calipers — ⭐ FLAT MOUNT (preferred)
 | Option | **Mount** | Type | Weight | Price |
@@ -211,7 +209,7 @@ Spider is **110 BCD, 5-arm** — rings must be 110 BCD **5-bolt**.
 | Paul Klamper | **FLAT** | Mechanical | 211g/caliper | ~US$281 (~S$365) |
 | TRP/Tektro (G Line stock) | **FLAT** | Full hydraulic | — | Stock |
 
-### Calipers — POST MOUNT (open; +~16g adapter, 160mm rotors)
+### ❌ Calipers — POST MOUNT (ruled out 26 Sep: both frames are flat mount)
 | Option | **Mount** | Type | Weight | +adapter | Price |
 |---|---|---|---|---|---|
 | Shimano XT BR-M8100 | **POST** | Full hydraulic | 121g/caliper | ~137g | — |
@@ -231,7 +229,7 @@ Spider is **110 BCD, 5-arm** — rings must be 110 BCD **5-bolt**.
 | Growtac Equal levers | — |
 | Paul Love Levers | — |
 
-### Rotors — centre-lock (140mm flat / **160mm post**)
+### Rotors — centre-lock, **140mm**
 | Option | Weight (140mm) |
 |---|---|
 | Ti-Parts carbon aero | **77.3g** |
@@ -241,7 +239,7 @@ Spider is **110 BCD, 5-arm** — rings must be 110 BCD **5-bolt**.
 
 **Recommendation (flat mount):** **Juin Tech GT-F (135g)** or **Growtac Equal (136g)** + **Extralite UltraLevers 3**. Within 1g of each other — GT-F is 4-piston semi-hydraulic and cheaper; the Equal is mechanical with the better modulation reputation. **Best value: TRP Spyre SLC**, 146g for ~US$105, which is what the 8.3kg build actually runs. **Lightest flat mount of all: Shimano XTR road caliper at 103g**, full hydraulic, no adapter — worth pricing.
 
-**Only reason to break toward post mount:** Shimano XT BR-M8100 + BL-M8100 gives **I-SPEC EV** integration with the XT M8100 shifter already in your build (one bar clamp instead of two) plus full-hydraulic wet performance, for ~70-80g.
+~~**Only reason to break toward post mount:** Shimano XT BR-M8100 + BL-M8100 I-SPEC EV integration.~~ **Moot (26 Sep): flat mount only.** If you want Shimano hydraulic, the flat-mount option is the Shimano road flat-mount caliper (103g) paired with a flat-bar lever; check lever/caliper compatibility before buying.
 
 ---
 
@@ -462,7 +460,7 @@ Headline candidates, biggest saving first:
 - [ ] Finalize wheelset hub (RHET vs Hubsmith R027)
 - [ ] Finalize brake caliper/lever exact models
 - [x] Chain compatibility resolved — 12sp options (KMC X12 234g / CN-M8100 252g) and 11sp options (KMC DLC 11 227g / CN-HG601 257g) both tracked; existing KMC 11sp unusable on 12sp
-- [ ] **Confirm the 100/142 dropout's caliper mount (flat vs post)** — inverts the brake ranking if post
+- [x] **Caliper mount: FLAT mount on every build** (confirmed 26 Sep 2026)
 - [ ] Choose saddle — decide comfort (Brooks C13) vs weight (Berk / Selle Italia), ~200g at stake
 - [ ] Choose carbon handlebar model — **carbon decided 24 Sep**; Schmolke / Darimo / Ridea HS3C-HS1C / WOOdman SL. Check rider-weight limit
 - [x] Grips — Ergon GP2 Evo (230g) selected as comfort pick

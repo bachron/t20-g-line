@@ -148,7 +148,7 @@ The T20 is built as an **exact G Line clone**, so **every one of these parts fit
 
 **Cons**
 - Most expensive T20 route: you pay for frame hardware, headset, fork, hanger and thru-axle separately.
-- Open questions: fork credit, brake mount (flat or post), stem weight.
+- Open questions: fork credit, stem weight. (Brake mount resolved 26 Sep: flat mount.)
 
 ---
 
@@ -174,7 +174,7 @@ The T20 is built as an **exact G Line clone**, so **every one of these parts fit
 **Pros**
 - Genuine Brompton main frame and hinge: proven fold, better resale.
 - The frame hardware comes free with the bike.
-- G Line stock brakes are **flat mount**, so the flat-vs-post question goes away.
+- Flat-mount brakes, same as the T20 (confirmed 26 Sep), so the same calipers fit either frame.
 - G2 is the cheapest route overall, **if** the stock parts resell.
 
 **Cons**

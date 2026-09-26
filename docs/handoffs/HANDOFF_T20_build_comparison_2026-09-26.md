@@ -44,7 +44,7 @@ None.
    - What does the US$80 COMEPLAY Brompfication-style post weigh?
 3. Seatpost pick: the WOOdman GT2 is still ✅. The user hasn't decided whether to switch. Stale notes remain in the Options seatpost section ("must be aluminium" heading, TPW "lightest tracked", "switching to Ti gains nothing"). Offered to fix; not yet accepted.
 4. Decide mechanical XT M8100 vs electronic (XTR/XT Di2). The comparison doc still prices mechanical.
-5. Carried over from 24 Sep: fork credit, flat vs post brake mount (deferred to purchase), Extralite BB M30 fit, stem weight, rack pattern.
+5. Carried over from 24 Sep: fork credit, Extralite BB M30 fit, stem weight, rack pattern.
 6. Merge `claude/laughing-cray-ootu2f` into `main` (offered a PR; the user hasn't answered).
 
 ## Broken / failed approaches (don't repeat)
@@ -58,6 +58,7 @@ None.
 | Decision | Rationale |
 |---|---|
 | Nothing bought yet | User confirmed 25 Sep |
+| **Flat-mount calipers on every build** (T20 and G Line) | User confirmed 26 Sep. Post-mount options ruled out; 140mm rotors |
 | T20 split into A (complete bike) and B (frame only) | User request 26 Sep |
 | Most parts used; **BB, grips, brake and shift cables/housing new** | User rule. Suggested also new: chain, tyres, tubes, carbon bar (user's call) |
 | Seat tube / seatpost 31.8mm | User confirmed 26 Sep |
