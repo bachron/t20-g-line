@@ -310,7 +310,7 @@ Spec: Ti main frame w/ 3D-printed hinge; Ti rear fork w/ 3D-printed dropout, **1
 | ❌ **SRAM Eagle AXS Transmission (T-Type)** | Wireless | 12sp | — | — | ❌ **UDH only** | — | Out |
 | **SRAM Force XPLR eTap AXS** (12sp, D1/D2) | Wireless, road/gravel | 12sp, **44T max** | ~308g ★ (published figures vary) | Needs a flat-bar AXS controller (Pod). AXS pairs across road and MTB; confirm in the SRAM AXS app | ✅ | ⚠️ **SRAM road 12sp cassette on an XDR driver.** Your Nuton HG cassette won't work; the wheel needs an XDR freehub | 🔋✅ Removable. 48T ring on 10-44T = **1.09:1** low, a bit harder than the plan's 0.96:1 |
 | **SRAM Red eTap AXS** (12sp, D1) `[8.3kg ref]` | Wireless, road | 12sp, 33-36T | — | Same as Force | ✅ | Same XDR caveat | 🔋✅ Removable. Max cog too small for your low-gear goal |
-| ❌ **SRAM Red / Force / Rival XPLR AXS 13sp (E1)** | Wireless, gravel | 13sp, 46T | Red 293g | — | ❌ **UDH / Full Mount only** | XPLR 13sp cassettes only | Out. This is also the generation the TPW hanger listing's "SRAM Red or Force" does **not** cover; that note means the older 12sp models |
+| ❌ **SRAM Red / Force / Rival XPLR AXS 13sp (E1)** | Wireless, gravel | 13sp, 46T | Red 293g | — | ❌ **UDH / Full Mount only** | XPLR 13sp cassettes only | Out. The TPW hanger listing's "compatible with SRAM Red or Force" can only mean the older 12sp hanger-mount models, since these need UDH |
 
 **Read-across:**
 - **Best mechanical SRAM:** used **XX1 or X01 Eagle** (265-276g RD), lighter than the XT M8100 (283g). Main caveat is the Shimano-HG cassette mix. For a clean SRAM setup, pair it with a SRAM Eagle cassette, which needs an **XD freehub** on the wheels.
