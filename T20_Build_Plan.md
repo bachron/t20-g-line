@@ -155,7 +155,7 @@ Spider is **110 BCD, 5-arm** — rings must be 110 BCD **5-bolt**.
 | SRAM GX AXS | 12 | 463g | 63g | ~£530 |
 | Archer D1x | **any** | your existing RD | — | — |
 
-🆕 **SRAM is now open (26 Sep), mechanical and electronic.** The frame takes a standard hanger, not UDH, so SRAM Transmission / T-Type / 13sp E1 are out. **Best fits: used XX1/X01 Eagle mechanical (265-276g RD) or XX1/X01 Eagle AXS non-T-Type.** Check the wheels' freehub options (HG / XD / XDR) first. Full SRAM table in `T20_Build_Options.md`.
+🆕 **SRAM is now open (26 Sep), mechanical and electronic.** The frame takes a standard hanger, not UDH, so SRAM Transmission / T-Type / 13sp E1 are out. **Best fits: used XX1/X01 Eagle mechanical (265-276g RD) or XX1/X01 Eagle AXS non-T-Type.** Freehub isn't a blocker: you can pick your own hub (26 Sep). SMC ready-made wheelset's freehub options TBC. Full SRAM table in `T20_Build_Options.md`.
 
 🔋 **Battery rule (26 Sep 2026): electronic shifting must have a battery you can take off to charge.** L-TWOO fails (non-removable), Wheeltop charges on the bike. **Shortlist: Shimano XTR Di2 / XT Di2 (removable battery, standard hanger), or used SRAM Eagle AXS (non-T-Type).** SRAM Transmission needs a UDH frame, so it's out. Full table in `T20_Build_Options.md`.
 

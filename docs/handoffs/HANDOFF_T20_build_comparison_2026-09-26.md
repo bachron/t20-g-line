@@ -52,7 +52,7 @@ None.
 3. Seatpost pick: the WOOdman GT2 is still ✅. The user hasn't decided whether to switch. Stale notes remain in the Options seatpost section ("must be aluminium" heading, TPW "lightest tracked", "switching to Ti gains nothing"). Offered to fix; not yet accepted.
 4. Decide mechanical XT M8100 vs electronic (XTR/XT Di2). The comparison doc still prices mechanical.
 5. Carried over from 24 Sep: fork credit, Extralite BB M30 fit, stem weight, rack pattern.
-6. **Check the SMC Plume DW2 freehub options (HG / XD / XDR)** before any SRAM choice.
+6. **Freehub:** user can pick their own hub (custom build), so HG / XD / XDR are all open. The ready-made SMC wheelset stays an option; **the user will report its freehub options.** Don't chase it.
 7. **Brake route:** pick flat 140 / flat 160 / post + adapter 160. Check 160mm clearance at the rear triangle and fold.
 8. **TPW hanger (S$79):** confirm it takes a Shimano MTB RD (listing says SRAM Red/Force) and whether it's Ti or alloy.
 9. Optional: a build-specific tool list (offered, not yet accepted).

@@ -158,6 +158,8 @@ With the 11-50T cassette on 20×2.0 tyres (~506mm wheel):
 
 ## Wheelset
 
+🔧 **Hub / freehub (26 Sep 2026): you can pick your own hub** (custom wheel build), so HG, XD or XDR freehubs are all possible and the shifter choice isn't locked by the wheels. The ready-made **SMC wheelset stays an option**; you'll report which freehubs it comes with.
+
 | Option | Weight | Notes |
 |---|---|---|
 | **SMC PLUME-406-DW2 carbon** | **945-1,045g (RHET)** / 1,025-1,130g (Hubsmith R027), ±20g | Current candidate. SMC publishes both hubs: **RHET is ~80-85g lighter than Hubsmith R027** on the same rim. Offered in 100/142×12 thru-axle, which SMC recommends for G Line. Thru-axles not included. Lightest is the C22-25 clincher rim (945g); the T22-30 tubeless rim is 1,045g |
@@ -316,7 +318,7 @@ Spec: Ti main frame w/ 3D-printed hinge; Ti rear fork w/ 3D-printed dropout, **1
 - **Best mechanical SRAM:** used **XX1 or X01 Eagle** (265-276g RD), lighter than the XT M8100 (283g). Main caveat is the Shimano-HG cassette mix. For a clean SRAM setup, pair it with a SRAM Eagle cassette, which needs an **XD freehub** on the wheels.
 - **Best electronic SRAM:** used **XX1 / X01 Eagle AXS (non-T-Type)**: removable battery, standard hanger, 50T cog.
 - **Road AXS (Force/Red XPLR 12sp)** fits the hanger but forces an XDR freehub and a 44T max cog. Only worth it if you find a cheap used set and your wheels come with XDR.
-- **Before buying any SRAM:** check which freehub bodies your wheels (SMC Plume DW2 RHET) are offered with: HG, XD or XDR.
+- **Freehub:** you can pick your own hub (26 Sep), so an XD (Eagle) or XDR (road AXS) freehub is possible. For the ready-made SMC wheelset, freehub options are TBC from you.
 
 *Sources (26 Sep 2026): [Bikerumor XX1/X01 Eagle weights](https://bikerumor.com/sram-xx1-x01-eagle-specs-actual-weights/), [The Pro's Closet GX vs XX1](https://www.theproscloset.com/blogs/news/sram-gx-eagle-vs-xx1-eagle), [SRAM Red XPLR support](https://support.sram.com/hc/en-us/sections/27118201227291-RED-XPLR-AXS), [SRAM XPLR weights](https://support.sram.com/hc/en-us/articles/6014379628955-What-are-the-weights-of-the-XPLR-derailleurs-and-cassettes), [Force XPLR AXS D1 service page](https://www.sram.com/en/service/models/rd-frc1-e-d1), [Shimano SM-MA adapters, BIKE24](https://www.bike24.com/p2142082.html).*
 
