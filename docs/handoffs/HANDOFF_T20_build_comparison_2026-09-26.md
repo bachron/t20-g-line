@@ -35,7 +35,7 @@ Lay out alternative builds to weigh on **weight, comfort and cost**, then refine
   - **TPW G Line 142mm RD hanger: S$79 new, ready stock SG** (Carousell, thesense.life). Added to **every** build, T20-A included (replaces the stock hanger).
   - **Brakes:** frames are **flat mount** on every build. User is **also open to 160mm rotors with an adapter**. Three routes are now in the Plan and Options: flat 140 / flat 160 / post caliper via adapter 160. Post-mount calipers (Shimano XT BR-M8100 etc.) are back in via adapter.
   - **SRAM derailleurs added** (mechanical + AXS) in `T20_Build_Options.md` § Shifter/RD. The frame takes a **standard hanger, not UDH**, so Transmission / T-Type / 13sp XPLR E1 are out. Best fits: used **XX1/X01 Eagle mechanical (265/276g RD)** or **XX1/X01 Eagle AXS non-T-Type**. Force XPLR AXS 12sp fits but needs an XDR freehub and has a 44T max cog.
-  - **Tool brands question answered in chat only** (Park Tool, Pedro's, Unior, Abbey, Wera, Feedback Sports, Silca, Topeak, Lezyne, Birzman, Hozan, IceToolz, Cyclus, VAR, Wolf Tooth, Shimano TL / SRAM tools; Snap-on is a general mechanic's brand, not bike-specific). No file written; offered a build-specific tool list.
+  - **Tools: new file `T20_Tools.md`** (27 Sep): brands, essential / conditional / shop-job tools, consumables. **Tool costs are deliberately excluded from all build costs** (user rule).
 
 ## Pending edits not yet built
 
@@ -55,7 +55,6 @@ None.
 6. **Freehub:** user can pick their own hub (custom build), so HG / XD / XDR are all open. The ready-made SMC wheelset stays an option; **the user will report its freehub options.** Don't chase it.
 7. **Brake route:** pick flat 140 / flat 160 / post + adapter 160. Check 160mm clearance at the rear triangle and fold.
 8. **TPW hanger (S$79):** confirm it takes a Shimano MTB RD (listing says SRAM Red/Force) and whether it's Ti or alloy.
-9. Optional: a build-specific tool list (offered, not yet accepted).
 10. Merge `claude/laughing-cray-ootu2f` into `main` (offered a PR; the user hasn't answered).
 
 ## Broken / failed approaches (don't repeat)
@@ -72,6 +71,7 @@ None.
 | **Frames are flat mount on every build** (T20 and G Line) | User confirmed 26 Sep. **160mm rotors with adapter also OK**, so post-mount calipers via adapter are back in |
 | **Open to SRAM derailleurs**, mechanical and electronic | User 26 Sep. SRAM table in `T20_Build_Options.md` § Shifter/RD |
 | T20 split into A (complete bike) and B (frame only) | User request 26 Sep |
+| Tools are a separate list, not in build costs | User rule 27 Sep. See `T20_Tools.md` |
 | Most parts used; **BB, grips, brake and shift cables/housing new** | User rule. Suggested also new: chain, tyres, tubes, carbon bar (user's call) |
 | Seat tube / seatpost 31.8mm | User confirmed 26 Sep |
 | E-shifter battery must be removable for charging | User rule 26 Sep. L-TWOO kept in list, marked non-removable |

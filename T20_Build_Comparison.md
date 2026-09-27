@@ -55,6 +55,8 @@ The cost ranges below already treat the chain, tyres and tubes as new. The handl
 
 **Resale of stock parts** (T20-A and G Line builds) is my estimate. It's the least certain number here, and it decides whether those builds are cheaper.
 
+**Tools are not included** in any cost here. They're a separate list in `T20_Tools.md`.
+
 **Weights** come from `T20_Build_Options.md`, using the current pick in each category. **Not included** (same as the tracker): child seats and mounts, lights, mudguards, kickstand.
 
 **★ = new price is my estimate**; the tracker has no confirmed price. Check these before buying.
