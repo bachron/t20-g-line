@@ -316,6 +316,7 @@ Spec: Ti main frame w/ 3D-printed hinge; Ti rear fork w/ 3D-printed dropout, **1
 | ❌ **SRAM Red / Force / Rival XPLR AXS 13sp (E1)** | Wireless, gravel | 13sp, 46T | Red 293g | — | ❌ **UDH / Full Mount only** | XPLR 13sp cassettes only | Out. The TPW hanger listing's "compatible with SRAM Red or Force" can only mean the older 12sp hanger-mount models, since these need UDH |
 
 **Read-across:**
+- ❌ **H&H 7-speed derailleur/tensioner set** (on the user's wife's P Line with an SX trigger): **built for the classic P/T Line rear frame and H&H 7-speed sprockets.** It doesn't fit the T20/G Line hanger or a 12sp 11-50T cassette. Logged so it isn't re-researched (28 Sep).
 - 🆕 **SX Eagle trigger + XX1 or X01 Eagle mechanical RD (28 Sep):** the shifter feel you already like, with a 265-276g RD. All Eagle mechanical shifters and RDs cross-match (SX, NX, GX, X01, XX1). Avoid pairing with Transmission (UDH) parts. A full SX group is the cheapest route but its RD (341g) and cassette are heavy.
 - **Best mechanical SRAM:** used **XX1 or X01 Eagle** (265-276g RD), lighter than the XT M8100 (283g). Main caveat is the Shimano-HG cassette mix. For a clean SRAM setup, pair it with a SRAM Eagle cassette, which needs an **XD freehub** on the wheels.
 - **Best electronic SRAM:** used **XX1 / X01 Eagle AXS (non-T-Type)**: removable battery, standard hanger, 50T cog.
