@@ -307,6 +307,7 @@ Spec: Ti main frame w/ 3D-printed hinge; Ti rear fork w/ 3D-printed dropout, **1
 | ⭐ **SRAM XX1 Eagle** (mechanical) | Cable, flat-bar trigger | 12sp, 50-52T | **265g** | 124g | ✅ | Built for SRAM XD Eagle cassettes. Runs on a Shimano-HG 12sp cassette in practice, but that's a mixed setup: test the shifting | **Lightest RD in the whole shifter section.** Mostly used market |
 | **SRAM X01 Eagle** (mechanical) | Cable | 12sp, 50-52T | 276g | 124g | ✅ | Same | Used market |
 | **SRAM GX Eagle** (mechanical) | Cable | 12sp, 50-52T | ~300g | — | ✅ | Same. NX Eagle cassette fits an HG freehub (heavy) | Cheapest decent SRAM. Common used |
+| 🆕 **SRAM SX Eagle** (mechanical) | Cable, flat-bar trigger | 12sp, 11-50T | ~341g | not published (GX trigger is 122g for scale) | ✅ | **SX/NX Eagle cassettes fit a Shimano HG freehub** (heavy steel cassette) | Entry-level Eagle. **The user rates its shifting from his wife's P Line (28 Sep).** The SX trigger works with **any** Eagle mechanical RD, so it can pair with a light XX1/X01 Eagle RD |
 | ❌ **SRAM Eagle 90/70 Transmission** (mechanical) | Cable | 12sp | — | — | ❌ **UDH only** | — | Out |
 | **SRAM XX1 / X01 / GX Eagle AXS** (older, non-T-Type) | Wireless | 12sp, 50T | ~398g / ~415g / 463g incl. battery | AXS Pod (coin cell) | ✅ | Same as mechanical Eagle | 🔋✅ Removable battery. See battery table below |
 | ❌ **SRAM Eagle AXS Transmission (T-Type)** | Wireless | 12sp | — | — | ❌ **UDH only** | — | Out |
@@ -315,6 +316,7 @@ Spec: Ti main frame w/ 3D-printed hinge; Ti rear fork w/ 3D-printed dropout, **1
 | ❌ **SRAM Red / Force / Rival XPLR AXS 13sp (E1)** | Wireless, gravel | 13sp, 46T | Red 293g | — | ❌ **UDH / Full Mount only** | XPLR 13sp cassettes only | Out. The TPW hanger listing's "compatible with SRAM Red or Force" can only mean the older 12sp hanger-mount models, since these need UDH |
 
 **Read-across:**
+- 🆕 **SX Eagle trigger + XX1 or X01 Eagle mechanical RD (28 Sep):** the shifter feel you already like, with a 265-276g RD. All Eagle mechanical shifters and RDs cross-match (SX, NX, GX, X01, XX1). Avoid pairing with Transmission (UDH) parts. A full SX group is the cheapest route but its RD (341g) and cassette are heavy.
 - **Best mechanical SRAM:** used **XX1 or X01 Eagle** (265-276g RD), lighter than the XT M8100 (283g). Main caveat is the Shimano-HG cassette mix. For a clean SRAM setup, pair it with a SRAM Eagle cassette, which needs an **XD freehub** on the wheels.
 - **Best electronic SRAM:** used **XX1 / X01 Eagle AXS (non-T-Type)**: removable battery, standard hanger, 50T cog.
 - **Road AXS (Force/Red XPLR 12sp)** fits the hanger but forces an XDR freehub and a 44T max cog. Only worth it if you find a cheap used set and your wheels come with XDR.
