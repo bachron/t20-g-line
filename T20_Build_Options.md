@@ -464,6 +464,60 @@ Danish Brompton upgrade brand (brompfication.com). Titanium and alloy parts, **b
 
 ---
 
+# Roller / easy wheels (70 / 75 / 80mm), added 28 Sep 2026
+
+**G Line layout (Brompton spec):** **70mm** rollers on the **frame** (and front of the rack); **80mm** on the **rear of the rack**. 75mm is the common aftermarket middle size. The T20 is a G Line clone, so the same sizes apply. **In the build:** MiniMODs 70mm (frame) + Ridea 80mm (rack) + MiniMODs X-Roller extender + axle hook (see `T20_Build_Comparison.md` §3b).
+
+⚠️ **Fit:** most aftermarket rollers are sold for A/C/P/T Line. G Line mounts can differ in bolt size and width, so look for "G Line" in the listing or reducer bushings in the box. Weights are **per pair** unless noted.
+
+### 70mm (frame)
+
+| Option | Weight | Price | Notes |
+|---|---|---|---|
+| ✅ **MiniMODs Single Spoke 70mm** | **84.74g** | US$59.50 (Fantastic4Toys); ~US$111 elsewhere | CNC alloy, single spoke. **In the build** |
+| **H&H Eazy Wheel 70mm** | **72g** | — | Stainless duo bearings, Ti bolts. **Lightest 70mm with a published weight.** Listed for A/C/P/T: confirm G Line fit |
+| **Brompton G Line roller pair, 70mm** (OEM) | not published | **£38** (~S$66) | Genuine G Line part; the safe-fit fallback. Also ColourLab colours |
+| H&H Dual Tone easy wheel | — | — | Two-tone alloy |
+| MiniMODs Single Spoke 60mm / 66mm | 63g (60mm) | from US$59.50 | Smaller; lighter, rolls less well |
+| H&H 62mm | ~65g | — | Smaller |
+| Ti Parts Workshop 66mm (Ti bolts, 3-spoke) | — | — | P/T Line size |
+| EasyTi 66mm titanium | ~50g | eBay | Titanium body |
+
+### 75mm (aftermarket middle size)
+
+| Option | Weight | Price | Notes |
+|---|---|---|---|
+| **52Cycle Sakura 75mm** | **~104g** | — | Lightest 75mm found |
+| **52Cycle Snow 75mm** | ~110g | US$98 (Cyclopes Co) | |
+| **52Cycle Coin 75mm** | ~135g | US$92 | Alloy + polyurethane tyre, Ti screws; 5 colours |
+| 52Cycle Disc / Snow Flakes 75mm | — | Fantastic4Toys | |
+| **SOROLL "Donuts" 75mm** | ~156g (78g each) | 16B Cycle (SG), Fantastic4Toys | **Listed for C/P/T & G Line**, reducer bushings + screws included, stainless bearings, TPE tyre, 23mm wide. **SG stock** |
+
+### 80mm (rear of rack)
+
+| Option | Weight | Price | Notes |
+|---|---|---|---|
+| ✅ **Ridea EW2 80mm** | **98g** | US$99.50 (Fantastic4Toys) | Oversized bearings; 4 colours. **In the build** |
+| **Aceoffix 80mm** (AL7075, hollow) | **~50g** (listing unclear if per wheel or pair) | Amazon / DinoKiddo | Lightest claim. Listed for A/C/P/T + electric: confirm G Line fit |
+| **Generic aluminium 80mm "A C P T G line"** (Amazon) | — | Amazon | Explicitly lists **G Line**; 11mm tyre, big bearings |
+| **Brompton G Line roller pair, 80mm** (OEM) | not published | ~£38-45 (est.) | Genuine rack-rear part. Safe fit |
+| London Craftwork "Stylish" 80mm | — | — | |
+| Aceoffix 90mm | 129g | DinoKiddo | Oversize option |
+
+### Premium / exotic
+
+| Option | Weight | Price | Notes |
+|---|---|---|---|
+| Thx4Ride Titanium Polish Ezy Wheel | not published | ~US$237/pair | Ti. Universal fit claim |
+| Thx4Ride 3K / Forge Carbon Ezy Wheel | not published | ~US$202/pair | Carbon load-bearing roller: wear risk |
+| Bromptonic Bearing Easy Wheel | — | — | Bearing upgrade |
+
+**Read-across:** H&H 70mm (72g) is lighter than the MiniMODs pick (85g) if it fits the G Line. For the rack, Ridea 80mm (98g) is the best-documented; Aceoffix may be lighter. **SOROLL 75mm is the easiest local buy** (16B Cycle SG) and is sold as G Line compatible.
+
+*Sources (28 Sep 2026): [Fantastic4Toys MiniMODs 66/70mm](https://www.fantastic4toys.com/products/minimods-premium-colour-66-70mm-single-spoke-easy-wheels-for-brompton-bicycle), [Brompton G Line 70mm](https://us.brompton.com/p/1414/roller-wheel-pair-for-g-line-70mm), [Brompton G Line 80mm](https://www.brompton.com/p/1415/roller-wheel-pair-for-g-line-80mm), [The Electric Bike Shop 70mm £38](https://www.theelectricbikeshop.co.uk/shop/components/sub/wheels/brompton-g-line-roller-wheel-pair-for-frame-70mm-29970/option/), [Brompton Kitchen H&H 70mm](https://bromptonkitchen.com/en-us/products/h-h-easy-wheel-70mm), [Cyclopes Co 52Cycle Coin](https://www.cyclopesco.com/products/52cycle-coin-easy-wheels-brompton), [Cyclopes Co 52Cycle Snow](https://www.cyclopesco.com/products/52cycle-snow-easy-wheels), [16B Cycle SOROLL 75mm](https://www.16bcycle.com/products/soroll-easy-wheels-75mm-for-brompton-bicycle), [Fantastic4Toys Ridea](https://www.fantastic4toys.com/products/ridea-easy-wheels-for-brompton-bicycle), [Amazon Aceoffix 80mm](https://www.amazon.co.uk/ACEOFFIX-Brompton-Folding-easywheel-diameter/dp/B0BWQY9WNR), [Amazon generic 80mm G line](https://www.amazon.com/Aluminium-80mm-Wheels-Brompton-Chpt3/dp/B0FY3WM8ZY), [MiniMODs X-Roller G Line](https://www.fantastic4toys.com/products/minimods-x-roller-easy-wheels-extender-for-brompton-bicycle-g-line), [MiniMODs G Line axle hook](https://www.fantastic4toys.com/en-sg/products/minimods-dual-tone-adjustable-front-axle-hook-for-brompton-bicycle-g-line).*
+
+---
+
 # MiniMODs
 
 Taiwanese Brompton upgrade specialist (minimods.com.tw). ⚠️ **Most of their catalogue is built around Brompton's internal/derailleur-hybrid gearing and does not apply to a 12-speed XT derailleur build.** Sorting the range:
@@ -472,11 +526,11 @@ Taiwanese Brompton upgrade specialist (minimods.com.tw). ⚠️ **Most of their 
 
 | Part | Price | Notes |
 |---|---|---|
-| **X-Roller Easy Wheels Extender — G Line** | ~US$33.50 (~S$44) | ✅ **G Line-specific.** Improves rolling the folded bike — genuinely useful with a rack and child seat adding bulk |
-| **Dual Tone Adjustable Front Axle Hook — G Line** | ~US$75 (~S$98) | ✅ **G Line-specific** |
+| ✅ **X-Roller Easy Wheels Extender — G Line** *(in the build, 28 Sep)* | ~US$33.50 (~S$44) | ✅ **G Line-specific.** Improves rolling the folded bike — genuinely useful with a rack and child seat adding bulk |
+| ✅ **Dual Tone Adjustable Front Axle Hook — G Line** *(in the build, 28 Sep)* | ~US$75 (~S$98) | ✅ **G Line-specific** |
 | **Titanium Front Wheel Skewer V2** | ~£? / listed at F4T | **17g** — ⚠️ QR skewer. **Only relevant if your wheels are QR, not 142×12 thru-axle.** See the axle question |
 | **Titanium Front & Rear Axles** | ~US$26.90 (~S$35) | P/T Line pattern; same axle-standard caveat |
-| **Single Spoke Easy Wheels 66/70mm** | from ~US$93.50 (~S$122) | Lighter easy wheels |
+| ✅ **Single Spoke Easy Wheels 66/70mm** *(70mm in the build, 28 Sep)* | US$59.50 (Fantastic4Toys) to ~US$93.50 | **70mm = 84.74g/pair.** 60mm version 63g/pair. See § Roller / easy wheels |
 | **Single Spoke Hinge Clamp Knob + Plate Set** | from ~US$116 (~S$151) | Hinge hardware |
 | **KCNC Groovy Anti-Slip Alloy Seatpost** | ~US$129.50 (~S$168) | 🔮 Another alloy seatpost option — ⏳ **confirm diameter** before adding it to the seatpost ranking |
 | **Rear shock / suspension block** (various load ratings) | ~£44.99 (~S$78) | ⏳ Only if the T20 uses a Brompton-pattern rear suspension block — **ask Chris Yeo** |

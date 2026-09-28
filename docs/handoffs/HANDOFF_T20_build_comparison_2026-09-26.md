@@ -35,6 +35,7 @@ Lay out alternative builds to weigh on **weight, comfort and cost**, then refine
   - **TPW G Line 142mm RD hanger: S$79 new, ready stock SG** (Carousell, thesense.life). Added to **every** build, T20-A included (replaces the stock hanger).
   - **Brakes:** frames are **flat mount** on every build. User is **also open to 160mm rotors with an adapter**. Three routes are now in the Plan and Options: flat 140 / flat 160 / post caliper via adapter 160. Post-mount calipers (Shimano XT BR-M8100 etc.) are back in via adapter.
   - **SRAM derailleurs added** (mechanical + AXS) in `T20_Build_Options.md` § Shifter/RD. The frame takes a **standard hanger, not UDH**, so Transmission / T-Type / 13sp XPLR E1 are out. Best fits: used **XX1/X01 Eagle mechanical (265/276g RD)** or **XX1/X01 Eagle AXS non-T-Type**. Force XPLR AXS 12sp fits but needs an XDR freehub and has a 44T max cog.
+  - **Rolling and fold kit added to every build (28 Sep):** MiniMODs 70mm rollers + Ridea 80mm rack rollers + MiniMODs G Line X-Roller extender + G Line axle hook, ~238g / ~S$349 (`T20_Build_Comparison.md` §3b). Roller-wheel brand survey 70/75/80mm in `T20_Build_Options.md`. Build totals now: T20-A ~S$5,500-6,900, T20-B ~S$7,200-8,100, G ~S$5,900-9,500. Open: G Line fit of A/C/P/T rollers; whether the TPW Ti rack takes rollers.
   - **Tools: new file `T20_Tools.md`** (27 Sep): brands, essential / conditional / shop-job tools, consumables. **Tool costs are deliberately excluded from all build costs** (user rule).
 
 ## Pending edits not yet built

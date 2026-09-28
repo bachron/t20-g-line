@@ -22,9 +22,9 @@
 
 | | **T20-A: complete bike** | **T20-B: frame only** | **G1: G Line + tibicycles Ti triangle** | **G2: G Line + Titanium-DX set** |
 |---|---|---|---|---|
-| **Weight** (no child seats, lights or mudguards) | **~8.5-9.0 kg** (stock fork weight unknown) | **~8.5-8.9 kg** | ~9.4-9.9 kg | ~9.5-10.0 kg |
-| **Net cost, used parts where allowed** | **~S$5,100-6,600** (at S$3,200: ~S$5,400-6,900) | ~S$6,800-7,800 | ~S$6,400-9,100 | ~S$5,500-7,400 |
-| Cash out before reselling stock parts | ~S$6,600-7,400 | same as net | ~S$7,900-9,900 | ~S$7,000-8,200 |
+| **Weight** (no child seats, lights or mudguards) | **~8.7-9.2 kg** (stock fork weight unknown) | **~8.7-9.1 kg** | ~9.7-10.1 kg | ~9.7-10.2 kg |
+| **Net cost, used parts where allowed** | **~S$5,500-6,900** (at S$3,200: ~S$5,800-7,200) | ~S$7,200-8,100 | ~S$6,800-9,500 | ~S$5,900-7,800 |
+| Cash out before reselling stock parts | ~S$7,000-7,700 | same as net | ~S$8,300-10,300 | ~S$7,400-8,600 |
 | **Comfort** | Same contact points | Same | Same | Same |
 | Carrying the folded bike | **Lightest** | **Lightest** | ~1 kg heavier | ~1 kg heavier |
 | Hassle | Medium: strip a new bike, sell the 105 groupset and other stock parts | **Low**: buy parts only | High | High |
@@ -33,7 +33,7 @@
 
 **One of the T20 builds. Which one depends on the complete bike's real price.**
 
-- **T20-A vs T20-B:** the frame is the same, so weight is the same. T20-A also comes with the frame hardware, headset, fork, hanger and thru-axle, and a new 105 groupset to sell. **At S$2,900, T20-A is ~S$1,500 cheaper** at the midpoints, once stock parts are sold. **At S$3,200, it's still ~S$1,200 cheaper**, if the parts resell. Part of the gap is the fork: T20-A keeps the bundled carbon fork, while T20-B buys the Silverock at S$659 new. If you'd rather not sell a groupset on Carousell, T20-B is the simpler route for about the same cash out.
+- **T20-A vs T20-B:** the frame is the same, so weight is the same. T20-A also comes with the frame hardware, headset, fork, hanger and thru-axle, and a new 105 groupset to sell. **At S$2,900, T20-A is ~S$1,400 cheaper** at the midpoints, once stock parts are sold. **At S$3,200, it's still ~S$1,100 cheaper**, if the parts resell. Part of the gap is the fork: T20-A keeps the bundled carbon fork, while T20-B buys the Silverock at S$659 new. If you'd rather not sell a groupset on Carousell, T20-B is the simpler route for about the same cash out.
 - **T20 vs G Line:** the T20 is ~1 kg lighter for about the same money or less. The Ti main frame alone saves 939g, and nothing else in the project saves weight that cheaply (~S$0.65/g).
 - **Comfort is a tie.** Every build uses the same saddle, grips, bar, tyres and wheels, and those set the ride feel, not the frame material. The difference you'll feel is carrying the folded bike.
 - **Where the G Line is better:** a genuine Brompton main frame and hinge, with its proven fold and resale value.
@@ -95,6 +95,21 @@ The T20 is built as an **exact G Line clone**, so **every one of these parts fit
 | Rack | TPW Ti G Line | 328 | 250 ★ | 140-175 | Used |
 | **Shared total** | | **5,329-5,571** | **5,468** | **3,254-3,990** | |
 
+
+### 3b. Rolling and fold kit: MiniMODs + roller wheels (added 28 Sep, every build)
+
+G Line layout (Brompton's own spec): **70mm roller wheels on the frame** (and front of the rack), **80mm on the rear of the rack**. 75mm is the popular aftermarket middle size. Full brand survey in `T20_Build_Options.md` → *Roller / easy wheels*.
+
+| Part | Pick | Weight (g) | Cost (S$, new) | Note |
+|---|---|---|---|---|
+| Frame roller wheels, 70mm pair | **MiniMODs Single Spoke 70mm** | 85 | 78 (US$59.50) | CNC alloy. ⚠️ Confirm G Line bolt/width fit |
+| Rack roller wheels, 80mm pair | **Ridea EW2 80mm** | 98 | 129 (US$99.50) | Only if the rack takes rollers. ⚠️ Check the TPW Ti rack's roller mounts |
+| Easy-wheel extender | **MiniMODs X-Roller, G Line** | ~40 ★ | 44 (US$33.50) | Wider, steadier rolling when folded. Works with stock G Line rollers |
+| Front axle hook | **MiniMODs Dual Tone Adjustable, G Line** | ~15 ★ | 98 (US$75) | Pairs with the X-Roller when a rack is fitted |
+| **Kit total** | | **~238** | **~349** | Priced new: small parts, rarely sold used |
+
+*T20-A and the G Line builds come with stock rollers; the kit replaces them. Stock roller weight isn't published, so the +238g is a worst case.*
+
 ---
 
 ## 4. T20-A: complete bike from Chris Yeo (Shimano 105)
@@ -113,7 +128,8 @@ The T20 is built as an **exact G Line clone**, so **every one of these parts fit
 | Drivetrain, brakes, bar, wheels, tyres, saddle | Replace (shared list, minus headset) | 5,224-5,466 | 3,169-3,882 used-mix | |
 | Resale: 105 groupset, 3DO crank, cassette, carbon stem/bar/seatpost, wheels, tyres | Sell | — | **−800 to −1,500 ★** | New, unused parts should sell better than used ones |
 | **Bike price** | | — | **2,900** (or 3,200) | |
-| **T20-A total** | | **~8,500-9,000** | **~5,148-6,561** (at S$3,200: ~5,448-6,861) | |
+| **+ Rolling and fold kit** (§3b) | Add | ~238 | 349 | Replaces the stock rollers |
+| **T20-A total** | | **~8,700-9,200** | **~5,497-6,910** (at S$3,200: ~5,797-7,210) | |
 
 **Pros**
 - Cheapest T20 route if the stock parts sell. The frame hardware, headset, fork, hanger and thru-axle all come with it.
@@ -139,9 +155,10 @@ The T20 is built as an **exact G Line clone**, so **every one of these parts fit
 | Fork | Silverock carbon, 100×12 | 388 | **659** | 362-461 | New price confirmed (Carousell SG, 26 Sep) |
 | Dropout hanger | TPW GRP-22B, 142×12 | 54 | **79** | 79 | Ready stock SG, S$79 new (Carousell) |
 | Rear thru-axle | M12×1.5, 160mm | ~40 ★ | 50 ★ | 50 | Not included with SMC wheels |
-| Frame hardware | Seatpost clamp, hinge clamps/levers, rear block, easy wheels, E-hook | 250-350 ★ | 300-450 ★ | 200-300 | Needed because the frame comes **unassembled** |
+| Frame hardware | Seatpost clamp, hinge clamps/levers, rear block, E-hook (roller wheels now in §3b) | 200-300 ★ | 250-400 ★ | 170-270 | Needed because the frame comes **unassembled** |
+| **+ Rolling and fold kit** | §3b | ~238 | 349 | 349 | MiniMODs + roller wheels |
 | **+ Shared parts** | | 5,329-5,571 | 5,468 | 3,254-3,990 | |
-| **T20-B total** | | **8,495-8,947** | **9,456-9,606** | **6,845-7,780** | |
+| **T20-B total** | | **8,683-9,135** | **9,755-9,905** | **7,164-8,099** | |
 
 **Pros**
 - Lightest build, with nothing to sell afterwards.
@@ -169,9 +186,10 @@ The T20 is built as an **exact G Line clone**, so **every one of these parts fit
 | Stem | Ti G Line-pattern stem, 450-560g, ~S$300-385 used / ~S$550 new ★ | same |
 | Hanger + thru-axle | TPW GRP-22B 54g (**S$79 new**, ready stock SG) + axle ~40g | same, ⚠️ once the Ti-DX axle spec is confirmed |
 | Frame hardware | **Comes with the bike** (~250-350g, S$0) | same |
+| Rolling and fold kit (§3b) | +~238g, +S$349 (replaces stock rollers) | same |
 | Resale of stock parts | **−S$800-1,500 ★** (wheels with Alfine hub, tyres, fork, steel triangle, stem, bar, brakes, crank, seatpost, saddle, pedals, rack) | same |
-| **Total weight** | **9,434-9,886g** | **9,503-9,955g** |
-| **Net cost** | **S$6,425-9,135** | **S$5,502-7,423** |
+| **Total weight** | **9,672-10,124g** | **9,741-10,193g** |
+| **Net cost** | **S$6,774-9,484** | **S$5,851-7,772** |
 
 **Pros**
 - Genuine Brompton main frame and hinge: proven fold, better resale.
