@@ -325,6 +325,33 @@ Spec: Ti main frame w/ 3D-printed hinge; Ti rear fork w/ 3D-printed dropout, **1
 
 *Sources (26 Sep 2026): [Bikerumor XX1/X01 Eagle weights](https://bikerumor.com/sram-xx1-x01-eagle-specs-actual-weights/), [The Pro's Closet GX vs XX1](https://www.theproscloset.com/blogs/news/sram-gx-eagle-vs-xx1-eagle), [SRAM Red XPLR support](https://support.sram.com/hc/en-us/sections/27118201227291-RED-XPLR-AXS), [SRAM XPLR weights](https://support.sram.com/hc/en-us/articles/6014379628955-What-are-the-weights-of-the-XPLR-derailleurs-and-cassettes), [Force XPLR AXS D1 service page](https://www.sram.com/en/service/models/rd-frc1-e-d1), [Shimano SM-MA adapters, BIKE24](https://www.bike24.com/p2142082.html).*
 
+### 📋 SRAM lineup overview: shifters and rear derailleurs (28 Sep 2026)
+
+**Fits?** = fits the T20/G Line standard hanger with a flat bar. "—" = weight not verified in this research; ★ = approximate. RD weights exclude battery unless noted.
+
+| Family | Model | Purpose | Speeds / max cog | RD weight | Shifter | Fits? | Pros | Cons |
+|---|---|---|---|---|---|---|---|---|
+| **Eagle mechanical** (hanger mount) | **SX Eagle** | Entry MTB | 12 / 50T | 341g | Trigger, — | ✅ | Cheapest; shifting you already like; HG-freehub cassette | Heaviest RD; heavy steel cassette |
+| | **NX Eagle** | Budget MTB | 12 / 50T | — | Trigger, — | ✅ | Cheap, tougher than SX; HG-freehub cassette | Heavy |
+| | **GX Eagle** | Mid MTB | 12 / 50-52T | ~300g | Trigger 122g | ✅ | Best value; common used; alloy trigger | XD freehub for its lighter cassettes |
+| | **X01 Eagle** | High-end MTB | 12 / 50-52T | 276g | Trigger 124g | ✅ | Light, carbon cage | Mostly used now |
+| | **XX1 Eagle** | Top MTB | 12 / 50-52T | **265g** | Trigger 124g | ✅ | **Lightest SRAM RD tracked** | Priciest; mostly used |
+| | **Eagle S100 / S200 / S500** (newest naming) | Current mechanical Eagle | 12 | — | Trigger | ✅ likely | In production; SRAM says they mix with older SX-XX1 | New; little published data |
+| **Eagle 11sp** (older) | NX / GX / X01 / XX1 11sp | Older MTB | 11 / 42-46T | — | Trigger | ✅ | Cheap used | Smaller range; parts drying up |
+| **Eagle Transmission, mechanical** | **Eagle 90 / 70 (T-Type)** | Current MTB | 12 / 52T | — | Trigger | ❌ **UDH only** | Very strong, hangerless | Won't mount on this frame |
+| **Eagle AXS** (older, hanger mount) | **XX1 / X01 / GX Eagle AXS** | Wireless MTB | 12 / 50-52T | ~398g / ~415g / 463g **incl. battery** | AXS Pod / Rocker (coin cell) | ✅ | Wireless, **removable battery**, no cable through the fold | Heavier than mechanical; used market |
+| **Eagle AXS Transmission** | XX SL / XX / X0 / GX / S1000 (T-Type) | Current wireless MTB | 12 / 52T | — | AXS Pod | ❌ **UDH only** | Best SRAM shifting | Won't mount |
+| **Road/gravel AXS 12sp** (hanger mount) | **Red eTap AXS D1** | Road race | 12 / 33-36T | — | Drop-bar levers; flat bar via AXS Pod ★ | ✅ | Light, removable battery | Small max cog; **XDR freehub**; road cassette |
+| | **Force eTap AXS / Force XPLR** | Road / gravel | 12 / 36T; XPLR 44T | XPLR ~308g ★ | Same | ✅ | Removable battery; 1x gravel range | XDR freehub; 44T max, low gear 1.09:1 with 48T |
+| | **Rival / Apex AXS (XPLR)** | Budget road / gravel | 12 / 44T (Apex Eagle AXS to 52T) | — | Same | ✅ | Cheaper AXS | Heavier; XDR (Apex Eagle uses MTB cassettes) |
+| **Road/gravel AXS 13sp** | Red / Force / Rival **XPLR E1** | New gravel | 13 / 46T | Red 293g | Drop-bar | ❌ **UDH / Full Mount only** | Newest, lightest gravel | Won't mount |
+| **Road mechanical** | Apex / Rival 1 (11sp), Apex 12 mech | Road / gravel | 11-12 | — | **Drop-bar levers only** | ❌ for flat bar | Cheap | No flat-bar shifter |
+| **Legacy trigger** | X4 / X5 / X7 / X9 | Older 7-10sp MTB | 7-10 | — | Trigger | ⚠️ Only with matching old RD + cassette | Very cheap | Old tech, poor range for this build |
+
+**For this build:** the realistic SRAM set is **Eagle mechanical (SX-XX1)** or **Eagle AXS non-T-Type**, plus road AXS 12sp if you accept an XDR hub. Everything Transmission / T-Type / 13sp E1 needs UDH and is out.
+
+*Sources: weights and fit already cited in the SRAM table above, plus [SRAM Eagle S100/S200/S500 mix-and-match](https://support.sram.com/hc/en-us/articles/47792061175707-Can-I-mix-and-match-SRAM-Eagle-Drivetrain-S100-S200-and-S500-with-previous-Eagle-Drivetrain-components-SX-NX-GX-X01-XX1), [off-road.cc SRAM MTB drivetrains 2025](https://road.cc/offroad/content/buying/your-complete-guide-to-sram-mtb-drivetrains-xx1-x01-x0-x1-eagle-gx-nx-ex1-and-axs-level-groupsets). Rows without a source are general knowledge: verify before buying.*
+
 ### 👍 Thumb-operated trigger shifters (28 Sep 2026)
 
 **What you like about the SX Eagle trigger:** both levers are pushed with the **thumb**, and the big paddle can shift **two gears in one push** to easier gears (bigger cogs). The table checks every option against that.
