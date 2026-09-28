@@ -159,6 +159,8 @@ Spider is **110 BCD, 5-arm** — rings must be 110 BCD **5-bolt**.
 | SRAM GX AXS | 12 | 463g | 63g | ~£530 |
 | Archer D1x | **any** | your existing RD | — | — |
 
+👍 **Shifter feel (28 Sep): thumb on both levers + multi-shift to easier gears.** Matches: SRAM Eagle triggers (**avoid "Single Click" versions**), Shimano XT/SLX/XTR (up to 4 gears, 2-way release), TRP EVO 12, SENSAH XRX, Box Prime 9 (9sp). microSHIFT Advent X doesn't match (finger-pull release). Table in `T20_Build_Options.md`.
+
 🆕 **SRAM SX Eagle (28 Sep):** entry-level 12sp Eagle trigger, liked from your wife's P Line. Fits the build with any Eagle **mechanical** RD (not Shimano, not Transmission). Suggested combo: **SX Eagle trigger + used XX1/X01 Eagle RD (265-276g)**.
 
 🆕 **SRAM is now open (26 Sep), mechanical and electronic.** The frame takes a standard hanger, not UDH, so SRAM Transmission / T-Type / 13sp E1 are out. **Best fits: used XX1/X01 Eagle mechanical (265-276g RD) or XX1/X01 Eagle AXS non-T-Type.** Freehub isn't a blocker: you can pick your own hub (26 Sep). SMC ready-made wheelset's freehub options TBC. Full SRAM table in `T20_Build_Options.md`.

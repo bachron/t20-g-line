@@ -325,6 +325,26 @@ Spec: Ti main frame w/ 3D-printed hinge; Ti rear fork w/ 3D-printed dropout, **1
 
 *Sources (26 Sep 2026): [Bikerumor XX1/X01 Eagle weights](https://bikerumor.com/sram-xx1-x01-eagle-specs-actual-weights/), [The Pro's Closet GX vs XX1](https://www.theproscloset.com/blogs/news/sram-gx-eagle-vs-xx1-eagle), [SRAM Red XPLR support](https://support.sram.com/hc/en-us/sections/27118201227291-RED-XPLR-AXS), [SRAM XPLR weights](https://support.sram.com/hc/en-us/articles/6014379628955-What-are-the-weights-of-the-XPLR-derailleurs-and-cassettes), [Force XPLR AXS D1 service page](https://www.sram.com/en/service/models/rd-frc1-e-d1), [Shimano SM-MA adapters, BIKE24](https://www.bike24.com/p2142082.html).*
 
+### 👍 Thumb-operated trigger shifters (28 Sep 2026)
+
+**What you like about the SX Eagle trigger:** both levers are pushed with the **thumb**, and the big paddle can shift **two gears in one push** to easier gears (bigger cogs). The table checks every option against that.
+
+| Shifter | Must pair with | Easier gears (big paddle, thumb) | Harder gears (release) | Weight | Match? |
+|---|---|---|---|---|---|
+| ⭐ **SRAM Eagle trigger: SX / NX / GX / X01 / XX1** | Any SRAM Eagle **mechanical** RD (not Transmission) | Multi-shift in one push (you get 2 on the SX) | **Thumb push**, one gear per push | GX 122g, X01/XX1 124g | ✅ **Same feel.** ⚠️ **Avoid the "Single Click" versions** (e.g. SL-SX1-PA, X01 Single Click): they switch multi-shift off |
+| ⭐ **Shimano XT M8100 / SLX M7100 / XTR M9100** (current plan) | Shimano 12sp RD | **Up to 4 gears** in one sweep | **2-way release**: thumb push *or* index-finger pull. XTR adds multi-release (2 harder gears at once) | XT 120-132g | ✅ Very close, and more multi-shift than the SX |
+| **SENSAH XRX 12sp trigger** | SRAM Eagle RD (sold as SRAM compatible) | Multi-shift | 2-way release | — | ✅ Budget option. Quality varies; buy from a known seller |
+| **TRP EVO 12 trigger** | TRP EVO 12 RD | **Up to 5** in one sweep; a switch sets single-step | One gear per push; lever angle adjustable ±20° | 125g | ✅ Most adjustable. Locks you into the TRP derailleur |
+| **Box Prime 9 (Box One / Two / Three)** | Box Prime 9 RD, **9-speed** | 2-3 gears per push | Push release | 128-130g | ✅ Feel matches, but it's a 9-speed system: different cassette and RD |
+| **microSHIFT 12sp thumb shifter** (SRAM Eagle compatible) | SRAM Eagle RD | Classic above-bar lever: push forward/back with the thumb | Same lever | — | ⚠️ Thumb-only, but a different, old-school feel. Try before buying |
+| **microSHIFT Advent X Trail Trigger** | Advent X only, 10sp | Up to 4 | **Index-finger pull** only | — | ❌ Release isn't thumb-operated |
+| **SRAM AXS Pod** (electronic) | SRAM AXS RD | Buttons, thumb; multi-gear on press-and-hold (set in the AXS app) | Buttons, thumb | — | ✅ Electronic version of the same thumb action |
+| **Shimano Di2 SW-M9250 / M8250** (electronic) | Shimano Di2 RD | Buttons; multi-shift set in the E-TUBE app | Buttons | — | ✅ Same idea, electronic |
+
+**Read-across:** the closest match to what you like is a **SRAM Eagle trigger (not Single Click)**. Shimano XT is just as thumb-friendly with the 2-way release and shifts up to 4 easier gears at once, so the current plan doesn't lose the feature. If you go SRAM, the SX trigger with an XX1/X01 Eagle RD is the combo already suggested.
+
+*Sources (28 Sep 2026): [SRAM SX Eagle trigger](https://www.sram.com/en/sram/models/sl-sx-1-a12), [Worldwide Cyclery X01 Eagle shifter review](https://worldwidecyclery.com/blogs/worldwide-cyclery-blog/sram-x01-eagle-12-speed-shifter-rider-review), [SRAM AXS multi-shift support](https://support.sram.com/hc/en-us/articles/6030740190363-Can-I-shift-multiple-gears-when-pressing-and-holding-an-Eagle-AXS-controller-button), [Shimano SL-M8100](https://bike.shimano.com/en-EU/product/component/deore-xt-m8100/SL-M8100-R.html), [TRP EVO 12 shifter](https://trpcycling.com/products/evo-12-shifter), [Box Three Prime 9 shifter](https://boxcomponents.com/products/box-three-prime-9-shifters), [microSHIFT Advent X trigger](https://www.microshift.com/models/sl-m9505-r/), [microSHIFT 12sp SRAM thumb shifter](https://www.modernbike.com/microshift-right-thumb-shifter-12-speed-mountain-sram-eagle-compatible), [SENSAH XRX (eBay)](https://www.ebay.com/itm/203065938472).*
+
 ### 🔋 Electronic shifting: removable-battery rule (26 Sep 2026)
 
 **Your rule: the battery must come off the bike for charging.** Checked against every electronic option:
