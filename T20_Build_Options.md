@@ -352,6 +352,52 @@ Spec: Ti main frame w/ 3D-printed hinge; Ti rear fork w/ 3D-printed dropout, **1
 
 *Sources: weights and fit already cited in the SRAM table above, plus [SRAM Eagle S100/S200/S500 mix-and-match](https://support.sram.com/hc/en-us/articles/47792061175707-Can-I-mix-and-match-SRAM-Eagle-Drivetrain-S100-S200-and-S500-with-previous-Eagle-Drivetrain-components-SX-NX-GX-X01-XX1), [off-road.cc SRAM MTB drivetrains 2025](https://road.cc/offroad/content/buying/your-complete-guide-to-sram-mtb-drivetrains-xx1-x01-x0-x1-eagle-gx-nx-ex1-and-axs-level-groupsets). Rows without a source are general knowledge: verify before buying.*
 
+### ⚖️ SRAM ranked by weight: rear derailleur and shifter only (29 Sep 2026)
+
+**Fits?** = standard hanger + flat bar (T20/G Line). ❌ = UDH-only, won't mount.
+
+**Rear derailleurs, lightest first**
+
+| # | RD | Type | Weight | Battery | Fits? |
+|---|---|---|---|---|---|
+| 1 | **XX1 Eagle** | Mechanical | **265g** | — | ✅ |
+| 2 | **X01 Eagle** | Mechanical | 276g | — | ✅ |
+| 3 | Red XPLR AXS E1 (13sp) | Electronic | 293g | inclusion not stated | ❌ |
+| 4 | **GX Eagle** | Mechanical | ~300g | — | ✅ |
+| 5 | **Force XPLR eTap AXS (12sp)** | Electronic | 308g | inclusion not stated | ✅ (XDR hub, 44T max) |
+| 6 | **Rival XPLR eTap AXS (12sp)** | Electronic | 327g | inclusion not stated | ✅ (XDR hub, 44T max) |
+| 7 | **NX Eagle** | Mechanical | 339g | — | ✅ |
+| 8 | **SX Eagle** | Mechanical | 341g | — | ✅ |
+| 9 | **Rival eTap AXS road (12sp)** | Electronic | 342g | **excl.** battery (~+25g) | ✅ (XDR, road cassette) |
+| 10 | **XX1 Eagle AXS** | Electronic | 373g (**398g** with battery) | clip-on | ✅ |
+| 11 | Eagle 90 Transmission | Mechanical | 390g (346g with XX SL cage) | — | ❌ |
+| 12 | **X01 Eagle AXS** | Electronic | 390g (**415g** with battery) | clip-on | ✅ |
+| 13 | Force XPLR AXS E1 (13sp) | Electronic | 418g | — | ❌ |
+| 14 | Rival XPLR AXS E1 (13sp) | Electronic | 435g | — | ❌ |
+| 15 | **GX Eagle AXS** | Electronic | 463g | as tracked | ✅ |
+| 15 | XX Eagle AXS Transmission | Electronic | 463g | — | ❌ |
+| 17 | X0 Eagle AXS Transmission | Electronic | 472g | — | ❌ |
+| — | Red eTap AXS D1 / Force eTap AXS D1 (road) | Electronic | not found | — | ✅ |
+
+**Flat-bar shifters, lightest first**
+
+| # | Shifter | Type | Weight | Works with |
+|---|---|---|---|---|
+| 1 | **AXS Pod Ultimate** | Electronic, 2 buttons | **57g** | AXS RDs (confirm pairing with older Eagle AXS / road AXS in the SRAM app) |
+| 2 | AXS Pod (Transmission, with MatchMaker clamp) | Electronic | ~70g | AXS RDs |
+| 3 | **NX Eagle trigger** | Mechanical | **112g** | Any Eagle mechanical RD |
+| 4 | **GX Eagle trigger** | Mechanical | 122g | Any Eagle mechanical RD |
+| 5 | **X01 / XX1 Eagle trigger** | Mechanical | 124g | Any Eagle mechanical RD |
+| 6 | **SX Eagle trigger** (the one you like) | Mechanical | 128g | Any Eagle mechanical RD |
+| — | Eagle 90 / 70 Transmission trigger | Mechanical | not found | T-Type RD only ❌ |
+
+**Lightest combos that fit:**
+- **Mechanical: XX1 Eagle RD + NX Eagle trigger = ~377g.** With the SX trigger you like: ~393g. Same thumb action on every Eagle trigger.
+- **Electronic, MTB: XX1 Eagle AXS (398g with battery) + Pod Ultimate (57g) = ~455g.**
+- **Electronic, gravel: Force XPLR AXS 12sp (308g, battery status unclear) + Pod Ultimate = ~365-390g**, but needs an XDR hub and tops out at 44T.
+
+*Sources (29 Sep 2026): [Bikerumor NX Eagle weights](https://bikerumor.com/sram-nx-eagle-actual-weights-first-impressions/), [SRAM SX trigger](https://www.sram.com/en/sram/models/sl-sx-1-a12), [Bikerumor XX1/X01 Eagle](https://bikerumor.com/sram-xx1-x01-eagle-specs-actual-weights/), [Bikerumor Eagle AXS](https://bikerumor.com/unboxed-sram-eagle-axs-xx1-xo1-actual-weights-install-notes/), [SRAM XPLR weights](https://support.sram.com/hc/en-us/articles/6014379628955-What-are-the-weights-of-the-XPLR-derailleurs-and-cassettes), [Bikerumor Rival AXS weights](https://bikerumor.com/hands-on-complete-rival-etap-axs-wireless-road-group-with-actual-weights/), [Flow Eagle 90 review](https://flowmountainbike.com/tests/sram-eagle-90-transmission-review/), [The Lost Co. Transmission weights](https://thelostco.com/blogs/blog/sram-eagle-axs-transmission-weights), [SRAM AXS Pod Ultimate](https://www.sram.com/en/sram/models/ec-axs-podu-d1).*
+
 ### 👍 Thumb-operated trigger shifters (28 Sep 2026)
 
 **What you like about the SX Eagle trigger:** both levers are pushed with the **thumb**, and the big paddle can shift **two gears in one push** to easier gears (bigger cogs). The table checks every option against that.
