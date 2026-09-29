@@ -195,6 +195,22 @@ With the 11-50T cassette on 20×2.0 tyres (~506mm wheel):
 | ✅ **Continental Contact Urban 50-406 (20×2.0)** | **430g each / 860g pair** (manufacturer, via BIKE24). The 42-406 (20×1.6) is 355g if you want narrower | Locked in. Tougher, more puncture-resistant — sensible for city riding with a child |
 | **Schwalbe One 1.10" slick** `[8.3kg ref]` | — | The 8.3kg build's tyre. Far lighter but a race slick — **thinner casing, less puncture protection**. Probably the wrong trade for your use case |
 
+## Inner tubes (20" / 406, for Conti Contact Urban 50-406), added 29 Sep 2026
+
+| Option | Type | Weight (each) | Price | Notes |
+|---|---|---|---|---|
+| ✅ **Tubolito S-Tubo BMX** (20", Presta 42mm) | TPU | **39g** | US$37.95 (Universal Cycles) | **In the build.** Ultralight. ⚠️ Confirm its width range covers a **50mm (2.0")** tyre. Mostly an emergency/race tube: less durable than the standard Tubo |
+| **Tubolito Tubo-BMX** 20" × 1.50-2.50 | TPU | — | — | Covers 2.0" for sure. Tougher everyday version |
+| **Generic TPU 20" 406** (Amazon/AliExpress) | TPU | ~23g | Cheap | Listed for 20×1.0-1.75: **too narrow for a 2.0" tyre** |
+| **Alienation Featherweight TPU** 20×1.75-2.5 | TPU | 67g | — | Fits 2.0"; heavier than Tubolito |
+| **tpubiketubes BMX Nano** 20"/24" | TPU | — | — | Another TPU option |
+| **Schwalbe Aerothan** 20" (54/62-406) | TPU | — | — | 54-62mm range; check if 50mm is supported |
+| Butyl 20" (Schwalbe/Conti) | Butyl | ~100-120g ★ | ~S$10 | Baseline. Cheap, repairable |
+
+**Why TPU here:** saves ~120-160g for the pair at ~S$0.5-0.7/g, one of the cheapest savings left. **Caveats:** TPU needs its own patch kit; don't use with rim brakes (fine here: disc brakes); check the tube's width range against the 50mm tyre. Road-size weights often quoted for RideNow (20g), Revoloop (25g) and Pirelli SmarTube (35g) are **700c figures**, not 20".
+
+*Sources (29 Sep 2026): [Universal Cycles Tubolito S-Tubo BMX](https://www.universalcycles.com/shopping/product_details.php?id=114781), [Tubolito S-Tubo-BMX](https://www.tubolito.com/product/s-tubo-bmx/), [Tubolito Tubo-BMX](https://www.tubolito.com/product/tubo-bmx/), [BIKE24 Tubolito BMX 1.50-2.50](https://www.bike24.com/p2404979.html), [BMXGuru Alienation](https://www.bmxguru.com/products/20x1-75-2-25-alienation-featherweight-tpu-schrader-valve-inner-tube), [Schwalbe Aerothan](https://www.schwalbetires.com/tubes/aerothan/), [Bicycle Rolling Resistance TPU test](https://www.bicyclerollingresistance.com/specials/tpu-inner-tubes).*
+
 ## Seatpost (must be aluminium — carbon excluded for Thule Yepp Nexxt 2 Maxi clamp)
 
 | Option | Diameter | Weight | Price | Notes |

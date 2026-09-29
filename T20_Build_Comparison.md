@@ -22,9 +22,9 @@
 
 | | **T20-A: complete bike** | **T20-B: frame only** | **G1: G Line + tibicycles Ti triangle** | **G2: G Line + Titanium-DX set** |
 |---|---|---|---|---|
-| **Weight** (no child seats, lights or mudguards) | **~8.7-9.2 kg** (stock fork weight unknown) | **~8.7-9.1 kg** | ~9.7-10.1 kg | ~9.7-10.2 kg |
-| **Net cost, used parts where allowed** | **~S$5,500-6,900** (at S$3,200: ~S$5,800-7,200) | ~S$7,200-8,100 | ~S$6,800-9,500 | ~S$5,900-7,800 |
-| Cash out before reselling stock parts | ~S$7,000-7,700 | same as net | ~S$8,300-10,300 | ~S$7,400-8,600 |
+| **Weight** (no child seats, lights or mudguards) | **~8.6-9.0 kg** (stock fork weight unknown) | **~8.6-9.0 kg** | ~9.6-10.0 kg | ~9.6-10.0 kg |
+| **Net cost, used parts where allowed** | **~S$5,600-7,000** (at S$3,200: ~S$5,900-7,300) | ~S$7,200-8,200 | ~S$6,900-9,600 | ~S$5,900-7,900 |
+| Cash out before reselling stock parts | ~S$7,100-7,800 | same as net | ~S$8,400-10,400 | ~S$7,500-8,700 |
 | **Comfort** | Same contact points | Same | Same | Same |
 | Carrying the folded bike | **Lightest** | **Lightest** | ~1 kg heavier | ~1 kg heavier |
 | Hassle | Medium: strip a new bike, sell the 105 groupset and other stock parts | **Low**: buy parts only | High | High |
@@ -89,11 +89,11 @@ The T20 is built as an **exact G Line clone**, so **every one of these parts fit
 | Pedals | H&H Ti platform | 215 | 200 ★ | 110-140 | Used |
 | Wheelset | SMC Plume DW2, RHET hubs | 945-1,045 | 1,600 ★ | 880-1,120 | Used |
 | Tyres | Conti Contact Urban 50-406 ×2 | 860 | 100 ★ | — | New (suggested) |
-| Tubes | 20" ×2 | 200-240 ★ | 20 | — | New |
+| Tubes | **Tubolito S-Tubo BMX** 20" ×2 (TPU) | **78** | 99 (US$37.95 each) | — | New. Saves ~120-160g vs butyl |
 | Seatpost | WOOdman GT2 31.8mm | 277-307 | 189 | 105-130 | Used |
 | Saddle | Tioga Spyder Stratum | 124 | 230 | 125-160 | Used |
 | Rack | TPW Ti G Line | 328 | 250 ★ | 140-175 | Used |
-| **Shared total** | | **5,329-5,571** | **5,468** | **3,254-3,990** | |
+| **Shared total** | | **5,207-5,409** | **5,547** | **3,333-4,069** | |
 
 
 ### 3b. Rolling and fold kit: MiniMODs + roller wheels (added 28 Sep, every build)
@@ -129,7 +129,7 @@ G Line layout (Brompton's own spec): **70mm roller wheels on the frame** (and fr
 | Resale: 105 groupset, 3DO crank, cassette, carbon stem/bar/seatpost, wheels, tyres | Sell | — | **−800 to −1,500 ★** | New, unused parts should sell better than used ones |
 | **Bike price** | | — | **2,900** (or 3,200) | |
 | **+ Rolling and fold kit** (§3b) | Add | ~238 | 349 | Replaces the stock rollers |
-| **T20-A total** | | **~8,700-9,200** | **~5,497-6,910** (at S$3,200: ~5,797-7,210) | |
+| **T20-A total** | | **~8,580-9,040** | **~5,576-6,989** (at S$3,200: ~5,876-7,289) | |
 
 **Pros**
 - Cheapest T20 route if the stock parts sell. The frame hardware, headset, fork, hanger and thru-axle all come with it.
@@ -158,7 +158,7 @@ G Line layout (Brompton's own spec): **70mm roller wheels on the frame** (and fr
 | Frame hardware | Seatpost clamp, hinge clamps/levers, rear block, E-hook (roller wheels now in §3b) | 200-300 ★ | 250-400 ★ | 170-270 | Needed because the frame comes **unassembled** |
 | **+ Rolling and fold kit** | §3b | ~238 | 349 | 349 | MiniMODs + roller wheels |
 | **+ Shared parts** | | 5,329-5,571 | 5,468 | 3,254-3,990 | |
-| **T20-B total** | | **8,683-9,135** | **9,755-9,905** | **7,164-8,099** | |
+| **T20-B total** | | **8,561-8,973** | **9,834-9,984** | **7,243-8,178** | |
 
 **Pros**
 - Lightest build, with nothing to sell afterwards.
@@ -188,8 +188,8 @@ G Line layout (Brompton's own spec): **70mm roller wheels on the frame** (and fr
 | Frame hardware | **Comes with the bike** (~250-350g, S$0) | same |
 | Rolling and fold kit (§3b) | +~238g, +S$349 (replaces stock rollers) | same |
 | Resale of stock parts | **−S$800-1,500 ★** (wheels with Alfine hub, tyres, fork, steel triangle, stem, bar, brakes, crank, seatpost, saddle, pedals, rack) | same |
-| **Total weight** | **9,672-10,124g** | **9,741-10,193g** |
-| **Net cost** | **S$6,774-9,484** | **S$5,851-7,772** |
+| **Total weight** | **9,550-9,962g** | **9,619-10,031g** |
+| **Net cost** | **S$6,853-9,563** | **S$5,930-7,851** |
 
 **Pros**
 - Genuine Brompton main frame and hinge: proven fold, better resale.
