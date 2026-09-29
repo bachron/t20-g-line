@@ -151,9 +151,29 @@ With the 11-50T cassette on 20×2.0 tyres (~506mm wheel):
 
 ## Cassette
 
+### 🆕 Option: SRAM Force XPLR AXS 12sp + 10-44T (added 29 Sep 2026)
+
+| Part | Pick | Weight | Notes |
+|---|---|---|---|
+| RD | **SRAM Force XPLR eTap AXS, 12sp (D1/D2)** | 308g (battery inclusion not stated) | Standard hanger ✅, **44T max**, removable battery ✅ |
+| Shifter | **SRAM AXS Pod Ultimate** | 57g | Flat bar, thumb buttons. Confirm pairing in the SRAM AXS app |
+| Cassette | **Garbaruk 10-44T** (280g) or SRAM XPLR XG-1271 / XG-1251 (412g) | 280-412g | **XDR freehub** (you can choose your hub) |
+| Chain | SRAM 12sp Flattop (road) | — | SRAM specifies Flattop chains for XPLR AXS |
+
+**Gearing with the 48T ring:** low **1.09:1** (vs 0.96 on the plan's 11-50), top 4.8:1 (faster than the plan's 4.36). A **44T ring** brings the low gear to **1.00:1**. **Total RD + shifter + cassette: ~645g with Garbaruk** vs ~689-701g for the planned mechanical XT M8100 + shifter + Nuton 11-50 (plus ~60g cable).
+
+
 | Option | Weight | Notes |
 |---|---|---|
 | ✅ **Nuton Cycling null¹ MTB 12S/HG 11-50T** | **286g** (official; 11-46T 275g). ¥28,600 | Locked in. HG freehub retained |
+| **Nuton null¹ 11-46T** (HG) | **275g** | Same family, 11g lighter; 46T max works with shorter-cage RDs. Low gear 1.04 with 48T |
+| 🆕 **Garbaruk 12sp Gravel 10-44T** (XD/XDR) | **280g** | €260 MSRP | **Lightest 10-44 found.** Alternative to SRAM XPLR for the Force XPLR option |
+| 🆕 **SRAM XPLR XG-1271 10-44T** (Force level, XDR) | not found (lighter than XG-1251: alloy 44T cog) | — | Matches **Force XPLR AXS 12sp**. Cogs 10-11-13-15-17-19-21-24-28-32-38-44 |
+| 🆕 **SRAM XPLR XG-1251 10-44T** (Rival level, XDR) | 412g | ~€112 | Cheapest official XPLR option; heavy |
+| 🆕 **e*thirteen Helix Race 9-45T** (XD/XDR) | ~319g (330g claimed) | — | **9T** top cog = higher top speed. SRAM/Shimano 12sp cross-compatible per e13. 45T is 1 over Force XPLR's 44T rating: check |
+| **e*thirteen Helix Race 9-50T** | 384g | — | Full MTB range |
+| **Garbaruk 12sp 10-48T / 10-50T** (XD) | 339g / 335g | ~US$314 (10-50) | Light Eagle-range alternative |
+| **Shimano XT CS-M8100 10-45T** (Micro Spline) | 461g | — | Heavy; needs Micro Spline hub |
 | **Lightweight cassette** `[8.3kg ref]` | **230g** | The 8.3kg build's cassette (model not stated) — a useful target number to weigh yours against |
 
 ## Wheelset

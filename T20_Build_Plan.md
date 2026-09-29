@@ -180,6 +180,8 @@ Spider is **110 BCD, 5-arm** — rings must be 110 BCD **5-bolt**.
 - L-TWOO ER9 Wireless was considered but ruled out — it's drop-bar only (hydraulic levers), doesn't fit the flat-bar/mechanical-lever plan
 
 ### Cassette — ✅ Nuton Cycling null¹ MTB 12S/HG 11-50T (**286g**, official)
+
+🆕 **Option (29 Sep): SRAM Force XPLR AXS 12sp + 10-44T cassette.** RD 308g + AXS Pod Ultimate 57g + **Garbaruk 10-44T 280g** (or SRAM XPLR XG-1271 / XG-1251 412g) ≈ **645g**. Needs an **XDR hub**. Low gear 1.09:1 with 48T (1.00 with a 44T ring). Other wide-range cassettes tracked: Nuton 11-46T 275g, e*thirteen Helix 9-45T 319g, Garbaruk 10-48/10-50 ~335-339g, Shimano XT 10-45 461g. Details in `T20_Build_Options.md` § Cassette.
 - Chose to keep HG freehub/cassette instead of Micro Spline, while retaining the XT M8100 derailleur/shifter
 
 ### Chain — KMC 11-speed (from earlier reference spec; may need revisiting for 12-speed XT compatibility)
