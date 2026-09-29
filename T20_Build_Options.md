@@ -352,6 +352,60 @@ Spec: Ti main frame w/ 3D-printed hinge; Ti rear fork w/ 3D-printed dropout, **1
 
 *Sources: weights and fit already cited in the SRAM table above, plus [SRAM Eagle S100/S200/S500 mix-and-match](https://support.sram.com/hc/en-us/articles/47792061175707-Can-I-mix-and-match-SRAM-Eagle-Drivetrain-S100-S200-and-S500-with-previous-Eagle-Drivetrain-components-SX-NX-GX-X01-XX1), [off-road.cc SRAM MTB drivetrains 2025](https://road.cc/offroad/content/buying/your-complete-guide-to-sram-mtb-drivetrains-xx1-x01-x0-x1-eagle-gx-nx-ex1-and-axs-level-groupsets). Rows without a source are general knowledge: verify before buying.*
 
+### 🚲 Lightweight RD + shifter for G Line / mini velo, all brands (29 Sep 2026)
+
+**Two things matter on 20" (406) wheels besides weight:**
+1. **Ground clearance.** A long-cage MTB RD (for 50-52T cogs) hangs lower relative to a small wheel. It usually clears, but it's the part that hits kerbs and steps when folding and carrying. Short-cage RDs clear better.
+2. **Gearing.** Short-cage RDs take smaller cassettes (34-39T max), so the low gear gets harder unless you drop the chainring. With your **48T** ring: 50T cog = **0.96:1** (the plan) · 46T = 1.04 · 44T = 1.09 · 39T = 1.23 · 36T = 1.33 · 34T = 1.41. A **40T** ring on a 39T cog brings it back to ~1.03.
+
+**Fits** = standard hanger + flat-bar shifter on the T20/G Line. Prices USD unless noted; "—" = not found.
+
+#### Mechanical
+
+| RD (+ shifter) | Speeds / max cog | RD weight | Shifter weight | Price | Pros | Cons |
+|---|---|---|---|---|---|---|
+| **Shimano Dura-Ace R9100 SS** + flat-bar SL-RS700 | 11 / ~30T | **158g** | — | — | **Lightest RD found**; short cage, best clearance | Road cassette max ~30-34T (GS): low gear ~1.4-1.6 with 48T; needs a much smaller ring. Flat-bar RS700 shifter weight not found |
+| **Shimano Ultegra R8000 SS/GS** + SL-RS700 | 11 / 30-34T | 200g | — | — | Light, short/medium cage | Same gearing limit |
+| **Shimano XTR M9100 SGS** + XTR trigger | 12 / 51T | **240g** | — | — | **Lightest wide-range RD**; 2-way release, multi-release | Priciest Shimano mechanical; long cage |
+| **SRAM XX1 Eagle** + Eagle trigger | 12 / 50-52T | 265g | 112-128g (NX lightest) | mostly used | Your preferred thumb feel; light | Long cage; used market |
+| **Shimano Zee RD-M640 SS** | 10 / 36T | 275g | — | — | Very short cage (**~50mm**): favourite for 16"/20" folders; clutch | 10sp; 36T max → 1.33 low with 48T |
+| **SRAM X01 Eagle** | 12 / 50-52T | 276g | 124g | mostly used | Light | Long cage |
+| ✅ **Shimano XT M8100 SGS** (plan) | 12 / 51T | 283g | 120-132g | ~S$190 pair (SG) | Great value; 4-gear multi-shift, 2-way release | Long cage |
+| **Box Prime 9** (One/Two/Three) | 9 / 50T | 290g | 128-130g | — | Simple 9sp wide range; thumb push release | Proprietary 9sp cassette/shifter |
+| **SRAM GX Eagle** | 12 / 50-52T | ~300g | 122g | — | Value, common used | Long cage |
+| **TRP EVO 12** | 12 / 51T | 301g | 125g | **US$230-240** RD | Up to 5-gear multi-shift, adjustable levers | Must pair TRP shifter + RD |
+| **microSHIFT Advent X** | 10 / 48T | 313g | — | RD ~US$71, shifter ~US$31 | **Cheapest wide range** | Finger-pull release; 10sp |
+| **Shimano SLX M7100 SGS** | 12 / 51T | 316g | — | — | Cheaper XT feel | +33g vs XT |
+| **SRAM NX / SX Eagle** | 12 / 50T | 339 / 341g | 112 / 128g | cheap | Cheap, HG-freehub cassettes | Heavy |
+| **microSHIFT Advent Super Short** | 9 / 38T | 379g | — | **US$59.99** | Built for 20" wheels; clutch; cheap | Heavy; 9sp; 38T max |
+| **Shimano Cues short cage** (9/10sp) | 10 / 39T | — | — | — | **Designed for 20" wheels**, 30% shorter cage | 10sp; weight not found |
+| ❌ H&H 7-speed tensioner + derailleur | 7 | — | — | — | Brompton-made | P/T Line only; doesn't fit G Line |
+
+#### Electronic
+
+| RD (+ shifter) | Speeds / max cog | RD weight | Shifter | Battery | Price | Pros | Cons |
+|---|---|---|---|---|---|---|---|
+| **SRAM Force XPLR AXS 12sp** + AXS Pod Ultimate | 12 / 44T | 308g* | **57g** | Removable ✅ | — | Lightest electronic that fits; wireless | XDR hub; 44T max (1.09 low) |
+| **SRAM Rival XPLR AXS 12sp** + Pod | 12 / 44T | 327g* | 57g | Removable ✅ | — | Cheaper AXS | Same limits |
+| **Shimano XTR Di2 M9250** | 12 / 51T | 389-391g + 24g battery | — | Removable ✅ | kit ~US$985 | Full range, standard hanger | Priciest |
+| **SRAM XX1 Eagle AXS** + Pod | 12 / 50-52T | 398g incl. battery | 57g | Removable ✅ | used | Full range; your thumb-style SRAM | Used only |
+| **Wheeltop EDS OX 2.0** | 3-14 / 50T | 411g | 69g | ❌ charged on bike | ~£350 | Speed-agnostic, cheap | Fails your battery rule |
+| **SRAM X01 Eagle AXS** | 12 / 50-52T | 415g incl. battery | 57g | Removable ✅ | used | | Heavier |
+| **Shimano XT Di2 M8250** | 12 / 51T | 447g + battery | — | Removable ✅ | kit ~US$860 | Best-value Di2 | Heavy |
+| **SRAM GX Eagle AXS** | 12 / 50-52T | 463g | 57g | Removable ✅ | ~£530 | | Heaviest AXS |
+| **Shimano Deore Di2 M6250** | 12 / 51T | — | — | Removable ✅ | kit ~US$675 | Cheapest Di2 | Weight not found |
+| **L-TWOO eRX / eR9** | 10-12 | — | — | ❌ non-removable | US$500-650 | Cheap | Fails your battery rule |
+| **Archer D1x** (actuator on a mechanical RD) | any | mech RD + ~249g system | remote | Main unit removable; remote internal | — | Keeps a light mech RD | Adds ~250g |
+
+*\*Battery inclusion not stated by SRAM.*
+
+**Read-across for this build:**
+- **Lightest full-range mechanical:** Shimano XTR M9100 (240g) or SRAM XX1 Eagle (265g). Both keep the 0.96:1 low gear.
+- **Best for clearance:** a short-cage RD (Zee, Cues short cage, Advent Super Short, or road SS/GS), **but only with a smaller chainring** (~40T) to keep the low gear usable with a child seat.
+- **Lightest electronic that fits:** Force XPLR AXS 12sp + Pod (~365g) if you accept XDR and 1.09:1; otherwise XX1 Eagle AXS + Pod (~455g) or XTR Di2 (~415g + shifter).
+
+*Sources (29 Sep 2026): [Worldwide Cyclery XTR M9100](https://worldwidecyclery.com/products/shimano-xtr-m9100-1-x-11-12-speed-sgs-long-cage-rear-derailleur), [Shimano SLX M7100](https://bike.shimano.com/products/components/pdp.P-RD-M7100-SGS.html), [La Velocita R9100 vs R8000](https://www.lavelocita.cc/guides-page/shimano-dura-ace-r9100-vs-ultegra-r8000-comparison), [BikeRadar Advent X](https://www.bikeradar.com/reviews/components/groupsets/groupset-mountain/microshift-advent-x-drivetrain-review), [Pinkbike TRP EVO12](https://www.pinkbike.com/news/trps-evo12-drivetrain-first-look.html), [Box One Prime 9 RD](https://boxcomponents.com/products/box-one-prime-9-rear-derailleurs), [Bike Forums Cues short cage for 20"](https://www.bikeforums.net/folding-bikes/1305003-new-short-cage-shimano-cues-rear-derailleur-20-wheels.html), [microSHIFT Advent Super Short](https://www.modernbike.com/microshift-advent-super-short-rear-derailleur---9-speed-super-short-cage-black-with-clutch), [Shimano Zee RD-M640-SS](https://worldwidecyclery.com/products/shimano-zee-m640-ssw-10-speed-free-ride-shadow-plus-rear-derailleur), [mybikesite.org Brompton short-cage conversion](http://mybikesite.org/); other figures from earlier sections.*
+
 ### ⚖️ SRAM ranked by weight: rear derailleur and shifter only (29 Sep 2026)
 
 **Fits?** = standard hanger + flat bar (T20/G Line). ❌ = UDH-only, won't mount.
