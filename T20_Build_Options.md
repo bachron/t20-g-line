@@ -1167,9 +1167,21 @@ This is a separate, cheaper part from the frame-order dropout decision above: th
 
 | Option | Length/thread | Weight | Price | Notes |
 |---|---|---|---|---|
+| ⭐ **HEXATI Ti thru-axle set for Brompton G Line** (front + rear) | Made for G Line 100/142 | **97g per set** | from **US$58** (tibicycles) | **Grade 5 Ti, hollowed. Made for this frame family**, so length and thread should match. Same maker as the T20 frame. Ask Chris Yeo if he can supply it |
+| **tibicycles Grade 5 Ti thru-axles** | Pair | 122.5g per pair | ~US$40 | Generic Ti pair; heavier than the HEXATI G Line set |
+| **tibicycles Ti rear thru-axle** 12×142/148 | **M12×1.5**, 183mm | — | — | Right thread for the TPW hanger, but 183mm may be too long (TPW recommends ~160mm) |
+| **Generic Ti** 12×162×1.5 | M12×1.5, 162mm | ~41.9g | ~US$20-40 | eBay / AliExpress. Close to TPW's recommended spec |
+| **Robert Axle Project** Lightning Bolt-On | M12×1.5, 163mm | 37g | — | Steel/alloy bolt-on (not Ti), sized to order; well regarded |
+| **Tiparts Hidden Lever Ti** | Brand-specific road axles | 35g front / 42g rear | — | Made for specific road frames (Specialized, Canyon, Giant…). Not a G Line fit |
+| **RideNow Titanium** / **Pioneer Ti** | Various | — | — | Other Ti thru-axle makers to check |
+| ⚠️ **HEPPE "titanium"** | Various | 26-39.5g | ~US$28 | **Some listings say 6061 aluminium in titanium colour**: check the material before buying |
 | Carbon-Ti X-Lock EVO X-12 (rear) | 159mm listed in **M12×1.0**; M12×1.5 needed for the TPW hanger | **30g** (159mm, M12×1.0) | — | Established lightweight-thru-axle brand; confirm exact length against the GRP-22B hanger's recommended M12x1.5 160mm |
 | HEPPE Titanium Thru Axle (12x142) | M12x1.5 | Not published | — | Titanium-specific option; same caveat on confirming length |
 | Generic Ti thru-axle sets (e.g. Sparts) | M12x1.5, various lengths | ~45.7g quoted for a front+rear **pair** in one listing, but not this exact 142x12/160mm spec | Not confirmed | Illustrative weight only — don't treat as this build's number until a 160mm-length listing is found |
+
+**Thru-axle pick (1 Oct 2026): HEXATI Ti G Line set, 97g front + rear, from US$58.** Made for the G Line, so it avoids guessing thread and length. Fallback: a generic Ti M12×1.5 ~160mm rear (~42g).
+
+🆕 *Side finding:* a newer **HEXATI Ti thru-axle rear triangle** is listed at **576g** (Fantastic4Toys), lighter than the 633g tracked. Ask Chris Yeo which version the T20 ships with.
 
 ⏳ None of these are confirmed at the exact 160mm length the GRP-22B hanger recommends — chase this down once the dropout/hanger order is placed, since axle length varies by frame and can't be guessed.
 
