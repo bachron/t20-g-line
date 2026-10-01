@@ -3,6 +3,8 @@
 **Base bike:** HEXATI T20 — titanium tri-fold 20" gravel-style folding bike, positioned as a Brompton G Line alternative.
 **Rider priorities:** general city use with a front child seat, easier low gears over top speed, weight-conscious throughout, prefers Singapore-based sellers where possible.
 **Target weight:** ~9.4-9.6kg (based on comparable full-spec quotes)
+**Carbon-Ti (1 Oct 2026):** X-Rotor SteelCarbon 3 Center Lock **140mm 86g / 160mm 98g**; X-Lock EVO thru-axles **rear 30g / front 22.5g** (buy the right thread: TPW hanger wants M12×1.5). Carbon-Ti 110×5 rings exist after all (correction), but they're 2x profiles and heavier than Lightworks. Full table in `T20_Build_Options.md`.
+
 **Accessories (1 Oct 2026):** tracked separately. **No weight or price, and not part of any build total.**
 
 | Accessory | Notes |

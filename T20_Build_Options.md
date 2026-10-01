@@ -653,6 +653,24 @@ Danish Brompton upgrade brand (brompfication.com). Titanium and alloy parts, **b
 
 ---
 
+# Carbon-Ti (Italy), added 1 Oct 2026
+
+Lightweight carbon / titanium / 7075 small parts. Prices mostly not found in this pass ("—").
+
+| Carbon-Ti part | Weight | Fits this build? | Notes |
+|---|---|---|---|
+| **X-Rotor SteelCarbon 3, 140mm Center Lock** | **86g** | ✅ Route 1 (flat 140mm) | Steel braking track on a carbon spider. 9g heavier than Ti-Parts carbon (77.3g) but a more proven brand |
+| **X-Rotor SteelCarbon 3, 160mm Center Lock** | **98g** | ✅ Routes 2-3 (160mm via adapter) | Lightest 160mm rotor tracked |
+| **X-Lock EVO X-12 rear thru-axle** | **30g** (159mm, M12×1.0) | ⏳ Thread | TPW's G Line hanger calls for **M12×1.5, ~160mm**. Carbon-Ti makes several threads: buy the M12×1.5 version. ~10g+ under a generic axle |
+| **X-Lock EVO X-12 front thru-axle** | **22.5g** (117mm, M12×1.0) | ⏳ Thread / length | Check the Silverock fork's 100×12 axle length and thread |
+| **X-CarboRing 110 × 5-arm** (incl. EVO 53/54T, and 48T outer) | 48T ≈ **90g** | ⚠️ Fits the spider, not ideal | **Correction:** Carbon-Ti does make 110×**5**-arm rings (the tracker said 4-arm only). But they're **2x outer-ring profiles**, not narrow-wide 1x, and the 48T is ~30g heavier than the Lightworks 48T (56-60g). Stay with Lightworks |
+| **X-Clamp 3** seatpost collar | ~9-11g | ❌ Likely not | Bolt-up collar for standard round seat tubes (31.8-36.9mm). The T20/G Line uses a folding-bike QR seat clamp: confirm before buying |
+| **X-Fix** chainring bolts (7075) | — | ⚠️ | For X-CarboRing; Extralite ExtraBolt (4.8g) stays the pick |
+
+*Sources (1 Oct 2026): [Carbon-Ti X-Rotor SC3 140 CL](https://www.carbon-ti.com/products/brake-disk-and-bolt-kits/x-rotor-steel-carbon-3-center-lock/x-rotor-steelcarbon-3-140-center-lock), [Carbon-Ti X-Rotor SC3 160 CL](https://www.carbon-ti.com/products/brake-disk-and-bolt-kits/x-rotor-steel-carbon-3-center-lock/x-rotor-steelcarbon-3-160-center-lock), [Carbon-Ti X-Lock EVO rear 159mm](https://www.carbon-ti.com/products/axles-and-quick-releases/x-lock-evo-12-mm-rear/x-lock-evo-12x1-0-x-12-159-mm), [Carbon-Ti X-Lock EVO front 117mm](https://www.carbon-ti.com/products/axles-and-quick-releases/x-lock-evo-12-15-mm-front/x-lock-evo-12x1-0-x-12-117-mm), [Carbon-Ti X-CarboRing EVO 54×110 5-arm](https://www.carbon-ti.com/products/chainrings/x-carboring-road-chainrings/x-carboring-evo-54-x-110-5-arms), [Amazon X-CarboRing 110×5 48T](https://www.amazon.com/Carbon-Ti-Chainring-X-CarboRing-110x5-Outer/dp/B081YS3Z99), [BikeOnline X-Clamp 3](https://bikeonline.it/en/seatclamps/17742-carbon-ti-x-clamp-3-seatclamp-from-94g.html).*
+
+---
+
 # Accessories (not in build weight or cost)
 
 | Accessory | Notes |
@@ -805,7 +823,7 @@ Taiwanese Brompton upgrade specialist (minimods.com.tw). ⚠️ **Most of their 
 | Option | Weight (140mm) | Notes |
 |---|---|---|
 | **Ti-Parts carbon aero rotor** | **77.3g** | Lightest tracked; centre-lock available |
-| **Carbon-Ti X-Rotor SteelCarbon 3** | **86g** | Centre-lock, well-proven brand |
+| **Carbon-Ti X-Rotor SteelCarbon 3** | **86g** (160mm CL: **98g**) | Centre-lock, well-proven brand. 160mm version for the adapter routes |
 | **Hassns carbon floating** `[8.3kg ref]` | — | Used on the 8.3kg build; centre-lock |
 | **TRP/Brompton stock 140mm CL** | — | Baseline |
 
@@ -1149,7 +1167,7 @@ This is a separate, cheaper part from the frame-order dropout decision above: th
 
 | Option | Length/thread | Weight | Price | Notes |
 |---|---|---|---|---|
-| Carbon-Ti X-Lock (rear, 142x12) | M12x1.5, 142x12 | Not published for the 160mm length this build needs | — | Established lightweight-thru-axle brand; confirm exact length against the GRP-22B hanger's recommended M12x1.5 160mm |
+| Carbon-Ti X-Lock EVO X-12 (rear) | 159mm listed in **M12×1.0**; M12×1.5 needed for the TPW hanger | **30g** (159mm, M12×1.0) | — | Established lightweight-thru-axle brand; confirm exact length against the GRP-22B hanger's recommended M12x1.5 160mm |
 | HEPPE Titanium Thru Axle (12x142) | M12x1.5 | Not published | — | Titanium-specific option; same caveat on confirming length |
 | Generic Ti thru-axle sets (e.g. Sparts) | M12x1.5, various lengths | ~45.7g quoted for a front+rear **pair** in one listing, but not this exact 142x12/160mm spec | Not confirmed | Illustrative weight only — don't treat as this build's number until a 160mm-length listing is found |
 
