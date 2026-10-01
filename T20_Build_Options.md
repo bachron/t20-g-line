@@ -166,6 +166,9 @@ With the 11-50T cassette on 20×2.0 tyres (~506mm wheel):
 | Option | Weight | Notes |
 |---|---|---|
 | ✅ **Nuton Cycling null¹ MTB 12S/HG 11-50T** | **286g** (official; 11-46T 275g). ¥28,600 | Locked in. HG freehub retained |
+| 🆕 **Sixweel 12sp EVO Titanium** (road) | **118-136g** | ~US$1,670 | **Lightest cassette tracked.** Road range only (max ~34T). HG 11s road freehub |
+| 🆕 **Sixweel 12sp EVO Steel 11-30T / 11-34T** (road) | 178g / 188g | ~US$450 | Steel + alloy. Road range |
+| 🆕 **Sixweel 12sp 11-30T / 11-33T / 11-34T** (road) | 199g / 209g / 189g | ~US$360-390; **SG stock at Chapter2Cycle** | HG 11s road freehub. For **Shimano 12sp road or SRAM 12sp AXS road** RDs (e.g. Force/Red AXS D1). ⚠️ Max 34T: low gear **1.41:1** with 48T, ~1.18 with a 40T ring. Not for the planned MTB-range setup |
 | **Nuton null¹ 11-46T** (HG) | **275g** | Same family, 11g lighter; 46T max works with shorter-cage RDs. Low gear 1.04 with 48T |
 | 🆕 **Garbaruk 12sp Gravel 10-44T** (XD/XDR) | **280g** | €260 MSRP | **Lightest 10-44 found.** Alternative to SRAM XPLR for the Force XPLR option |
 | 🆕 **SRAM XPLR XG-1271 10-44T** (Force level, XDR) | not found (lighter than XG-1251: alloy 44T cog) | — | Matches **Force XPLR AXS 12sp**. Cogs 10-11-13-15-17-19-21-24-28-32-38-44 |
