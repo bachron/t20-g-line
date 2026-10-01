@@ -3,6 +3,12 @@
 **Base bike:** HEXATI T20 — titanium tri-fold 20" gravel-style folding bike, positioned as a Brompton G Line alternative.
 **Rider priorities:** general city use with a front child seat, easier low gears over top speed, weight-conscious throughout, prefers Singapore-based sellers where possible.
 **Target weight:** ~9.4-9.6kg (based on comparable full-spec quotes)
+**Accessories (1 Oct 2026):** tracked separately. **No weight or price, and not part of any build total.**
+
+| Accessory | Notes |
+|---|---|
+| **Ortlieb Trunk-Bag RC** | Rear rack trunk bag. Seen on a Brompton P Line rack (r/Brompton, Oct 2026). ⏳ Check it mounts on the TPW Ti G Line rack and clears the fold and rack rollers |
+
 **Tubes (29 Sep 2026), in every build:** Tubolito S-Tubo BMX 20" TPU, **39g each** (~US$38). Saves ~120-160g vs butyl. Confirm it covers the 50mm Conti tyre, otherwise use Tubolito Tubo-BMX 1.50-2.50.
 
 **Rolling and fold kit (28 Sep 2026), in every build:** MiniMODs Single Spoke 70mm frame rollers (85g), Ridea 80mm rack rollers (98g), MiniMODs X-Roller G Line extender and G Line front axle hook. ~238g, ~S$349. Brand survey (70/75/80mm) in `T20_Build_Options.md`.

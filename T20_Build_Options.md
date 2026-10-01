@@ -650,6 +650,14 @@ Danish Brompton upgrade brand (brompfication.com). Titanium and alloy parts, **b
 
 ---
 
+# Accessories (not in build weight or cost)
+
+| Accessory | Notes |
+|---|---|
+| **Ortlieb Trunk-Bag RC** | Rear rack trunk bag. Spotted on a Brompton P Line rack (r/Brompton). ⏳ Confirm it mounts on the TPW Ti G Line rack, and that it doesn't block the fold or the 80mm rack rollers. Weight and price deliberately not tracked (user, 1 Oct 2026) |
+
+---
+
 # Roller / easy wheels (70 / 75 / 80mm), added 28 Sep 2026
 
 **G Line layout (Brompton spec):** **70mm** rollers on the **frame** (and front of the rack); **80mm** on the **rear of the rack**. 75mm is the common aftermarket middle size. The T20 is a G Line clone, so the same sizes apply. **In the build:** MiniMODs 70mm (frame) + Ridea 80mm (rack) + MiniMODs X-Roller extender + axle hook (see `T20_Build_Comparison.md` §3b).
