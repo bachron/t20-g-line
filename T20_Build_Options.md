@@ -719,6 +719,34 @@ Lightweight carbon / titanium / 7075 small parts. Prices mostly not found in thi
 | London Craftwork "Stylish" 80mm | — | — | |
 | Aceoffix 90mm | 129g | DinoKiddo | Oversize option |
 
+### 🆕 Lightweight 80mm and other sizes, weight first (2 Oct 2026)
+
+| # | Wheel (pair) | Size | Weight | Price | Popularity | Notes |
+|---|---|---|---|---|---|---|
+| 1 | **ACE super lightweight + Ti bolts** | 60mm | **~45g** | Amazon / London Craftwork | Medium | Lightest overall, but small: rolls worse with a loaded G Line |
+| 2 | **EasyTi titanium** | 66mm | ~50g | eBay | Low | Ti body |
+| 3 | **Aceoffix 80mm** (AL7075, hollow) | **80mm** | **~50g** (listing unclear: per wheel or pair) | Amazon / DinoKiddo | Medium | **Possibly the lightest 80mm.** Confirm per-pair weight and G Line fit |
+| 4 | H&H 70mm | 70mm | 72g | — | Medium | Lightest documented 70mm |
+| 5 | MiniMODs Single Spoke 70mm (in build) | 70mm | 85g | US$59.50 | **High** | |
+| 6 | ✅ **Ridea EW2 80mm** (in build) | **80mm** | **98g** | US$99.50 | **High** | **Lightest 80mm with a clear weight** |
+| 7 | tibicycles titanium 65mm (Ti bolts, 4 bearings) | 65mm | 104g | tibicycles | Low | |
+| 8 | 52Cycle Sakura / Snow 75mm | 75mm | 104g / 110g | ~US$98 | Medium | |
+| 9 | Generic aluminium 80mm (steel bolts) | 80mm | ~114g | Amazon | Medium | Lists G Line fit |
+| 10 | **tibicycles titanium 80mm** (Ti bolts, bearings) | 80mm | 149g | tibicycles | Low | Full Ti; heavier than alloy |
+
+**Weight-first read:** for the **80mm** rack position, Ridea (98g) is the lightest confirmed; **Aceoffix 80mm may be ~50g**, worth checking before buying.
+
+### 🆕 Easy-wheel extenders (G Line)
+
+| Extender | Fits | Weight | Price | Popularity | Notes |
+|---|---|---|---|---|---|
+| ✅ **MiniMODs X-Roller, G Line** | G Line | **114.59g** (published; build estimate corrected from ~40g) | US$33.50 | **High** (widely stocked) | AL7075 CNC rod + brackets. The only G Line-specific extender found |
+| H&H easy wheel extender | **A/C Line** only | — | — | Medium | Not G Line |
+| MiniMODs extender A/C, C/P/T | Classic Bromptons | — | — | High | Not G Line |
+| Generic Ti easy-wheel extender (eBay) | Classic Brompton frames | — | eBay | Low | Not G Line |
+
+*Sources (2 Oct 2026): [Valeria's MiniMODs G Line X-Roller (114.59g)](https://valeriasbikeaccessories.com/en/inicio/974-g-line-x-roller-easywheel-extender-minimods.html), [Brompton Kitchen H&H extender A/C](https://bromptonkitchen.com/en-us/products/h-h-easy-wheel-extender-a-c-line), [Amazon ACE lightweight](https://www.amazon.com/Super-Lightweight-Wheels-Titanium-BROMPTON/dp/B079W3YYGK), [Amazon 80mm generic](https://www.amazon.com/Wheels-Brompton-Folding-easywheel-diameter/dp/B0CML8ZZ5H), [tibicycles Ti 80mm](https://tibicycles.com/products/titanium-eazy-wheels-and-bolt-suit-for-brompton), [tibicycles black Ti wheels](https://tibicycles.com/products/black-titanium-eazy-wheels-and-bolt-suit-for-brompton).*
+
 ### Premium / exotic
 
 | Option | Weight | Price | Notes |
@@ -1037,6 +1065,23 @@ Your rear triangle is a HEXATI part, so neither Brompton platform's rack is guar
 | **Ti Parts Workshop Titanium Rack** | **G Line** | **328g**, all titanium | — |
 
 *Spread is 170-328g, so which platform your frame matches is worth ~160g. Ask Chris Yeo before ordering.*
+
+### 🆕 G Line rear racks, weight first (2 Oct 2026)
+
+**Popularity** is my judgement from how widely each is stocked and discussed (High / Medium / Low), not sales data. **Load:** your rear child seat mounts on the **seatpost**, not the rack, so the rack only carries a bag.
+
+| # | Rack | Fits | Weight | Max load | Price | Popularity | Notes |
+|---|---|---|---|---|---|---|---|
+| 1 | ✅ **HEXATI Ti rear rack** | P / T / **G Line** | **240g** | not published | **US$132.50** (Fantastic4Toys) | Medium | **Lightest G Line rack found. Now the pick** (was TPW). Same maker as the T20. ⏳ Confirm load rating and roller-wheel mounts |
+| 2 | **Ti Parts Workshop Ti rack, G Line** | **G Line** | 328g | not published ("fully supports the G Line") | — | Medium | All titanium. Well-known Ti brand |
+| 3 | **Brompton G Line Advance Roller Rack** (OEM) | **G Line** | ~450g | **10kg** (Brompton) | — | **High** | Genuine part; **only one with a published load rating**. Takes the 80mm rollers as designed. **The high-load-safe choice** |
+| 4 | **Titanium-DX rear rack, G Line** | **G Line** | — | — | eBay | Low | Same maker as the Ti-DX triangle/fork set |
+| — | Ti "standard" rack (tibicycles) | A/C/P/T (classic) | 313g | **50kg claimed** | — | Low | **Highest load claim found**, but a classic-Brompton rack, not G Line. Treat 50kg sceptically |
+| — | H&H Ti V5 / Q Mini | P/T, A/C/P/T | 250-259g / ~170g | 10kg (V5) | ~US$89-169 | Medium | Not G Line |
+
+**High-load pick:** Brompton's own G Line Advance Roller Rack (**10kg, published**). None of the titanium G Line racks publish a load rating; ask HEXATI or TPW before carrying heavy shopping.
+
+*Sources (2 Oct 2026): [Fantastic4Toys HEXATI Ti rack](https://www.fantastic4toys.com/products/hexati-titanium-rack-for-brompton-bicycle), [Fantastic4Toys TPW G Line rack](https://www.fantastic4toys.com/products/ti-parts-titanium-rear-rack-for-brompton-bicycle-g-line), [Brompton G Line roller rack kit](https://us.brompton.com/p/1380/roller-rack-and-mudguard-pack-for-g-line), [Brilliant Bikes G Line rack frame](https://brilliantbikes.co.uk/brompton-g-line-rear-racks-and-rack-spares/6656-brompton-g-line-advance-roller-rack-frame-assembly.html), [Brompton load guidance](https://www.brompton.com/s/article/What-Is-The-Recommended-Maximum-Rider-Weight-And-The-Recommended-Maximum-Load), [Titanium-DX G Line rack (eBay)](https://www.ebay.com/itm/136418330173), [tibicycles Ti standard rack](https://tibicycles.com/products/titanium-rear-rack-for-brompton).*
 
 ---
 
