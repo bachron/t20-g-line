@@ -186,6 +186,8 @@ With the 11-50T cassette on 20×2.0 tyres (~506mm wheel):
 | Option | Weight | Notes |
 |---|---|---|
 | **SMC PLUME-406-DW2 carbon** | **945-1,045g (RHET)** / 1,025-1,130g (Hubsmith R027), ±20g | Current candidate. SMC publishes both hubs: **RHET is ~80-85g lighter than Hubsmith R027** on the same rim. Offered in 100/142×12 thru-axle, which SMC recommends for G Line. Thru-axles not included. Lightest is the C22-25 clincher rim (945g); the T22-30 tubeless rim is 1,045g |
+| 🆕 **Light Bicycle Moto G1** carbon rim, 406 (custom build) | **330g per rim**; wheelset ~1,100-1,200g est. ★ (2 rims + light 100/142 hubs + spokes) | Toray T700/800, **18mm internal / 25mm external, 38mm deep**, clincher. Light Bicycle builds fully custom wheels, so you pick the hub (e.g. their PACE+ hubs, 100×12 / 142×12) and freehub (HG/XD/XDR). ⚠️ These are BMX rims: **heavier than the SMC Plume DW2 (945-1,045g)**. Price not found |
+| 🆕 **Light Bicycle Moto G3** carbon rim, 406 (custom build) | **350g per rim**; wheelset ~1,150-1,250g est. ★ | 25mm internal / 32mm external, 32mm deep, **hookless**. ⚠️ Hookless needs a tyre rated for hookless rims: check the Conti Contact Urban before choosing. Wider rim suits 2.0" tyres |
 | **Wheel Angel × Extralite** | **675g/pair (±2%)** | ⚠️ **Likely 349mm, not 406mm** — verify size before getting excited |
 | **Wheel Angel carbon** `[8.3kg ref]` | **1,090g/set** | The 8.3kg build's wheelset. **This is where his biggest saving came from** — wheels + tyres + derailleur swap was over 2kg |
 

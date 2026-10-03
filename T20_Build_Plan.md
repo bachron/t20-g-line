@@ -281,6 +281,7 @@ Spider is **110 BCD, 5-arm** — rings must be 110 BCD **5-bolt**.
 
 | Part | Decision | Status |
 |---|---|---|
+| 🆕 Wheelset alt. | **Light Bicycle** custom 406 carbon (Moto G1 330g / G3 350g per rim) | Custom hub/freehub choice, well-known brand. Wheelset est. ~1,100-1,250g, **heavier than the SMC Plume DW2**. G3 is hookless: check the tyre |
 | Wheelset | SMC PLUME-406-DW2 carbon wheelset (406mm) | ⏳ **945-1,045g with RHET hubs**, 1,025-1,130g with Hubsmith R027 (SMC, ±20g). **RHET is ~80-85g lighter.** 100/142×12 available; thru-axles not included |
 | Tyre | Continental Contact Urban 50-406 (20×2.0) | ✅ Locked in — **430g each / 860g pair** (manufacturer) |
 | `[8.3kg ref]` Wheelset | Wheel Angel carbon, **1,090g/set** | Reference target |
