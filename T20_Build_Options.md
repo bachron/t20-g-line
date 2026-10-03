@@ -900,6 +900,9 @@ Taiwanese Brompton upgrade specialist (minimods.com.tw). ⚠️ **Most of their 
 |---|---|---|---|---|
 | **Schmolke MTB Flatbar TLO** `[8.3kg ref]` | **65-105g** | 31.8mm | €280-375 (~S$412-551) | Used on the 8.3kg build |
 | **Darimo Carbon Superlight** | 79-98g | 31.8mm | ~€159 (~S$233) | ✅ Best carbon value |
+| 🆕 **SMC Plume Carbon PL0** (flat) | ⏳ not published | 31.8mm, 22.2mm grip | **S$240** (Happy Owl Cycle SG, official distributor) | ✅ Sold **for G/T/P Line**. 580 / 640mm wide, 0mm rise, 7° back, 0° up. **SG stock.** Same brand as the SMC Plume wheelset. Ask Happy Owl for the weight |
+| 🆕 **SMC Plume Carbon PL30** (30mm rise) | ⏳ not published | 31.8mm, 22.2mm grip | **S$240** (Happy Owl) | ✅ 580 / 640mm, **30mm rise**, 9° back, 4° up. More upright: good with the front child seat and Ergon bar ends |
+| 🆕 **SMC Plume Carbon PL70** (70mm rise) | ⏳ not published | 31.8mm, 22.2mm grip | **S$240** (Happy Owl) | ✅ 580mm only, **70mm rise**, 9° back, 4° up. Most upright and comfortable. ⚠️ Check the higher bar still clears the Yepp Mini front seat and the fold |
 | **Ridea Carbon HB HS3C** | 90g | 31.8mm | — | ✅ SG-available |
 | **Ridea Carbon PHB HS1C** | 115g | 31.8mm, 580mm | — | ✅ SG-available |
 | **WOOdman SL Carbon Handlebar** | — | 31.8mm | ~US$145 (~S$189) | ✅ **Sold explicitly as a G Line part**; same brand as your seatpost |

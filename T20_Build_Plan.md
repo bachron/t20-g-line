@@ -341,6 +341,7 @@ Must be flat/MTB bar to suit the XT M8100 flat-bar shifter.
 |---|---|---|---|---|
 | Schmolke Carbon MTB Flatbar TLO `[8.3kg ref]` | 65-105g | 31.8mm (25.4mm also made) | €280-375 (~S$412-551) | Lightest tracked |
 | Darimo Carbon Superlight | 79-98g | 31.8mm | ~€159 (~S$233) | Best carbon value |
+| 🆕 SMC Plume Carbon PL0 / PL30 / PL70 | ⏳ not published | 31.8mm | **S$240** (Happy Owl Cycle SG) | Made for G/T/P Line. 0 / 30 / 70mm rise; 580 or 640mm (PL70 580 only). SG stock. Rise options suit upright riding with the child seat. Get the weight before choosing |
 | Ridea Carbon HB HS3C | 90g | 31.8mm | — | SG-available |
 | Ridea Carbon PHB HS1C | 115g | 31.8mm, 580mm | — | SG-available |
 | WOOdman SL Carbon | — | 31.8mm | ~US$145 (~S$189) | **Sold as a G Line part**; same brand as your seatpost |
