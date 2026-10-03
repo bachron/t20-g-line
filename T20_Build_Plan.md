@@ -98,6 +98,8 @@ Weights are arms + spindle, 170mm where published.
 
 | Option | Weight | Chainring interface | Price | Notes |
 |---|---|---|---|---|
+| 🆕 EliLee X-Novanta | **274g** | EliLee spider | ~US$606 | Lightest crank tracked. Needs a DUB/24mm-type BB and EliLee's own spider/ring (Lightworks spider wouldn't carry over) |
+| 🆕 EliLee X310 | 310g | EliLee spider | ~US$436-699 | Alloy DUB or Ti 24mm spindle |
 | THM Clavicula M3 | **293-302g** | Proprietary THM spider | ~€641+ (2017 list) | Only crank lighter than the Doon, by ~40g. ⚠️ Proprietary spider; 54T availability unverified |
 | ✅ **Praxis Doon** | **~335-342g/pair** | 110 BCD via Lightworks spider | — | **Chosen. 2nd lightest tracked, best value by far** |
 | e*thirteen XCX Race Carbon | <360g (no ring) | ⚠️ Direct mount only | — | ❌ e13 UL rings are MTB sizes (~30-38T) — **no 54T** |
@@ -325,6 +327,8 @@ Spider is **110 BCD, 5-arm** — rings must be 110 BCD **5-bolt**.
 | Berk Composites Lupina | 75-79g (3K carbon) / 95-104g (padded) | €319-395 (~S$469-581) | Padded version for city use |
 | Selle Italia SLR Boost Tekno Superflow | 96g | ~US$530 (~S$689) | Full carbon, easy to source. Poor value |
 | Selle Italia SLR Boost (CarboKeramic) | 122-129g | Not confirmed | Padded, far comfier, still light — worth pricing |
+| 🆕 ELITA ONE carbon | 89-130g | — | Light carbon, thin padding |
+| 🆕 Selle San Marco Aspide Carbon FX | 142-150g | ~US$229.90 | Pebax foam, carbon X-base |
 | ⭐ Tioga Spyder Stratum | 124g (carbon rails) | ~US$164-195 (~S$213-254) | Suspended shell, good comfort-per-gram. Best value |
 | Brooks Cambium C13 (carbon rails) | 259-301g | ~US$220 (~S$286); sale ~S$130 | Lightest Brooks, ~150g heavier than everything above |
 | 3D-printed: Prologo Nago R4 3DMSS | ~146-149g | — | Lightest 3D saddle; long nose |

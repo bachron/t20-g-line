@@ -65,6 +65,8 @@ Weights are **arms + spindle**, 170mm where published.
 
 | Option | Weight | Spindle | Chainring interface | Price | Notes |
 |---|---|---|---|---|---|
+| 🆕 **EliLee X-Novanta** (full carbon) | **274g** | EliLee spindle (not M30) | **EliLee proprietary spider** | ~US$606 | **Lightest crank tracked**, ~60-70g under the Doon. ⚠️ Needs a matching BB (not the Praxis M30 BSA) and EliLee's own spider/ring, so the Lightworks spider + ring go. Check a 48T 1x ring exists for it |
+| 🆕 **EliLee X310** | 310g (arms + spindle) | Alloy **DUB** or **Ti 24mm** | EliLee proprietary spider | ~US$436-699 | 25-32g under the Doon. Same BB/spider caveats. 155-172.5mm lengths |
 | **THM Clavicula M3** | **293-302g** | 30mm | Proprietary THM spider | ~€641+ (2017 list; expect far higher now) | **Only crank lighter than your Doon**, by ~40g. ⚠️ Proprietary spider — you'd abandon the Lightworks spider, and THM 54T availability is **unverified** |
 | ✅ **Praxis Doon** | **~335-342g/pair** | Alloy M30-THRU | 110 BCD via Lightworks spider | — | **Chosen. 2nd lightest of everything tracked and by far the best value** |
 | **e*thirteen XCX Race Carbon** | **<360g** (no ring); ~398g w/ 38T | 30mm (BSA/T47/PF30/BB86/BB30) | ⚠️ **Direct mount only** — e13 UL rings | — | ❌ **Rules itself out: e13's UL DM rings are MTB sizes (~30-38T). No 54T, no 110 BCD spider option** |
@@ -877,6 +879,8 @@ Taiwanese Brompton upgrade specialist (minimods.com.tw). ⚠️ **Most of their 
 | **Berk Composites Lupina** | 75-79g (3K carbon) / 95-104g (padded) | €319-395 (~S$469-581) | Padded version is the realistic city choice |
 | **Selle Italia SLR Boost Tekno Superflow** | 96g | ~US$530 (~S$689) | Poor value at this price |
 | **Selle Italia SLR Boost** (CarboKeramic) | 122-129g | Not confirmed | Padded, far comfier — **best-value candidate, worth pricing** |
+| 🆕 **ELITA ONE carbon saddles** | **89-130g** (96g leather-covered padded model) | — | Chinese carbon brand, popular with weight weenies. Light, thin padding |
+| 🆕 **Selle San Marco Aspide Carbon FX** | 142-150g (by width: 132mm 142g, S2 145g, L2 150g) | ~US$229.90 | X-shaped carbon base, Pebax foam (40% lighter than EVA). Open-Fit cut-out version available |
 | ⭐ **Tioga Spyder Stratum** | 124g (carbon rails) | ~US$164-195 (~S$213-254) | Suspended shell, good comfort-per-gram. **Best value** |
 | **Brooks Cambium C13** | 259-301g | ~US$220 (~S$286); sale ~S$130 | Lightest Brooks, still ~150g heavier than everything above. Comfort pick, not a weight pick |
 
