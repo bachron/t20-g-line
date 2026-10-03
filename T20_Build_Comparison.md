@@ -9,6 +9,7 @@
 | **T20-A: complete bike** | The whole T20 from Chris Yeo, **Shimano 105 groupset**, S$2,900 (your figure) | Most components, following the parts plan. Frame, frame hardware, headset and fork are kept; stock parts are sold |
 | **T20-B: frame only** | T20 Ti frameset from Chris Yeo, unassembled (S$2,900 incl. Ti stem) | Everything: all parts bought separately |
 | **G1 / G2: used G Line** | Used Brompton G Line, **main frame kept** | Everything except the main frame. G1 and G2 differ in the rear end (§6) |
+| 🆕 **L: Leggero GT Voyager** | Complete bike with a **titanium stem** (your figures: **~10kg, under S$6,000**) | Stock for now; not yet costed part by part (§6b) |
 
 > ✅ **Nothing has been bought yet (confirmed 25 Sep 2026).**
 >
@@ -203,6 +204,22 @@ G Line layout (Brompton's own spec): **70mm roller wheels on the frame** (and fr
 - A used frame has unknown history. Check the hinge and main tube for damage and corrosion.
 - **Stock G Line is a hub-gear bike** (Shimano Alfine 8, 135mm QR rear). Going derailleur means the Ti triangle swap (G1/G2) or a TPW GRP-21B hanger. The 8.3kg reference build shows the conversion works.
 - ⚠️ **Unconfirmed:** that a Ti stem made for the G Line pattern is available to buy. The HEXATI Ti stem should fit, since the T20 clones the G Line, but confirm it with Chris Yeo. G2's Titanium-DX triangle axle spec is also unconfirmed.
+
+---
+
+## 6b. Leggero GT Voyager (added 3 Oct 2026)
+
+**Your figures:** complete bike **~10kg**, **under S$6,000**. Comes with a **titanium stem**; JackBikeSG sells that Ti stem for **S$900**.
+
+| | Leggero GT Voyager (stock) | Compared with the T20 builds |
+|---|---|---|
+| Weight | ~10kg | **~1-1.5kg heavier** than T20-A/B (~8.5-9.0kg after the parts plan) |
+| Cost | < S$6,000 | Similar to T20-A's net cost (~S$5,500-6,900), but stock parts, not your chosen ones |
+| Ti stem | Included (S$900 if bought separately at JackBikeSG) | The T20 bundle's Ti stem is a ~S$500 step over carbon |
+
+⏳ **Not found online** (searched 3 Oct): no published spec for the GT Voyager. To compare it properly, collect: **frame material, wheel size (406 or 451), fork, drivetrain, brakes and mount type, axle standard, and whether G Line parts fit** (if it does, most of §3 carries over). Leggero's other models in SG are aluminium/chromoly trifolds; the Ti stem suggests a premium version.
+
+**First read:** at ~10kg stock it starts heavier than where the T20 builds finish, for similar money. It's worth it if you want a complete bike now with little work; the T20 wins on weight.
 
 ---
 

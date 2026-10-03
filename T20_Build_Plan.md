@@ -7,6 +7,8 @@
 
 **Carbon-Ti (1 Oct 2026):** X-Rotor SteelCarbon 3 Center Lock **140mm 86g / 160mm 98g**; X-Lock EVO thru-axles **rear 30g / front 22.5g** (buy the right thread: TPW hanger wants M12×1.5). Carbon-Ti 110×5 rings exist after all (correction), but they're 2x profiles and heavier than Lightworks. Full table in `T20_Build_Options.md`.
 
+**Leggero GT Voyager (3 Oct 2026):** added as build **L** in `T20_Build_Comparison.md` §6b. Your figures: ~10kg complete, under S$6,000, titanium stem included (S$900 separately at JackBikeSG). Specs not found online; frame material, wheel size and G Line part compatibility still needed.
+
 **Rack (2 Oct 2026): HEXATI Ti rack, 240g, US$132.50, now the pick** (was TPW 328g). For **high load**, Brompton's G Line Advance Roller Rack is the only one with a published rating (**10kg**, ~450g). Child seats are seatpost/stem-mounted, so the rack only carries a bag. **Extender:** MiniMODs X-Roller G Line is **114.59g** (published), not the ~40g estimated; build totals updated. Lightweight 80mm rollers and a popularity column are in `T20_Build_Options.md`.
 
 **Accessories (1 Oct 2026):** tracked separately. **No weight or price, and not part of any build total.**
