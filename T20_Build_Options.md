@@ -65,6 +65,7 @@ Weights are **arms + spindle**, 170mm where published.
 
 | Option | Weight | Spindle | Chainring interface | Price | Notes |
 |---|---|---|---|---|---|
+| 🆕 ⭐ **EliLee X260** (carbon) | **249g weighed** (arms + spindle, **160mm**, on a Park Tool scale; thesense.life SG, Oct 2026). 170mm will be a few grams more | EliLee spindle | EliLee proprietary spider | — (ask thesense.life) | **Lightest crank tracked, ~90g under the Doon.** Fitted to a Brompton by an SG shop, so local install support exists. Same caveats as other EliLee: matching BB and EliLee spider/ring needed, Lightworks parts won't carry over. Confirm 170mm availability and a 48T 1x ring |
 | 🆕 **EliLee X-Novanta** (full carbon) | **274g** | EliLee spindle (not M30) | **EliLee proprietary spider** | ~US$606 | **Lightest crank tracked**, ~60-70g under the Doon. ⚠️ Needs a matching BB (not the Praxis M30 BSA) and EliLee's own spider/ring, so the Lightworks spider + ring go. Check a 48T 1x ring exists for it |
 | 🆕 **EliLee X310** | 310g (arms + spindle) | Alloy **DUB** or **Ti 24mm** | EliLee proprietary spider | ~US$436-699 | 25-32g under the Doon. Same BB/spider caveats. 155-172.5mm lengths |
 | **THM Clavicula M3** | **293-302g** | 30mm | Proprietary THM spider | ~€641+ (2017 list; expect far higher now) | **Only crank lighter than your Doon**, by ~40g. ⚠️ Proprietary spider — you'd abandon the Lightworks spider, and THM 54T availability is **unverified** |
