@@ -119,7 +119,7 @@ Weights are arms + spindle, 170mm where published.
 | ✅ Lightworks 1X Carbon Spider | 36g | S$250 |
 | EC-Direct Mount 2X | 42g | ~$50 |
 | Crane Creek EE-Wing 1X | 50g | ~$70 |
-| EliLee Carbon Crank Spider ⚠️ proprietary — not compatible with Praxis Doon | Not published | ~US$699-1,299 |
+| 🆕 EliLee Direct Mount Spider 110×5 carbon (EliLee cranks only) | **31g** | — |
 | THM Carbones Clavicula M3 Carbon Spider ⚠️ proprietary — not compatible with Praxis Doon | ~40g | ~€109 (~S$161) |
 
 ### Chainring — ✅ Lightworks V2 **48T** (~56-60g), decided 24 Sep 2026. *Table compares options at 54T, the earlier choice*
