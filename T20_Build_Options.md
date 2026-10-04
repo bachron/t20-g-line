@@ -26,7 +26,7 @@ See **Future Upgrade Shortlist** at the end for everything marked 🔮 in one pl
 | ✅ **Lightworks 1X Carbon Spider** | 36g (confirmed) | S$250 (sale, Elite Custom SG) | Current pick — carbon, 1X-only, lightest aftermarket spider on the market |
 | **EC-Direct Mount 2X** | 42g | ~$50 | Aluminium, works 1X or 2X |
 | **Crane Creek EE-Wing 1X** | 50g | ~$70 | Well-established weight-weenie brand |
-| **EliLee Carbon Crank Spider** | Not published | ~US$699-1,299 | ⚠️ Requires proprietary EliLee crankset — not compatible with Praxis Doon |
+| 🆕 **EliLee Direct Mount Spider, 110×5 carbon** | **31g** | — | **Lighter than the Lightworks spider (36g).** Only for EliLee cranks. Takes 110 BCD 5-bolt rings, so the **Lightworks 48T carries over**. Alloy versions: 44g (4-bolt), 49g (5-bolt) |
 | **THM Carbones Clavicula M3 Carbon Spider** | ~40g | ~€109 (~S$161) | ⚠️ Requires proprietary THM Clavicula M3 crankset — not compatible with Praxis Doon |
 | **H&H Alloy Spider** (P Line MK2 / T Line) | Not published | ~US$87 (~S$113) bare; ~US$279 (~S$363) bundled with a Lightworks carbon chainring | ⚠️ Built for Brompton square-taper/T47/T Line cranks — **not compatible with the Praxis M30 Doon**. Logged so it isn't re-researched |
 
@@ -65,9 +65,9 @@ Weights are **arms + spindle**, 170mm where published.
 
 | Option | Weight | Spindle | Chainring interface | Price | Notes |
 |---|---|---|---|---|---|
-| 🆕 ⭐ **EliLee X260** (carbon) | **249g weighed** (arms + spindle, **160mm**, on a Park Tool scale; thesense.life SG, Oct 2026). 170mm will be a few grams more | EliLee spindle | EliLee proprietary spider | — (ask thesense.life) | **Lightest crank tracked, ~90g under the Doon.** Fitted to a Brompton by an SG shop, so local install support exists. Same caveats as other EliLee: matching BB and EliLee spider/ring needed, Lightworks parts won't carry over. Confirm 170mm availability and a 48T 1x ring |
-| 🆕 **EliLee X-Novanta** (full carbon) | **274g** | EliLee spindle (not M30) | **EliLee proprietary spider** | ~US$606 | **Lightest crank tracked**, ~60-70g under the Doon. ⚠️ Needs a matching BB (not the Praxis M30 BSA) and EliLee's own spider/ring, so the Lightworks spider + ring go. Check a 48T 1x ring exists for it |
-| 🆕 **EliLee X310** | 310g (arms + spindle) | Alloy **DUB** or **Ti 24mm** | EliLee proprietary spider | ~US$436-699 | 25-32g under the Doon. Same BB/spider caveats. 155-172.5mm lengths |
+| 🆕 ⭐ **EliLee X260 / X-Novanta (3rd gen)** (full carbon) | **255g claimed; 249g weighed** (160mm, arms + spindle, thesense.life SG). 274g on an older X-Novanta listing | **SRAM DUB 29mm** spindle | EliLee direct-mount spider | from **US$700** | **Lightest crank tracked, ~80-90g under the Doon.** Lengths **145-172.5mm (170mm available)**. Needs a **DUB BSA bottom bracket** instead of the Praxis M30 one. ✅ **Lightworks 48T 110×5 ring can carry over** on EliLee's 110×5 spider (below) |
+| 🆕 **EliLee X-Trecento** | 285g (no spider); 317g with carbon spider | DUB / 24mm | EliLee spider | — | Mid option |
+| 🆕 **EliLee X310** | 310g (arms + spindle) | Alloy **DUB** or **Ti 24mm** | EliLee spider | ~US$436-750 | 25-32g under the Doon. 145-172.5mm |
 | **THM Clavicula M3** | **293-302g** | 30mm | Proprietary THM spider | ~€641+ (2017 list; expect far higher now) | **Only crank lighter than your Doon**, by ~40g. ⚠️ Proprietary spider — you'd abandon the Lightworks spider, and THM 54T availability is **unverified** |
 | ✅ **Praxis Doon** | **~335-342g/pair** | Alloy M30-THRU | 110 BCD via Lightworks spider | — | **Chosen. 2nd lightest of everything tracked and by far the best value** |
 | **e*thirteen XCX Race Carbon** | **<360g** (no ring); ~398g w/ 38T | 30mm (BSA/T47/PF30/BB86/BB30) | ⚠️ **Direct mount only** — e13 UL rings | — | ❌ **Rules itself out: e13's UL DM rings are MTB sizes (~30-38T). No 54T, no 110 BCD spider option** |
