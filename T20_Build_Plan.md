@@ -21,6 +21,8 @@
 
 **Rolling and fold kit (28 Sep 2026), in every build:** MiniMODs Single Spoke 70mm frame rollers (85g), Ridea 80mm rack rollers (98g), MiniMODs X-Roller G Line extender and G Line front axle hook. ~238g, ~S$349. Brand survey (70/75/80mm) in `T20_Build_Options.md`.
 
+**Travel bags (5 Oct 2026):** separate list in `T20_Travel_Bags.md` (16" and 20"). **Not included in any build weight or cost.**
+
 **Tools (27 Sep 2026):** separate list in `T20_Tools.md`. **Tool costs are not included in any build cost.**
 
 **Build comparison (25 Sep 2026):** T20 vs a used G Line (main frame kept, everything else replaced) is in `T20_Build_Comparison.md`. Short version: the T20 is ~1 kg lighter for about the same money.
