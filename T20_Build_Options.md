@@ -258,7 +258,7 @@ You can pick your own hub for a custom 406 build (Light Bicycle rims, or SMC wit
 | 1 | **Extralite HyperFront / HyperRear** (+ TA12 / 142×12 kits) | 78g (+ adapter) | 159-169g + 39g conversion kit | ~**280g** ★ | Premium | Lightest on paper, but **thru-axle by conversion kit**, and Weight Weenies owners question durability. Not ideal for a child-seat bike |
 | 2 | **DT Swiss 180 EXP** | 87g claimed / 93g measured | 188-193g | **~280g** | ~US$380-420 F + US$700-780 R (~**US$1,100-1,200**) | **Lightest mainstream hub.** Ceramic bearings, Ratchet EXP, carbon shell. Very expensive |
 | 3 | **Carbon-Ti X-Hub SP** | 91g | ~189g | ~**280g** | Premium | Same weight as DT 180. Straight-pull. Same brand as your rotors and axles |
-| 4 | ⭐ **Light Bicycle Pace road hub** | ~90g | **185g** | **~275g** | Comes in an LB custom wheel (cheaper than DT) | **Best value light hub**, and LB builds the Moto G1 rims. 36T ratchet. HG/XD/XDR. A "Pace+" version is listed at ~227g/pair (⚠️ unclear which version) |
+| 4 | ⭐ **Light Bicycle Pace road hub** | ~90g | ~185-205g | **275g (XDR) / 295g (HG)** pair | Comes in an LB custom wheel (cheaper than DT); **ceramic +US$40** | **Best value light hub**, and LB builds the Moto G1 rims. 36T ratchet, 7075 alloy, tool-free service. Your Nuton cassette needs HG, so count **295g**. A "Pace+" version is listed at ~227g/pair (⚠️ unclear which version) |
 | 5 | **DT Swiss 240 EXP** | 103g | 192g (XDR) | **~295g** | ~US$600-750 set | **Best-known reliable light hub.** Ratchet EXP, easy service, parts everywhere |
 | 6 | **Tune King / Kong** | — | ~210g | ~**300g** ★ | Premium | German weight-weenie hub. 32H listings common, check 24H |
 | 7 | **DT Swiss 350** | ~110-130g ★ | 244-263g | ~370g | ~US$160 (EU) to US$310-360 R | Cheap and tough version of the 240 (same ratchet) |
@@ -266,10 +266,31 @@ You can pick your own hub for a custom 406 build (Light Bicycle rims, or SMC wit
 | 9 | **Chris King R45D** | 144g | 263g | ~407g | Premium | Longest-lasting, loud, re-serviceable. Heavy |
 | 10 | **Industry Nine Hydra** (road) | — | 272g (XD) | — | Premium | 690 engagement points; heavy for this build |
 | 11 | **Novatec D772 / 792** | — | 263-368g | — | Cheap | Budget; heavy |
-| — | **SMC RHET** (SMC's own hub) | — | — | — | In SMC wheel price | SMC wheel: **RHET 1,020g vs Hubsmith R027 1,150g** on the same rim, so **RHET is ~130g lighter**. Ceramic bearings, ratchet |
-| — | Hubsmith R027 | — | — | — | In SMC wheel price | Heavier option on SMC wheels |
+| — | ⭐ **SMC RHET** (SMC's own hub, ceramic bearings standard) | — | — | ~275g/pair on SMC's 16" Brompton Lunate wheel (straight-pull alloy shell); 406 thru-axle figure not published | In SMC wheel price | **Only sold in SMC wheels.** On SMC 406 wheels: **RHET 1,020g vs Hubsmith R027 1,150g** (T50 rim), and 945 vs 1,025g (Plume DW2), so **RHET is ~80-130g lighter**. Ratchet freehub. 100/142×12 offered |
+| — | **Hubsmith HS-R027** (Taiwan; best-known Brompton/Birdy hub brand) | R027F | R027R **214g** (excl. end caps) | ~320g ★ | In SMC wheel price; sold separately by Hubsmith dealers | 20/24/28H, **135 or 142mm**, 7075 axle, 4 sealed bearings, 3-pawl / 48-tooth freehub. **Ceramic upgrade offered** on the R027 and R001. The SMC alternative to RHET |
+| — | Hubsmith HS-R001 / R015 (road) | — | — | — | — | Other Hubsmith road hubs; ceramic option on the R001. Specs not reachable (hubsmith.com blocked) |
+| — | Hubsmith Humbird **CS406** wheelset (**CeramicSpeed** bearings) | — | — | Wheels F 554g / R 653g (1,207g) | Fantastic4Toys | ⚠️ **Birdy spec** (QR spacing), not 100/142×12. Shows Hubsmith does a CeramicSpeed hub. Mantis A406 (steel bearings) 1,280g |
 
 ★ = estimate or partial figure.
+
+### Ceramic-bearing versions (6 Oct 2026)
+
+| Hub | Ceramic version? | Cost | Notes |
+|---|---|---|---|
+| **DT Swiss 180 EXP** | ✅ **Standard** (DT SINC ceramic) | in the US$1,100-1,200 hubset price | Already ceramic |
+| **DT Swiss 240 EXP** | ✅ SINC ceramic bearing kits; 240 EXP ceramic freehub body | Bearings **from US$89.70**; ceramic XD freehub US$217 | Upgrade a standard 240 later |
+| **SMC RHET** | ✅ **Standard** | in SMC wheel price | |
+| **Hubsmith R027 / R001** | ✅ Ceramic upgrade; CeramicSpeed on Humbird CS wheels | — | |
+| **Carbon-Ti X-Hub SP** | ✅ **CeramicSpeed** option (stock is SKF steel); third-party HSC ceramic kits | — | HSC kit saves ~1-2g |
+| **Chris King R45D** | ✅ **R45D Ceramic** (King's own ceramic bearings) | Front **US$410** | Rear also sold as R45 Ceramic |
+| **Tune** (Kong / Prince CL etc.) | ✅ Ceramic (XD-15) option, lifetime warranty | — | ~1g lighter than standard |
+| **Light Bicycle Pace** | ✅ | **+US$40** | Cheapest ceramic upgrade |
+| **Bitex** | ✅ On some models (e.g. RAR13/RAF13 road); ceramic kits for others | — | Check BX106 availability |
+| Extralite Hyper | ⏳ Not found | — | |
+
+**Is ceramic worth it?** For **weight, no**: it saves ~1-2g per hub. The gains are slightly smoother rolling and **no rust**, which helps in Singapore rain. Worth it when it's cheap (LB Pace +US$40) or already included (DT 180, SMC RHET). Not worth paying hundreds for on a commuter.
+
+*Sources (6 Oct 2026): [Hubsmith HS-R027R](https://www.hubsmith.com/product/HS-R027R), [Hubsmith 2025 catalogue](https://www.hubsmith.com/catalog/hubsmith2025.pdf), [Hubsmith HS-R001R](https://www.hubsmith.com/product/HS-R001R), [Fantastic4Toys Hubsmith × CeramicSpeed CS406](https://www.fantastic4toys.com/products/hubsmith-x-ceramicspeed-cs406-limited-edition-wheelset-for-birdy-bicycle), [Fantastic4Toys Hubsmith Mantis A406](https://www.fantastic4toys.com/products/hubsmith-locust-a355-18-wheelset-for-birdy-bicycle), [SMC 406 wheelset (RHET vs Hubsmith)](https://www.smcbike.com/products/carbon-rims-wheels/20-406-carbon-rim-wheel/144-20-406-carbon-wheelset-for-birdy-bike-disc-brake.html), [Happy Owl SMC Lunate (RHET)](https://www.happyowlcycle.com.sg/product-page/lunate), [DT Swiss 240 road](https://www.dtswiss.com/en/components/hubs-and-rws/hubs-road/240), [Fanatik DT 240 EXP ceramic XD freehub](https://www.fanatikbike.com/products/dt-swiss-240-exp-ceramic-xd-freehub-body-for-12x142-148-157mm-hubs), [Chris King R45D Ceramic front](https://racycles.com/products/chris-king-r45d-centerlock-hub-front-ceramic), [Carbon-Ti X-Hub bearing kit](https://www.carbon-ti.com/products/hubs/conversion-kit/x-hub-front-bearing-kit-skf), [HSC ceramic kit for X-Hub](https://bikeonline.it/en/wheel-bearing-kits/18104-hsc-ceramic-bearing-kit-for-carbon-ti-x-hub-sp-road-rear-hub.html), [Tune Prince CL ceramic](https://www.bike24.com/p2842108.html), [Light Bicycle Pace hub](https://www.lightbicycle.com/pace-hub-36t-ratchet-system-road-cx-gravel-hub.html), [Bitex catalogue](https://www.bitexhubs.com/upload/download/683e5e7da55d9.pdf).*
 
 **Picks:**
 - **Value:** Light Bicycle **Pace** (~275g pair) in a custom LB wheel. Same weight as DT 180 for much less.
