@@ -539,3 +539,7 @@ Headline candidates, biggest saving first:
 *Lightweight-brand survey (Sep 2026) added HH Innovation (H&H), Ti Parts Workshop, MiniMODs, Aerolite, Ultralite Sports, THM, Rotor, e*thirteen, Garbaruk, EasyTi, Titanium-DX, COMEPLAY, Ridea, Silverock, WOOdman, Brooks, Berk Composites, Gelu, Selle Italia, Tioga, Darimo, Schmolke, Extralite, Growtac, Paul, TRP, Juin Tech, Yokozuna, Carbon-Ti, Hassns, HT Components, Wheel Angel, MKS and Xpedo to the tracker, and corrected every part against G Line (not A/C/P/T Line) fitment. Full detail in T20_Build_Options.md.*
 
 *Compiled from full build research and decisions to date. Minimum of 3 tracked options maintained per part where feasible; all crank arms standardized to 170mm and all chainrings to 54T where available.*
+
+---
+
+🆕 **6 Oct 2026:** ✅ **Grips: Ergon GP2 Evo confirmed** (comfort over the 12g Extralite HyperGrip). 🆕 **Aluminium 406 wheels added for consideration** (`T20_Build_Options.md` § Wheelset): best is a custom **Alienation TCS Malice (325g, tubeless, US$75-104) or Mischief (290g)** build, ~1,040-1,140g, about 100-200g over carbon; ready-made **Hubsmith Bumbee A406 for G Line, S$1,224** (16B Cycle). Carbon (SMC Plume DW2 / SUNCORD) stays the pick.

@@ -283,6 +283,42 @@ Price: 🆕 **54T black S$195 new at 16B Cycle SG** (listed 80g). **Takeaway:** 
 
 ★ = estimate. Weights exclude thru-axles, rotors, tyres and tubes.
 
+### 🆕 Aluminium 406 wheels and rims, for consideration (6 Oct 2026)
+
+Carbon (SMC Plume DW2 945g, SUNCORD 930g) stays the weight pick. Alloy is cheaper, tougher in a knock and easy to rebuild, at a weight cost of roughly 100-300g per pair.
+
+**Ready-made alloy wheelsets**
+
+| Wheelset | Weight (pair) | Axles | Price | Notes |
+|---|---|---|---|---|
+| 🆕 **Hubsmith HS-Bumbee A406 (Ratchet), for G Line** | ⏳ not published (Hubsmith's 16" Bumbee is ~1,035-1,040g) | Sold for G Line | **S$1,224** (16B Cycle SG; listed unavailable) | Welded alloy rims, Wing straight-pull aero steel spokes, ratchet freehub, ceramic upgrade option. **The only alloy wheelset found made for the G Line** |
+| 🆕 Hubsmith Locust A406 | **1,232g** (F 564 / R 668 ±20) | ⚠️ Birdy spec (QR) | **US$720** | Light for alloy, but not G Line spacing |
+| 🆕 Joseph Kuosac A18C alloy 406 | 1,261g | ❌ Rim brake | — | JK's G Line wheels listed as "coming 2025" at B-Spokes |
+| Hubsmith Mantis A406 | 1,280g | ⚠️ Birdy spec | — | |
+| 🆕 Litepro S42 aero 406 | ~1,150-1,406g | 100/135 QR, disc | budget (GoodTime Cycle, DC Bikes SG) | 42mm aero alloy |
+| 🆕 Generic 406 alloy disc (Amazon/AliExpress) | ~1,340-1,650g | QR | US$80-200 | Heavy, budget |
+| Litepro PASAK 406 | 1,600g | 100/135 QR | budget | Heavy |
+| Brompton G Line stock front wheel | ~650-700g (front only) | G Line | — | Baseline. Stock rear is a hub-gear wheel, much heavier |
+
+**Custom build: light alloy 406 rim + your hubs** (estimate: 2 rims + Light Bicycle Pace HG hubs 295g + ~48-56 spokes ~145-170g + alloy nipples ~15g)
+
+| Rim | Weight (each) | Width (int / ext) | Price (each) | Est. wheelset | Notes |
+|---|---|---|---|---|---|
+| 🆕 ⭐ **Alienation Mischief** (G69 alloy) | **290g** | BMX race | — | **~1,040-1,070g** ★ | **Lightest alloy 406 rim found.** Only ~100-125g over the SMC Plume carbon wheelset |
+| 🆕 IKON UltraLite / Etro 406 | 314g | 28mm ext | — | ~1,090-1,110g ★ | No brake track (disc only) |
+| 🆕 ⭐ **Alienation TCS Malice** | **325g** | **23 / 28.5mm** | **US$75-104** | ~1,110-1,140g ★ | **Tubeless-ready**, 28 or 36H, 6069-T6. The rim Reddit r/foldingbikes rates most for 20" builds. Wide enough for 2.0" tyres |
+| 🆕 Sun Ringle Envy Lite | 325g | BMX race | — | ~1,110-1,140g ★ | 36H |
+| 🆕 Sun Ringle Duroc 30 | 325g | 30mm | — | ~1,110-1,140g ★ | 32H |
+| 🆕 Alex DA-16 | 380g | 20×1.75 | budget | ~1,220-1,250g ★ | Double wall, cheap |
+| (Wheel Master / Weinmann HL102) | heavy | — | budget | — | 36/48H utility rims. Not a lightweight option |
+| ❌ MEGHNA 5-spoke | ~1.5kg **per wheel** | — | — | ~3kg | Kids'/budget mag wheel. Far too heavy |
+
+★ = estimate. BMX rims come in 28/32/36H; 28H front / 32H rear is plenty for a 20" disc wheel. Weights exclude axles, rotors, tyres.
+
+**Read-across:** the best alloy option is a **custom Alienation TCS Malice (tubeless, wide) or Mischief (lightest) build on your chosen hubs: ~1,040-1,140g**, about 100-200g over the carbon picks for much less money (rims ~US$75-104 each). The **Hubsmith Bumbee A406** is the only ready-made alloy G Line wheelset (S$1,224); ask 16B Cycle for its weight and stock.
+
+*Sources (6 Oct 2026): [16B Cycle Hubsmith Bumbee A406 G Line](https://www.16bcycle.com/products/hubsmith-hs-bumbee-c406-carbon-wheelset-ratchet-for-g-line-copy), [Hubsmith Locust A406](https://www.fantastic4toys.com/products/hubsmith-locust-a406-20-wheelset-for-birdy-bicycle), [Hubsmith aluminium wheels](https://www.hubsmith.com/product_catalog/Wheelset/Aluminum-Wheels), [Joseph Kuosac aluminium wheelset](https://josephkuosac.com/product/wheel-and-parts/wheelset/aluminum-wheelset/), [B-Spokes Joseph Kuosac](https://www.b-spokes.co/products/joseph-kuosac-carbon-wheelset-20-406), [Litepro S42](https://www.goodtimecycle.sg/products/litepro-s42-406-451-aero-wheelset), [Litepro PASAK](https://liteprobicycle.com/products/litepro-pasak-20-inch-406-6-nails-disc-brake-wheelset-11-12-speed-6-claws-mountain-bike-aluminum-alloy-rims-c-v-brake-cassette-wheels), [Amazon 406 alloy disc wheelset](https://www.amazon.com/Lightweight-Aluminum-Wheelset-Electric-Replacement/dp/B0B7P46YGK), [Brompton G Line front wheel](https://brilliantbikes.co.uk/brompton-g-line-wheels/6643-brompton-g-line-20-inch-front-wheel-standard.html), [Alienation TCS Malice](https://www.alienationbmx.com/portfolio/tcs-malice), [Wheelbuilder TCS Malice](https://wheelbuilder.com/alienation-tcs-malice-bmx-rim/), [Modern Bike 406 rims](https://www.modernbike.com/406-20-inch-rims), [IKON 406 rim](https://www.brgstore.com/rims/5343-ikon-alloy-20-rim-406x28-32h-no-brake-surface.html), [Modern Bike Alex 406](https://www.modernbike.com/alex_rims_406_20_bmx_20_inch_rims).*
+
 ### 🆕 16" (349) ultralight reference wheelsets: ❌ NOT compatible (6 Oct 2026)
 
 Logged at the user's request for reference. These are **16" (349) rim-brake wheels for classic A/C/P/T Line Bromptons**. They won't fit the T20 or G Line (20" / 406, disc, 100/142×12).
@@ -1321,7 +1357,7 @@ Centre-lock (CL) is what your hubs take. 6-bolt rotors need 6-bolt hubs or a CL 
 
 | Option | Weight | Price | Notes |
 |---|---|---|---|
-| ⭐ **Ergon GP2 Evo** | **230g** (S) / **~260g** (L) | ~US$44-56 (~S$57-73) | Ergonomic wing grip with integrated **2-finger bar ends**; grip and bar end independently adjustable. The comfort pick — and bar ends add a second hand position, genuinely useful on a city bike you'll ride upright with a child in front |
+| ✅ **Ergon GP2 Evo** (**DECIDED 6 Oct 2026**, user chose comfort over the 12g Extralite HyperGrip) | **230g** (S) / **~260g** (L) | ~US$44-56 (~S$57-73) | Ergonomic wing grip with integrated **2-finger bar ends**; grip and bar end independently adjustable. The comfort pick — and bar ends add a second hand position, genuinely useful on a city bike you'll ride upright with a child in front |
 | **ESI silicone foam** | ~50-60g/pair | Budget | The weight pick. ~175g lighter than the GP2 Evo, but no bar ends and check durability with a child grabbing at the bar |
 | 🆕 **Extralite HyperGrip 2025** (black) `[8.3kg ref brand]` | **12g/pair** | **S$45 new** (16B Cycle SG, Carousell; viewable at their Ubi shop) | **Lightest grip tracked by far: 218g under the GP2 Evo.** Thin foam, no bar ends, less palm support. Likely what the 8.3kg build used. Grips are always bought new (your rule), so local stock helps |
 | **Lock-on (generic lightweight)** | ~90-120g/pair | Budget-mid | Most secure clamping, middle weight, no bar ends |
