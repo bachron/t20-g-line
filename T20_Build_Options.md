@@ -145,6 +145,21 @@ With the 11-50T cassette on 20×2.0 tyres (~506mm wheel):
 
 ⚠️ **Availability:** Elite Custom SG lists the 110 BCD 48T as **sold out** (SGD 245, same price as the 54T). Check KaiCycle / Carousell or SpinWarriors (ID).
 
+### 🆕 Lightworks V2 sizes (6 Oct 2026)
+
+110 BCD 5-arm comes in **40, 42, 44, 46, 48, 50, 52, 54, 56 and 58T**, so all fit the Lightworks spider.
+
+| Size | Weight | Easiest gear on 11-50T / 11-34T (H&H 8sp) |
+|---|---|---|
+| 40T | — | 0.80 / **1.18** (the size the H&H route needs) |
+| 44T | **48-50g** | 0.88 / 1.29 |
+| 46T | **52-55g** | 0.92 / 1.35 |
+| 48T (plan) | 56-60g | 0.96 / 1.41 |
+
+Weights from the SpinWarriors / Elite Custom listings (two figures differ slightly). Elite Custom SG and SpinWarriors (ID) stock them; check which sizes are in stock.
+
+*Sources: [Elite Custom SG](https://www.elitecustom.sg/products/lightworks-1x-chainring), [SpinWarriors](https://spinwarriors.com/products/lightworks-ultralight-chainring-110bcd-5-arm), [Fantastic4Toys](https://www.fantastic4toys.com/products/lightworks-ultralight-carbon-bicycle-chainring), [Brompton Kitchen](https://bromptonkitchen.com/en-us/products/lightworks-chainring-52t).*
+
 ### 🆕 Extralite OctaPhase narrow-wide ring, 110 BCD 5-bolt (6 Oct 2026)
 
 From the user's screenshot of the Brombacher (en.brombacher.kr) listing. **Fits the Lightworks 1X spider and the EliLee 110×5 spider** (110 BCD, 5 bolts). 1x-only narrow-wide, phased teeth, CNC AL7075-T6, hard-black anodised. Works with 8-12sp chains.
