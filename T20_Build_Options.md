@@ -261,6 +261,26 @@ Price: not in the screenshot (⏳). **Takeaway:** the **lightest alloy 110×5 ri
 | **Wheel Angel × Extralite** | **675g/pair (±2%)** | ⚠️ **Likely 349mm, not 406mm** — verify size before getting excited |
 | **Wheel Angel carbon** `[8.3kg ref]` | **1,090g/set** | The 8.3kg build's wheelset. **This is where his biggest saving came from** — wheels + tyres + derailleur swap was over 2kg |
 
+### 🆕 More 406 disc wheelsets, lightest first (6 Oct 2026)
+
+| Wheelset | Weight (pair) | Axles | Notes |
+|---|---|---|---|
+| ⭐ **SMC Plume-406-DW2, RHET, C22-25 rim** (in list) | **945g ±20** | 100/142×12 | **Lightest ready-made wheelset found.** SMC's current page also lists a DW2 at 1,030g ±25 with Hubsmith ceramic hubs, 100/135 |
+| 🆕 **Custom build: SMC 406-C22-25 rims (250g each) + ~280g hubs + light spokes** | **~920-950g** ★ | Your choice | Calculated: rims 500g + DT 180 / Carbon-Ti / LB Pace hubs ~275-295g + ~48 short spokes ~130-150g + alloy nipples ~15g. About the same as the Plume DW2 RHET, so **~920g is the practical floor** unless carbon spokes become available for 406 |
+| 🆕 **SUNCORD 20" 406 carbon, for G Line** | **1,000g** | 100×12 front; rear 135 with an adapter to 142×12 | Ceramic hub. Fantastic4Toys |
+| SMC 406-DW1, T50-25 rim + RHET | 1,020g ±20 | 100/142×12 | 50mm deep |
+| 🆕 SMC Govan-406-TW3 V2 (tri-spoke) | 1,080g ±25 | 100/135 or 100/142×12 | Sold for G Line |
+| 🆕 **H&H "Gu Torq" 20" 406 carbon** | 1,090g | 142mm thru-axle rear | Made for the Brompton G Line |
+| Wheel Angel carbon `[8.3kg ref]` | 1,090g | — | The 8.3kg build's wheels |
+| Light Bicycle Moto G1 custom | ~1,100-1,200g ★ | Your choice | 330g rims (heavier than SMC's 250g) |
+| 🆕 Mortop tubeless carbon for G Line | ~1,162g | — | 16B Cycle SG |
+| 🆕 TanHo 406 carbon 38mm | ~1,193g | 100/135 QR | Budget |
+| 🆕 Ascent Cirrus Elite (Birdy) | 1,217g | Birdy | |
+| 🆕 Weapon B3 406 | ~1,270g | — | |
+| 🆕 ICAN tri-spoke 406 | 1,333g ±30 | 6-bolt | Heavy |
+
+★ = estimate. Weights exclude thru-axles, rotors, tyres and tubes.
+
 ⚠️ **Wheels and tyres are your largest remaining headroom.** The SMC Plume DW2 with RHET hubs (945-1,045g) is **lighter than the 8.3kg build's 1,090g Wheel Angel set**. RHET beats Hubsmith R027 by ~80-85g.
 
 ## Hubs (100×12 front / 142×12 rear thru-axle, disc), added 6 Oct 2026
