@@ -258,13 +258,14 @@ Price: not in the screenshot (⏳). **Takeaway:** the **lightest alloy 110×5 ri
 | **SMC PLUME-406-DW2 carbon** | **945-1,045g (RHET)** / 1,025-1,130g (Hubsmith R027), ±20g | Current candidate. SMC publishes both hubs: **RHET is ~80-85g lighter than Hubsmith R027** on the same rim. Offered in 100/142×12 thru-axle, which SMC recommends for G Line. Thru-axles not included. Lightest is the C22-25 clincher rim (945g); the T22-30 tubeless rim is 1,045g |
 | 🆕 **Light Bicycle Moto G1** carbon rim, 406 (custom build) | **330g per rim**; wheelset ~1,100-1,200g est. ★ (2 rims + light 100/142 hubs + spokes) | Toray T700/800, **18mm internal / 25mm external, 38mm deep**, clincher. Light Bicycle builds fully custom wheels, so you pick the hub (e.g. their PACE+ hubs, 100×12 / 142×12) and freehub (HG/XD/XDR). ⚠️ These are BMX rims: **heavier than the SMC Plume DW2 (945-1,045g)**. Price not found |
 | 🆕 **Light Bicycle Moto G3** carbon rim, 406 (custom build) | **350g per rim**; wheelset ~1,150-1,250g est. ★ | 25mm internal / 32mm external, 32mm deep, **hookless**. ⚠️ Hookless needs a tyre rated for hookless rims: check the Conti Contact Urban before choosing. Wider rim suits 2.0" tyres |
-| **Wheel Angel × Extralite** | **675g/pair (±2%)** | ⚠️ **Likely 349mm, not 406mm** — verify size before getting excited |
+| **Wheel Angel × Extralite** | **675g/pair (±2%)** | ❌ **Confirmed 349 (16") rim-brake, Brompton A/C/P/T only.** See the 16" reference table below |
 | **Wheel Angel carbon** `[8.3kg ref]` | **1,090g/set** | The 8.3kg build's wheelset. **This is where his biggest saving came from** — wheels + tyres + derailleur swap was over 2kg |
 
 ### 🆕 More 406 disc wheelsets, lightest first (6 Oct 2026)
 
 | Wheelset | Weight (pair) | Axles | Notes |
 |---|---|---|---|
+| 🆕 ⭐ **SUNCORD carbon-spoke carbon-rim wheelset, for G Line & Birdy** | **930g** | Front 100mm; rear **135mm**, centerlock | **Lightest 406 disc wheelset found** (15g under the Plume DW2). 18 carbon spokes front and rear, 40mm rim, ceramic-bearing hubs, 11sp freehub. **S$1,780** at KaiCycle SG (Suncord's SE Asia distributor). ⚠️ Confirm 12mm thru-axle and the 135→142×12 adapter (the other Suncord G Line wheel uses one), and freehub type (HG for the Nuton) |
 | ⭐ **SMC Plume-406-DW2, RHET, C22-25 rim** (in list) | **945g ±20** | 100/142×12 | **Lightest ready-made wheelset found.** SMC's current page also lists a DW2 at 1,030g ±25 with Hubsmith ceramic hubs, 100/135 |
 | 🆕 **Custom build: SMC 406-C22-25 rims (250g each) + ~280g hubs + light spokes** | **~920-950g** ★ | Your choice | Calculated: rims 500g + DT 180 / Carbon-Ti / LB Pace hubs ~275-295g + ~48 short spokes ~130-150g + alloy nipples ~15g. About the same as the Plume DW2 RHET, so **~920g is the practical floor** unless carbon spokes become available for 406 |
 | 🆕 **SUNCORD 20" 406 carbon, for G Line** | **1,000g** | 100×12 front; rear 135 with an adapter to 142×12 | Ceramic hub. Fantastic4Toys |
@@ -280,6 +281,26 @@ Price: not in the screenshot (⏳). **Takeaway:** the **lightest alloy 110×5 ri
 | 🆕 ICAN tri-spoke 406 | 1,333g ±30 | 6-bolt | Heavy |
 
 ★ = estimate. Weights exclude thru-axles, rotors, tyres and tubes.
+
+### 🆕 16" (349) ultralight reference wheelsets: ❌ NOT compatible (6 Oct 2026)
+
+Logged at the user's request for reference. These are **16" (349) rim-brake wheels for classic A/C/P/T Line Bromptons**. They won't fit the T20 or G Line (20" / 406, disc, 100/142×12).
+
+| Wheelset | Weight (pair) | Price | Build |
+|---|---|---|---|
+| **Extralite CyberCity 349B "Factory Special"** | **539g** (Hyper-Ceramic bearings) | **€2,252** (Extralite) · **US$2,917 pre-order** (Brombacher) | Carbon rims with moulded-in nipple seats, **Dual-lock carbon aero spokes, 20/20H**, Extralite hubs with Ø14/17mm axles and external bearing preload. Bearings: HyperCeramic, XD-15 ceramic, Enduro 440C, Enduro Abec5. A/C/P/T Line |
+| **Extralite CyberCity 349** | 558g (Hyper-Ceramic) | €1,957 | Cyber SP 2B+ hubs, carbon-titanium spokes (carbon spokes 1.6g each) |
+| **Wheel Angel × Extralite** (Singapore) | **675g** (22mm rim, 16/20H, rider <80kg) / 702g (25mm rim, rider 80-90kg) | **US$1,608-1,775** | Extralite hubs, carbon rims, Pillar Wing 20 or Sapim CX-Ray spokes. Rim brake |
+| Brombacher × Extralite rear wheel only | 434g (with rim tape) | US$635 | |
+
+**Any 20" equivalent?** **No Extralite (or Wheel Angel × Extralite) wheelset for 406 / disc / thru-axle was found.** Extralite's CyberCity line is Brompton 349 only. Why the 349 wheels are so much lighter: a smaller rim, only 16-20 spokes, rim brakes (no disc flange or rotor load) and narrow 74/112mm hubs. A 20" disc wheel has to carry braking torque through the hub and spokes.
+
+**Closest 20" equivalents (same idea: carbon spokes / Extralite-style hubs):**
+1. **SUNCORD carbon-spoke 406 wheelset, 930g, S$1,780** (KaiCycle SG). The only 406 wheelset with **carbon spokes** found. Lightest 406 disc option.
+2. **SMC Plume-406-DW2 + RHET, 945g.**
+3. **Custom: SMC 250g 406 rims + Extralite Hyper or DT 180 hubs + CX-Ray spokes, ~920-950g ★.** Wheel Angel builds custom wheels on Extralite hubs; ask whether they'll do a 406 disc build (Extralite Hyper hubs need their 12mm thru-axle kits).
+
+*Sources (6 Oct 2026): [Extralite CyberCity 349B](https://www.extralite.com/products/945/cybercity-349b), [Extralite CyberCity 349](https://www.extralite.com/products/874/cybercity-349), [Brombacher CyberCity pre-order](https://en.brombacher.kr/product/pre-order-extralite-factory-special-brompton-wheel-set-cybercity-349-a/1046/), [Wheel Angel × Extralite](https://www.wheelangel.com/en-us/products/brompton-extralite), [Fantastic4Toys Brombacher × Extralite rear](https://www.fantastic4toys.com/products/brombacher-x-extralite-light-weight-rear-wheel), [KaiCycle SUNCORD carbon-spoke 406](https://www.kaicycle.sg/products/suncord-carbon-spokes-carbon-rim-wheelset-for-birdy-lightest-on-the-market-at-930g-a-pair).*
 
 ⚠️ **Wheels and tyres are your largest remaining headroom.** The SMC Plume DW2 with RHET hubs (945-1,045g) is **lighter than the 8.3kg build's 1,090g Wheel Angel set**. RHET beats Hubsmith R027 by ~80-85g.
 
