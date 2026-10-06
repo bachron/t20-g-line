@@ -143,6 +143,8 @@ Spider is **110 BCD, 5-arm** — rings must be 110 BCD **5-bolt**.
 
 🆕 **Extralite OctaPhase alloy narrow-wide 110×5 (6 Oct):** 48T **65g** (44T 58g … 54T 79g), only ~5-9g over the Lightworks 48T carbon. **Backup if the Lightworks 48T stays sold out**, or for durability. Price ⏳. Full table in Options.
 
+🆕 **Carbon-Ti X-SingleCarbon (6 Oct):** 1x ring, 38-46T only (5 sizes), 38T 56g … 46T ~90g, €186-203.50. Can't do 48T; useful only for a 38T on the H&H route. **Lightworks V2 comes in 10 sizes (40-58T), S$245.** Master list with prices in Options.
+
 ⚠️ **Verdict: don't change the chainring.** Lightworks at 79g is the lightest 54T researched. **Correction:** Carbon-Ti's 54T is 4-arm, not 5 — cross it off as an alternative.
 
 ✅ **DECIDED (24 Sep 2026): 48T.** With the 11-50T cassette the lowest gear goes 1.08:1 → **0.96:1 (11% easier)**. Top speed at 90 rpm drops 42 → 37 km/h, which is irrelevant with a child aboard in the city. It keeps 11-speed viable (11-46T gives 1.04:1) and saves ~15-20g. ⚠️ Elite Custom SG has the 110 BCD 48T sold out. Check KaiCycle / Carousell.

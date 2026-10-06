@@ -145,13 +145,35 @@ With the 11-50T cassette on 20×2.0 tyres (~506mm wheel):
 
 ⚠️ **Availability:** Elite Custom SG lists the 110 BCD 48T as **sold out** (SGD 245, same price as the 54T). Check KaiCycle / Carousell or SpinWarriors (ID).
 
+### 🆕 Chainring master list: teeth options and prices (6 Oct 2026)
+
+All **110 BCD 5-bolt** (fit the Lightworks spider and the EliLee 110×5 spider). Lightest at your size first. Prices are new, single ring; SGD only where an SG shop lists it.
+
+| Ring | Material / profile | Teeth options (110×5) | No. of sizes | Weight near your size | Price |
+|---|---|---|---|---|---|
+| ✅ **Lightworks V2** | Full carbon, wave 1x | **40, 42, 44, 46, 48, 50, 52, 54, 56, 58T** | **10** | 44T 48-50g · 46T 52-55g · **48T 56-60g** · 54T 72-79g | **S$245** (Elite Custom SG, B-Spokes; often sold out) · ~US$149.50 (Fantastic4Toys) |
+| 🆕 **Extralite OctaPhase** | Alloy 7075, narrow-wide, phased | **44, 46, 48, 50, 52, 54T** | **6** | 44T 58g · 46T 62g · **48T 65g** · 54T 79g | **€74.79 (44T) / €82.35 (48T) / €89.92 (54T)** (r2-bike) · US$122-150 (Brombacher; black US$150, silver US$122-147) |
+| 🆕 **Carbon-Ti X-SingleCarbon** | Carbon + 7075 alloy, narrow-wide 1x, made in Italy | **38, 40, 42, 44, 46T** | **5** (max 46T) | 38T 56-57g · 40T 71g · 42T 73g · 44T 82-89g · 46T 89-91g | **€186 (38/40T) · €203.50 (42-46T)** · US$195-250 |
+| Garbaruk round narrow-wide | Alloy | 110×5 1x range (to 54T) | — | 54T 131g | **€65-73** (AERO version €92) · ~US$71 |
+| absoluteBLACK 1x Gravel Oval | Alloy, oval | Up to 52T | — | 50T 118g · 52T 133g | **US$84-94** |
+| Wolf Tooth 110 BCD 5-bolt | Alloy, Drop-Stop | 38-52T (no 54T in 5-bolt) | — | 50T 125g · 52T 143g | **US$80-130** |
+| Stone 1x narrow-wide | Alloy | 36-60T | wide | heaviest | **~US$42** (budget) |
+| Praxis | Alloy | to 46T | — | — | — |
+| Carbon-Ti X-CarboRing | Carbon, **2x outer profile** | to 54T | — | 48T ~90g | — (not a 1x ring; use X-SingleCarbon instead) |
+| ❌ Ridea LF | — | 130 BCD | — | 54T 120g | ~US$142 (won't fit) |
+
+**Read-across:**
+- **Lightworks has the most sizes (10) and is the lightest at every size it shares** with the others (44T 48-50g vs Extralite 58g vs Carbon-Ti 82-89g).
+- **Carbon-Ti X-SingleCarbon stops at 46T**, so it can't do your 48T. Its use is the **small rings**: **38T at 56-57g** is the lightest 38T found, which suits the H&H 8sp 11-34T route (38/34 = **1.12:1**). Lightworks starts at 40T.
+- **Extralite OctaPhase** is the cheapest light ring (~€82 at 48T) and alloy, if you'd rather not run carbon.
+
 ### 🆕 Lightworks V2 sizes (6 Oct 2026)
 
 110 BCD 5-arm comes in **40, 42, 44, 46, 48, 50, 52, 54, 56 and 58T**, so all fit the Lightworks spider.
 
 | Size | Weight | Easiest gear on 11-50T / 11-34T (H&H 8sp) |
 |---|---|---|
-| 40T | — | 0.80 / **1.18** (the size the H&H route needs) |
+| 40T | — | 0.80 / **1.18** (the H&H route; Carbon-Ti also does 38T at 56g → 1.12) |
 | 44T | **48-50g** | 0.88 / 1.29 |
 | 46T | **52-55g** | 0.92 / 1.35 |
 | 48T (plan) | 56-60g | 0.96 / 1.41 |
