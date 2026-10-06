@@ -1157,23 +1157,102 @@ Taiwanese Brompton upgrade specialist (minimods.com.tw). ⚠️ **Most of their 
 |---|---|---|
 | **Cane Creek eeBrake G4** | Rim | **Rim brake** (78g). Cane Creek makes no disc brake in any mount |
 
-### Levers (mechanical, flat bar)
+### 🆕 Brake system types (labels used below)
 
-| Option | Weight | Notes |
-|---|---|---|
-| ⭐ **Extralite UltraLevers 3** `[8.3kg ref]` | **22.5g each / 46g pair** | Used on the 8.3kg build. Astonishingly light |
-| **Extralite UltraLevers 2+** | 50-52g pair | Previous generation |
-| **Growtac Equal levers** | — | Designed as a system with the Equal calipers |
-| **Paul Love Levers** | — | Premium, heavier |
+- **Mechanical**: cable pulls the caliper directly. No fluid, no bleeding. Needs a lever with the **matching cable pull**.
+- **Hybrid** (cable-actuated hydraulic): cable from a normal lever drives a small hydraulic unit at the caliper. Hydraulic-like power, cable lever. Also needs matching pull.
+- **Hydraulic**: full fluid system, lever and caliper bought as a matched set (Shimano/Magura use mineral oil, SRAM/Hope DOT).
 
-### Rotors — centre-lock, **140mm** (or **160mm** with an adapter). 160mm weights not tracked yet; expect ~+15-25g per rotor ★
+⚠️ **Cable pull matters.** Road/"short-pull" calipers (Juin Tech GT-F/F1, Growtac Equal, TRP Spyre/SLC, Yokozuna Motoko, Paul Klamper SP) need **short-pull** levers. MTB/V-brake levers are **long-pull**. A long-pull lever on a short-pull caliper gives **weaker braking** (less leverage), which matters with a child seat. The Problem Solvers Travel Agent only converts the other way (short lever → long caliper), so it doesn't fix this.
 
-| Option | Weight (140mm) | Notes |
-|---|---|---|
-| **Ti-Parts carbon aero rotor** | **77.3g** | Lightest tracked; centre-lock available |
-| **Carbon-Ti X-Rotor SteelCarbon 3** | **86g** (160mm CL: **98g**) | Centre-lock, well-proven brand. 160mm version for the adapter routes |
-| **Hassns carbon floating** `[8.3kg ref]` | — | Used on the 8.3kg build; centre-lock |
-| **TRP/Brompton stock 140mm CL** | — | Baseline |
+### 🆕 Brake levers, lightest first (6 Oct 2026)
+
+Flat bar, 22.2mm unless noted. Weight per **pair**. Hydraulic levers come with their caliper (see the caliper list).
+
+| # | Lever | Type | Cable pull | Weight (pair) | Price | Fits plan's calipers? | Notes |
+|---|---|---|---|---|---|---|---|
+| 1 | **Extralite UltraLevers 3S** | Mechanical | "Short-ratio" (U-brake) ⚠️ | **41g** | — | ⚠️ Confirm with Extralite | Lightest lever. Built for U-brakes; Extralite says cable pull differs ~30% from the UL3. Ask whether it suits road-pull disc calipers |
+| 2 | ✅ **Extralite UltraLevers 3** `[8.3kg ref]` | Mechanical | **Long (V-brake)** | **46g** (22.5-23g each) | **US$218-249** | ⚠️ **Pull mismatch** with GT-F / Equal / Spyre (short pull) | Current pick. The 8.3kg build runs it with Spyre SLC, but expect less braking power than a short-pull lever |
+| 3 | KCNC VB1-7075 | Mechanical | Long (V) | ~48g (24g each) | ~US$150 | ⚠️ Long pull | |
+| 4 | Extralite UltraLevers 2+ | Mechanical | Long (V) | 50-52g | — | ⚠️ Long pull | Previous generation |
+| 5 | **Litepro Ultimate / RH1** (folding-bike) | Mechanical | ⚠️ Sold as "V-brake"; made for Brompton/folder calipers | 54g (Ultimate) / 64g (RH1) | cheap (~US$30-50) ★ | ⚠️ Check pull | Very light, cheap. Confirm pull before buying |
+| 6 | Lightweight levers for Brompton (London Craftwork) | Mechanical | Short (Brompton caliper) | 65g | — | ✅ likely | |
+| 7 | KCNC VB6 | Mechanical | Long (V) | 65g | — | ⚠️ Long pull | |
+| 8 | ⭐ **Velo Orange Grand Cru** (regular/short pull) | Mechanical | **Short** | **76g** | **US$85-88** | ✅ **Yes** (made for canti, caliper and road disc) | **Lightest confirmed short-pull flat-bar lever.** Reach adjust, barrel adjuster, fits 22.2 and 23.8mm |
+| 9 | ⭐ **H&H Lightweight Brake Lever (Brompton)** | Mechanical | **Short** (Brompton caliper) | **80-86g** | **US$141-143** | ✅ likely | Alloy body, Ti shaft and bolts. Same brand as the G Line derailleur kit |
+| 10 | Paul Love Lever (Compact / 2.5) | Mechanical | Long | ~125-137g | ~US$95-99 each | ⚠️ Long pull | Pairs with the long-pull Klamper |
+| 11 | **Dia-Compe SS-6** | Mechanical | **Short** | 151g | **US$24-33** | ✅ Yes | Cheap, proven short-pull flat-bar lever |
+| 12 | Avid FR-5 | Mechanical | Long | 155g | cheap | ⚠️ Long pull | Reach adjust |
+| 13 | Brompton OEM lever | Mechanical | Short | 158-165g | — | ✅ | Baseline |
+| 14 | Shimano BL-R780 | Mechanical | Long (V) | 170g | ~US$51 | ⚠️ Long pull | Flat-bar road lever |
+| 15 | Tektro RS360A | Mechanical | Long | 180g | ~US$25 | ⚠️ Long pull | |
+| — | Growtac Equal Control Lever | Mechanical | Short | 133g (brake-only) | US$125 | ❌ **Drop bar** | Not a flat-bar lever |
+| — | TRP RRL / Cane Creek 200TT | Mechanical | Short | ~80g | US$65-110 | ❌ Bar-end (bullhorn/TT) | Not for flat bars |
+| — | Cane Creek Flat-Top / CrossTop | Mechanical | Short | 72g | — | ❌ Drop-bar top levers | |
+| H1 | **Shimano XTR BL-M9100** | **Hydraulic** | — | 158g per side ★ | in brake set | Only with Shimano hydraulic calipers | I-SPEC EV shifter mount |
+| H2 | **Magura MT8 SL** (carbon lever) | **Hydraulic** | — | full brake 185-195g each | — | Only with Magura | |
+| H3 | **Trickstuff Piccola** | **Hydraulic** | — | **full brake 158g** each (lever + 75cm hose + caliper) | premium | Only with Trickstuff | Lightest hydraulic brake system |
+| H4 | SRAM Level Ultimate | **Hydraulic** | — | full brake 214-317g each | — | Only with SRAM | Heavy |
+
+### 🆕 Brake calipers, full list (6 Oct 2026)
+
+Weight per caliper (bare unless noted). Frames are **flat mount**; post mount needs a ~16-25g adapter and 160mm rotors.
+
+| # | Caliper | Type | Mount | Lever needed | Weight | Price | Notes |
+|---|---|---|---|---|---|---|---|
+| 1 | Shimano XTR BR-M9100 | **Hydraulic** | Post | Shimano BL-M9100 | **92g** (204g/side complete) | — | Lightest caliper, but post mount |
+| 2 | **Hope RX4+ FM** | **Hydraulic** | **Flat** | Hope-specific road hydraulic lever (Shimano or SRAM version) | **86g R / 98g F** bare; 101-119g with pads | **US$143-159 each** | 4-piston. ⚠️ Made for drop-bar hydraulic levers; check flat-bar lever pairing |
+| 3 | **Magura MT8 SL FM** | **Hydraulic** | **Flat** | Magura MT8 lever | **99g** (185-195g complete) | — | Flat-bar ready, light complete brake |
+| 4 | Shimano XTR (road flat-mount, BR-M9110) | **Hydraulic** | **Flat** | Shimano BL-M9100 | 103g | — | Lightest flat-mount Shimano |
+| 5 | Shimano Dura-Ace BR-R9270 | **Hydraulic** | **Flat** | Drop-bar STI | 110-120g | US$364 set | ❌ No flat-bar lever |
+| 6 | Shimano XT BR-M8100 | **Hydraulic** | Post | BL-M8100 | 121g | — | I-SPEC EV with the XT shifter |
+| 7 | SRAM Red AXS HRD | **Hydraulic** | **Flat** | Drop-bar AXS | 130-164g | — | ❌ No flat-bar lever |
+| 8 | Juin Tech GT-P | **Hybrid** | Post | Short pull | 133-135g | ~US$149 set | |
+| 9 | ⭐ **Juin Tech GT-F** | **Hybrid** | **Flat** | **Short pull** | **135g** | **~US$238-328 set** | 4-piston, cable-actuated. Current pick |
+| 10 | ⭐ **Growtac Equal FM** | **Mechanical** | **Flat** | **Short pull** | **136g** with pads | **US$365 set** | Best-reviewed mechanical. New Kashima version |
+| 11 | Juin Tech F1 | **Hybrid** | **Flat** | Short pull (F1-S = MTB/long pull) | 142g | KaiCycle SG | 2-piston |
+| 12 | Yokozuna Motoko FM | **Hybrid** ★ | **Flat** | Short pull | 145g | US$185-200 each | Cable-actuated hydraulic (verify) |
+| 13 | ⭐ **TRP Spyre SLC** `[8.3kg ref]` | **Mechanical** | **Flat** | Short pull | 146g | ~US$105 | Best value |
+| 14 | TRP Spyre | **Mechanical** | **Flat** | Short pull | 154g | ~US$80 | Cheapest |
+| 15 | Strummer V2 Hydro | **Hybrid** | **Flat** | Short pull | 163g with pads | ~Rp 1,000,000 set (~US$60) | Budget hybrid |
+| 16 | TRP HY/RD FM | **Hybrid** | **Flat** | Short pull | 205g | — | Heavy |
+| 17 | Paul Klamper FM | **Mechanical** | **Flat** | Short **or** long pull versions | 211g | US$208-256 each | Long-pull version would suit the Extralite UL3 |
+| — | Trickstuff Piccola | **Hydraulic** | Post (MTB) | Piccola lever | full brake 158g | premium | Lightest complete system; post mount + adapter |
+| — | TRP/Tektro (G Line stock) | **Hydraulic** | Flat | Stock | — | Stock | Baseline |
+
+### 🆕 Rotors, lightest first (6 Oct 2026)
+
+Centre-lock (CL) is what your hubs take. 6-bolt rotors need 6-bolt hubs or a CL adapter (+~15-20g). Weight per rotor; lockring usually extra (~5-10g).
+
+| # | Rotor | Mount | 140mm | 160mm | Price (each) | Notes |
+|---|---|---|---|---|---|---|
+| 1 | **Ashima Ai2** | 6-bolt | **64g** | 73-74g | from ~US$19 (r2-bike / eBay) | Lightest rotor made. Thin, can howl and wear fast. Needs a CL adapter |
+| 2 | **Trickstuff Dächle UL** | 6-bolt | 70g | 88g | **US$43 / US$49** (€59.90 MSRP) | Light and well regarded. CL adapter needed |
+| 3 | ⭐ **Ti-Parts Ultralight CL** | **CL** | **74g** (tracker had 77.3g) | **88-89g** | **US$54.50** | **Lightest centre-lock rotor**, good value. Current pick |
+| 4 | **NOW8 Centerlight** | **CL** | ~79g | 89g | **£42 / €34-46.50** (incl. lockring) | "Lightest CL rotor in the world" claim; lockring included |
+| 5 | Carbon Bike Wheels floating (AU) | **CL** | 79g | — | — | |
+| 6 | **Chaser G2** | **CL** | ~83g | ~89g | **US$51-60** | |
+| 7 | Carbon-Ti X-Rotor SteelCarbon 3 | **CL** | 86g | **98g** | **€220 / US$240-270** | Proven brand, very expensive |
+| 8 | **Shimano XTR RT-MT900** | **CL** | 90g | 107g | **US$83** | Ice-Tech, quiet, durable |
+| 9 | Galfer Shark (road, 2-piece) | **CL** | 91g | — | **US$86-105** | |
+| 10 | **Shimano RT-CL800** (Ultegra) | **CL** | 96g | — | **US$70** | Lockring included. Durable all-rounder |
+| 11 | Ti-Parts carbon "Aerotor" | CL / 6-bolt | ~105g | — | US$125 | Aero, heavier |
+| 12 | SRAM Centerline XR | **CL** | 109g | 133g | US$103-113 | |
+| 13 | SwissStop Catalyst Race | **CL** | 110g | 120g | **US$63-94** | Runs cooler; good for long descents |
+| 14 | Shimano Dura-Ace RT-CL900 | **CL** | — | 111g | US$85 | |
+| 15 | Hope Road floating | **CL** | 121g | — | US$110-118 | |
+| 16 | SRAM Paceline X | **CL** | — | 130g | US$75 | |
+| 17 | TRP-25 (2-piece) | **CL** | 134g | — | US$43-71 (no lockring) | Heavy |
+| 18 | Magura MDR-C CL | **CL** | ❌ no 140 | 175g | — | Heavy, e-bike rated |
+| — | Hassns carbon floating `[8.3kg ref]` | **CL** | — | — | ~US$17 (AliExpress) | Weight unverified; generic |
+| — | TRP/Brompton stock 140mm CL | **CL** | — | — | Stock | Baseline |
+
+**Read-across:**
+- **Rotor:** Ti-Parts Ultralight CL (74g, US$54.50) stays the pick: the lightest centre-lock rotor, and cheap. NOW8 (79g, lockring included) is the alternative. Ashima/Trickstuff are lighter but 6-bolt (adapter cancels most of the saving).
+- **Calipers:** GT-F (hybrid) and Growtac Equal (mechanical) remain the flat-mount, flat-bar picks. The lighter hydraulics either need drop-bar levers (Dura-Ace, SRAM Red, Hope) or are post mount (XTR M9100). **Magura MT8 SL FM** (99g caliper, ~190g complete) is the one light **full-hydraulic** option that's flat mount *and* flat bar.
+- **Levers:** ⚠️ The UltraLevers 3 are **long-pull**, the calipers **short-pull**. For full braking power with a child seat, use a short-pull flat-bar lever: **Velo Orange Grand Cru (76g pair, US$85)** or **H&H Brompton (80-86g pair)**. That costs ~30-40g over the UL3. Or ask Extralite whether the **UL3S** suits road-pull calipers.
+
+*Sources (6 Oct 2026): [Ti-Parts lightest 160mm rotors test](https://tipartstitanium.com/blogs/products/we-weighed-six-of-the-lightest-160mm-disc-rotors-on-the-market-heres-what-we-found), [Ti-Parts Ultralight CL](https://tipartstitanium.com/products/72g-super-lightweight-centerlock-disc-brake-rotor-140mm-160mm), [Ti-Parts Aerotor](https://tipartstitanium.com/products/carbon-fiber-aero-rotor-160mm-140mm-centerlock-6-bolts-aerotor-105g-tt-time-trail-bike-triathlon), [NOW8 Centerlight](https://www.bikester.co.uk/now8-centerlight-disc-brake-rotor-with-lockring-M721829.html), [Chaser G2](https://spartsti.com/products/chaser-disc-rotor), [Carbon Bike Wheels rotor](https://carbonbikewheels.com.au/us/product/disc-rotors-road-center-lock), [Carbon-Ti SC3 140 CL](https://www.carbon-ti.com/products/brake-disk-and-bolt-kits/x-rotor-steel-carbon-3-center-lock/x-rotor-steelcarbon-3-140-center-lock), [Ashima Ai2](https://r2-bike.com/ASHIMA-Brake-Disc-Ai2-Rotor-140-mm-black), [Trickstuff Dächle UL](https://www.fanatikbike.com/products/trickstuff-daechle-ul-disc-brake-rotor), [Galfer Shark CL](https://r2-bike.com/GALFER-Brake-Disc-Road-Disc-Shark-Center-Lock-140-mm), [Shimano RT-CL800](https://www.bike24.com/p2621816.html), [SRAM Centerline XR](https://www.competitivecyclist.com/sram-centerline-xr-rotor-centerlock), [SRAM Paceline X](https://www.sram.com/en/sram/models/rt-pln-x-a1), [SwissStop Catalyst Race 140](https://www.swissstop.ch/catalyst/family/race/centerlock/140/), [Hope Road CL](https://www.modernbike.com/hope-road-center-lock-floating-rotor-140mm---black), [TRP-25](https://www.performancebike.com/trp-25-2piece-disc-brake-rotor-centerlock-140mm-abrt000004/p1217692?v=457275), [Magura MDR-C CL](https://magura.com/product/mdr-c-cl/), [Hassns](https://www.aliexpress.us/item/3256810140816208.html), [Extralite UltraLevers 3](https://www.extralite.com/products/739/ultralevers-3), [Extralite UltraLevers 3S](https://www.extralite.com/Products/UltraLevers3S.htm), [r2-bike UL3 V-brake](https://r2-bike.com/EXTRALITE-Brake-Lever-V-Brake-UltraLevers-3-black-black), [Cycle Project UL3 price](https://www.cycleprojectstore.com/products/extralite-ultralevers-3-black-hard-anodized-lever), [KCNC VB1](https://www.bike-components.de/en/KCNC/VB1-7075-Brake-Lever-Set-p18171/), [KCNC VB6](https://www.bike24.com/p2272831.html), [Litepro RH1](https://bromptuning.com/en/products/litepro-rh3-ultra-remhendels), [Litepro Ultimate](https://thebikeatrium.com/products/litepro-ultimate-brake-lever-cnc-alloy-for-foldable-bicycles), [London Craftwork Brompton levers](https://www.londoncraftwork.co.uk/product/lightweight-brake-levers-for-brompton-65g-pair), [Velo Orange Grand Cru](https://www.clcycle.ca/en/velo-orange-grand-cru-brake-levers.html), [H&H Brompton lever](https://www.fantastic4toys.com/products/h-h-lightweight-brake-lever-for-brompton-bicycle), [Paul Love Lever](https://www.bike24.com/p2283718.html), [Dia-Compe SS-6](https://www.rivbike.com/products/dia-compe-ss-6-mtb-silver-brake-levers), [Avid FR-5](https://www.rei.com/product/751084/avid-fr-5-brake-levers), [Shimano BL-R780](https://sunshinebike.com/products/brake-lever-set-for-fhb-road-type-bl-r780-for-v-brake-w), [Tektro RS360A](https://www.performancebike.com/tektro-rs360a-linear-pull-brake-lever-set-black-abbl000720/p1637463), [Growtac Equal Control Lever](https://velo-orange.com/products/growtac-equal-shifting-control-lever), [TRP RRL](https://trpcycling.com/products/rrl-sr), [Cane Creek Flat-Top](https://www.treefortbikes.com/Cane-Creek-Flat-Top-Brake-Levers-for-Road-Cantilever), [Problem Solvers Travel Agent](https://www.incycle.com/products/problem-solvers-travel-agents), [Shimano XTR BL-M9100](https://bike.shimano.com/en-AU/product/component/xtr-m9100/BL-M9100.html), [Magura MT8 SL review](https://www.pinkbike.com/news/review-magura-mt8-sl-brakes-2020.html), [Trickstuff Piccola](https://www.bike-magazin.de/en/brakes/trickstuff-piccola-the-world-s-lightest-disc-brake-in-a-road-test/), [SRAM Level Ultimate](https://www.bikeradar.com/reviews/components/brakes/disc-brake-systems/sram-level-ultimate-brakes-review), [Hope RX4+ review](https://www.bikeradar.com/reviews/components/brakes/brake-calipers/hope-rx4-disc-calipers-review), [Hope RX4+ price](https://www.universalcycles.com/shopping/product_details.php?id=107196), [Magura MT8 SL FM caliper](https://www.bike24.com/p2318003.html), [Shimano XTR BR-M9110 flat mount](https://bike.shimano.com/en-EU/product/component/xtr-m9100/BR-M9110.html), [Dura-Ace BR-R9270](https://velo.outsideonline.com/gallery/shimano-dura-ace-r9200-and-ultegra-r8100-photos-weights-and-prices/), [SRAM Red AXS caliper](https://www.bike24.com/p2474736.html), [Juin Tech GT-F](https://www.bikesmith.de/en/p/juin-tech-gt-f-4-piston-hybrid-disk-brake-set-flat-mount-black), [Juin Tech F1](https://www.kaicycle.sg/products/juin-tech-f1-flat-mount-hydraulic-disc-brake), [Growtac Equal](https://growtac.com/eng/products/mdcs/), [Yokozuna Motoko](https://road.cc/content/review/225573-yokozuna-motoko-disc-brake), [TRP Spyre SLC](https://trpcycling.com/products/spyre-slc), [TRP HY/RD](https://www.bike24.com/p2225115.html), [Strummer V2 Hydro](https://strummerbikes.com/products/strummer-v2-hydro-mechanical), [Paul Klamper FM](https://www.modernbike.com/paul-components-klamper-flat-mount-disc-caliper-short-pull-black).*
 
 ### Recommendation — flat-mount frames (confirmed); 160mm acceptable
 

@@ -237,6 +237,8 @@ Spider is **110 BCD, 5-arm** — rings must be 110 BCD **5-bolt**.
 
 ## 3. Brakes
 
+🆕 **Full rotor (18), lever (15 + 4 hydraulic) and caliper (17) lists, labelled mechanical / hybrid / hydraulic, added 6 Oct** in `T20_Build_Options.md` § Brakes. ⚠️ **Extralite UltraLevers 3 are long-pull (V-brake); the GT-F / Equal / Spyre calipers are short-pull** — expect weaker braking. Short-pull flat-bar options: **Velo Orange Grand Cru 76g pair (US$85)**, **H&H Brompton 80-86g pair**, Dia-Compe SS-6 151g (US$24-33). Rotor pick unchanged: **Ti-Parts Ultralight CL 74g / US$54.50** (NOW8 79g alternative).
+
 ✅ **Frames are FLAT MOUNT on every build (T20 and G Line), confirmed 26 Sep 2026.** You're also open to **160mm rotors with an adapter** (26 Sep). Three routes:
 
 | Route | Caliper | Rotor | Adapter | Weight penalty vs route 1 |
