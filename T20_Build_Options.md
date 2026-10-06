@@ -210,7 +210,7 @@ From the user's screenshot of the Brombacher (en.brombacher.kr) listing. **Fits 
 | 52T | 75g | — | 1.04 / 1.53 |
 | 54T | 79g | about the same (Lightworks 54T 72-79g) | 1.08 / 1.59 |
 
-Price: 🆕 **54T black S$195 new at 16B Cycle SG** (listed 80g). **Takeaway:** the **lightest alloy 110×5 ring tracked**, much lighter than Garbaruk (131g @54T), AbsoluteBlack (118g @50T) or Wolf Tooth (125g @50T). At 48T it's only ~5-9g heavier than the Lightworks carbon ring, and alloy wears better and survives knocks in the fold. **A good backup if the Lightworks 48T stays sold out**, or the pick if you'd rather have durability. Smallest size is **44T**, so it doesn't reach the 38-40T ring the H&H 8sp (11-34T) route needs. Bolts: Extralite ExtraBolt (same brand) is already the pick.
+Price: 🆕 **54T black S$195 new at 16B Cycle SG** (listed 80g). **Takeaway:** the **lightest alloy 110×5 ring tracked**, lighter than Garbaruk (90g @48T), Pass Quest (103g @48T), AbsoluteBlack (118g @50T) or Wolf Tooth (115g @48T). At 48T it's only ~5-9g heavier than the Lightworks carbon ring, and alloy wears better and survives knocks in the fold. **A good backup if the Lightworks 48T stays sold out**, or the pick if you'd rather have durability. Smallest size is **44T**, so it doesn't reach the 38-40T ring the H&H 8sp (11-34T) route needs. Bolts: Extralite ExtraBolt (same brand) is already the pick.
 
 ### Chainring Bolts — ported from the extralite session
 
