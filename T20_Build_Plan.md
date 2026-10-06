@@ -237,7 +237,7 @@ Spider is **110 BCD, 5-arm** — rings must be 110 BCD **5-bolt**.
 
 ## 3. Brakes
 
-🆕 **Full rotor (18), lever (15 + 4 hydraulic) and caliper (17) lists, labelled mechanical / hybrid / hydraulic, added 6 Oct** in `T20_Build_Options.md` § Brakes. ⚠️ **Extralite UltraLevers 3 are long-pull (V-brake); the GT-F / Equal / Spyre calipers are short-pull** — expect weaker braking. Short-pull flat-bar options: **Velo Orange Grand Cru 76g pair (US$85)**, **H&H Brompton 80-86g pair**, Dia-Compe SS-6 151g (US$24-33). Rotor pick unchanged: **Ti-Parts Ultralight CL 74g / US$54.50** (NOW8 79g alternative).
+🆕 **Full rotor (18), lever (15 + 4 hydraulic) and caliper (17) lists, labelled mechanical / hybrid / hydraulic, added 6 Oct** in `T20_Build_Options.md` § Brakes. ✅ **Lever: Extralite UltraLevers 3S (41g pair), short pull (user confirmed 6 Oct)** — matches the GT-F / Equal / Spyre. The UL3 is long-pull (wrong for these calipers). Short-pull backups: **Velo Orange Grand Cru 76g pair (US$85)**, **H&H Brompton 80-86g pair**, Dia-Compe SS-6 151g (US$24-33). Rotor pick unchanged: **Ti-Parts Ultralight CL 74g / US$54.50** (NOW8 79g alternative).
 
 ✅ **Frames are FLAT MOUNT on every build (T20 and G Line), confirmed 26 Sep 2026.** You're also open to **160mm rotors with an adapter** (26 Sep). Three routes:
 
@@ -277,7 +277,8 @@ Spider is **110 BCD, 5-arm** — rings must be 110 BCD **5-bolt**.
 ### Levers (mechanical, flat bar)
 | Option | Weight |
 |---|---|
-| ⭐ Extralite UltraLevers 3 `[8.3kg ref]` | **22.5g each / 46g pair** |
+| ⭐ **Extralite UltraLevers 3S** (short pull ✅) | **20.5g each / 41g pair** |
+| Extralite UltraLevers 3 `[8.3kg ref]` (long pull ⚠️) | 22.5g each / 46g pair |
 | Extralite UltraLevers 2+ | 50-52g pair |
 | Growtac Equal levers | — |
 | Paul Love Levers | — |
@@ -290,7 +291,7 @@ Spider is **110 BCD, 5-arm** — rings must be 110 BCD **5-bolt**.
 | Hassns carbon floating `[8.3kg ref]` | — |
 | TRP/Brompton stock | — |
 
-**Recommendation (flat mount):** **Juin Tech GT-F (135g)** or **Growtac Equal (136g)** + **Extralite UltraLevers 3**. Within 1g of each other — GT-F is 4-piston semi-hydraulic and cheaper; the Equal is mechanical with the better modulation reputation. **Best value: TRP Spyre SLC**, 146g for ~US$105, which is what the 8.3kg build actually runs. **Lightest flat mount of all: Shimano XTR road caliper at 103g**, full hydraulic, no adapter — worth pricing.
+**Recommendation (flat mount):** **Juin Tech GT-F (135g)** or **Growtac Equal (136g)** + **Extralite UltraLevers 3S** (short pull). Within 1g of each other — GT-F is 4-piston semi-hydraulic and cheaper; the Equal is mechanical with the better modulation reputation. **Best value: TRP Spyre SLC**, 146g for ~US$105, which is what the 8.3kg build actually runs. **Lightest flat mount of all: Shimano XTR road caliper at 103g**, full hydraulic, no adapter — worth pricing.
 
 **Reason to take route 3 (post + adapter + 160mm):** Shimano XT BR-M8100 + BL-M8100 gives **I-SPEC EV** (shifter clamps onto the brake lever, one bar clamp) and full-hydraulic power, for ~70-90g extra. Back on the table since you're open to 160mm (26 Sep).
 
