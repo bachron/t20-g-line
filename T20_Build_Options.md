@@ -496,6 +496,39 @@ Spec: Ti main frame w/ 3D-printed hinge; Ti rear fork w/ 3D-printed dropout, **1
 
 *Sources (29 Sep 2026): [Bikerumor NX Eagle weights](https://bikerumor.com/sram-nx-eagle-actual-weights-first-impressions/), [SRAM SX trigger](https://www.sram.com/en/sram/models/sl-sx-1-a12), [Bikerumor XX1/X01 Eagle](https://bikerumor.com/sram-xx1-x01-eagle-specs-actual-weights/), [Bikerumor Eagle AXS](https://bikerumor.com/unboxed-sram-eagle-axs-xx1-xo1-actual-weights-install-notes/), [SRAM XPLR weights](https://support.sram.com/hc/en-us/articles/6014379628955-What-are-the-weights-of-the-XPLR-derailleurs-and-cassettes), [Bikerumor Rival AXS weights](https://bikerumor.com/hands-on-complete-rival-etap-axs-wireless-road-group-with-actual-weights/), [Flow Eagle 90 review](https://flowmountainbike.com/tests/sram-eagle-90-transmission-review/), [The Lost Co. Transmission weights](https://thelostco.com/blogs/blog/sram-eagle-axs-transmission-weights), [SRAM AXS Pod Ultimate](https://www.sram.com/en/sram/models/ec-axs-podu-d1).*
 
+### 🆕 SRAM road AXS rear derailleurs, non-XPLR (6 Oct 2026)
+
+All 12-speed, **standard hanger ✅** (fit the T20/G Line TPW hanger), wireless with a clip-on **removable battery ✅** (~25g). Shift from a flat bar with an **AXS Pod** (below). They need a **SRAM 12sp road cassette on an XDR freehub** and a Flattop chain; max cog **33-36T**.
+
+| # | RD | Max cog | Weight | Price | Notes |
+|---|---|---|---|---|---|
+| 1 | ⭐ **Red AXS E1** (2024) | **36T** | **262g** (battery not incl.) | — | **Lightest SRAM electronic RD that fits.** 10-28 to 10-36 cassettes, 1x or 2x |
+| 2 | **Red eTap AXS D1** (36T version) | 36T | 278g (claimed) | used | Older Red; good used value |
+| — | Red eTap AXS D1 (original) | **33T** | not found | used | Smaller range: avoid for your gearing |
+| 3 | **Force AXS D2** | 36T | **284g** (one used listing 330g) | **US$415** MSRP (~US$377 street) | Current Force |
+| 4 | **Rival AXS E1** (2025) | 36T | **306g** (battery not incl.) | **US$325** MSRP | Cheapest current AXS road RD |
+| 5 | Rival eTap AXS D1 (older) | 36T | 342g (battery not incl.) | used | |
+| — | Force eTap AXS D1 (older) | 33-36T | not found | used | |
+
+⚠️ **Gearing:** the biggest cog is **36T**. With your 48T ring the easiest gear is **1.33:1** (plan: 0.96). A **40T** ring gives 1.11, a 38T gives ~1.06. The road AXS route only makes sense with a smaller chainring. Compare: Force XPLR 12sp (44T max) gives 1.09 with 48T.
+
+### 🆕 SRAM AXS Pod controllers (flat-bar wireless shifters)
+
+| Controller | Weight | Price | Battery | Notes |
+|---|---|---|---|---|
+| **AXS Pod (D1)** | **50g** | **US$150** | CR2032 coin cell, 2+ years | Flat 2-button design |
+| ⭐ **AXS Pod Ultimate (D1)** | 50-57g (sources vary) | **US$200** | CR2032, 2+ years | Swappable convex/concave buttons; nicer feel |
+| **AXS Pod Rocker (D1)** | 56g | US$165 | CR2032 | One rocker paddle, closest to a thumb push/pull feel |
+
+**Compatibility:** SRAM says AXS controllers work with **all AXS components**, road and MTB, paired in the SRAM AXS app (owners also report the new Pod working with an older XX1 Eagle AXS RD). So a **Pod on a flat bar can run a Red/Force/Rival road RD, a Force XPLR, or an Eagle AXS RD.** Buttons can be set for multi-shift on press-and-hold in the app.
+
+**Lightest wireless SRAM setups that fit:**
+- **Red AXS E1 + Pod:** ~262g + ~25g battery + 50g ≈ **~337g** (36T max, XDR, smaller ring needed)
+- Force XPLR 12sp + Pod: ~308g + Pod ≈ ~360-390g (44T max)
+- XX1 Eagle AXS + Pod: 398g (incl. battery) + 50g ≈ ~450g (50-52T, keeps the planned gearing)
+
+*Sources (6 Oct 2026): [Bikerumor Red AXS E1 weights](https://bikerumor.com/sram-red-axs-e1-review-actual-weights/), [BikeRadar 2024 Red AXS](https://www.bikeradar.com/features/tech/2024-sram-red-axs-weights), [BikeRadar Red eTap AXS 36T](https://www.bikeradar.com/news/sram-red-etap-axs-max-36t-rear-derailleur), [SRAM Force AXS D2 RD](https://www.sram.com/en/sram/models/rd-frc-e-d2), [Excel Sports Force AXS D2](https://www.excelsports.com/sram-force-axs-d2-12-speed-rear-derailleur), [Bikerumor Force & Rival AXS prices/weights](https://bikerumor.com/sram-force-rival-12-axs-13-axs-xplr-prices-actual-weights/), [R2-Bike Rival AXS E1](https://r2-bike.com/SRAM-Rival-AXS-Rear-Derailleur-12-speed-36T-E1), [Bikerumor Rival AXS D1 weights](https://bikerumor.com/hands-on-complete-rival-etap-axs-wireless-road-group-with-actual-weights/), [SRAM AXS Pod](https://www.sram.com/en/sram/models/ec-axs-pod-d1), [SRAM AXS Pod Ultimate](https://www.sram.com/en/sram/models/ec-axs-podu-d1), [Competitive Cyclist Pod Rocker](https://www.competitivecyclist.com/sram-axs-pod-rocker-controller-d1), [SRAM AXS compatibility map](https://www.sram.com/globalassets/document-hierarchy/compatibility-map/road/axs-components-compatibility-map.pdf), [SRAM Apex AXS flat-bar controller](https://support.sram.com/hc/en-us/articles/16378992393115-Is-there-a-flat-bar-style-controller-or-shifter-for-Apex-AXS-or-Apex-mechanical-12-speed-drivetrains), [Weight Weenies Pod + XX1 AXS](https://weightweenies.starbike.com/forum/viewtopic.php?f=1&t=173428).*
+
 ### 👍 Thumb-operated trigger shifters (28 Sep 2026)
 
 **What you like about the SX Eagle trigger:** both levers are pushed with the **thumb**, and the big paddle can shift **two gears in one push** to easier gears (bigger cogs). The table checks every option against that.

@@ -180,6 +180,8 @@ Spider is **110 BCD, 5-arm** — rings must be 110 BCD **5-bolt**.
 | SRAM GX AXS | 12 | 463g | 63g | ~£530 |
 | Archer D1x | **any** | your existing RD | — | — |
 
+🆕 **SRAM road AXS, non-XPLR (6 Oct):** Red AXS E1 **262g** · Red eTap AXS D1 (36T) 278g · Force AXS D2 **284g, US$415** · Rival AXS E1 **306g, US$325**. All standard hanger, removable battery, **36T max** (1.33:1 with 48T, so pair with a ~38-40T ring), XDR. Shift with an **AXS Pod: 50g, US$150 / Pod Ultimate US$200 / Pod Rocker 56g, US$165**, CR2032. Lightest fitting wireless SRAM: **Red AXS E1 + Pod ≈ 337g**. Details in `T20_Build_Options.md`.
+
 👍 **Shifter feel (28 Sep): thumb on both levers + multi-shift to easier gears.** Matches: SRAM Eagle triggers (**avoid "Single Click" versions**), Shimano XT/SLX/XTR (up to 4 gears, 2-way release), TRP EVO 12, SENSAH XRX, Box Prime 9 (9sp). microSHIFT Advent X doesn't match (finger-pull release). Table in `T20_Build_Options.md`.
 
 🆕 **SRAM SX Eagle (28 Sep):** entry-level 12sp Eagle trigger, liked from your wife's P Line. Fits the build with any Eagle **mechanical** RD (not Shimano, not Transmission). Suggested combo: **SX Eagle trigger + used XX1/X01 Eagle RD (265-276g)**.
