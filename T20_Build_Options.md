@@ -529,6 +529,60 @@ All 12-speed, **standard hanger ✅** (fit the T20/G Line TPW hanger), wireless 
 
 *Sources (6 Oct 2026): [Bikerumor Red AXS E1 weights](https://bikerumor.com/sram-red-axs-e1-review-actual-weights/), [BikeRadar 2024 Red AXS](https://www.bikeradar.com/features/tech/2024-sram-red-axs-weights), [BikeRadar Red eTap AXS 36T](https://www.bikeradar.com/news/sram-red-etap-axs-max-36t-rear-derailleur), [SRAM Force AXS D2 RD](https://www.sram.com/en/sram/models/rd-frc-e-d2), [Excel Sports Force AXS D2](https://www.excelsports.com/sram-force-axs-d2-12-speed-rear-derailleur), [Bikerumor Force & Rival AXS prices/weights](https://bikerumor.com/sram-force-rival-12-axs-13-axs-xplr-prices-actual-weights/), [R2-Bike Rival AXS E1](https://r2-bike.com/SRAM-Rival-AXS-Rear-Derailleur-12-speed-36T-E1), [Bikerumor Rival AXS D1 weights](https://bikerumor.com/hands-on-complete-rival-etap-axs-wireless-road-group-with-actual-weights/), [SRAM AXS Pod](https://www.sram.com/en/sram/models/ec-axs-pod-d1), [SRAM AXS Pod Ultimate](https://www.sram.com/en/sram/models/ec-axs-podu-d1), [Competitive Cyclist Pod Rocker](https://www.competitivecyclist.com/sram-axs-pod-rocker-controller-d1), [SRAM AXS compatibility map](https://www.sram.com/globalassets/document-hierarchy/compatibility-map/road/axs-components-compatibility-map.pdf), [SRAM Apex AXS flat-bar controller](https://support.sram.com/hc/en-us/articles/16378992393115-Is-there-a-flat-bar-style-controller-or-shifter-for-Apex-AXS-or-Apex-mechanical-12-speed-drivetrains), [Weight Weenies Pod + XX1 AXS](https://weightweenies.starbike.com/forum/viewtopic.php?f=1&t=173428).*
 
+### 🆕 More rear derailleurs: lightest + cage length (7 Oct 2026)
+
+Cage: **S** = short, **M** = medium (GS), **L** = long (SGS). Shorter = more ground clearance on 20" wheels.
+
+| RD | Type | Cage | Speeds / max cog | Weight | Price | Flat-bar shifter? | Notes |
+|---|---|---|---|---|---|---|---|
+| **Shimano Dura-Ace Di2 RD-R9250** | Electronic | M | 12 / 34T | **215g** | — | ❌ | Lightest RD found, but road Di2 12sp has **no flat-bar shifter** (SW-RS801 switches plug into drop-bar STI levers) |
+| **Shimano XTR RD-M9100-GS** | Mechanical | **M** | 12 / **45T** | **237g** | — | ✅ XTR/XT trigger | **Lightest wide-range RD that fits, and shorter cage than SGS.** Low gear with 48T: 1.07:1 on a 10-45 / 11-45 cassette |
+| **Shimano 105 RD-R7100** | Mechanical | M | 12 / 36T | 249g | — | ❌ | No 12sp road flat-bar shifter exists |
+| **Shimano Ultegra Di2 RD-R8150** | Electronic | M | 12 / 34T | 262g | — | ❌ | Same flat-bar problem as Dura-Ace Di2 |
+| **Shimano GRX RD-RX822-GS** | Mechanical | M | 12 / 45T | 290g | — | ✅ MTB 12sp trigger (Shimano 12sp MTB pull) | Gravel; heavier than XTR GS |
+| **Shimano GRX RD-RX822-SGS** | Mechanical | L | 12 / 51T | 288g | — | ✅ | |
+| **Shimano CUES RD-U4010** | Mechanical | **S** (made for small wheels) | 9-10 / 39T | ~1 lb listed (rounded) | **~US$60** | ✅ CUES trigger | **Built for 20" wheels**, but LINKGLIDE 9/10sp only and heavy |
+
+### 🆕 Short-cage shortlist (clearance first, weight second)
+
+| # | RD | Cage | Weight | Max cog | Low gear (48T ring) | Fits flat bar? |
+|---|---|---|---|---|---|---|
+| 1 | **Shimano Dura-Ace R9100 SS** (11sp) | **S** | **158g** | ~30T | 1.6 (→ 40T ring: 1.33) | ✅ SL-RS700 11sp flat-bar shifter |
+| 2 | **Shimano Ultegra R8000 SS** (11sp) | **S** | 200g | 30T | 1.6 | ✅ SL-RS700 |
+| 3 | ⭐ **Shimano XTR M9100-GS** (12sp) | M | **237g** | **45T** | **1.07** | ✅ XTR/XT trigger |
+| 4 | **SRAM Red AXS E1** (12sp, wireless) | M | 262g | 36T | 1.33 (→ 38T ring: 1.06) | ✅ AXS Pod |
+| 5 | **Shimano Zee RD-M640-SS** (10sp) | **S** (~50mm) | 275g | 36T | 1.33 | ✅ Zee/10sp trigger |
+| 6 | **microSHIFT Advent Super Short** (9sp) | **S** | 379g | 38T | 1.26 | ✅ Advent trigger |
+| 7 | **Shimano CUES RD-U4010** (9/10sp) | **S** | ~454g (rounded) | 39T | 1.23 | ✅ CUES trigger |
+
+**Read-across:** **XTR M9100-GS is the best balance**: 3g lighter than the SGS, a shorter cage, and the low gear only moves from 0.96 to 1.07 (with an 11-45 / 10-45 cassette, e.g. Nuton 11-46T fits up to 46T: check the GS's official max). For maximum clearance at the lowest weight, the 11sp road SS derailleurs are lightest but need a much smaller ring.
+
+### 📋 Flat-bar shifter list (all brands, lightest first)
+
+| # | Shifter | Type | Weight | Price | Works with | Thumb both ways? |
+|---|---|---|---|---|---|---|
+| 1 | ⭐ **SRAM AXS Pod** | Wireless, 2 buttons | **50g** | US$150 | Any SRAM AXS RD (road or MTB) | ✅ Buttons |
+| 2 | **SRAM AXS Pod Ultimate** | Wireless | 50-57g | US$200 | Any SRAM AXS RD | ✅ Buttons, swappable shapes |
+| 3 | **SRAM AXS Pod Rocker** | Wireless, rocker paddle | 56g | US$165 | Any SRAM AXS RD | ✅ Closest to a push/pull feel |
+| 4 | **Wheeltop EDS OX2.0** shifter | Wireless | 69g | (in ~£350 set) | Wheeltop RD only | ❌ Fails battery rule (RD) |
+| 5 | **Shimano XTR Di2 SW-M9250** | Wireless | **97g** (I-SPEC EV) / 104g (clamp) | (in kit) | Shimano XTR/XT/Deore Di2 RD | ✅ Rapid ES buttons |
+| 6 | **SRAM NX Eagle trigger** | Mechanical | 112g | cheap | Any Eagle mech RD | ✅ |
+| 6 | **Shimano XTR SL-M9100** | Mechanical | **112g** (I-SPEC EV) / 114g (clamp) | — | Shimano 12sp MTB RD | ✅ 2-way release, 4-gear multi-shift, multi-release |
+| 8 | **Shimano XT SL-M8100** (plan) | Mechanical | 120-132g | ~S$190 with RD | Shimano 12sp MTB RD | ✅ 2-way release, 4-gear multi-shift |
+| 9 | **SRAM GX Eagle trigger** | Mechanical | 122g | — | Any Eagle mech RD | ✅ |
+| 10 | **SRAM X01 / XX1 Eagle trigger** | Mechanical | 124g | — | Any Eagle mech RD | ✅ |
+| 11 | **TRP EVO 12** | Mechanical | 125g | — | TRP EVO 12 RD | ✅ Up to 5-gear multi-shift |
+| 12 | **Shimano SL-RS700** (11sp road, right) | Mechanical | 128g (210g pair) | — | Shimano 11sp road RD (R9100/R8000) | ✅ Rapidfire |
+| 13 | **SRAM SX Eagle trigger** (your favourite) | Mechanical | 128g | cheap | Any Eagle mech RD | ✅ |
+| 14 | **Box Prime 9** | Mechanical | 128-130g | — | Box Prime 9 RD | ✅ |
+| — | SENSAH XRX 12sp | Mechanical | — | budget | SRAM Eagle RD | ✅ |
+| — | microSHIFT 12sp thumb shifter | Mechanical | — | — | SRAM Eagle RD | ⚠️ Old-style single lever |
+| — | microSHIFT Advent X trigger | Mechanical | — | ~US$31 | Advent X RD | ❌ Finger-pull release |
+| — | L-TWOO eRX flat-bar | Wireless | — | (in set) | L-TWOO RD | ❌ RD battery non-removable |
+| — | Archer D1x remote | Wireless actuator | system ~249g | — | Any mech RD | ⚠️ |
+
+*Sources (7 Oct 2026): [Steed Dura-Ace RD-R9250](https://steedcycles.com/products/shimano-dura-ace-di2-rd-r9250-12-speed-rear-derailleur), [Velo R9200/R8100 weights](https://velo.outsideonline.com/gallery/shimano-dura-ace-r9200-and-ultegra-r8100-photos-weights-and-prices/), [BikeRadar 105 R7100 mechanical](https://www.bikeradar.com/news/shimano-105-r7100-mechanical), [Excel SW-RS801 (STI satellite only)](https://www.excelsports.com/shimano-sw-rs801-s-shift-switch-set), [Worldwide Cyclery XTR M9100-GS](https://worldwidecyclery.com/products/shimano-xtr-m9100-1-x-11-12-speed-gs-mid-cage-rear-derailleur), [BikeRadar GRX RX820](https://www.bikeradar.com/news/shimano-grx-rx820-gravel-groupset), [Shimano CUES RD-U4010](https://bike.shimano.com/products/components/pdp.P-RD-U4010.html), [REI CUES RD-U4010](https://www.rei.com/product/250618/shimano-cues-rd-u4010-910-speed-1x-rear-derailleur), [Excel XTR SL-M9100](https://www.excelsports.com/shimano-xtr-sl-m9100-i-shifter-), [BIKE24 SL-RS700](https://www.bike24.com/p2223866.html), [Vital XTR SW-M9250](https://www.vitalmtb.com/product/guide/shifters/shimano/xtr-m9250-di2-shifter-switch-66031); other figures from earlier sections.*
+
 ### 👍 Thumb-operated trigger shifters (28 Sep 2026)
 
 **What you like about the SX Eagle trigger:** both levers are pushed with the **thumb**, and the big paddle can shift **two gears in one push** to easier gears (bigger cogs). The table checks every option against that.
