@@ -599,7 +599,7 @@ The rest of this table is built for the classic Brompton rear frame and Brompton
 
 | Part | Weight | Price | Fits T20? | Notes |
 |---|---|---|---|---|
-| ⭐ **Ti Parts Workshop G Line Dropout Hanger** (142×12 thru-axle, GRP-22B pattern) | **54g / set** | **$62** | ✅ Same job as the TPW hanger (S$79) | Also a 135mm QR version. Lets the G Line take standard wheels and external derailleurs |
+| ⭐ **Ti Parts Workshop G Line Dropout Hanger** (142×12 thru-axle, GRP-22B pattern) | **54g / set** | **$62** | ✅ **This IS the TPW hanger already in every build** (TPW = Ti Parts Workshop) | Also a 135mm QR version (GRP-21B). Lets the G Line take standard wheels and external derailleurs |
 | **H&H G Line external gear set** | — | **$302** | ✅ | ⚠️ Snippet calls it **7-speed**, while H&H's own page and Bikegang say **8-speed 11-34T**. Probably the same set (official 8sp spec 187g: 78g + 109g); confirm with a screenshot |
 | **H&H G Line Seatpost Clamp** | **~46g** | $104 | ⚠️ Only if the T20 seat clamp is G Line pattern | AL6061 + Ti6Al4V |
 | **H&H G Line Hinge Clamp** (alloy, pair) | — | — | ⚠️ T20 hinge pattern unconfirmed | Stops the clamp plates rotating |
@@ -619,7 +619,7 @@ The rest of this table is built for the classic Brompton rear frame and Brompton
 | H&H Carbon Handlebar Low riser (T, G, P MK2) | — | — | ✅ | |
 
 **Takeaways for the build:**
-- **Ti Parts Workshop hanger (54g, $62)** is a cheaper alternative to the TPW hanger (S$79) for the same 142×12 setup.
+- **Ti Parts Workshop (TPW) hanger:** same part as the build's GRP-22B. Brompton Kitchen lists it at $62, vs S$79 on Carousell SG and US$100 at Brombacher.
 - **H&H 600mm carbon seatpost (287g)** is worth comparing with the HEXATI Ti post (268g bare, ~370-400g with Pentaclip).
 - **H&H G Line seatpost clamp (46g)** and the Ti hinge clamps only help if the T20 copies those G Line parts exactly. Ask Chris Yeo.
 
@@ -1256,8 +1256,8 @@ Unlike the rack/headset/brake questions above, this one isn't a T20-fitment gues
 
 | Option | Material | Weight | Price | Notes |
 |---|---|---|---|---|
-| ⭐ Ti Parts Workshop GRP-21B (135mm QR) | Titanium | **48g** | ~US$53.50-63 (~S$70-82) | Lightest option found; for standard 135mm QR hubs |
-| Ti Parts Workshop GRP-22B (142x12mm thru-axle) | Titanium | 54g | ~US$53.50-63 (~S$70-82) · 🆕 **S$79 brand new, ready stock in SG** (Carousell, thesense.life; free pickup Telok Blangah or +S$3 SPX delivery; seen 26 Sep 2026). Listing: "G Line external-gear wheelsets only, not Alfine or A/C/P/T; compatible with SRAM Red or Force RD". ⚠️ Confirm it takes a Shimano MTB RD too, and whether the black part is titanium or alloy | For thru-axle hubs; pairs with a recommended M12x1.5 160mm thru-axle; often sold out |
+| ⭐ Ti Parts Workshop GRP-21B (135mm QR) | Titanium | **48g** | ~US$53.50-63 (~S$70-82) · 🆕 **Brombacher (Korea, en.brombacher.kr): US$100**, GRP-21B in stock, **GRP-22B sold out** (user screenshot, 6 Oct 2026) · Brompton Kitchen $62. ✅ Weight confirmed from the listing: **21B 48g/set, 22B 54g/set** | Lightest option found; for standard 135mm QR hubs |
+| Ti Parts Workshop GRP-22B (142x12mm thru-axle) | Titanium | 54g | ~US$53.50-63 (~S$70-82) · 🆕 **S$79 brand new, ready stock in SG** (Carousell, thesense.life; free pickup Telok Blangah or +S$3 SPX delivery; seen 26 Sep 2026). · 🆕 **Brombacher (Korea, en.brombacher.kr): US$100**, GRP-21B in stock, **GRP-22B sold out** (user screenshot, 6 Oct 2026) · Brompton Kitchen $62. ✅ Weight confirmed from the listing: **21B 48g/set, 22B 54g/set** Listing: "G Line external-gear wheelsets only, not Alfine or A/C/P/T; compatible with SRAM Red or Force RD". ⚠️ Confirm it takes a Shimano MTB RD too, and whether the black part is titanium or alloy | For thru-axle hubs; pairs with a recommended M12x1.5 160mm thru-axle; often sold out |
 | Suncord Dropout Hanger — G Line | Not published — Suncord's catalog is all alloy/carbon, no Ti items found, so likely alloy | not published | ~US$43.90-57 (~S$59-77) | 142x12mm thru-axle only; no QR variant found; sold via Fantastic4Toys |
 | Stock Brompton G Line (OEM) | Steel (unconfirmed) | not published | ~US$14 (~S$18) | Baseline/spare reference — no weight savings |
 
@@ -1358,8 +1358,8 @@ This is a separate, cheaper part from the frame-order dropout decision above: th
 
 | Option | Material | Weight | Price | Notes |
 |---|---|---|---|---|
-| Ti Parts Workshop GRP-21B (135mm QR) | Titanium | **48g** | ~US$53.50-63 (~S$70-82) | Lightest option found — but **QR, not thru-axle**. Only relevant if you go with the "flat mount" (QR) dropout instead of 100/142 thru-axle |
-| ⭐ Ti Parts Workshop GRP-22B (142x12mm thru-axle) | Titanium | 54g | ~US$53.50-63 (~S$70-82) · 🆕 **S$79 brand new, ready stock in SG** (Carousell, thesense.life; free pickup Telok Blangah or +S$3 SPX delivery; seen 26 Sep 2026). Listing: "G Line external-gear wheelsets only, not Alfine or A/C/P/T; compatible with SRAM Red or Force RD". ⚠️ Confirm it takes a Shimano MTB RD too, and whether the black part is titanium or alloy | **Matches the recommended 100/142 thru-axle dropout.** Pairs with a recommended M12x1.5 160mm thru-axle; often sold out |
+| Ti Parts Workshop GRP-21B (135mm QR) | Titanium | **48g** | ~US$53.50-63 (~S$70-82) · 🆕 **Brombacher (Korea, en.brombacher.kr): US$100**, GRP-21B in stock, **GRP-22B sold out** (user screenshot, 6 Oct 2026) · Brompton Kitchen $62. ✅ Weight confirmed from the listing: **21B 48g/set, 22B 54g/set** | Lightest option found — but **QR, not thru-axle**. Only relevant if you go with the "flat mount" (QR) dropout instead of 100/142 thru-axle |
+| ⭐ Ti Parts Workshop GRP-22B (142x12mm thru-axle) | Titanium | 54g | ~US$53.50-63 (~S$70-82) · 🆕 **S$79 brand new, ready stock in SG** (Carousell, thesense.life; free pickup Telok Blangah or +S$3 SPX delivery; seen 26 Sep 2026). · 🆕 **Brombacher (Korea, en.brombacher.kr): US$100**, GRP-21B in stock, **GRP-22B sold out** (user screenshot, 6 Oct 2026) · Brompton Kitchen $62. ✅ Weight confirmed from the listing: **21B 48g/set, 22B 54g/set** Listing: "G Line external-gear wheelsets only, not Alfine or A/C/P/T; compatible with SRAM Red or Force RD". ⚠️ Confirm it takes a Shimano MTB RD too, and whether the black part is titanium or alloy | **Matches the recommended 100/142 thru-axle dropout.** Pairs with a recommended M12x1.5 160mm thru-axle; often sold out |
 | Suncord Dropout Hanger — G Line | Not published — Suncord's catalog is all alloy/carbon, no Ti items found, so likely alloy | not published | ~US$43.90-57 (~S$59-77) | 142x12mm thru-axle only; no QR variant found; sold via Fantastic4Toys |
 | Stock Brompton G Line (OEM) | Steel (unconfirmed) | not published | ~US$14 (~S$18) | Baseline/spare reference — no weight savings |
 
