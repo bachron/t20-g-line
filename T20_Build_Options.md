@@ -555,7 +555,7 @@ Cage: **S** = short, **M** = medium (GS), **L** = long (SGS). Shorter = more gro
 | 6 | **microSHIFT Advent Super Short** (9sp) | **S** | 379g | 38T | 1.26 | ✅ Advent trigger |
 | 7 | **Shimano CUES RD-U4010** (9/10sp) | **S** | ~454g (rounded) | 39T | 1.23 | ✅ CUES trigger |
 
-**Read-across:** **XTR M9100-GS is the best balance**: 3g lighter than the SGS, a shorter cage, and the low gear only moves from 0.96 to 1.07 (with an 11-45 / 10-45 cassette, e.g. Nuton 11-46T fits up to 46T: check the GS's official max). For maximum clearance at the lowest weight, the 11sp road SS derailleurs are lightest but need a much smaller ring.
+**Read-across:** **XTR M9100-GS is the best balance**: 3g lighter than the SGS, a shorter cage, and the low gear only moves from 0.96 to 1.07 (needs a cassette up to **45T**, e.g. Shimano XT 10-45T; the Nuton 11-46T is 1T over the GS rating and the Nuton 11-50T needs the SGS). For maximum clearance at the lowest weight, the 11sp road SS derailleurs are lightest but need a much smaller ring.
 
 ### 📋 Flat-bar shifter list (all brands, lightest first)
 
