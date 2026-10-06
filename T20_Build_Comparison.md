@@ -75,7 +75,7 @@ The T20 is built as an **exact G Line clone**, so **every one of these parts fit
 | Headset | WOOdman Axis BPT (G Line) | 105 | 155 | 85-110 | Used |
 | Handlebar | Carbon, Darimo Superlight | 79-98 | 233 | 130-165 | Used (new suggested) |
 | Grips | Ergon GP2 Evo | 230 | 65 | — | **New** |
-| Brake levers | Extralite UltraLevers **3S** (short pull) | 41 | 200 ★ | 110-140 | Used |
+| Brake levers | Extralite UltraLevers **3S** (short pull) | 41 | **260** (€173.04 excl. tax; colour +€16.52) | 145-180 | Used |
 | Calipers | Juin Tech GT-F ×2 (flat mount) | 270 | 309 | 170-215 | Used |
 | Rotors | Ti-Parts carbon 140mm ×2 | 155 | 150 ★ | 80-105 | Used. Check thickness |
 | Cables + housing | Brake + shift | 60-90 ★ | 70 ★ | — | **New** |

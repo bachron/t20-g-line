@@ -1171,7 +1171,7 @@ Flat bar, 22.2mm unless noted. Weight per **pair**. Hydraulic levers come with t
 
 | # | Lever | Type | Cable pull | Weight (pair) | Price | Fits plan's calipers? | Notes |
 |---|---|---|---|---|---|---|---|
-| 1 | ✅ **Extralite UltraLevers 3S** | Mechanical | **Short** ✅ (user confirmed, 6 Oct) | **41g** (20.5g each) | — | ✅ **Yes** | **New pick: lightest lever AND the right pull** for GT-F / Equal / Spyre. 5g lighter than the UL3 |
+| 1 | ✅ **Extralite UltraLevers 3S** | Mechanical | **Short** ✅ (user confirmed, 6 Oct) | **41g** (20.5g each) | **€173.04** (~S$260) non-EU price excl. local taxes, extralite.com; colour body +€16.52 (Orange-Purple, Purple-Turquoise, Silver-Black; Full Black not available) → **€189.56** (~S$285) | ✅ **Yes** | **New pick: lightest lever AND the right pull** for GT-F / Equal / Spyre. 5g lighter than the UL3 |
 | 2 | **Extralite UltraLevers 3** `[8.3kg ref]` | Mechanical | **Long (V-brake)** | **46g** (22.5-23g each) | **US$218-249** | ⚠️ **Pull mismatch** with GT-F / Equal / Spyre (short pull) | Replaced by the 3S. The 8.3kg build runs it with Spyre SLC, but expect less braking power than a short-pull lever |
 | 3 | KCNC VB1-7075 | Mechanical | Long (V) | ~48g (24g each) | ~US$150 | ⚠️ Long pull | |
 | 4 | Extralite UltraLevers 2+ | Mechanical | Long (V) | 50-52g | — | ⚠️ Long pull | Previous generation |
