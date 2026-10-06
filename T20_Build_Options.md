@@ -557,6 +557,26 @@ Cage: **S** = short, **M** = medium (GS), **L** = long (SGS). Shorter = more gro
 
 **Read-across:** **XTR M9100-GS is the best balance**: 3g lighter than the SGS, a shorter cage, and the low gear only moves from 0.96 to 1.07 (needs a cassette up to **45T**, e.g. Shimano XT 10-45T; the Nuton 11-46T is 1T over the GS rating and the Nuton 11-50T needs the SGS). For maximum clearance at the lowest weight, the 11sp road SS derailleurs are lightest but need a much smaller ring.
 
+### 🆕 Brompton-specialist derailleurs and shifters: H&H, MiniMODs, Thx4Ride (7 Oct 2026)
+
+These are the lightest derailleurs and shifters of all, **but every one is built for the classic Brompton rear frame (A/C/P/T Line) and Brompton-style 4-7 speed cog clusters (max ~25-28T)**. None mounts on the G Line / T20 hanger or runs a 12sp 11-50T cassette. Logged so they're in the list and not re-researched.
+
+| Part | Type | Weight | Price | Fits T20 / G Line? | Notes |
+|---|---|---|---|---|---|
+| **H&H 2025 DT rear derailleur** | Brompton 7sp derailleur | **72g** | US$145 | ❌ A/C/P/T only | Ti bolts. Cogs up to 25T |
+| **H&H 7-speed rear derailleur** | Brompton 7sp derailleur | 75g | US$195 | ❌ A/C/P/T only | 11-13-17-22-25T |
+| H&H 7-speed tensioner + derailleur set (P/T, A/C versions) | Set | — | — | ❌ | Your wife's P Line style setup |
+| **H&H 7-speed Dual Tap shifter** | Brompton shifter, mounts on the brake lever | **70g** | US$170 | ❌ | Light press = up one gear, firm press = down two gears |
+| **H&H SQT Tap shifter** | Brompton shifter | 86g | US$95 | ❌ | Alloy |
+| H&H 7-speed thumb shifter | Brompton shifter | — | — | ❌ | |
+| **MiniMODs X Series 7-speed derailleur + tensioner** (A/C/E Line) | Set | — | US$259.50 | ❌ | CNC alloy |
+| **MiniMODs 7-speed upgrade kit** (P/T Line, 11-32) | Full kit incl. thumb shifter | thumb shifter **89g** | US$560-600 (£428) | ❌ | Up to 28T |
+| **Thx4Ride Titanium Derailleur Kitz** (C/P/T Line) | Ti derailleur + shifter + tensioner | — | **S$1,086-1,186** (16B Cycle SG) | ❌ | Premium titanium |
+
+**Why they don't carry over:** the T20 uses a G Line-pattern hanger and a full-size 12sp MTB derailleur range (45-51T). These Brompton kits are designed around the classic rear triangle and small 7-speed clusters.
+
+*Sources (7 Oct 2026): [BZ Sport H&H Dual Tap](https://bzsportcycles.com/product/hh-7-speed-shifter-brompton/), [BZ Sport H&H SQT](https://bzsportcycles.com/product/hh-innovation-hh-sqt-tap-shifter-brompton/), [BZ Sport H&H 7sp derailleur sets](https://bzsportcycles.com/product/hh-innovation-hh-7-speed-tensioner-derailleur-set-dt-series-brompton-a-c-line/), [Fantastic4Toys H&H derailleur](https://www.fantastic4toys.com/en-gb/products/h-h-2024-derailleur-only-for-brompton-bicycle), [Fantastic4Toys MiniMODs X Series](https://www.fantastic4toys.com/products/minimods-x-series-7-speed-derailleur-tensioner-set-for-brompton-bicycle-a-c-e-line), [Clever Cycles MiniMODs 7sp kit](https://clevercycles.com/products/minimods-7-speed-upgrade-kit-for-brompton-bicycle-p-t-line-11-32-black), [16B Cycle Thx4Ride Ti Derailleur Kitz](https://www.16bcycle.com/products/thx4ride-titanium-derailleur-kitz-for-c-p-t-line).*
+
 ### 📋 Flat-bar shifter list (all brands, lightest first)
 
 | # | Shifter | Type | Weight | Price | Works with | Thumb both ways? |
