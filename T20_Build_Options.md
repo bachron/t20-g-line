@@ -166,10 +166,10 @@ All **110 BCD 5-bolt** (fit the Lightworks spider and the EliLee 110×5 spider).
 | 🆕 **Stone round 1x** | Alloy | 36-60T | wide | **48T 107g** | **~US$42** (budget) |
 | 🆕 **DECKAS round** narrow-wide | Alloy (7075 on some listings), 4mm plate | 36-58T | ~12 | 48T ~106g | **US$9-25** (eBay/Amazon/AliExpress) |
 | Wolf Tooth 110 BCD 5-bolt | Alloy, Drop-Stop | 38-52T (no 54T in 5-bolt) | — | **48T 115g** · 50T 125g · 52T 143g | **US$80-130** |
-| 🆕 **Fibre-Lyte** carbon | Full carbon, **mostly 2x ramped profile** (no confirmed 1x narrow-wide) | custom | — | 38/39T 23g · 50T 54g · 53T 55g | **S$220** (B-Spokes); Brombacher | Lightest carbon, but a **2x ring**: chain retention on a 1x without a guide is a risk |
-| Ridea W3T narrow-wide | Alloy | — | — | 48T 100g | — | ⚠️ Check BCD: most Ridea rings are **130 BCD** |
-| Litepro narrow-wide | Alloy | 46-58T | — | 48T 80g | cheap | ⚠️ **130 BCD**, won't fit. Its 110/130 rings are oval doubles (~260g) |
-| Rotor Q-Rings 110×5 | Alloy, **oval 2x** | — | — | — | US$43-97 | ❌ 2x road rings, not 1x |
+| 🆕 **Fibre-Lyte** carbon | Full carbon, **mostly 2x ramped profile** (no confirmed 1x narrow-wide) | custom | — | 38/39T 23g · 50T 54g · 53T 55g | **S$220** (B-Spokes); Brombacher. Lightest carbon, but a **2x ring**: chain retention on a 1x without a guide is a risk |
+| Ridea W3T narrow-wide | Alloy | — | — | 48T 100g | ⚠️ Check BCD: most Ridea rings are **130 BCD** |
+| Litepro narrow-wide | Alloy | 46-58T | — | 48T 80g | cheap. ⚠️ **130 BCD**, won't fit. Its 110/130 rings are oval doubles (~260g) |
+| Rotor Q-Rings 110×5 | Alloy, **oval 2x** | — | — | — | US$43-97. ❌ 2x road rings, not 1x |
 | Praxis | Alloy | to 46T | — | — | — |
 | Carbon-Ti X-CarboRing | Carbon, **2x outer profile** | to 54T | — | 48T ~90g | — (not a 1x ring; use X-SingleCarbon instead) |
 | ❌ Ridea LF | — | 130 BCD | — | 54T 120g | ~US$142 (won't fit) |
