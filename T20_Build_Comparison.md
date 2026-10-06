@@ -192,7 +192,7 @@ G Line layout (Brompton's own spec): **70mm roller wheels on the frame** (and fr
 | **Total weight** | **9,537-9,949g** | **9,606-10,018g** |
 | **Net cost** | **S$6,808-9,508** | **S$5,885-7,796** |
 
-🆕 **Lighter G option (6 Oct 2026):** eBay seller **TiSpace2011** sells a **TiAtom carbon rear triangle for G Line, ~368g** (vs 633g tibicycles Ti, 1,211.5g stock) and a 388g carbon fork (US$550). On G1 that would save **~265g** (G1 → ~9.27-9.68 kg). Price of the rear triangle not seen yet; axle, hanger fit and child-seat load rating still to confirm. Not in the totals above.
+🆕 **Considered and rejected (6 Oct 2026):** TiAtom carbon rear triangle for G Line (eBay seller TiSpace2011), ~368g, 142×12 thru-axle (same spec as G Line). Would save ~265g on G1, but **you've decided not to buy it**. G builds keep a Ti rear triangle.
 
 **Pros**
 - Genuine Brompton main frame and hinge: proven fold, better resale.
