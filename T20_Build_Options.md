@@ -212,6 +212,37 @@ Price: not in the screenshot (⏳). **Takeaway:** the **lightest alloy 110×5 ri
 
 ⚠️ **Wheels and tyres are your largest remaining headroom.** The SMC Plume DW2 with RHET hubs (945-1,045g) is **lighter than the 8.3kg build's 1,090g Wheel Angel set**. RHET beats Hubsmith R027 by ~80-85g.
 
+## Hubs (100×12 front / 142×12 rear thru-axle, disc), added 6 Oct 2026
+
+You can pick your own hub for a custom 406 build (Light Bicycle rims, or SMC with a hub of your choice). Weights are **per hub**, mostly measured or claimed for 24H centerlock. 20" wheels usually run 20-24H, so check the hub comes in that drilling. **Freehub:** the Nuton 11-50T is a Shimano **MTB HG** cassette; a road HG11 driver also takes it with a 1.85mm spacer. XD/XDR only if you switch to a SRAM cassette.
+
+| # | Hub | Front 100×12 | Rear 142×12 | Pair | Price (USD, approx.) | Notes |
+|---|---|---|---|---|---|---|
+| 1 | **Extralite HyperFront / HyperRear** (+ TA12 / 142×12 kits) | 78g (+ adapter) | 159-169g + 39g conversion kit | ~**280g** ★ | Premium | Lightest on paper, but **thru-axle by conversion kit**, and Weight Weenies owners question durability. Not ideal for a child-seat bike |
+| 2 | **DT Swiss 180 EXP** | 87g claimed / 93g measured | 188-193g | **~280g** | ~US$380-420 F + US$700-780 R (~**US$1,100-1,200**) | **Lightest mainstream hub.** Ceramic bearings, Ratchet EXP, carbon shell. Very expensive |
+| 3 | **Carbon-Ti X-Hub SP** | 91g | ~189g | ~**280g** | Premium | Same weight as DT 180. Straight-pull. Same brand as your rotors and axles |
+| 4 | ⭐ **Light Bicycle Pace road hub** | ~90g | **185g** | **~275g** | Comes in an LB custom wheel (cheaper than DT) | **Best value light hub**, and LB builds the Moto G1 rims. 36T ratchet. HG/XD/XDR. A "Pace+" version is listed at ~227g/pair (⚠️ unclear which version) |
+| 5 | **DT Swiss 240 EXP** | 103g | 192g (XDR) | **~295g** | ~US$600-750 set | **Best-known reliable light hub.** Ratchet EXP, easy service, parts everywhere |
+| 6 | **Tune King / Kong** | — | ~210g | ~**300g** ★ | Premium | German weight-weenie hub. 32H listings common, check 24H |
+| 7 | **DT Swiss 350** | ~110-130g ★ | 244-263g | ~370g | ~US$160 (EU) to US$310-360 R | Cheap and tough version of the 240 (same ratchet) |
+| 8 | **Bitex BX106F / BX106R** | 126-140g | 246g | ~380g | **US$70-90 F**, rear cheap | **Budget pick.** Common wheelbuilder hub |
+| 9 | **Chris King R45D** | 144g | 263g | ~407g | Premium | Longest-lasting, loud, re-serviceable. Heavy |
+| 10 | **Industry Nine Hydra** (road) | — | 272g (XD) | — | Premium | 690 engagement points; heavy for this build |
+| 11 | **Novatec D772 / 792** | — | 263-368g | — | Cheap | Budget; heavy |
+| — | **SMC RHET** (SMC's own hub) | — | — | — | In SMC wheel price | SMC wheel: **RHET 1,020g vs Hubsmith R027 1,150g** on the same rim, so **RHET is ~130g lighter**. Ceramic bearings, ratchet |
+| — | Hubsmith R027 | — | — | — | In SMC wheel price | Heavier option on SMC wheels |
+
+★ = estimate or partial figure.
+
+**Picks:**
+- **Value:** Light Bicycle **Pace** (~275g pair) in a custom LB wheel. Same weight as DT 180 for much less.
+- **Reliability first:** **DT Swiss 240 EXP** (~295g). Only ~20g heavier than the 180 at about half the price.
+- **On an SMC wheelset:** choose **RHET**, not Hubsmith (~130g lighter).
+- **Budget:** Bitex (~380g). About 100g heavier than the light options.
+- Rotors are centerlock (Carbon-Ti X-Rotor), so buy **centerlock** hubs.
+
+*Sources (6 Oct 2026): [Carbon-Ti X-Hub SP rear](https://r2-bike.com/CARBON-TI-Rear-Hub-X-Hub-SP-Center-Lock-X-12-for-12x142-mm-Thru-Axle-24-Hole-Freehub-Shimano-SRAM-Road), [Carbon-Ti X-Hub SP front](https://r2-bike.com/CARBON-TI-Front-Hub-X-Hub-SP-6-Hole-QR12-for-12x100-mm-Thru-Axle), [DT Swiss 180 front](https://www.sigmasports.com/item/DT-Swiss/180-Straight-Pull-Disc-100x12mm-Front-Hub/MMZZ), [DT Swiss 180 rear](https://www.sigmasports.com/item/DT-Swiss/180-Straight-Pull-Disc-Shimano-142x12mm-Rear-Hub/MN09), [Light Bicycle DT 180 measured](https://www.lightbicycle.com/photowall/DT-Swiss-180-EXP-road-disc-hub-shimano-road-11s-measured-weight.html), [Modern Bike DT 180 rear](https://www.modernbike.com/dt-swiss-180-exp-rear-hub---12-x-142mm-24h-center-lock-hg-11), [NOBL actual hub weights](https://noblwheels.com/blog/actual-hub-weights/), [Wheelbuilder DT 240 EXP front](https://wheelbuilder.com/dt-swiss-240-exp-center-lock-disc-front-hub/), [DT Swiss 350 road](https://www.dtswiss.com/en/components/hubs-and-rws/hubs-road/350), [JE James DT 350](https://www.jejamescycles.com/product/18239146/dt-swiss-dt-swiss-350-classic-rear-disc-centre-lock-142x12mm-shimano-hg/option/), [Extralite HyperRear2+](https://www.extralite.com/Products/HyperRear2+.htm), [Extralite 142×12 conversion kit](https://r2-bike.com/EXTRALITE-Conversion-Kit-for-HyperRear-HyperCamber-Hyper-JR-Nabe-to-Thru-Axle-12-x-142-mm-X-12-E-Thru-Maxle-142), [Tune Kong](https://en.tune.de/produkt/hubs/disc-hubs/kong.html), [Bitex BX106F](https://www.modernbike.com/bitex-bx106f-cl-disc-hub-front-12x100-ta-32h-black), [Bitex BX106R](https://www.bikehubstore.com/product-p/bx106r.htm), [Light Bicycle Pace hub](https://www.lightbicycle.com/pace-hub-36t-ratchet-system-road-cx-gravel-hub.html), [Light Bicycle Plus hubs](https://www.lightbicycle.com/newsletter/introducing-the-plus-series-hubs.html), [Chris King R45D](https://chrisking.com/products/r45d-centerlock-rear), [Novatec 792](https://wheelproject.com/product/novatec-792-is-rear-hub/), [SMC 406 wheelset (RHET vs Hubsmith)](https://www.smcbike.com/products/carbon-rims-wheels/20-406-carbon-rim-wheel/144-20-406-carbon-wheelset-for-birdy-bike-disc-brake.html).*
+
 ## Tyres
 
 | Option | Weight | Notes |
@@ -636,7 +667,7 @@ The rest of this table is built for the classic Brompton rear frame and Brompton
 
 **Takeaways for the build:**
 - **Ti Parts Workshop (TPW) hanger:** same part as the build's GRP-22B. Brompton Kitchen lists it at $62, vs S$79 on Carousell SG and US$100 at Brombacher.
-- **H&H 600mm carbon seatpost (287g)** is worth comparing with the HEXATI Ti post (268g bare, ~370-400g with Pentaclip).
+- **H&H carbon seatposts (600mm 287g)**: ⚠️ **ruled out for you.** Carbon posts are excluded because of the Thule Yepp Nexxt 2 Maxi seatpost clamp (see § Seatpost).
 - **H&H G Line seatpost clamp (46g)** and the Ti hinge clamps only help if the T20 copies those G Line parts exactly. Ask Chris Yeo.
 
 *Sources (7 Oct 2026): [Brompton Kitchen G Line collection](https://bromptonkitchen.com/en-us/collections/g-line-accessories), [Ti Parts Workshop G Line Dropout Hanger](https://bromptonkitchen.com/en-us/products/ti-parts-workshop-g-line-dropout-hanger), [Shifting Parts](https://bromptonkitchen.com/en-us/collections/speed-upgrade), [H&H G Line Seatpost Clamp](https://bromptonkitchen.com/en-us/products/h-h-g-line-seatpost-clamp), [H&H G Line Hinge Clamp](https://bromptonkitchen.com/en-us/products/h-h-g-line-hinge-clamp), [H&H G Line stem catcher knob](https://bromptonkitchen.com/en-us/products/h-h-g-line-stem-catcher-knob), [H&H G Line stem cap Garmin](https://bromptonkitchen.com/en-us/products/h-h-g-line-stem-cap-with-garmin-mount), [Ti Parts Workshop G Line](https://bromptonkitchen.com/en-us/collections/g-line-accessories/ti-parts-workshop), [G Line seatposts](https://bromptonkitchen.com/en-us/collections/g-line-accessories/seatpost), [H&H Seatpost Carbon 600mm](https://bromptonkitchen.com/en-us/products/h-h-seatpost-carbon-600mm), [H&H Seatpost Titanium](https://bromptonkitchen.com/en-us/products/h-h-seatpost-titanium-v3), [BROMPfication Ti 520mm](https://bromptonkitchen.com/en-us/products/brompfication-titanium-seatpost), [MiniMODs G Line extender](https://bromptonkitchen.com/en-us/products/minimods-easy-wheel-extender-for-g-line), [G Line pedals](https://bromptonkitchen.com/en-us/collections/g-line-accessories/pedal). H&H G Line derailleur spec: hh-designstudio.tw (user screenshot, 6 Oct 2026).*
