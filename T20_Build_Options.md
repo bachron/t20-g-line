@@ -154,16 +154,30 @@ All **110 BCD 5-bolt** (fit the Lightworks spider and the EliLee 110×5 spider).
 | ✅ **Lightworks V2** | Full carbon, wave 1x | **40, 42, 44, 46, 48, 50, 52, 54, 56, 58T** | **10** | 44T 48-50g · 46T 52-55g · **48T 56-60g** · 54T 72-79g | **S$245** (Elite Custom SG, B-Spokes; often sold out) · ~US$149.50 (Fantastic4Toys) |
 | 🆕 **Extralite OctaPhase** | Alloy 7075, narrow-wide, phased | **44, 46, 48, 50, 52, 54T** | **6** | 44T 58g · 46T 62g · **48T 65g** · 54T 79g | **€74.79 (44T) / €82.35 (48T) / €89.92 (54T)** (r2-bike) · US$122-150 (Brombacher; black US$150, silver US$122-147) |
 | 🆕 **Carbon-Ti X-SingleCarbon** | Carbon + 7075 alloy, narrow-wide 1x, made in Italy | **38, 40, 42, 44, 46T** | **5** (max 46T) | 38T 56-57g · 40T 71g · 42T 73g · 44T 82-89g · 46T 89-91g | **€186 (38/40T) · €203.50 (42-46T)** · US$195-250 |
-| Garbaruk round narrow-wide | Alloy | 110×5 1x range (to 54T) | — | 54T 131g | **€65-73** (AERO version €92) · ~US$71 |
+| 🆕 **Garbaruk round** (standard, not AERO) | Alloy 7075, narrow-wide | 110×5 1x, to 54T+ | — | 44T 72g · 46T 82g · **48T 90g** · 50T 98g | **€65-73** · ~US$71 |
+| Garbaruk round **AERO** | Alloy, solid aero face | to 54T+ | — | 44T 94g · 46T 110g · 48T 123g · 50T 140g · 54T ~131g+ | **€92** |
+| 🆕 **SRAM X-Sync road 1x** (Force 1 / Rival 1 / CX1) | Alloy, X-Sync tall teeth | 38-50T | ~6 | 38T 68g · 40T 73g · 42T 75g · 44T 85g · 46T 98g · 48T ~85-131g (varies by version) | **US$50-101** |
+| 🆕 **ALUGEAR round 1x** (standard) | Alloy 7075-T6, narrow-wide | 36-60T | **13** | **48T 88g** | — |
+| ALUGEAR round 1x **AERO** | Alloy | 36-60T | **13** | 44T 97g · 46T 107g · 48T 117g | **US$97.90-161.90** |
+| 🆕 ⭐ **Pass Quest round "hollow"** (5-bolt; sold for Road/**Fold** bikes) | Alloy 7075-T651 CNC, narrow-wide, tall 8.5mm teeth | **36, 38, 40, 42, 44, 46, 48, 50, 52, 54, 56, 58T** | **12** | 36T 49g · 38T 57g · 40T 68g · 42T 73g · 44T 81g · 46T 90g · **48T 103g** · 50T 116g · 54T 139g | **US$42-60** (pq-bike.com) |
+| Pass Quest **AERO** (round or oval) | Alloy, solid face | 42-58T | 9 | 44T 96g · 46T 110g · **48T 120g** | ~US$42-60 |
+| Pass Quest **SPRILL** 3mm offset AERO | Alloy, offset for chainline | — | — | — | **US$80** |
 | absoluteBLACK 1x Gravel Oval | Alloy, oval | Up to 52T | — | 50T 118g · 52T 133g | **US$84-94** |
-| Wolf Tooth 110 BCD 5-bolt | Alloy, Drop-Stop | 38-52T (no 54T in 5-bolt) | — | 50T 125g · 52T 143g | **US$80-130** |
-| Stone 1x narrow-wide | Alloy | 36-60T | wide | heaviest | **~US$42** (budget) |
+| 🆕 **Stone round 1x** | Alloy | 36-60T | wide | **48T 107g** | **~US$42** (budget) |
+| 🆕 **DECKAS round** narrow-wide | Alloy (7075 on some listings), 4mm plate | 36-58T | ~12 | 48T ~106g | **US$9-25** (eBay/Amazon/AliExpress) |
+| Wolf Tooth 110 BCD 5-bolt | Alloy, Drop-Stop | 38-52T (no 54T in 5-bolt) | — | **48T 115g** · 50T 125g · 52T 143g | **US$80-130** |
+| 🆕 **Fibre-Lyte** carbon | Full carbon, **mostly 2x ramped profile** (no confirmed 1x narrow-wide) | custom | — | 38/39T 23g · 50T 54g · 53T 55g | **S$220** (B-Spokes); Brombacher | Lightest carbon, but a **2x ring**: chain retention on a 1x without a guide is a risk |
+| Ridea W3T narrow-wide | Alloy | — | — | 48T 100g | — | ⚠️ Check BCD: most Ridea rings are **130 BCD** |
+| Litepro narrow-wide | Alloy | 46-58T | — | 48T 80g | cheap | ⚠️ **130 BCD**, won't fit. Its 110/130 rings are oval doubles (~260g) |
+| Rotor Q-Rings 110×5 | Alloy, **oval 2x** | — | — | — | US$43-97 | ❌ 2x road rings, not 1x |
 | Praxis | Alloy | to 46T | — | — | — |
 | Carbon-Ti X-CarboRing | Carbon, **2x outer profile** | to 54T | — | 48T ~90g | — (not a 1x ring; use X-SingleCarbon instead) |
 | ❌ Ridea LF | — | 130 BCD | — | 54T 120g | ~US$142 (won't fit) |
 
 **Read-across:**
-- **Lightworks has the most sizes (10) and is the lightest at every size it shares** with the others (44T 48-50g vs Extralite 58g vs Carbon-Ti 82-89g).
+- **Lightworks is the lightest true 1x ring at every size it makes** (48T 56-60g). Pass Quest and ALUGEAR offer the **most sizes** (12-13, from 36T).
+- 🆕 **Pass Quest** (6 Oct): **cheapest decent alloy option** (US$42-60), sold specifically for folding bikes, 12 sizes from **36T** (49g). At 48T it's **103g**, ~45g over the Lightworks. Good spare / budget ring, and the **36-40T** sizes are the cheapest way to try the H&H 8sp route.
+- **Lightest alloy 48T:** Extralite OctaPhase 65g, then ALUGEAR 88g, Garbaruk 90g, Pass Quest 103g, Stone 107g, Wolf Tooth 115g.
 - **Carbon-Ti X-SingleCarbon stops at 46T**, so it can't do your 48T. Its use is the **small rings**: **38T at 56-57g** is the lightest 38T found, which suits the H&H 8sp 11-34T route (38/34 = **1.12:1**). Lightworks starts at 40T.
 - **Extralite OctaPhase** is the cheapest light ring (~€82 at 48T) and alloy, if you'd rather not run carbon.
 
