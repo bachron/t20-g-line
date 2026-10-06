@@ -277,7 +277,7 @@ Spider is **110 BCD, 5-arm** — rings must be 110 BCD **5-bolt**.
 ### Levers (mechanical, flat bar)
 | Option | Weight |
 |---|---|
-| ⭐ **Extralite UltraLevers 3S** (short pull ✅) | **20.5g each / 41g pair** · **€173.04** (~S$260) excl. local tax, +€16.52 for a colour body (Full Black unavailable) |
+| ⭐ **Extralite UltraLevers 3S** (short pull ✅) | **20.5g each / 41g pair** · **€173.04** (~S$260) excl. local tax, +€16.52 for a colour body (Full Black unavailable) · **SG: S$325-355 at 16B Cycle** (Full Black stocked) |
 | Extralite UltraLevers 3 `[8.3kg ref]` (long pull ⚠️) | 22.5g each / 46g pair |
 | Extralite UltraLevers 2+ | 50-52g pair |
 | Growtac Equal levers | — |

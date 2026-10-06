@@ -69,6 +69,7 @@ Weights are **arms + spindle**, 170mm where published.
 | 🆕 **EliLee X-Trecento** | 285g (no spider); 317g with carbon spider | DUB / 24mm | EliLee spider | — | Mid option |
 | 🆕 **EliLee X310** | 310g (arms + spindle) | Alloy **DUB** or **Ti 24mm** | EliLee spider | ~US$436-750 | 25-32g under the Doon. 145-172.5mm |
 | **THM Clavicula M3** | **293-302g** | 30mm | Proprietary THM spider | ~€641+ (2017 list; expect far higher now) | **Only crank lighter than your Doon**, by ~40g. ⚠️ Proprietary spider — you'd abandon the Lightworks spider, and THM 54T availability is **unverified** |
+| 🆕 **Extralite QRC 3S (2025)**, 170mm, 110 BCD, **with ceramic BB** | **420g all-in** (arms + spindle + 110 BCD interface + ceramic BB) | Extralite's own (BB included) | **110 BCD** (Lightworks / OctaPhase rings fit) | **S$1,350 new** (16B Cycle SG) | Compare like with like: Doon ~335-342g + Lightworks spider 36g + BB ~66-80g ≈ **440-460g**, so the QRC 3S is **~20-40g lighter as a system**, for roughly 3× the cost. Silver faded black. ⚠️ Confirm BB fits the T20's BSA shell |
 | ✅ **Praxis Doon** | **~335-342g/pair** | Alloy M30-THRU | 110 BCD via Lightworks spider | — | **Chosen. 2nd lightest of everything tracked and by far the best value** |
 | **e*thirteen XCX Race Carbon** | **<360g** (no ring); ~398g w/ 38T | 30mm (BSA/T47/PF30/BB86/BB30) | ⚠️ **Direct mount only** — e13 UL rings | — | ❌ **Rules itself out: e13's UL DM rings are MTB sizes (~30-38T). No 54T, no 110 BCD spider option** |
 | **Cane Creek eeWings All-Road** `[8.3kg ref]` | **395-400g** | 30mm **titanium** | Direct mount (8-bolt) / spider versions | **US$1,099.99 (~S$1,430)** | Titanium, 10-yr warranty, 20-30% stiffer than carbon. **60g heavier than your Doon for ~S$1,430** |
@@ -209,7 +210,7 @@ From the user's screenshot of the Brombacher (en.brombacher.kr) listing. **Fits 
 | 52T | 75g | — | 1.04 / 1.53 |
 | 54T | 79g | about the same (Lightworks 54T 72-79g) | 1.08 / 1.59 |
 
-Price: not in the screenshot (⏳). **Takeaway:** the **lightest alloy 110×5 ring tracked**, much lighter than Garbaruk (131g @54T), AbsoluteBlack (118g @50T) or Wolf Tooth (125g @50T). At 48T it's only ~5-9g heavier than the Lightworks carbon ring, and alloy wears better and survives knocks in the fold. **A good backup if the Lightworks 48T stays sold out**, or the pick if you'd rather have durability. Smallest size is **44T**, so it doesn't reach the 38-40T ring the H&H 8sp (11-34T) route needs. Bolts: Extralite ExtraBolt (same brand) is already the pick.
+Price: 🆕 **54T black S$195 new at 16B Cycle SG** (listed 80g). **Takeaway:** the **lightest alloy 110×5 ring tracked**, much lighter than Garbaruk (131g @54T), AbsoluteBlack (118g @50T) or Wolf Tooth (125g @50T). At 48T it's only ~5-9g heavier than the Lightworks carbon ring, and alloy wears better and survives knocks in the fold. **A good backup if the Lightworks 48T stays sold out**, or the pick if you'd rather have durability. Smallest size is **44T**, so it doesn't reach the 38-40T ring the H&H 8sp (11-34T) route needs. Bolts: Extralite ExtraBolt (same brand) is already the pick.
 
 ### Chainring Bolts — ported from the extralite session
 
@@ -1171,7 +1172,7 @@ Flat bar, 22.2mm unless noted. Weight per **pair**. Hydraulic levers come with t
 
 | # | Lever | Type | Cable pull | Weight (pair) | Price | Fits plan's calipers? | Notes |
 |---|---|---|---|---|---|---|---|
-| 1 | ✅ **Extralite UltraLevers 3S** | Mechanical | **Short** ✅ (user confirmed, 6 Oct) | **41g** (20.5g each) | **€173.04** (~S$260) non-EU price excl. local taxes, extralite.com; colour body +€16.52 (Orange-Purple, Purple-Turquoise, Silver-Black; Full Black not available) → **€189.56** (~S$285) | ✅ **Yes** | **New pick: lightest lever AND the right pull** for GT-F / Equal / Spyre. 5g lighter than the UL3 |
+| 1 | ✅ **Extralite UltraLevers 3S** | Mechanical | **Short** ✅ (user confirmed, 6 Oct) | **41g** (20.5g each) | **€173.04** (~S$260) non-EU price excl. local taxes, extralite.com; colour body +€16.52 (Orange-Purple, Purple-Turquoise, Silver-Black; Full Black not available) → **€189.56** (~S$285) · 🆕 **SG: S$325-355 new at 16B Cycle** (2025 version, listed 42g; colours incl. **Full Black** in SG) | ✅ **Yes** | **New pick: lightest lever AND the right pull** for GT-F / Equal / Spyre. 5g lighter than the UL3 |
 | 2 | **Extralite UltraLevers 3** `[8.3kg ref]` | Mechanical | **Long (V-brake)** | **46g** (22.5-23g each) | **US$218-249** | ⚠️ **Pull mismatch** with GT-F / Equal / Spyre (short pull) | Replaced by the 3S. The 8.3kg build runs it with Spyre SLC, but expect less braking power than a short-pull lever |
 | 3 | KCNC VB1-7075 | Mechanical | Long (V) | ~48g (24g each) | ~US$150 | ⚠️ Long pull | |
 | 4 | Extralite UltraLevers 2+ | Mechanical | Long (V) | 50-52g | — | ⚠️ Long pull | Previous generation |
@@ -1322,7 +1323,7 @@ Centre-lock (CL) is what your hubs take. 6-bolt rotors need 6-bolt hubs or a CL 
 |---|---|---|---|
 | ⭐ **Ergon GP2 Evo** | **230g** (S) / **~260g** (L) | ~US$44-56 (~S$57-73) | Ergonomic wing grip with integrated **2-finger bar ends**; grip and bar end independently adjustable. The comfort pick — and bar ends add a second hand position, genuinely useful on a city bike you'll ride upright with a child in front |
 | **ESI silicone foam** | ~50-60g/pair | Budget | The weight pick. ~175g lighter than the GP2 Evo, but no bar ends and check durability with a child grabbing at the bar |
-| **Extralite foam** `[8.3kg ref]` | — | — | The 8.3kg build's grips |
+| 🆕 **Extralite HyperGrip 2025** (black) `[8.3kg ref brand]` | **12g/pair** | **S$45 new** (16B Cycle SG, Carousell; viewable at their Ubi shop) | **Lightest grip tracked by far: 218g under the GP2 Evo.** Thin foam, no bar ends, less palm support. Likely what the 8.3kg build used. Grips are always bought new (your rule), so local stock helps |
 | **Lock-on (generic lightweight)** | ~90-120g/pair | Budget-mid | Most secure clamping, middle weight, no bar ends |
 
 **Honest trade:** the GP2 Evo is by far the heaviest grip here — **~175-200g over foam**, which is one of the bigger single-part penalties in the build, comparable to the Brooks saddle decision. But it's also the only option offering bar ends and real palm support. Given this is a city bike ridden upright with a front child seat, that's a defensible spend of grams. Just log it as a deliberate comfort choice, not an oversight.
