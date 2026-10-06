@@ -559,7 +559,23 @@ Cage: **S** = short, **M** = medium (GS), **L** = long (SGS). Shorter = more gro
 
 ### 🆕 Brompton-specialist derailleurs and shifters: H&H, MiniMODs, Thx4Ride (7 Oct 2026)
 
-These are the lightest derailleurs and shifters of all, **but every one is built for the classic Brompton rear frame (A/C/P/T Line) and Brompton-style 4-7 speed cog clusters (max ~25-28T)**. None mounts on the G Line / T20 hanger or runs a 12sp 11-50T cassette. Logged so they're in the list and not re-researched.
+⚠️ **Correction (7 Oct 2026): some of these brands DO make G Line parts.** The table below first lists the **G Line** kits, then the classic-Brompton ones.
+
+#### ✅ G Line derailleur / tensioner kits (compact Brompton-style, not MTB-size)
+
+| Part | Type | Speeds / cassette | Weight | Price | Fit notes |
+|---|---|---|---|---|---|
+| ⭐ **H&H 8-speed Derailleur + Tensioner Set for G Line** | Compact derailleur + tensioner arm + jockey | **8sp, 11-34T** | not published (H&H's 7sp derailleurs are 72-78g) | **£217** (Bikegang UK) / **US$273.50** (Fantastic4Toys) | Made for the G Line. Black / silver / green / orange. ⏳ Confirm it suits the T20's **142×12 thru-axle** dropout (stock G Line is 135mm QR) and which **8sp shifter** it's indexed for |
+| **Suncord 12mm thru-axle carbon chain tensioner, G Line** | Tensioner | (for hub gear / single cog) | **118g ±10** | US$180 | **Thru-axle version**, which matches the T20 dropout. A tensioner, not a derailleur |
+| **Suncord magnetic chain supporter, G Line** | Chain keeper for the fold | — | — | US$23.50-32.50 | Stops the chain dropping when folded |
+| Brompton G Line stock chain tensioner (OEM) | Tensioner | 8sp hub | 267g | — | Baseline for weight comparison |
+| ⏳ **RUHM** | — | — | — | — | You say RUHM fits the G Line. I only found RUHM kits listed for A/C/P/T Line and other trifolds (derailleur 86.5g, tensioner 107.5-110.3g, US$284). **Send the RUHM G Line link/screenshot and I'll add exact specs** |
+
+**Why this matters for the build:** a compact G Line kit like H&H's is **much lighter than an MTB derailleur** (likely ~100-200g with tensioner vs 237-283g for XTR/XT) and keeps the derailleur tucked in for the fold. The trade-off is range: **11-34T max**, so the easiest gear with your 48T ring is **1.41:1** (plan 0.96). A **38-40T ring** brings it to ~1.12-1.18. It's a real alternative if you accept a smaller ring and 8 speeds.
+
+#### ❌ Classic Brompton only (A/C/P/T Line)
+
+The rest of this table is built for the classic Brompton rear frame and Brompton-style 4-7 speed clusters (max ~25-28T). Logged so they're in the list and not re-researched.
 
 | Part | Type | Weight | Price | Fits T20 / G Line? | Notes |
 |---|---|---|---|---|---|
