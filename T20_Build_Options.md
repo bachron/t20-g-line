@@ -565,13 +565,13 @@ Cage: **S** = short, **M** = medium (GS), **L** = long (SGS). Shorter = more gro
 
 | Part | Type | Speeds / cassette | Weight | Price | Fit notes |
 |---|---|---|---|---|---|
-| ⭐ **H&H 8-speed Derailleur + Tensioner Set for G Line** | Compact derailleur + tensioner arm + jockey | **8sp, 11-34T** | not published (H&H's 7sp derailleurs are 72-78g) | **£217** (Bikegang UK) / **US$273.50** (Fantastic4Toys) | Made for the G Line. Black / silver / green / orange. ⏳ Confirm it suits the T20's **142×12 thru-axle** dropout (stock G Line is 135mm QR) and which **8sp shifter** it's indexed for |
+| ⭐ **H&H 8-speed Derailleur + Tensioner Set for G Line** | Compact derailleur + tensioner arm + jockey | **8sp, 11-34T** | **187g total: derailleur 78g + tensioner with pulleys 109g** (H&H official spec, hh-designstudio.tw) | **£217** (Bikegang UK) / **US$273.50** (Fantastic4Toys) | Made for the G Line. Aluminium. Black / silver / green / orange. ✅ **Needs a 142mm thru-axle wheelset**, which the T20 plan already has. The stock G Line rear is an Alfine hub-gear wheel, so a G Line build needs the 142×12 wheel and hanger anyway. ⏳ Still to confirm: which **8sp shifter** it's indexed for |
 | **Suncord 12mm thru-axle carbon chain tensioner, G Line** | Tensioner | (for hub gear / single cog) | **118g ±10** | US$180 | **Thru-axle version**, which matches the T20 dropout. A tensioner, not a derailleur |
 | **Suncord magnetic chain supporter, G Line** | Chain keeper for the fold | — | — | US$23.50-32.50 | Stops the chain dropping when folded |
 | Brompton G Line stock chain tensioner (OEM) | Tensioner | 8sp hub | 267g | — | Baseline for weight comparison |
 | ⏳ **RUHM** | — | — | — | — | You say RUHM fits the G Line. I only found RUHM kits listed for A/C/P/T Line and other trifolds (derailleur 86.5g, tensioner 107.5-110.3g, US$284). **Send the RUHM G Line link/screenshot and I'll add exact specs** |
 
-**Why this matters for the build:** a compact G Line kit like H&H's is **much lighter than an MTB derailleur** (likely ~100-200g with tensioner vs 237-283g for XTR/XT) and keeps the derailleur tucked in for the fold. The trade-off is range: **11-34T max**, so the easiest gear with your 48T ring is **1.41:1** (plan 0.96). A **38-40T ring** brings it to ~1.12-1.18. It's a real alternative if you accept a smaller ring and 8 speeds.
+**Why this matters for the build:** a compact G Line kit like H&H's is **much lighter than an MTB derailleur**: **187g for derailleur + tensioner** vs 237-283g for an XTR/XT derailleur alone (50-96g saved) and keeps the derailleur tucked in for the fold. The trade-off is range: **11-34T max**, so the easiest gear with your 48T ring is **1.41:1** (plan 0.96). A **38-40T ring** brings it to ~1.12-1.18. It's a real alternative if you accept a smaller ring and 8 speeds.
 
 #### ❌ Classic Brompton only (A/C/P/T Line)
 
@@ -592,6 +592,38 @@ The rest of this table is built for the classic Brompton rear frame and Brompton
 **Why they don't carry over:** the T20 uses a G Line-pattern hanger and a full-size 12sp MTB derailleur range (45-51T). These Brompton kits are designed around the classic rear triangle and small 7-speed clusters.
 
 *Sources (7 Oct 2026): [BZ Sport H&H Dual Tap](https://bzsportcycles.com/product/hh-7-speed-shifter-brompton/), [BZ Sport H&H SQT](https://bzsportcycles.com/product/hh-innovation-hh-sqt-tap-shifter-brompton/), [BZ Sport H&H 7sp derailleur sets](https://bzsportcycles.com/product/hh-innovation-hh-7-speed-tensioner-derailleur-set-dt-series-brompton-a-c-line/), [Fantastic4Toys H&H derailleur](https://www.fantastic4toys.com/en-gb/products/h-h-2024-derailleur-only-for-brompton-bicycle), [Fantastic4Toys MiniMODs X Series](https://www.fantastic4toys.com/products/minimods-x-series-7-speed-derailleur-tensioner-set-for-brompton-bicycle-a-c-e-line), [Clever Cycles MiniMODs 7sp kit](https://clevercycles.com/products/minimods-7-speed-upgrade-kit-for-brompton-bicycle-p-t-line-11-32-black), [16B Cycle Thx4Ride Ti Derailleur Kitz](https://www.16bcycle.com/products/thx4ride-titanium-derailleur-kitz-for-c-p-t-line).*
+
+### 🆕 Brompton Kitchen: G Line parts (shop, 7 Oct 2026)
+
+**Brompton Kitchen** (bromptonkitchen.com) is an **H&H authorised dealer** that also stocks Ti Parts Workshop, BROMPfication, MiniMODs, Lightworks, Ridea and DCCH, with a **G Line accessories** section. Their site is blocked from this session, so figures come from search snippets. **Prices are from the site's en-us pages; currency not confirmed** (likely USD). Send screenshots to confirm.
+
+| Part | Weight | Price | Fits T20? | Notes |
+|---|---|---|---|---|
+| ⭐ **Ti Parts Workshop G Line Dropout Hanger** (142×12 thru-axle, GRP-22B pattern) | **54g / set** | **$62** | ✅ Same job as the TPW hanger (S$79) | Also a 135mm QR version. Lets the G Line take standard wheels and external derailleurs |
+| **H&H G Line external gear set** | — | **$302** | ✅ | ⚠️ Snippet calls it **7-speed**, while H&H's own page and Bikegang say **8-speed 11-34T**. Probably the same set (official 8sp spec 187g: 78g + 109g); confirm with a screenshot |
+| **H&H G Line Seatpost Clamp** | **~46g** | $104 | ⚠️ Only if the T20 seat clamp is G Line pattern | AL6061 + Ti6Al4V |
+| **H&H G Line Hinge Clamp** (alloy, pair) | — | — | ⚠️ T20 hinge pattern unconfirmed | Stops the clamp plates rotating |
+| **H&H Hinge Clamp Titanium for G Line** | — (A/C/P Ti version is 71g/set, T Line ~75g) | **$135** | ⚠️ As above | |
+| **H&H G Line stem catcher knob** | — | — | ⚠️ | Narrows the folded width |
+| **Ti Parts Workshop G Line Stem Knob** | — | **$23 Ti** / $16 alloy | ⚠️ | |
+| **Ti Parts Workshop Ti Bolts for G Line** | — | **$72** | ⚠️ Bolt sizes may differ on the T20 | |
+| H&H G Line stem cap with Garmin mount | — | — | ✅ if same steerer cap | |
+| **H&H Pedal Holder (fork) for T & G Line** | — | $28 | ✅ likely | For QR pedals in the fold |
+| Chris King Inset7 + Ti Parts adapter (T and G Line) | — | — | ⚠️ Check the T20 head tube | Headset upgrade |
+| **MiniMODs Easy Wheel extender for G Line** | (114.59g, already in §3b) | — | ✅ | Sold out at time of search |
+| **H&H Seatpost Carbon 600mm**, 31.8mm | **287g** | — | ✅ 31.8mm | Carbon, lighter than most Ti posts |
+| H&H Seatpost Carbon 540mm | — | $175 | ✅ 31.8mm | |
+| H&H Seatpost Titanium (SC) 540/600mm | ~357g (540) | from $279 | ✅ | Heavier than HEXATI (268g bare) |
+| BROMPfication Ti Seatpost 520/580mm | 310g ±10 | $238 | ✅ | Already in § Seatpost |
+| Schmolke TLO Carbon Seatpost | — | — | ✅ | Premium carbon |
+| H&H Carbon Handlebar Low riser (T, G, P MK2) | — | — | ✅ | |
+
+**Takeaways for the build:**
+- **Ti Parts Workshop hanger (54g, $62)** is a cheaper alternative to the TPW hanger (S$79) for the same 142×12 setup.
+- **H&H 600mm carbon seatpost (287g)** is worth comparing with the HEXATI Ti post (268g bare, ~370-400g with Pentaclip).
+- **H&H G Line seatpost clamp (46g)** and the Ti hinge clamps only help if the T20 copies those G Line parts exactly. Ask Chris Yeo.
+
+*Sources (7 Oct 2026): [Brompton Kitchen G Line collection](https://bromptonkitchen.com/en-us/collections/g-line-accessories), [Ti Parts Workshop G Line Dropout Hanger](https://bromptonkitchen.com/en-us/products/ti-parts-workshop-g-line-dropout-hanger), [Shifting Parts](https://bromptonkitchen.com/en-us/collections/speed-upgrade), [H&H G Line Seatpost Clamp](https://bromptonkitchen.com/en-us/products/h-h-g-line-seatpost-clamp), [H&H G Line Hinge Clamp](https://bromptonkitchen.com/en-us/products/h-h-g-line-hinge-clamp), [H&H G Line stem catcher knob](https://bromptonkitchen.com/en-us/products/h-h-g-line-stem-catcher-knob), [H&H G Line stem cap Garmin](https://bromptonkitchen.com/en-us/products/h-h-g-line-stem-cap-with-garmin-mount), [Ti Parts Workshop G Line](https://bromptonkitchen.com/en-us/collections/g-line-accessories/ti-parts-workshop), [G Line seatposts](https://bromptonkitchen.com/en-us/collections/g-line-accessories/seatpost), [H&H Seatpost Carbon 600mm](https://bromptonkitchen.com/en-us/products/h-h-seatpost-carbon-600mm), [H&H Seatpost Titanium](https://bromptonkitchen.com/en-us/products/h-h-seatpost-titanium-v3), [BROMPfication Ti 520mm](https://bromptonkitchen.com/en-us/products/brompfication-titanium-seatpost), [MiniMODs G Line extender](https://bromptonkitchen.com/en-us/products/minimods-easy-wheel-extender-for-g-line), [G Line pedals](https://bromptonkitchen.com/en-us/collections/g-line-accessories/pedal). H&H G Line derailleur spec: hh-designstudio.tw (user screenshot, 6 Oct 2026).*
 
 ### 📋 Flat-bar shifter list (all brands, lightest first)
 
