@@ -112,7 +112,8 @@ Your spider is **110 BCD, 5-arm**, so rings must be 110 BCD **5-bolt**.
 | Option | BCD / bolts | 54T available? | Weight @54T | Price | Notes |
 |---|---|---|---|---|---|
 | ✅ **Lightworks V2 Ultralight Carbon** | 110, **5-arm** | ✅ Yes | **79g** | ~US$149.50 (~S$195) | **Lightest 54T found anywhere — by 36g.** Full carbon, wave/narrow-wide 1X tooth profile, 10/11/12sp incl. AXS. Available in SG (KaiCycle, Carousell) |
-| **Garbaruk** | 110, **5-bolt** | ✅ Yes | **131g** | — | Lightest *alloy* 54T. +52g over Lightworks |
+| 🆕 **Extralite OctaPhase** (alloy, narrow-wide) | 110, **5-bolt** | ✅ Yes | **79g** (48T **65g**) | ⏳ | **Lightest alloy ring tracked**, same weight as the Lightworks carbon at 54T. Sizes 44-54T. See table below |
+| **Garbaruk** | 110, **5-bolt** | ✅ Yes | **131g** | — | Heavy for alloy. +52g over Lightworks |
 | **Carbon-Ti X-CarboRing EVO** | 110 × **4-arm** | ✅ Yes | 115g | — | ⚠️ **4-arm, not 5.** Previously listed in this doc as a 110 BCD alternative — **it will not fit your 5-arm Lightworks spider.** Correction |
 | **Stone Chainrings** | 110, 5-bolt | ✅ Yes (54/41T 2x set = 199g) | — (1x figure unpublished) | Budget | Huge size range (36-60T). Heaviest of the credible options |
 | **AbsoluteBlack** | 110, 5-bolt | ❌ Not found above 52T | 50T = 118g, 52T = 133g | Premium | Oval and round, but the range stops short of 54T |
@@ -143,6 +144,21 @@ With the 11-50T cassette on 20×2.0 tyres (~506mm wheel):
 **Why:** the stated priority is easier low gears over top speed. 48T makes every gear 11% easier, including the one used on ramps with a child aboard. The only loss is top speed above ~37 km/h, which you won't reach riding with a child in the city. It also keeps 11-speed viable and saves ~15-20g. Same ring family, same 110 BCD 5-arm fit on the Lightworks spider, and the 8.3kg reference build runs the same ring.
 
 ⚠️ **Availability:** Elite Custom SG lists the 110 BCD 48T as **sold out** (SGD 245, same price as the 54T). Check KaiCycle / Carousell or SpinWarriors (ID).
+
+### 🆕 Extralite OctaPhase narrow-wide ring, 110 BCD 5-bolt (6 Oct 2026)
+
+From the user's screenshot of the Brombacher (en.brombacher.kr) listing. **Fits the Lightworks 1X spider and the EliLee 110×5 spider** (110 BCD, 5 bolts). 1x-only narrow-wide, phased teeth, CNC AL7075-T6, hard-black anodised. Works with 8-12sp chains.
+
+| Size | Weight | vs Lightworks V2 carbon (same size) | Easiest gear on 11-50T / 11-34T |
+|---|---|---|---|
+| 44T | **58g** | — | 0.88 / 1.29 |
+| 46T | 62g | — | 0.92 / 1.35 |
+| **48T** (your size) | **65g** | **+5-9g** (Lightworks 56-60g) | **0.96** / 1.41 |
+| 50T | 69g | — | 1.00 / 1.47 |
+| 52T | 75g | — | 1.04 / 1.53 |
+| 54T | 79g | about the same (Lightworks 54T 72-79g) | 1.08 / 1.59 |
+
+Price: not in the screenshot (⏳). **Takeaway:** the **lightest alloy 110×5 ring tracked**, much lighter than Garbaruk (131g @54T), AbsoluteBlack (118g @50T) or Wolf Tooth (125g @50T). At 48T it's only ~5-9g heavier than the Lightworks carbon ring, and alloy wears better and survives knocks in the fold. **A good backup if the Lightworks 48T stays sold out**, or the pick if you'd rather have durability. Smallest size is **44T**, so it doesn't reach the 38-40T ring the H&H 8sp (11-34T) route needs. Bolts: Extralite ExtraBolt (same brand) is already the pick.
 
 ### Chainring Bolts — ported from the extralite session
 
