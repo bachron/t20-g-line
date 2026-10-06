@@ -456,12 +456,13 @@ You can pick your own hub for a custom 406 build (Light Bicycle rims, or SMC wit
 
 📌 **This is almost certainly your frame.** Chris Yeo (Bromprr) supplies HEXATI, and COMEPLAY/Aerotibike — already in your vendor comparison — is the same operation. **Budget 1,351g for the main frame** until he confirms otherwise. That fills the largest blank in the build total.
 
-### Rear triangle (real spread here — 633g to ~800g)
+### Rear triangle (real spread here — 368g carbon to ~800g Ti)
 
 | Option | Weight | Axle | Price | Notes |
 |---|---|---|---|---|
 | ⭐ **tibicycles Ultra-Light Ti rear fork/triangle (G Line)** | **633.5g** | **142mm thru-axle** (converts from 135mm QR) | US$830-1,360 (~S$1,080-1,770) | Aerospace Ti. ~50% under the 1,240g stock steel |
 | **EasyTi 2025 G Line Ti rear triangle** | **~430g ±8g** (one listed spec) | — | ~US$150-850 (~S$195-1,105) | Claims "saves 40%, 100% compatible with G Line", customisable. ⚠️ **430g looks implausibly low against the 633g figure above — verify before believing it** |
+| 🆕 ⭐ **TiAtom carbon rear triangle (G Line)** — eBay seller **TiSpace2011** | **~368g** (stock G Line rear triangle 1,211.5g) | ⏳ not stated | ⏳ price not seen (fork alone US$550) | **Lightest rear triangle found by far: ~265g under the tibicycles Ti (633g), ~843g under stock.** Carbon, 3-year warranty, sold as fork / rear triangle / set. ⚠️ Before buying: confirm **142×12 thru-axle** and that it takes the **TPW external-derailleur hanger**; confirm the **load rating with the child on the Thule Yepp** (seatpost-mounted, so the rear triangle carries the child's weight); check the suspension-block and fold interface. Relevant to **G1/G2 only** (the T20 uses its HEXATI Ti triangle) |
 | **Titanium-DX Ti rear triangle (G Line)** | **~800g** | — | US$399 (~S$519) as carbon-fork + Ti-triangle set | Heaviest of the three, but the set price is by far the cheapest |
 | **HEXATI T20 Elite rear fork** | — | **142 × 12mm thru-axle** | (in complete bike) | Ti with **3D-printed dropout** |
 | Stock Brompton G Line steel | 1,240g | 135mm QR | — | Baseline |
@@ -498,6 +499,7 @@ Spec: Ti main frame w/ 3D-printed hinge; Ti rear fork w/ 3D-printed dropout, **1
 | 3 | **Stock HEXATI** | Carbon | Chris Yeo | The fork included in the S$2,900 bundle |
 | — | **AceOfix** | Carbon | Bought separately | The other separately-sourced fork considered |
 | — | **Titanium-DX carbon fork (G Line)** | Carbon, **290g** | eBay | Newly tracked. Published weight — the SilverRock is ~75-100g heavier (365g fork / 388g with axle) |
+| — | 🆕 **TiAtom carbon fork (G Line)** — seller **TiSpace2011** (eBay) | Carbon, **~388g** (stock G Line fork 753g) | eBay, **US$550 new** (~S$715 + shipping). Colours incl. orange, grey, white | Saved seller (6 Oct 2026): TiSpace2011, 28 feedback, 100% positive, **3-year warranty**. Listing says "1:1 re-engrave G Line/T Line". **Same 388g as the SilverRock**, so likely the same OEM fork; the SilverRock is cheaper locally (S$659, no shipping). Axle/steerer spec not stated |
 | — | **EasyTi Ti fork (G Line)** | Titanium, ~290g ±8g claimed | eBay | ⚠️ Claim unverified |
 | — | **HEXATI T20 Elite front fork** | Full Ti, 3D-printed ex steerer, 100×12mm thru-axle, **439g** (HEXATI press release) | Chris Yeo | The fork in the complete-bike spec |
 
