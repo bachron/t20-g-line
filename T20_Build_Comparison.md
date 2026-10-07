@@ -6,16 +6,24 @@
 
 | Build | What you buy | What gets replaced |
 |---|---|---|
-| **T20-A: complete bike** | The whole T20 from Chris Yeo, **Shimano 105 groupset**, S$2,900 (your figure) | Most components, following the parts plan. Frame, frame hardware, headset and fork are kept; stock parts are sold |
-| **T20-B: frame only** | T20 Ti frameset from Chris Yeo, unassembled (S$2,900 incl. Ti stem) | Everything: all parts bought separately |
+| **T20-A: complete bike** | The whole T20 from Chris Yeo, **Shimano 105 groupset**, **S$3,200** (confirmed 7 Oct) | Most components, following the parts plan. Frame, frame hardware, headset and fork are kept; stock parts are sold |
+| **T20-B: frame only** | T20 Ti frameset from Chris Yeo, unassembled (**S$2,960** incl. Ti stem + carbon fork, confirmed 7 Oct) | Everything: all parts bought separately |
 | **G1 / G2: used G Line** | Used Brompton G Line, **main frame kept** | Everything except the main frame. G1 and G2 differ in the rear end (§6) |
 | 🆕 **L: Leggero GT Voyager** | Complete bike with a **titanium stem** (your figures: **~10kg, under S$6,000**) | Stock for now; not yet costed part by part (§6b) |
 
 > ✅ **Nothing has been bought yet (confirmed 25 Sep 2026).**
 >
-> ⚠️ **Price check needed on T20-A.** Your notes (§6 of `T20_Build_Plan.md`) have Chris Yeo's complete **T20 Lite with Shimano 105 at S$3,200**, and **S$2,900 as the frameset** (Ti frame + Ti triangle + Ti stem + carbon fork). If the complete bike really is S$2,900, T20-A is the clear winner (you'd get the whole groupset free). Confirm which price is right. T20-A is costed at S$2,900 below, with the S$3,200 case shown too.
+> ✅ **Chris Yeo prices confirmed (7 Oct 2026).** There is no S$2,900 price; that figure was a mistake in earlier notes.
 >
-> **What the S$2,900 frameset (T20-B) includes:** Ti main frame + Ti rear triangle + **Ti stem** + **carbon front fork** (not Ti). The plan drops that carbon fork for a credit (TBC) and buys the Silverock separately.
+> | Chris Yeo option | Price (S$) |
+> |---|---|
+> | Complete bike, standard Shimano 105 (carbon stem, carbon fork) | **3,200** |
+> | Complete bike with Ti stem | ⏳ unsure |
+> | Full Ti spec: Ti stem + Ti fork | 5,800 (⏳ complete bike or frameset? to confirm) |
+> | Frameset: Ti frame + triangle + **Ti stem** + carbon fork | **2,960** |
+> | Frameset: Ti frame + triangle + carbon stem + carbon fork | 2,400 |
+>
+> ⚠️ **HEXATI's stock carbon fork is a T Line design**, not G Line. Before keeping it (T20-A or T20-B), check: front axle (100×12 thru-axle for the SMC wheels?), brake mount (flat mount, 140/160mm), steerer/headset pattern (the build assumes G Line pattern and the WOOdman Axis BPT headset), fold hook/roller fit, and weight. If any fail, add the Silverock (S$659 new).
 
 ---
 
@@ -24,17 +32,17 @@
 | | **T20-A: complete bike** | **T20-B: frame only** | **G1: G Line + tibicycles Ti triangle** | **G2: G Line + Titanium-DX set** |
 |---|---|---|---|---|
 | **Weight** (no child seats, lights or mudguards) | **~8.6-9.0 kg** (stock fork weight unknown) | **~8.5-9.0 kg** | ~9.5-9.9 kg | ~9.6-10.0 kg |
-| **Net cost, used parts where allowed** | **~S$5,500-6,900** (at S$3,200: ~S$5,800-7,200) | ~S$7,200-8,100 | ~S$6,800-9,500 | ~S$5,900-7,800 |
-| Cash out before reselling stock parts | ~S$7,000-7,700 | same as net | ~S$8,400-10,300 | ~S$7,400-8,600 |
+| **Net cost, used parts where allowed** | **~S$5,900-7,300** | ~S$6,900-7,700 (stock fork) / ~S$7,300-8,200 (+ Silverock) | ~S$6,800-9,500 | ~S$5,900-7,800 |
+| Cash out before reselling stock parts | ~S$7,400-8,100 | same as net | ~S$8,400-10,300 | ~S$7,400-8,600 |
 | **Comfort** | Same contact points | Same | Same | Same |
 | Carrying the folded bike | **Lightest** | **Lightest** | ~1 kg heavier | ~1 kg heavier |
 | Hassle | Medium: strip a new bike, sell the 105 groupset and other stock parts | **Low**: buy parts only | High | High |
 
 ### Verdict
 
-**One of the T20 builds. Which one depends on the complete bike's real price.**
+**One of the T20 builds. T20-A is cheaper on paper, if the stock parts resell.**
 
-- **T20-A vs T20-B:** the frame is the same, so weight is the same. T20-A also comes with the frame hardware, headset, fork, hanger and thru-axle, and a new 105 groupset to sell. **At S$2,900, T20-A is ~S$1,400 cheaper** at the midpoints, once stock parts are sold. **At S$3,200, it's still ~S$1,100 cheaper**, if the parts resell. Part of the gap is the fork: T20-A keeps the bundled carbon fork, while T20-B buys the Silverock at S$659 new. If you'd rather not sell a groupset on Carousell, T20-B is the simpler route for about the same cash out.
+- **T20-A vs T20-B:** the frame is the same, so weight is the same. T20-A also comes with the frame hardware, headset, fork, hanger and thru-axle, and a new 105 groupset to sell. **At S$3,200, T20-A is ~S$700 cheaper** at the midpoints than T20-B with the stock fork (~S$1,100 cheaper than T20-B with the Silverock), if the parts resell. Both come with the same T Line-design carbon fork, so if it doesn't suit the G Line wheels, both need the Silverock (+S$659). If you'd rather not sell a groupset on Carousell, T20-B is the simpler route for about the same cash out.
 - **T20 vs G Line:** the T20 is ~1 kg lighter for about the same money or less. The Ti main frame alone saves 939g, and nothing else in the project saves weight that cheaply (~S$0.65/g).
 - **Comfort is a tie.** Every build uses the same saddle, grips, bar, tyres and wheels, and those set the ride feel, not the frame material. The difference you'll feel is carrying the folded bike.
 - **Where the G Line is better:** a genuine Brompton main frame and hinge, with its proven fold and resale value.
@@ -121,16 +129,16 @@ G Line layout (Brompton's own spec): **70mm roller wheels on the frame** (and fr
 |---|---|---|---|---|
 | Main frame + rear triangle | **Keep** | 1,351 + 633 | in bike price | |
 | Frame hardware + headset | **Keep** | ~250-350 + stock headset | in bike price | Saves ~S$300-450 hardware and the S$85-155 WOOdman headset |
-| Fork (HEXATI carbon) | **Keep** | ⏳ not published | in bike price | Saves buying the Silverock (S$659 new) |
+| Fork (HEXATI carbon, **T Line design**) | **Keep** if it fits | ⏳ not published | in bike price | Saves buying the Silverock (S$659 new). ⚠️ Check axle, brake mount and headset pattern first (see top) |
 | Hanger | **Replace** with TPW GRP-22B | 54 | **79** | For the external-derailleur conversion (your call, 26 Sep: every build gets it). S$79 new, ready stock SG |
 | Rear thru-axle | **Keep** | ~40 ★ | in bike price | |
-| **Stem** | ⚠️ **Must change to Ti** | 450-560 | **~+500 ★** | Carbon stem doesn't fit the Yepp Mini. ~S$500 is the frameset's carbon→Ti price step. Ask if the complete bike can be ordered with the Ti stem |
+| **Stem** | ⚠️ **Must change to Ti** | 450-560 | **~+560 ★** | Carbon stem doesn't fit the Yepp Mini. S$560 is the frameset's carbon→Ti price step (S$2,400 → S$2,960). Complete bike + Ti stem price still unknown |
 | **Seatpost** | ⚠️ **Must change** | (in shared list) | (in shared list) | Carbon post can't take the Yepp Nexxt clamp |
 | Drivetrain, brakes, bar, wheels, tyres, saddle | Replace (shared list, minus headset) | 5,224-5,466 | 3,169-3,882 used-mix | |
 | Resale: 105 groupset, 3DO crank, cassette, carbon stem/bar/seatpost, wheels, tyres | Sell | — | **−800 to −1,500 ★** | New, unused parts should sell better than used ones |
-| **Bike price** | | — | **2,900** (or 3,200) | |
+| **Bike price** | | — | **3,200** | Confirmed 7 Oct |
 | **+ Rolling and fold kit** (§3b) | Add | ~313 | 349 | Replaces the stock rollers |
-| **T20-A total** | | **~8,567-9,027** | **~5,531-6,934** (at S$3,200: ~5,831-7,234) | |
+| **T20-A total** | | **~8,567-9,027** | **~5,891-7,294** | +S$659 if the stock fork must be replaced |
 
 **Pros**
 - Cheapest T20 route if the stock parts sell. The frame hardware, headset, fork, hanger and thru-axle all come with it.
@@ -152,14 +160,15 @@ G Line layout (Brompton's own spec): **70mm roller wheels on the frame** (and fr
 | Main frame | HEXATI Ti G Line | 1,351 | ⬇ in frameset | | |
 | Rear triangle | HEXATI Ti, 142×12 | 633 | ⬇ in frameset | | |
 | Stem | HEXATI Ti | 450-560 | ⬇ in frameset | | Weight unpublished; budget range |
-| **Frameset** | Chris Yeo bundle | — | **2,900** | **2,900** | New only. **Less the fork credit (TBC)** |
-| Fork | Silverock carbon, 100×12 | 388 | **659** | 362-461 | New price confirmed (Carousell SG, 26 Sep) |
+| **Frameset** | Chris Yeo bundle: Ti frame + triangle + Ti stem + carbon fork | — | **2,960** | **2,960** | New only. Confirmed 7 Oct |
+| Fork | Stock HEXATI carbon (**T Line design**), in frameset; **or** Silverock carbon, 100×12 | ⏳ / 388 | 0 / **659** | 0 / 362-461 | Silverock only if the stock fork doesn't fit (axle, brake mount, headset). Weights below use the Silverock |
 | Dropout hanger | TPW GRP-22B, 142×12 | 54 | **79** | 79 | Ready stock SG, S$79 new (Carousell) |
 | Rear thru-axle | M12×1.5, 160mm | ~40 ★ | 50 ★ | 50 | Not included with SMC wheels |
 | Frame hardware | Seatpost clamp, hinge clamps/levers, rear block, E-hook (roller wheels now in §3b) | 200-300 ★ | 250-400 ★ | 170-270 | Needed because the frame comes **unassembled** |
 | **+ Rolling and fold kit** | §3b | ~313 | 349 | 349 | MiniMODs + roller wheels |
 | **+ Shared parts** | | 5,329-5,571 | 5,468 | 3,254-3,990 | |
-| **T20-B total** | | **8,548-8,960** | **9,756-9,906** | **7,198-8,123** | |
+| **T20-B total, stock fork** | | 8,160-8,572 + stock fork | **9,157-9,307** | **6,896-7,722** | |
+| **T20-B total, + Silverock** | | **8,548-8,960** | **9,816-9,966** | **7,258-8,183** | |
 
 **Pros**
 - Lightest build, with nothing to sell afterwards.
@@ -167,8 +176,8 @@ G Line layout (Brompton's own spec): **70mm roller wheels on the frame** (and fr
 - Chris Yeo is local.
 
 **Cons**
-- Most expensive T20 route: you pay for frame hardware, headset, fork, hanger and thru-axle separately.
-- Open questions: fork credit, stem weight. (Brake mount resolved 26 Sep: flat mount.)
+- Most expensive T20 route: you pay for frame hardware, headset, hanger and thru-axle separately (the carbon fork is now in the S$2,960 frameset).
+- Open questions: does the T Line-design stock fork fit (axle, brake mount, headset), stock fork weight, stem weight. (Brake mount resolved 26 Sep: flat mount.)
 
 ---
 
@@ -240,9 +249,9 @@ Ti vs steel for the main frame makes little difference you can feel on a small-w
 
 ## 8. Before deciding
 
-1. **Ask Chris Yeo the complete-bike price** (S$2,900 or S$3,200) and whether it can come with the **Ti stem** instead of carbon. This decides T20-A vs T20-B.
+1. ~~Complete-bike price~~ confirmed S$3,200 (7 Oct). **Still ask Chris Yeo** the complete-bike price with the **Ti stem**, and whether S$5,800 full Ti is a complete bike or frameset.
 2. **Ask what wheels and tyres come on the complete bike**, and the stock fork's weight. Both affect T20-A's resale and weight.
-3. **Get the fork credit** for T20-B.
+3. **Check the T Line-design stock fork**: front axle, brake mount, steerer/headset pattern, weight. Decides whether either T20 build needs the Silverock.
 4. **For T20-A and the G Line:** check Carousell prices for a used 105 groupset and stripped G Line parts to firm up the resale estimates.
 5. **Either way:** start collecting the shared parts (section 3) used now. They fit every build.
 

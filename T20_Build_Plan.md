@@ -78,7 +78,7 @@
 |---|---|---|---|---|
 | 1 ⭐ | SilverRock | Carbon, 388g incl. thru-axle | Bought separately, **S$659 new** (Carousell SG, 16B_CYCLE) | Takes the fork out of the Chris Yeo quote to bring the frameset price down |
 | 2 | Stock HEXATI | Titanium | Chris Yeo | Fallback if the SilverRock doesn't work out |
-| 3 | Stock HEXATI | Carbon | Chris Yeo | The fork bundled into the S$2,900 price |
+| 3 | Stock HEXATI | Carbon, **T Line design** | Chris Yeo | Bundled in the S$2,960 frameset and the S$3,200 complete bike. Check axle, brake mount and headset pattern |
 
 *AceOfix carbon was the other separately-sourced fork considered.*
 *Other G Line forks now tracked: **Titanium-DX carbon, 290g published** (eBay) — vs the SilverRock's **388g incl. thru-axle** (published, 24 Sep); and **EasyTi titanium, ~290g ±8g claimed** (unverified).*
@@ -86,7 +86,10 @@
 
 **Chris Yeo itemized frameset pricing (reference):**
 - Ti frame+triangle + carbon stem + carbon fork: S$2,400
-- ✅ Ti frame+triangle + Ti stem + carbon fork: S$2,900 ← chosen spec, less the fork credit for omitting it (amount TBC)
+- ✅ Ti frame+triangle + Ti stem + carbon fork: **S$2,960** ← chosen spec (confirmed 7 Oct; earlier S$2,900 was wrong)
+- Full Ti spec, Ti stem + Ti fork: S$5,800 (⏳ complete bike or frameset?)
+- Complete bike, standard Shimano 105: S$3,200 (confirmed 7 Oct); with Ti stem: ⏳ unknown
+- ⚠️ The stock carbon fork is a **T Line design**, not G Line
 - Ti seatpost add-on: S$100
 - (The 3D-printed Ti fork was set aside over print quality — revisit before falling back to option 2)
 
@@ -510,7 +513,8 @@ Headline candidates, biggest saving first:
 
 ## 7. Open Decisions / Next Steps
 
-- [ ] Confirm the fork credit from Chris Yeo for omitting it, then order the SilverRock (**S$659 new**, 26 Sep). Only worth it if the credit is near S$659 or the HEXATI carbon fork is much heavier
+- [ ] Check the stock HEXATI carbon fork (**T Line design**, bundled at S$2,960): 100×12 axle? flat mount? G Line headset pattern? weight? Only order the SilverRock (**S$659 new**) if it fails one of these or is much heavier than 388g
+- [ ] Ask Chris Yeo: complete bike (S$3,200) price with Ti stem; is the S$5,800 full Ti (Ti stem + Ti fork) a complete bike or frameset?
 - [ ] Rank and choose headset; confirm 1-1/8" x 34mm threaded pattern with Chris Yeo
 - [x] Rank Bottom Bracket (24 Sep): BBInfinite Ceramitech 80g. Extralite only if Chris Yeo/Extralite confirm the M30 fit
 - [ ] **Confirm axle standard with Chris Yeo (142×12 thru-axle vs 135mm QR) — this blocks the wheelset hub decision**, and also decides whether MiniMODs Ti skewers/axles are usable at all

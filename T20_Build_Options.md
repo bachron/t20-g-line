@@ -496,14 +496,14 @@ Spec: Ti main frame w/ 3D-printed hinge; Ti rear fork w/ 3D-printed dropout, **1
 |---|---|---|---|---|
 | 1 ✅ | **SilverRock** `[8.3kg ref]` | Carbon, **388g incl. 100×12 thru-axle** (fork alone ~365g) | Bought separately. **S$659 brand new** (Carousell SG, seller 16B_CYCLE, fixed price, seen 26 Sep 2026; listing says 388g vs stock G Line fork 753g) | Chosen — omitted from the Chris Yeo bundle to bring the frameset price down. **The 8.3kg build uses the same brand** (Mini Bro carbon), a good independent endorsement |
 | 2 | **Stock HEXATI** | Titanium | Chris Yeo | Fallback if the SilverRock doesn't work out |
-| 3 | **Stock HEXATI** | Carbon | Chris Yeo | The fork included in the S$2,900 bundle |
+| 3 | **Stock HEXATI** | Carbon, **T Line design** | Chris Yeo | Included in the S$2,960 frameset and the S$3,200 complete bike (confirmed 7 Oct). ⚠️ T Line design, not G Line: check axle, brake mount, headset pattern |
 | — | **AceOfix** | Carbon | Bought separately | The other separately-sourced fork considered |
 | — | **Titanium-DX carbon fork (G Line)** | Carbon, **290g** | eBay | Newly tracked. Published weight — the SilverRock is ~75-100g heavier (365g fork / 388g with axle) |
 | — | 🆕 **TiAtom carbon fork (G Line)** — seller **TiSpace2011** (eBay) | Carbon, **~388g** (stock G Line fork 753g) | eBay, **US$550 new** (~S$715 + shipping). Colours incl. orange, grey, white | Saved seller (6 Oct 2026): TiSpace2011, 28 feedback, 100% positive, **3-year warranty**. Listing says "1:1 re-engrave G Line/T Line". **Same 388g as the SilverRock**, so likely the same OEM fork; the SilverRock is cheaper locally (S$659, no shipping). Axle/steerer spec not stated |
 | — | **EasyTi Ti fork (G Line)** | Titanium, ~290g ±8g claimed | eBay | ⚠️ Claim unverified |
 | — | **HEXATI T20 Elite front fork** | Full Ti, 3D-printed ex steerer, 100×12mm thru-axle, **439g** (HEXATI press release) | Chris Yeo | The fork in the complete-bike spec |
 
-*Fork credit from Chris Yeo for deleting it from the bundle is still TBC. **The Silverock costs S$659 new**, so dropping the bundled HEXATI carbon fork only pays off if the credit is close to that, or if the HEXATI fork is much heavier than 388g. Ask Chris Yeo for the HEXATI carbon fork's weight and the credit amount.*
+*Chris Yeo pricing (7 Oct): the carbon fork is included in the S$2,960 frameset; no fork credit has been quoted. **The Silverock costs S$659 new**, so it's only worth buying if the bundled fork (a **T Line design**) doesn't take the 100×12 G Line wheel, flat-mount brake or G Line headset, or is much heavier than 388g. Full Ti (Ti stem + Ti fork) is S$5,800.*
 
 *Stock Brompton G Line fork: **753g** (per the Silverock listing). The Silverock saves ~365g over it.*
 
@@ -514,7 +514,7 @@ Spec: Ti main frame w/ 3D-printed hinge; Ti rear fork w/ 3D-printed dropout, **1
 | ✅ **Stock HEXATI** `[8.3kg ref match]` | Titanium | Chosen — required for correct G Line geometry so the Thule Yepp Mini front child seat mount fits. **The 8.3kg build also runs a titanium stem** |
 | **Stock HEXATI** | Carbon | Does not conform to G Line spec — the Yepp Mini mount won't fit |
 
-*Frameset pricing: Ti stem takes the Chris Yeo bundle from S$2,400 to S$2,900.*
+*Frameset pricing (confirmed 7 Oct): Ti stem takes the Chris Yeo bundle from S$2,400 to **S$2,960** (+S$560). Complete bike S$3,200 comes with a carbon stem; price with Ti stem unknown.*
 
 ## Shifter / Rear Derailleur — **11 and 12 speed both open**
 
