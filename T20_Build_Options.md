@@ -800,8 +800,8 @@ The rest of this table is built for the classic Brompton rear frame and Brompton
 |---|---|---|---|---|
 | ⭐ **Ti Parts Workshop G Line Dropout Hanger** (142×12 thru-axle, GRP-22B pattern) | **54g / set** | **$62** | ✅ **This IS the TPW hanger already in every build** (TPW = Ti Parts Workshop) | Also a 135mm QR version (GRP-21B). Lets the G Line take standard wheels and external derailleurs |
 | **H&H G Line external gear set** | — | **$302** | ✅ | ⚠️ Snippet calls it **7-speed**, while H&H's own page and Bikegang say **8-speed 11-34T**. Probably the same set (official 8sp spec 187g: 78g + 109g); confirm with a screenshot |
-| **H&H G Line Seatpost Clamp** | **~46g** | $104 | ⚠️ Only if the T20 seat clamp is G Line pattern | AL6061 + Ti6Al4V |
-| **H&H G Line Hinge Clamp** (alloy, pair) | — | — | ⚠️ T20 hinge pattern unconfirmed | Stops the clamp plates rotating |
+| **H&H G Line Seatpost Clamp** | **~46g** | $104 | ✅ Fits: T20 seat clamp copies the G Line (7 Oct) | AL6061 + Ti6Al4V |
+| **H&H G Line Hinge Clamp** (alloy, pair) | — | — | ✅ Fits: T20 hinge clamps copy the G Line (7 Oct) | Stops the clamp plates rotating |
 | **H&H Hinge Clamp Titanium for G Line** | — (A/C/P Ti version is 71g/set, T Line ~75g) | **$135** | ⚠️ As above | |
 | **H&H G Line stem catcher knob** | — | — | ⚠️ | Narrows the folded width |
 | **Ti Parts Workshop G Line Stem Knob** | — | **$23 Ti** / $16 alloy | ⚠️ | |
@@ -820,7 +820,7 @@ The rest of this table is built for the classic Brompton rear frame and Brompton
 **Takeaways for the build:**
 - **Ti Parts Workshop (TPW) hanger:** same part as the build's GRP-22B. Brompton Kitchen lists it at $62, vs S$79 on Carousell SG and US$100 at Brombacher.
 - **H&H carbon seatposts (600mm 287g)**: ⚠️ **ruled out for you.** Carbon posts are excluded because of the Thule Yepp Nexxt 2 Maxi seatpost clamp (see § Seatpost).
-- **H&H G Line seatpost clamp (46g)** and the Ti hinge clamps only help if the T20 copies those G Line parts exactly. Ask Chris Yeo.
+- **H&H G Line seatpost clamp (46g)** and the Ti hinge clamps: ✅ **fit the T20** (confirmed 7 Oct: T20 hinge and seat clamps copy the G Line, so aftermarket G Line parts fit).
 
 *Sources (7 Oct 2026): [Brompton Kitchen G Line collection](https://bromptonkitchen.com/en-us/collections/g-line-accessories), [Ti Parts Workshop G Line Dropout Hanger](https://bromptonkitchen.com/en-us/products/ti-parts-workshop-g-line-dropout-hanger), [Shifting Parts](https://bromptonkitchen.com/en-us/collections/speed-upgrade), [H&H G Line Seatpost Clamp](https://bromptonkitchen.com/en-us/products/h-h-g-line-seatpost-clamp), [H&H G Line Hinge Clamp](https://bromptonkitchen.com/en-us/products/h-h-g-line-hinge-clamp), [H&H G Line stem catcher knob](https://bromptonkitchen.com/en-us/products/h-h-g-line-stem-catcher-knob), [H&H G Line stem cap Garmin](https://bromptonkitchen.com/en-us/products/h-h-g-line-stem-cap-with-garmin-mount), [Ti Parts Workshop G Line](https://bromptonkitchen.com/en-us/collections/g-line-accessories/ti-parts-workshop), [G Line seatposts](https://bromptonkitchen.com/en-us/collections/g-line-accessories/seatpost), [H&H Seatpost Carbon 600mm](https://bromptonkitchen.com/en-us/products/h-h-seatpost-carbon-600mm), [H&H Seatpost Titanium](https://bromptonkitchen.com/en-us/products/h-h-seatpost-titanium-v3), [BROMPfication Ti 520mm](https://bromptonkitchen.com/en-us/products/brompfication-titanium-seatpost), [MiniMODs G Line extender](https://bromptonkitchen.com/en-us/products/minimods-easy-wheel-extender-for-g-line), [G Line pedals](https://bromptonkitchen.com/en-us/collections/g-line-accessories/pedal). H&H G Line derailleur spec: hh-designstudio.tw (user screenshot, 6 Oct 2026).*
 
@@ -1002,7 +1002,7 @@ Danish Brompton upgrade brand (brompfication.com). Titanium and alloy parts, **b
 | **Titanium Seatpost** (integrated clamp), 520 / 580mm | **310g / 330-345g** all included | ~US$240 (~S$312) | ✅ **Candidate.** 31.8mm fits. Take the **580mm**: G Line posts are 540/600mm. See § Seatpost |
 | **Titanium Seatpost, Pentaclip version**, 535mm | ~260g + Pentaclip 92-108g | ~US$151-240 (~S$196-312) | ✅ Fits, but ~352-368g with its clamp. The integrated version is better |
 | **QR Platform Pedals** (magnesium, Ti coupling) | **175g/pair** (155g version announced) | ~US$142; S$120 used SG | ✅ **Strong candidate.** Lightest QR platform tracked, 40g under H&H Ti. See § Pedals |
-| **Seat Clamp Quick Release** (frame seatpost clamp) | **21g** (brass version 38g), saves 34g vs Brompton | ~US$58 | ⏳ **Classic-Brompton clamp.** The G Line uses its own seatpost clamp (H&H sells a separate G Line one). Only if the T20's clamp matches the classic pattern. Ask Chris Yeo |
+| **Seat Clamp Quick Release** (frame seatpost clamp) | **21g** (brass version 38g), saves 34g vs Brompton | ~US$58 | ⏳ **Classic-Brompton clamp.** The G Line uses its own seatpost clamp (H&H sells a separate G Line one). ❌ T20 copies the **G Line** clamp (7 Oct), so this classic-pattern clamp doesn't apply; use the H&H G Line clamp |
 | **Hinge Clamp Set** (Ti/alloy, 2 plates + 2 lever bolts) | **88g/set**, 20g under stock | ~US$80-98 | ⏳ **Listed for A/C/P Line.** TPW sells separate G Line hinge levers, which suggests the G Line hinge is different. Assume ❌ unless confirmed |
 | **Titanium 4 Bolt Set** (stem, bar catch, bar, suspension block) | 37g, saves 29g | — | ❌ Classic Brompton stem and suspension-block bolts. Your stem is HEXATI's own |
 | **Titanium S-type Handlebar** | 145g | — | ❌ 25.4mm clamp, and you've decided on carbon |
@@ -1568,7 +1568,7 @@ Unlike the rack/headset/brake questions above, this one isn't a T20-fitment gues
 | Part | Model (current pick / leading option) | Low | High | Source / note |
 |---|---|---|---|---|
 | Main frame | COMEPLAY/HEXATI Ti G Line | 1,351 | 1,351 | tibicycles / HEXATI press release |
-| Rear triangle | HEXATI Ti, 3D-printed dropout | 633 | 633 | HEXATI press release (633g) |
+| Rear triangle | HEXATI Ti thru-axle, 3D-printed dropout | 576 | 576 | Chris Yeo version confirmed 7 Oct (576g, Fantastic4Toys listing). Was 633g (older HEXATI press release) |
 | Fork | Silverock carbon, **incl. 100×12 thru-axle** | 388 | 388 | 🆕 Fantastic4Toys: 388g with axle; eBay: 365g fork / 393g with axle (±10g) |
 | Stem | HEXATI Ti folding (S/M) | 450 | 560 | ⚠️ **Estimate.** No published weight found; range is COMEPLAY Ti A/C/P stems (M 450g, S 560g). Ask Chris Yeo |
 | Headset | WOOdman Axis BPT | 105 | 105 | Published |
@@ -1593,7 +1593,7 @@ Unlike the rack/headset/brake questions above, this one isn't a T20-fitment gues
 | Saddle | undecided (Lupina padded → SLR Boost) | 95 | 129 | Tioga Spyder Stratum 124g sits in this range |
 | Rack | TPW Ti G Line | 328 | 328 | |
 | Dropout hanger | TPW **GRP-22B (142×12 thru-axle)** | 54 | 54 | Corrected from GRP-21B (135mm QR): the 100/142 thru-axle dropout decision needs the 22B |
-| **Running total (tracked parts)** | | **7,883g** | **8,332g** | |
+| **Running total (tracked parts)** | | **7,826g** | **8,275g** | |
 
 **Not yet in the total (no weight tracked):** inner tubes ×2, rear 142×12 thru-axle (SMC doesn't include one; TPW recommends M12×1.5 160mm), brake/shift cables and housing, seatpost clamp, hinge clamps/levers, rear locking block, easy wheels, E-hook, kickstand, lights, mudguards, bar tape/bolts.
 
@@ -1669,7 +1669,7 @@ This is a separate, cheaper part from the frame-order dropout decision above: th
 
 **Thru-axle pick (1 Oct 2026): HEXATI Ti G Line set, 97g front + rear, from US$58.** Made for the G Line, so it avoids guessing thread and length. Fallback: a generic Ti M12×1.5 ~160mm rear (~42g).
 
-🆕 *Side finding:* a newer **HEXATI Ti thru-axle rear triangle** is listed at **576g** (Fantastic4Toys), lighter than the 633g tracked. Ask Chris Yeo which version the T20 ships with.
+🆕 *Side finding:* a newer **HEXATI Ti thru-axle rear triangle** is listed at **576g** (Fantastic4Toys). ✅ **Confirmed 7 Oct: count the T20 rear triangle as 576g.**
 
 ⏳ None of these are confirmed at the exact 160mm length the GRP-22B hanger recommends — chase this down once the dropout/hanger order is placed, since axle length varies by frame and can't be guessed.
 
@@ -1798,7 +1798,7 @@ Everything here is **tracked, not being purchased now**. "?" means the part you 
 | **Grips** | Ergon GP2 Evo 230g | ESI silicone foam ~50-60g | **~175g** | Budget |
 | **Saddle** | (undecided) | Berk Lupina 75-79g carbon | ~180g vs Brooks C13 | €319-395 |
 | **Seatpost** | WOOdman GT2 (**? g**) | TPW Titanium 284g / H&H Ti v3 311g | **?** — alloy rivals are 400-482g | ~S$257-380 |
-| **Rear triangle** | HEXATI Ti (**? g**) | tibicycles Ultra-Light Ti 633.5g | **?** | US$830-1,360 |
+| **Rear triangle** | HEXATI Ti (**576g**, confirmed 7 Oct) | tibicycles Ultra-Light Ti 633.5g | none: HEXATI is already lighter | US$830-1,360 |
 | **Handlebar** | **Carbon** (model undecided) | Schmolke TLO 65-105g / Darimo 79-98g / Ridea HS3C 90g | — | €159-375 |
 | **Rotors** | (undecided) | Ti-Parts carbon 77.3g / Carbon-Ti 86g | ~small vs steel | — |
 | **Crank** | Praxis Doon 335-342g | THM Clavicula M3 293-302g | **~40g** | ~€641+ |

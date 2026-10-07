@@ -31,7 +31,7 @@
 
 | | **T20-A: complete bike** | **T20-B: frame only** | **G1: G Line + tibicycles Ti triangle** | **G2: G Line + Titanium-DX set** |
 |---|---|---|---|---|
-| **Weight** (no child seats, lights or mudguards) | **~8.6-9.0 kg** (stock fork weight unknown) | **~8.5-9.0 kg** | ~9.5-9.9 kg | ~9.6-10.0 kg |
+| **Weight** (no child seats, lights or mudguards) | **~8.5-9.0 kg** (stock fork weight unknown) | **~8.5-8.9 kg** | ~9.5-9.9 kg | ~9.6-10.0 kg |
 | **Net cost, used parts where allowed** | **~S$5,900-7,300** | ~S$6,900-7,700 (stock fork) / ~S$7,300-8,200 (+ Silverock) | ~S$6,800-9,500 | ~S$5,900-7,800 |
 | Cash out before reselling stock parts | ~S$7,400-8,100 | same as net | ~S$8,400-10,300 | ~S$7,400-8,600 |
 | **Comfort** | Same contact points | Same | Same | Same |
@@ -127,7 +127,7 @@ G Line layout (Brompton's own spec): **70mm roller wheels on the frame** (and fr
 
 | Part | Keep or replace | Weight (g) | Cost (S$) | Note |
 |---|---|---|---|---|
-| Main frame + rear triangle | **Keep** | 1,351 + 633 | in bike price | |
+| Main frame + rear triangle | **Keep** | 1,351 + 576 | in bike price | |
 | Frame hardware + headset | **Keep** | ~250-350 + stock headset | in bike price | Saves ~S$300-450 hardware and the S$85-155 WOOdman headset |
 | Fork (HEXATI carbon, **T Line design**) | **Keep** if it fits | ⏳ not published | in bike price | Saves buying the Silverock (S$659 new). ⚠️ Check axle, brake mount and headset pattern first (see top) |
 | Hanger | **Replace** with TPW GRP-22B | 54 | **79** | For the external-derailleur conversion (your call, 26 Sep: every build gets it). S$79 new, ready stock SG |
@@ -138,7 +138,7 @@ G Line layout (Brompton's own spec): **70mm roller wheels on the frame** (and fr
 | Resale: 105 groupset, 3DO crank, cassette, carbon stem/bar/seatpost, wheels, tyres | Sell | — | **−800 to −1,500 ★** | New, unused parts should sell better than used ones |
 | **Bike price** | | — | **3,200** | Confirmed 7 Oct |
 | **+ Rolling and fold kit** (§3b) | Add | ~313 | 349 | Replaces the stock rollers |
-| **T20-A total** | | **~8,567-9,027** | **~5,891-7,294** | +S$659 if the stock fork must be replaced |
+| **T20-A total** | | **~8,510-8,970** | **~5,891-7,294** | +S$659 if the stock fork must be replaced |
 
 **Pros**
 - Cheapest T20 route if the stock parts sell. The frame hardware, headset, fork, hanger and thru-axle all come with it.
@@ -158,17 +158,17 @@ G Line layout (Brompton's own spec): **70mm roller wheels on the frame** (and fr
 | Part | Pick | Weight (g) | New (S$) | Used-mix (S$) | Note |
 |---|---|---|---|---|---|
 | Main frame | HEXATI Ti G Line | 1,351 | ⬇ in frameset | | |
-| Rear triangle | HEXATI Ti, 142×12 | 633 | ⬇ in frameset | | |
+| Rear triangle | HEXATI Ti, 142×12 | **576** (Chris Yeo version, 7 Oct) | ⬇ in frameset | | |
 | Stem | HEXATI Ti | 450-560 | ⬇ in frameset | | Weight unpublished; budget range |
 | **Frameset** | Chris Yeo bundle: Ti frame + triangle + Ti stem + carbon fork | — | **2,960** | **2,960** | New only. Confirmed 7 Oct |
 | Fork | Stock HEXATI carbon (**T Line design**), in frameset; **or** Silverock carbon, 100×12 | ⏳ / 388 | 0 / **659** | 0 / 362-461 | Silverock only if the stock fork doesn't fit (axle, brake mount, headset). Weights below use the Silverock |
 | Dropout hanger | TPW GRP-22B, 142×12 | 54 | **79** | 79 | Ready stock SG, S$79 new (Carousell) |
 | Rear thru-axle | M12×1.5, 160mm | ~40 ★ | 50 ★ | 50 | Not included with SMC wheels |
-| Frame hardware | Seatpost clamp, hinge clamps/levers, rear block, E-hook (roller wheels now in §3b) | 200-300 ★ | 250-400 ★ | 170-270 | Needed because the frame comes **unassembled** |
+| Frame hardware | Seatpost clamp, hinge clamps/levers, rear block, E-hook (roller wheels now in §3b) | 200-300 ★ | 250-400 ★ | 170-270 | Needed because the frame comes **unassembled**. T20 hinge and seat clamps copy the G Line (7 Oct), so aftermarket G Line parts fit (e.g. H&H G Line seatpost clamp 46g) |
 | **+ Rolling and fold kit** | §3b | ~313 | 349 | 349 | MiniMODs + roller wheels |
 | **+ Shared parts** | | 5,329-5,571 | 5,468 | 3,254-3,990 | |
-| **T20-B total, stock fork** | | 8,160-8,572 + stock fork | **9,157-9,307** | **6,896-7,722** | |
-| **T20-B total, + Silverock** | | **8,548-8,960** | **9,816-9,966** | **7,258-8,183** | |
+| **T20-B total, stock fork** | | 8,103-8,515 + stock fork | **9,157-9,307** | **6,896-7,722** | |
+| **T20-B total, + Silverock** | | **8,491-8,903** | **9,816-9,966** | **7,258-8,183** | |
 
 **Pros**
 - Lightest build, with nothing to sell afterwards.
