@@ -56,7 +56,7 @@
 | | Stock Brompton G Line steel (baseline) | 2,290g | — |
 | | Titanium-DX 3D-printed frameset | — | eBay |
 | | EasyTi frame sets | — | ~US$150-850 (eBay only) |
-| **Rear triangle** | ⭐ tibicycles Ultra-Light Ti (G Line), **142mm thru-axle** | **633.5g** (G Line builds; the T20's own HEXATI triangle counts as **576g**, confirmed 7 Oct) | US$830-1,360 |
+| **Rear triangle** | ⭐ tibicycles Ultra-Light Ti (G Line), **142mm thru-axle** | **633.5g** (G Line builds; the T20's own HEXATI triangle counts as **633g**, confirmed 7 Oct) | US$830-1,360 |
 | | EasyTi 2025 G Line Ti — ⚠️ claim unverified | ~430g claimed | ~US$150-850 |
 | | Titanium-DX Ti (G Line) | ~800g | US$399 as carbon-fork + Ti-triangle set |
 | | Stock Brompton G Line steel (baseline) | 1,240g | — |
@@ -500,7 +500,7 @@ Headline candidates, biggest saving first:
 | Grips | ESI foam ~50-60g | ~175g vs Ergon GP2 Evo |
 | Saddle | Berk Lupina 75-79g | ~180g vs Brooks C13 |
 | Seatpost | TPW Ti 284g | ? |
-| Rear triangle | tibicycles Ti 633.5g | HEXATI 576g on T20 (7 Oct) |
+| Rear triangle | tibicycles Ti 633.5g | HEXATI 633g on T20 (7 Oct) |
 | Crank | THM Clavicula M3 293-302g | ~40g |
 
 ⚠️ **This list is ranked by grams saved, which pushes expensive exotica to the top. That ordering is not a recommendation.** Cost-per-gram varies enormously — ESI foam grips save ~175g for budget money, while THM Clavicula saves ~40g for ~S$943+ (**~S$23/g**, on a crank where your Doon is already second-lightest in the world). See the **Value tiers** section in `T20_Build_Options.md`.
@@ -515,7 +515,7 @@ Headline candidates, biggest saving first:
 
 - [ ] Check the stock HEXATI carbon fork (**T Line design**, bundled at S$2,960): 100×12 axle? flat mount? G Line headset pattern? weight? Only order the SilverRock (**S$659 new**) if it fails one of these or is much heavier than 388g
 - [x] T20 hinge clamps and seat clamp copy the G Line (7 Oct): aftermarket G Line parts fit (H&H G Line seatpost clamp 46g, Ti hinge clamps)
-- [x] T20 rear triangle: count as 576g (7 Oct)
+- [x] T20 rear triangle: count as 633g (7 Oct; not the 576g listing)
 - [ ] Ask Chris Yeo: complete bike (S$3,200) price with Ti stem; is the S$5,800 full Ti (Ti stem + Ti fork) a complete bike or frameset?
 - [ ] Rank and choose headset; confirm 1-1/8" x 34mm threaded pattern with Chris Yeo
 - [x] Rank Bottom Bracket (24 Sep): BBInfinite Ceramitech 80g. Extralite only if Chris Yeo/Extralite confirm the M30 fit

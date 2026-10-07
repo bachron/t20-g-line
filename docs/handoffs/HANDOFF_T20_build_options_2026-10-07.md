@@ -49,7 +49,7 @@ None.
 
 ## Not yet done (priority order)
 
-1. **Ask Chris Yeo**: ~~complete-bike price~~ (answered 7 Oct: complete bike S$3,200 with 105; frameset + Ti stem + carbon fork S$2,960; + carbon stem S$2,400; full Ti stem + fork S$5,800; stock fork is T Line design — check fit); Ti stem with complete bike; HEXATI seatpost wall/clamp; ~~hinge/seat clamps~~ (answered 7 Oct: copy G Line, aftermarket fits); ~~rear triangle~~ (answered 7 Oct: 576g).
+1. **Ask Chris Yeo**: ~~complete-bike price~~ (answered 7 Oct: complete bike S$3,200 with 105; frameset + Ti stem + carbon fork S$2,960; + carbon stem S$2,400; full Ti stem + fork S$5,800; stock fork is T Line design — check fit); Ti stem with complete bike; HEXATI seatpost wall/clamp; ~~hinge/seat clamps~~ (answered 7 Oct: copy G Line, aftermarket fits); ~~rear triangle~~ (answered 7 Oct: 633g).
 2. **SUNCORD 930g wheelset**: confirm thru-axle/142 adapter and HG freehub with KaiCycle.
 3. **Hubsmith Bumbee A406**: ask 16B Cycle for weight and stock.
 4. H&H G Line 8sp kit: which 8sp shifter it's indexed for.

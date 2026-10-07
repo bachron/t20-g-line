@@ -1568,7 +1568,7 @@ Unlike the rack/headset/brake questions above, this one isn't a T20-fitment gues
 | Part | Model (current pick / leading option) | Low | High | Source / note |
 |---|---|---|---|---|
 | Main frame | COMEPLAY/HEXATI Ti G Line | 1,351 | 1,351 | tibicycles / HEXATI press release |
-| Rear triangle | HEXATI Ti thru-axle, 3D-printed dropout | 576 | 576 | Chris Yeo version confirmed 7 Oct (576g, Fantastic4Toys listing). Was 633g (older HEXATI press release) |
+| Rear triangle | HEXATI Ti, 3D-printed dropout | 633 | 633 | HEXATI press release (633g). Confirmed 7 Oct: count as 633g, not the 576g listing |
 | Fork | Silverock carbon, **incl. 100×12 thru-axle** | 388 | 388 | 🆕 Fantastic4Toys: 388g with axle; eBay: 365g fork / 393g with axle (±10g) |
 | Stem | HEXATI Ti folding (S/M) | 450 | 560 | ⚠️ **Estimate.** No published weight found; range is COMEPLAY Ti A/C/P stems (M 450g, S 560g). Ask Chris Yeo |
 | Headset | WOOdman Axis BPT | 105 | 105 | Published |
@@ -1593,7 +1593,7 @@ Unlike the rack/headset/brake questions above, this one isn't a T20-fitment gues
 | Saddle | undecided (Lupina padded → SLR Boost) | 95 | 129 | Tioga Spyder Stratum 124g sits in this range |
 | Rack | TPW Ti G Line | 328 | 328 | |
 | Dropout hanger | TPW **GRP-22B (142×12 thru-axle)** | 54 | 54 | Corrected from GRP-21B (135mm QR): the 100/142 thru-axle dropout decision needs the 22B |
-| **Running total (tracked parts)** | | **7,826g** | **8,275g** | |
+| **Running total (tracked parts)** | | **7,883g** | **8,332g** | |
 
 **Not yet in the total (no weight tracked):** inner tubes ×2, rear 142×12 thru-axle (SMC doesn't include one; TPW recommends M12×1.5 160mm), brake/shift cables and housing, seatpost clamp, hinge clamps/levers, rear locking block, easy wheels, E-hook, kickstand, lights, mudguards, bar tape/bolts.
 
@@ -1669,7 +1669,7 @@ This is a separate, cheaper part from the frame-order dropout decision above: th
 
 **Thru-axle pick (1 Oct 2026): HEXATI Ti G Line set, 97g front + rear, from US$58.** Made for the G Line, so it avoids guessing thread and length. Fallback: a generic Ti M12×1.5 ~160mm rear (~42g).
 
-🆕 *Side finding:* a newer **HEXATI Ti thru-axle rear triangle** is listed at **576g** (Fantastic4Toys). ✅ **Confirmed 7 Oct: count the T20 rear triangle as 576g.**
+🆕 *Side finding:* a newer **HEXATI Ti thru-axle rear triangle** is listed at **576g** (Fantastic4Toys). ✅ **Confirmed 7 Oct: count the T20 rear triangle as 633g** (the 576g version is not the one used).
 
 ⏳ None of these are confirmed at the exact 160mm length the GRP-22B hanger recommends — chase this down once the dropout/hanger order is placed, since axle length varies by frame and can't be guessed.
 
@@ -1798,7 +1798,7 @@ Everything here is **tracked, not being purchased now**. "?" means the part you 
 | **Grips** | Ergon GP2 Evo 230g | ESI silicone foam ~50-60g | **~175g** | Budget |
 | **Saddle** | (undecided) | Berk Lupina 75-79g carbon | ~180g vs Brooks C13 | €319-395 |
 | **Seatpost** | WOOdman GT2 (**? g**) | TPW Titanium 284g / H&H Ti v3 311g | **?** — alloy rivals are 400-482g | ~S$257-380 |
-| **Rear triangle** | HEXATI Ti (**576g**, confirmed 7 Oct) | tibicycles Ultra-Light Ti 633.5g | none: HEXATI is already lighter | US$830-1,360 |
+| **Rear triangle** | HEXATI Ti (**633g**, confirmed 7 Oct) | tibicycles Ultra-Light Ti 633.5g | none: same weight | US$830-1,360 |
 | **Handlebar** | **Carbon** (model undecided) | Schmolke TLO 65-105g / Darimo 79-98g / Ridea HS3C 90g | — | €159-375 |
 | **Rotors** | (undecided) | Ti-Parts carbon 77.3g / Carbon-Ti 86g | ~small vs steel | — |
 | **Crank** | Praxis Doon 335-342g | THM Clavicula M3 293-302g | **~40g** | ~€641+ |
